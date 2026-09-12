@@ -1,0 +1,180 @@
+{
+  "drug_name": "Guanidine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "9548197",
+      "title": "Decreased myocardial accumulation of 123I-meta-iodobenzyl guanidine in Parkinson's disease.",
+      "journal": "Nuclear medicine communications",
+      "year": "1998",
+      "abstract": "The aim of this study was to evaluate 123I-meta-iodobenzyl guanidine (123I-MIBG) myocardial scintigraphy in patients with Parkinson's disease as a way of detecting cardiac sympathetic dysfunction, and comparing the stage of disease and intensity of drug treatment with accumulation of 123I-MIBG. 123I-MIBG myocardial scintigraphy was performed in 48 patients with Parkinson's disease and 25 control subjects. In the planar imaging studies, the data acquisition matrix was 256 x 256 and the preset time was 5 min. The heart-to-mediastinum (H/M) average count ratio was calculated for both early (15 min) and delayed (3-4 h) images after 123I-MIBG injection (111 MBq). The mean H/M ratio in patients with Parkinson's disease was significantly lower than that in the controls (P < 0.0001). Regardless of disease severity, intensity of anti-Parkinson treatment and the presence or absence of orthostatic hypotension, the mean H/M ratios were always low in the Parkinsonian patients. Parkinson's disease may result in a severe abnormality of cardiac sympathetic function which has not been detected by previous cardiovascular autonomic studies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/9548197/"
+    },
+    {
+      "pmid": "40430552",
+      "title": "5'-Guanidino Xylofuranosyl Nucleosides as Novel Types of 5'-Functionalized Nucleosides with Biological Potential.",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "year": "2025",
+      "abstract": "<b>Background/Objectives:</b> While various nucleoside and nucleotide analogs have been approved as anticancer and antiviral drugs, their limitations, including low bioavailability and chemotherapeutic resistance, encourage the development of novel structures. In this context, and motivated by our previous findings on bioactive 3'-<i>O</i>-substituted xylofuranosyl nucleosides and 5-guanidine xylofuranose derivatives, we present herein the synthesis and biological evaluation of 5'-guanidino furanosyl nucleosides comprising 6-chloropurine and uracil moieties and a 3-<i>O</i>-benzyl xylofuranosyl unit. <b>Methods:</b> The synthetic methodology was based on the <i>N-</i>glycosylation of a 5-azido 3-<i>O</i>-benzyl xylofuranosyl acetate donor with the silylated nucleobase and a subsequent one-pot sequential two-step protocol involving Staudinger reduction of the thus-obtained 5-azido uracil and N<sup>7</sup>/N<sup>9</sup>-linked purine nucleosides followed by guanidinylation with <i>N</i>,<i>N</i>'-bis(<i>tert</i>-butoxycarbonyl)-<i>N</i>''-triflylguanidine. The molecules were evaluated for their anticancer and anti-neurodegenerative diseases potential. <b>Results:</b> 5'-Guanidino 6-chloropurine nucleosides revealed dual anticancer and butyrylcholinesterase (BChE)-inhibitory effects. Both N<sup>9</sup>/N<sup>7</sup>-linked nucleosides exhibited mixed-type and selective submicromolar/micromolar BChE inhibiton. The N<sup>9</sup> regioisomer was the best inhibitor (<i>K</i><sub>i</sub>/<i>K</i><sub>i</sub>' = 0.89 \u03bcM/2.96 \u03bcM), while showing low cytotoxicity to FL83B hepatocytes and no cytotoxicity to human neuroblastoma cells (SH-SY5Y). Moreover, the N<sup>9</sup>-linked nucleoside exhibited selective cytotoxicity to prostate cancer cells (DU-145; IC<sub>50</sub> = 27.63 \u03bcM), while its N<sup>7</sup> regioisomer was active against all cancer cells tested [DU-145, IC<sub>50</sub> = 24.48 \u03bcM; colorectal adenocarcinoma (HCT-15, IC<sub>50</sub> = 64.07 \u03bcM); and breast adenocarcinoma (MCF-7, IC<sub>50</sub> = 43.67 \u03bcM)]. In turn, the 5'-guanidino uracil nucleoside displayed selective cytotoxicity to HCT-15 cells (IC<sub>50</sub> = 76.02 \u03bcM) and also showed neuroprotective potential in a Parkinson's disease SH-SY5Y cells' damage model. The active molecules exhibited IC<sub>50</sub> values close to or lower than those of standard drugs, and comparable, or not significant, neuro- and hepatotoxicity. <b>Conclusions</b>: These findings demonstrate the interest of combining guanidine moieties with nucleoside frameworks towards the search for new therapeutic agents.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40430552/"
+    },
+    {
+      "pmid": "35754288",
+      "title": "Progressive Olfactory Impairment and Cardiac Sympathetic Denervation in REM Sleep Behavior Disorder.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2022",
+      "abstract": "Isolated rapid eye movement sleep behavior disorder (iRBD) is prodromal for Parkinson's disease (PD) and dementia with Lewy bodies (DLB). We investigated the use of cardiac [123I]meta-iodo-benzyl-guanidine scintigraphy ([123I]MIBG) and olfactory testing- in comparison to [123I]N-\u03c9-fluoropropyl-2\u03b2-carbomethoxy-3\u03b2-(4-iodophenyl)nortropane single photon emission computed tomography ([123I]FP-CIT-SPECT)- for identifying iRBD patients as prodromal phenotype of PD/DLB. 37 RBD subjects underwent cardiac [123I]MIBG and brain [123I]FP-CIT-SPECT at baseline. Olfactory (Sniffin' Sticks), cognitive and motor functions were tested annually for \u223c4 years. 29/37 (78.4%) subjects had a pathological [123I]MIBG, of whom 86.2% (25/29) presented at least a moderate hyposmia at baseline (threshold/discrimination/identification-(TDI-)score \u226425). 20/37 (54.1%) subjects had a pathological [123I]FP-CIT-SPECT, always combined with a pathological [123I]MIBG. In subjects with pathological [123I]MIBG, olfactory function worsened (mainly due to threshold and discrimination subscores) from baseline to follow-up (p\u200a=\u200a0.005). Olfaction was more impaired in subjects with pathological [123I]MIBG compared to those with normal [123I]MIBG at baseline (p\u200a=\u200a0.001) and follow-up (p\u200a<\u200a0.001). UPDRS-III scores increased in subjects with both pathological [123I]MIBG and [123I]FP-CIT-SPECT. In this group, seven subjects phenoconverted to PD, all- except for one- presented with at least moderate hyposmia at baseline. A combination of the biomarkers \"pathological [123I]MIBG\" and \"hyposmia\" likely identifies iRBD patients in an early prodromal stage of PD/DLB, i.e., before nigrostriatal degeneration is visualized. One-third of the subjects with pathological [123I]MIBG had a normal [123I]FP-CIT-SPECT. Noteworthy, in iRBD subjects with pathological [123I]MIBG, olfactory impairment is progressive independent of the [123I]FP-CIT-SPECT status.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35754288/"
+    },
+    {
+      "pmid": "26794041",
+      "title": "Importance of (123)I-ioflupane SPECT and Myocardial MIBG Scintigraphy to Determine the Candidate of Deep Brain Stimulation for Parkinson's Disease.",
+      "journal": "Neurologia medico-chirurgica",
+      "year": "2016",
+      "abstract": "(123)I-ioflupane SPECT (DaTscan) is an examination that detects presynaptic dopamine neuronal dysfunction, and has been used as a diagnostic tool to identify degenerative parkinsonism. Additionally, myocardial (123)I-metaiodobenzyl guanidine (MIBG) scintigraphy measures the concentration of cardiac sympathetic nerve fibers and is used to diagnose Parkinson's disease (PD). These exams are used as adjuncts in the diagnosis of parkinsonism, however, the relationship of these two examinations are not well-known. We investigated the relationship of these two scanning results specifically for determining the use of deep brain stimulation therapy (DBS). Subjects were Japanese patients with suspected striatonigral degeneration, including PD; DaTscans and myocardial MIBG scintigraphy were performed. The mean values of the left-right specific binding ratios (SBRs) from the DaTscan, and the early/delayed heart-to-mediastinum ratios (HMRs) from the MIBG scintigraphy were calculated. Using simple linear regression analysis, we compared the SBR and early/delayed HMR values. Twenty-four patients were enrolled in this study. Twenty-one patients were positive via the DaTscan, and the MIBG scintigraphy results showed 14 patients were positive. SBR and both early and delayed HMR were positively correlated in cases of PD, but negative in non-PD cases. A mean SBR value less than 3.0 and a delayed HMR value less than 1.7 indicated a Hoehn-Yahr stage 3 or 4 for PD, which is commonly regarded as a level appropriate for initiating DBS therapy. Our results indicate that performing both DaTscan and MIBG scintigraphy is useful for the evaluation of surgical intervention in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26794041/"
+    },
+    {
+      "pmid": "35256483",
+      "title": "Autopsy Validation of the Diagnostic Accuracy of <sup>123</sup>I-Metaiodobenzylguanidine Myocardial Scintigraphy for Lewy Body Disease.",
+      "journal": "Neurology",
+      "year": "2022",
+      "abstract": "<sup>123</sup>I-meta-iodobenzyl-guanidine (<sup>123</sup>I-MIBG) myocardial scintigraphy is used as a diagnostic imaging test to differentiate Lewy body diseases (LBDs), including Parkinson disease and dementia with Lewy bodies, from other similar diseases. However, this imaging test lacks validation of its diagnostic accuracy against the gold standard. Our aim was to validate the diagnostic accuracy of <sup>123</sup>I-MIBG myocardial scintigraphy for LBD against autopsy, the gold standard. This retrospective, cross-sectional study included consecutive autopsy patients from the Brain Bank for Aging Research who had undergone <sup>123</sup>I-MIBG myocardial scintigraphy. We compared the <sup>123</sup>I-MIBG myocardial scintigraphy findings with autopsy findings. Furthermore, the proportion of residual tyrosine hydroxylase (TH)-immunoreactive sympathetic fibers in the anterior wall of the left ventricle was investigated to assess the condition of the cardiac sympathetic nerves assumed to cause reduced <sup>123</sup>I-MIBG uptake in LBDs. We analyzed the data of 56 patients (30 with pathologically confirmed LBDs and 26 without LBD pathology). Compared with the neuropathologic diagnosis, the early heart-to-mediastinum (H/M) ratio had a sensitivity and specificity of 70.0% (95% CI 50.6%-85.3%) and 96.2% (95% CI 80.4%-99.9%), respectively. The delayed H/M ratio had a sensitivity and specificity of 80.0% (95% CI 61.4%-92.3%) and 92.3% (95% CI 74.9%-99.1%), respectively. The washout rate had a sensitivity and specificity of 80.0% (95% CI 61.4%-92.3%) and 84.6% (95% CI 65.1%-95.6%), respectively. The proportion of residual TH-immunoreactive cardiac sympathetic fibers strongly correlated with the amount of cardiac <sup>123</sup>I-MIBG uptake when assessed with early and delayed H/M ratio values (correlation coefficient 0.75 and 0.81, respectively; <i>p</i> < 0.001). This clinicopathologic validation study revealed that <sup>123</sup>I-MIBG myocardial scintigraphy could robustly differentiate LBDs from similar diseases. Abnormal <sup>123</sup>I-MIBG myocardial scintigraphy findings strongly support the presence of LBD and cardiac sympathetic denervation. However, LBD pathology should not necessarily be excluded by normal myocardial scintigraphy results, especially when other biomarkers suggest the presence of comorbid Alzheimer disease pathology. This study provides Class II evidence that <sup>123</sup>I-MIBG myocardial scintigraphy accurately identifies patients with LBD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35256483/"
+    },
+    {
+      "pmid": "28844804",
+      "title": "DAT SPECT may have diagnostic value in prodromal SCA2 patients with parkinsonism.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2017",
+      "abstract": "Although spinocerebellar ataxia type 2 (SCA2) is classified as hereditary spinocerebellar degeneration, some patients present with parkinsonism before developing cerebellar ataxia. <sup>123</sup>I-metaiodobenzyl guanidine (<sup>123</sup>I-MIBG) myocardial scintigraphy and/or dopamine transporter single photon emission computed tomography (DAT SPECT) using <sup>123</sup>I-ioflupane (<sup>123</sup>I-FP-CIT) were performed for the six patients from three SCA2 families. <sup>123</sup>I-MIBG myocardial scintigraphy showed reduced cardiac uptake in four of five patients and an association with Lewy body disease was suggested. DAT SPECT showed decreased uptake in the striatum in all four patients who were scanned, including one patient without parkinsonism. When patterns of uptake were compared to those with Parkinson's disease, most of the patients had minimal reduction of uptake in the putamen. DAT SPECT is expected to be useful in differentiating SCA2 from Parkinson's disease, making an early diagnosis, and allowing early therapeutic intervention.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28844804/"
+    },
+    {
+      "pmid": "26835675",
+      "title": "Catecholamines and Neurodegeneration in Parkinson's Disease-From Diagnostic Marker to Aggregations of \u03b1-Synuclein.",
+      "journal": "Diagnostics (Basel, Switzerland)",
+      "year": "2013",
+      "abstract": "Parkinson's disease is the second most prevalent disease of the brain. It is characterized by midbrain dopaminergic neuronal degeneration accompanied by Lewy bodies, intra-cytoplasmic neuronal inclusions that consist mainly of alpha-synuclein. The cardinal motor features are muscular rigidity, bradykinesia, and resting tremor and, in advanced cases, postural instability. Symptoms are relieved by dopamine replacement therapy, but progress slowly. Clinical diagnosis is made according to medical history, neurological examinations and the response to anti-Parkinsonian drugs. There are no laboratory tests for diagnosis of the disease; however, for development of disease-modifying treatment, early diagnosis by objective laboratory test is required. Recently, postsynaptic sympathetic norepinephrine nerve terminals were found to be degenerated as well as mesencephalic dopaminergic neurons. Cardiac norepinephrine denervation can be seen by meta-iodine-benzyl guanidine scintigraphy, and may be a reliable diagnostic marker. Degeneration of norepinephrinergic and dopaminergic neurons suggests that catecholamines may play a central role in the neurodegeneration in Parkinson's disease. Recently several studies showed that alpha-synuclein aggregates in cells exposed to dopamine. Here, we review findings relating to an early diagnostic marker for detecting degeneration of the peripheral sympathetic nerves, and propose the hypothesis that catecholamines cause alpha-synuclein to aggregate and play an important role in disease pathogenesis.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26835675/"
+    },
+    {
+      "pmid": "21484863",
+      "title": "Rapidly progressive diffuse Lewy body disease.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2011",
+      "abstract": "Lewy body syndromes (mainly Parkinson's disease and dementia with Lewy bodies) share many clinical features and usually have a slowly progressive course. Some patients may show rapid symptoms progression. To evaluate clinical and neuropathological features of patients with a rapidly progressive diffuse Lewy Body disease. Review clinical records and pathological findings of 6 cases with diffuse Lewy Body disease and rapid disease progression (less than 18 months before death). Mean age at disease onset was 72.5 years, and mean disease duration was 9 months. Onset consisted of delirium in 3 patients and rapidly progressive dementia in the other three. All cases presented visual hallucinations and delusions; cognitive symptoms were fluctuating in two, parkinsonism occurred in four, and myoclonus in three. Brain MRI did not show cortical or basal ganglia hyperintensities. Periodic sharp waves were absent on EEG. 14.3.3 protein in CSF was negative. Myocardial (123) I-metaiodo-benzyl-guanidine SPECT showed marked reduction in tracer uptake in the 2 patients tested. Neuropathological studies did not identify any particular feature that could differentiate rapidly progressive diffuse Lewy body disease from classical diffuse Lewy body disease. Diffuse Lewy body disease is a possible cause of rapidly progressive dementia and should be included in the differential diagnosis of confusional states of undetermined cause. In patients with rapidly progressive dementia, the presence of fluctuating cognition, parkinsonism, hallucinations, delusions, or severe dysautonomia, should raise the suspicion of diffuse Lewy body disease. Neuroimaging studies such as (123) I-metaiodo-benzyl-guanidine myocardial scintigraphy may support the clinical diagnosis of diffuse Lewy body disease. \u00a9 2011 Movement Disorder Society.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/21484863/"
+    },
+    {
+      "pmid": "15363036",
+      "title": "Lewy bodies in the sinoatrial nodal ganglion: clinicopathological studies.",
+      "journal": "Pathology international",
+      "year": "2004",
+      "abstract": "Lewy bodies (LB) are characteristic pathological findings for idiopathic Parkinson disease, and extracranial organs have also been known to exhibit these structures. Clinically, the possible involvement of LB in cardiac dysfunction has attracted attention based on the findings of studies using [123I] metaiodobenzyl guanidine (MIBG) scintigraphy. The purpose of the present study was to investigate the possible involvement of LB in heart disease. A total of 40 autopsy cases consisting of Lewy body disease and Parkinson syndrome were examined. The former were cases with intracranial LB regardless of clinical symptoms, and the latter were cases with parkinsonism but without intracranial LB. The presence of heart disease or an atrial arrhythmia and the results of an MIBG scintigraphy study were clinically examined. The sinoatrial node was examined microscopically and immunohistochemically. The results showed that heart disease and atrial arrhythmia complications were more frequent in cases with Lewy body disease than in cases with Parkinson syndrome and that LB were frequently found in extracranial organs, especially in the sinoatrial nodal ganglion, in cases with Lewy body disease. In the current report, we hypothesized that neuronal changes involving LB in the sinoatrial nodal ganglion may cause arrhythmia and ischemic heart disease as a result of vasoconstriction.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15363036/"
+    },
+    {
+      "pmid": "30505656",
+      "title": "Mitochondria-targeting drug conjugates for cytotoxic, anti-oxidizing and sensing purposes: current strategies and future perspectives.",
+      "journal": "Acta pharmaceutica Sinica. B",
+      "year": "2018",
+      "abstract": "Mitochondrial targeting is a promising approach for solving current issues in clinical application of chemotherapy and diagnosis of several disorders. Here, we discuss direct conjugation of mitochondrial-targeting moieties to anticancer drugs, antioxidants and sensor molecules. Among them, the most widely applied mitochondrial targeting moiety is triphenylphosphonium (TPP), which is a delocalized cationic lipid that readily accumulates and penetrates through the mitochondrial membrane due to the highly negative mitochondrial membrane potential. Other moieties, including short peptides, dequalinium, guanidine, rhodamine, and F16, are also known to be promising mitochondrial targeting agents. Direct conjugation of mitochondrial targeting moieties to anticancer drugs, antioxidants and sensors results in increased cytotoxicity, anti-oxidizing activity and sensing activity, respectively, compared with their non-targeting counterparts, especially in drug-resistant cells. Although many mitochondria-targeted anticancer drug conjugates have been investigated <i>in vitro</i> and <i>in vivo</i>, further clinical studies are still needed. On the other hand, several mitochondria-targeting antioxidants have been analyzed in clinical phases I, II and III trials, and one conjugate has been approved for treating eye disease in Russia. There are numerous ongoing studies of mitochondria-targeted sensors.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30505656/"
+    },
+    {
+      "pmid": "10913686",
+      "title": "Pharmacology of [3H]R(+)-7-OH-DPAT binding in the rat caudate-putamen.",
+      "journal": "Neurochemistry international",
+      "year": "2001",
+      "abstract": "Dopamine D3 receptors may be involved in drug addiction and in disorders such as schizophrenia and Parkinson's disease. To determine the pharmacological properties of dopamine D3 receptors in the rat caudate-putamen, we have investigated R(+)-[3H]7-hydroxy-N,N-di-n-propyl-2-aminotetralin ([3H]R(+)-7-OH-DPAT) binding to membrane preparations from the rat caudate-putamen. Kinetic analyses showed that [3H]R(+)-7-OH-DPAT binding reached equilibrium in approximately 1 h and that both association and dissociation curves were composed of at least two components. Likewise, saturation curves showed at least two binding components with a combined Bmax value of about 600 fmol/mg protein, which is three times higher than what is present in the subcortical limbic area. Competition curves were performed with agonists such as R(-)-propylnorapomorphine, dopamine, PD 128907, quinpirole, and bromocriptine, and antagonists such as haloperidol, raclopride, clozapine, GR 218231x, remoxipride, and U99194A. These experiments revealed that [3H]R(+)-7-OH-DPAT binding could be resolved into three specific binding sites (R1-R3) and one nonspecific binding site, with R1-R2 probably representing D3 receptor binding and the minor R3 representing D2 receptor binding. The low affinities of (+/-)-8-OH-DPAT and 1,3-di(2-tolyl)guanidine to inhibit [3H]R(+)-7-OH-DPAT binding indicate negligible involvement of 5-HT1A or sigma binding sites, respectively. The pharmacological profile of [3H]R(+)-7-OH-DPAT (2 nM) binding in the caudate-putamen was similar to that of dopamine on [125I]iodosulpride binding in the cerebellar lobule X, which contain D3 but not D2 receptors. Mg2+ increased and GTP and Na+ decreased the binding of [3H]R(+)-7-OH-DPAT, suggesting a coupling of endogenous D3 receptors to G proteins. Taken together, these results suggest that dopamine D3 receptors display multiple agonist binding states, and that D3 receptors are present in high concentrations in the rat caudate-putamen. These results may have implications for the physiological and pathological roles of dopamine D3 receptors in the brain.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10913686/"
+    },
+    {
+      "pmid": "24964109",
+      "title": "Cardiac 123I-MIBG uptake in de novo Brazilian patients with Parkinson's disease without clinically defined dysautonomia.",
+      "journal": "Arquivos de neuro-psiquiatria",
+      "year": "2014",
+      "abstract": "Myocardial scintigraphy with meta-iodo-benzyl-guanidine (123I cMIBG) has been studied in Parkinson's disease (PD), especially in Asian countries, but not in Latin America. Most of these studies include individuals with PD associated to a defined dysautonomia. Our goal is to report the cardiac sympathetic neurotransmission in de novo Brazilian patients with sporadic PD, without clinically defined dysautonomia. We evaluated retrospectively a series of 21 consecutive cases with PD without symptoms or signs of dysautonomia assessed by the standard bedside tests. This number was reduced to 14 with the application of exclusion criteria. 123I cMIBG SPECT up-take was low or absent in all of them and the heart/mediastinum ratio was low in 12 of 14. We concluded that 123I cMIBG has been able to identify cardiac sympathetic neurotransmission disorder in Brazilian de novo PD patients without clinically defined dysautonomia.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24964109/"
+    },
+    {
+      "pmid": "23733394",
+      "title": "Guanidine hydrochloride denaturation of dopamine-induced \u03b1-synuclein oligomers: a small-angle X-ray scattering study.",
+      "journal": "Proteins",
+      "year": "2014",
+      "abstract": "Alpha-synuclein (\u03b1-syn) forms the amyloid-containing Lewy bodies found in the brain in Parkinson's disease. The neurotransmitter dopamine (DA) reacts with \u03b1-syn to form SDS-resistant soluble, non-amyloid, and melanin-containing oligomers. Their toxicity is debated, as is the nature of their structure and their relation to amyloid-forming conformers of \u03b1-syn. The small-angle X-ray scattering technique in combination with modeling by the ensemble optimization method showed that the un-reacted native protein populated three broad classes of conformer, while reaction with DA gave a restricted ensemble range suggesting that the rigid melanin molecule played an important part in their structure. We found that 6 M guanidine hydrochloride did not dissociate \u03b1-syn DA-reacted dimers and trimers, suggesting covalent linkages. The pathological significance of covalent association is that if they are non-toxic, the oligomers would act as a sink for toxic excess DA and \u03b1-syn; if toxic, their stability could enhance their toxicity. We argue it is essential, therefore, to resolve the question of whether they are toxic or not.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/23733394/"
+    },
+    {
+      "pmid": "34905123",
+      "title": "Dynamic planar scintigraphy for the rapid kinetic measurement of myocardial <sup>123</sup>I-MIBG turnover can identify Lewy body disease.",
+      "journal": "EJNMMI research",
+      "year": "2021",
+      "abstract": "Using two static scans for <sup>123</sup>I-meta-iodobenzyl-guanidine (<sup>123</sup>I-MIBG) myocardial scintigraphy ignores the dynamic response from vesicular trapping in nerve terminals. Moreover, the long pause between scans is impractical for patients with Lewy body diseases (LBDs). Here, we optimized indices that capture norepinephrine kinetics, tested their diagnostic performance, and determined the differences in <sup>123</sup>I-MIBG performance among disease groups. We developed a new 30-min protocol for <sup>123</sup>I-MIBG dynamic planar imaging for suspected LBD patients. Pharmacokinetic modelling of time-activity curves (TACs) was used to calculate three new indices: unidirectional uptake of <sup>123</sup>I-MIBG to vesicular trapping (iUp), rate of myocardial <sup>123</sup>I-MIBG loss (iLoss), and non-specific fractional distribution of <sup>123</sup>I-MIBG in the interstitial space. We compared the performance of the new and existing indices with regard to discrimination of patients with or without LBDs. Subgroup analysis was performed to examine differences in <sup>123</sup>I-MIBG turnover between patients in a dementia with Lewy bodies (DLB) group and two Parkinson's disease (PD) groups, one with and the other without REM sleep behaviour disorder (RBD). iLoss was highly discriminative, particularly for patients with low myocardial <sup>123</sup>I-MIBG trapping, and the new indices outperformed existing ones. ROC analysis revealed that the AUC of iLoss (0.903) was significantly higher than that of early HMR (0.863), while comparable to that of delayed HMR (0.892). The RBD-positive PD group and the DLB group had higher turnover rates than the RBD-negative PD group, indicating a potential association between prognosis and iLoss. <sup>123</sup>I-MIBG turnover can be quantified in 30\u00a0min using a three-parameter model based on <sup>123</sup>I-MIBG TACs. The discriminatory performance of the new model-based indices might help explain the neurotoxicity or neurodegeneration that occurs in LBD patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34905123/"
+    },
+    {
+      "pmid": "22082889",
+      "title": "PSP as distinguished from CBD, MSA-P and PD by clinical and imaging differences at an early stage.",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "year": "2011",
+      "abstract": "Because it is often difficult to precisely diagnose and distinguish progressive supranuclear palsy (PSP) from corticobasal degeneration (CBD), multiple system atrophy-parkinsonism (MSA-P) and Parkinson's disease (PD) at the onset of the disease, we compared the patients and clarified the features of these diseases. We compared 77 PSP, 26 CBD, 26 MSA-P and 166 PD patients from clinical and imaging points of view including cerebral blood flow (CBF) in the frontal eye field. The clinical characteristics of PSP were supranuclear gaze disturbance, optokinetic nystagmus (OKN) impairment and falls at the first visit. On head MRI, midbrain tegmentum atrophy was much more frequently detected in PSP than in all of the other groups. Heart-to-mediastinum average count ratio (H/M) in iodine-123 meta-iodobenzyl guanidine ((123)I-MIBG) myocardial scintigraphy was not decreased in PSP, CBD, MSA-P and PD-Yahr 1 (-1), but patients of PD-2, 3, 4 and 5 showed a significant decrease compared with the PSP group. The CBF in the left frontal eye field of PD-3 group and that in right frontal eye field of PD-3 and PD-4 groups were lower than that of PSP group, although other groups showed a tendency without a significant decrease compared with PSP group. PSP is distinguishable from CBD, MSA-P and PD even at the early stage with extra-ocular movement (EOM) disturbance, falls, atrophy of the midbrain tegmentum, and H/M in (123)I-MIBG myocardial scintigraphy, and the reduction of CBF in area 8 could serve as a supplemental diagnostic method for distinguishing PSP from PD-3 or PD-4.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22082889/"
+    }
+  ]
+}

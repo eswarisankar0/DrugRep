@@ -1,0 +1,162 @@
+{
+  "drug_name": "Rotigotine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 13,
+  "abstracts": [
+    {
+      "pmid": "41563785",
+      "title": "Restless Legs Syndrome: A Review.",
+      "journal": "JAMA",
+      "year": "2026",
+      "abstract": "Restless legs syndrome (RLS) is a sleep-related movement disorder that affects approximately 3% of US adults to a clinically significant extent and can cause substantial sleep disturbance. Restless legs syndrome is characterized by an overwhelming urge to move the limbs, typically the legs, often accompanied by unpleasant limb sensations (eg, achiness, tingling). Symptoms, provoked by immobility, are relieved while moving and are typically present or most severe in the evening or at night. Restless legs syndrome symptoms may lead to difficulty falling asleep, staying asleep, or returning to sleep. According to population-based studies, approximately 8% of US adults experience RLS symptoms of any frequency annually and 3% experience moderately or severely distressing symptoms at least twice weekly. Patients with RLS have impaired quality of life and elevated rates of cardiovascular disease (29.6% with coronary artery disease, stroke, or heart failure), depression (30.4%), and suicidal ideation or self-harm (0.35 cases/1000 person-years). Restless legs syndrome is common among patients with multiple sclerosis (27.5%), end-stage kidney disease (24%), and iron deficiency anemia (23.9%); during pregnancy and especially in the third trimester (22%); with peripheral neuropathy (eg, diabetic, idiopathic; 21.5%); and with Parkinson disease (20%). Other risk factors include family history of RLS, northern European descent, female sex (2:1 vs male sex), and older age (RLS prevalence of 10% in adults \u226565 years). Restless legs syndrome is diagnosed based on clinical history; polysomnography is not recommended for diagnosis. Iron supplementation with ferrous sulfate (325-650 mg daily or every other day) or intravenous iron (1000 mg) should be initiated for serum ferritin level less than or equal to 100 ng/mL or transferrin saturation less than 20%. If possible, medications associated with RLS, including serotonergic antidepressants, dopamine antagonists, and centrally acting H1 antihistamines (eg, diphenhydramine), should be discontinued. Gabapentinoids (eg, gabapentin, gabapentin enacarbil, pregabalin) are first-line pharmacologic therapy. In randomized clinical trials, approximately 70% of patients treated with gabapentinoids had much or very much improved RLS symptoms vs approximately 40% with placebo (P\u2009<\u2009.001). Dopamine agonists (eg, ropinirole, pramipexole, rotigotine) are no longer recommended as first-line medications due to the risk of augmentation, an iatrogenic worsening of RLS symptoms, which has an annual incidence of 7% to 10% with these medications. Patients who do not improve with first-line treatment or have augmented RLS often benefit from low-dose opioids (eg, methadone 5-10 mg daily). Restless legs syndrome affects approximately 3% of adults and can have negative effects on sleep and quality of life. Initial management includes cessation of exacerbating medications, as well as iron supplementation for patients with low-normal iron indices. If medication therapy is indicated, gabapentinoids are first-line treatment.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41563785/"
+    },
+    {
+      "pmid": "40055961",
+      "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2025",
+      "abstract": "To update evidence-based medicine recommendations for treating motor fluctuations of Parkinson's disease (PD). The International Parkinson and Movement Disorder Society (MDS) Evidence Based Medicine in Movement Disorders Committee recommendations for the treatments of PD were first published in 2002 and regularly updated. The current review uses a new methodology, including the Cochrane Risk of Bias tool and a modified version of GRADE (Grading of Recommendations, Assessment, Development, and Evaluations). On January 1, 2023, a literature search was conducted without date limit in the MEDLINE, Embase, and Cochrane databases using the following search terms: Parkinson disease, levodopa and, for the Embase database, randomized controlled trial (RCT). The inclusion criteria for studies were: patients with PD, on oral levodopa therapy, experiencing motor fluctuations, investigating an intervention that was (commercially) available in at least one country, study design RCT, and with a follow-up duration of at least 3\u2009months. A total of 102\u00a0studies were included. Levodopa extended release, pramipexole immediate release and extended release, ropinirole immediate release, rotigotine, opicapone, safinamide, and bilateral subthalamic nucleus deep brain stimulation (DBS) were assessed as efficacious, and continuous intestinal levodopa infusion, continuous subcutaneous levodopa, continuous subcutaneous apomorphine, ropinirole prolonged release, ropinirole patch, entacapone, rasagiline, istradefylline, amantadine extended release, zonisamide, bilateral globus pallidus DBS, and pallidotomy were assessed as likely efficacious for the treatment of motor fluctuations in people with PD who are already being treated with levodopa. There are several treatment options that can improve motor fluctuations in PD. These recommendations will assist physicians and patients in determining which intervention to use. \u00a9 2025 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40055961/"
+    },
+    {
+      "pmid": "28273839",
+      "title": "Parkinson's Disease: From Pathogenesis to Pharmacogenomics.",
+      "journal": "International journal of molecular sciences",
+      "year": "2017",
+      "abstract": "Parkinson's disease (PD) is the second most important age-related neurodegenerative disorder in developed societies, after Alzheimer's disease, with a prevalence ranging from 41 per 100,000 in the fourth decade of life to over 1900 per 100,000 in people over 80 years of age. As a movement disorder, the PD phenotype is characterized by rigidity, resting tremor, and bradykinesia. Parkinson's disease -related neurodegeneration is likely to occur several decades before the onset of the motor symptoms. Potential risk factors include environmental toxins, drugs, pesticides, brain microtrauma, focal cerebrovascular damage, and genomic defects. Parkinson's disease neuropathology is characterized by a selective loss of dopaminergic neurons in the substantia nigra pars compacta, with widespread involvement of other central nervous system (CNS) structures and peripheral tissues. Pathogenic mechanisms associated with genomic, epigenetic and environmental factors lead to conformational changes and deposits of key proteins due to abnormalities in the ubiquitin-proteasome system together with dysregulation of mitochondrial function and oxidative stress. Conventional pharmacological treatments for PD are dopamine precursors (levodopa, l-DOPA, l-3,4 dihidroxifenilalanina), and other symptomatic treatments including dopamine agonists (amantadine, apomorphine, bromocriptine, cabergoline, lisuride, pergolide, pramipexole, ropinirole, rotigotine), monoamine oxidase (MAO) inhibitors (selegiline, rasagiline), and catechol-<i>O</i>-methyltransferase (COMT) inhibitors (entacapone, tolcapone). The chronic administration of antiparkinsonian drugs currently induces the \"wearing-off phenomenon\", with additional psychomotor and autonomic complications. In order to minimize these clinical complications, novel compounds have been developed. Novel drugs and bioproducts for the treatment of PD should address dopaminergic neuroprotection to reduce premature neurodegeneration in addition to enhancing dopaminergic neurotransmission. Since biochemical changes and therapeutic outcomes are highly dependent upon the genomic profiles of PD patients, personalized treatments should rely on pharmacogenetic procedures to optimize therapeutics.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28273839/"
+    },
+    {
+      "pmid": "33248395",
+      "title": "Parkinson's disease and skin.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2021",
+      "abstract": "Parkinson's disease is associated with a variety of dermatologic disorders and the study of skin may provide insights into pathophysiological mechanisms underlying this common neurodegenerative disorder. Skin disorders in patients with Parkinson's disease can be divided into two major groups: 1) non-iatrogenic disorders, including melanoma, seborrheic dermatitis, sweating disorders, bullous pemphigoid, and rosacea, and 2) iatrogenic disorders related either to systemic side effects of antiparkinsonian medications or to the delivery system of antiparkinsonian therapy, including primarily carbidopa/levodopa, rotigotine and other dopamine agonists, amantadine, catechol-O-methyl transferase inhibitors, subcutaneous apomorphine, levodopa/carbidopa intestinal gel, and deep brain stimulation. Recent advances in our understanding of the role of \u03b1-synuclein in peripheral tissues, including the skin, and research based on induced pluripotent stem cells derived from skin fibroblasts have made skin an important target for the study of Parkinson's disease pathogenesis, drug discovery, novel stem cell therapies, and diagnostics.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33248395/"
+    },
+    {
+      "pmid": "26085043",
+      "title": "Pharmacological Management of Lewy Body Dementia: A Systematic Review and Meta-Analysis.",
+      "journal": "The American journal of psychiatry",
+      "year": "2015",
+      "abstract": "The authors examined research on effects, costs, and patient and caregiver views of pharmacological management strategies for Lewy body dementia. Studies were identified through bibliographic databases, trials registers, gray literature, reference lists, and experts. The authors used the search terms \"Lewy or parkinson\" and \"dementia\" through March 2015 and used the following inclusion criteria: participants with diagnoses of Lewy body dementia, dementia with Lewy bodies, or Parkinson's disease dementia (or participants' caregivers); investigation of pharmacological management strategies; outcome measures and test scores reported. Data extraction and quality assessment were conducted by at least two authors. Meta-analyses were conducted, and when studies could not be combined, summaries were provided. Forty-four studies examining 22 strategies were included in the review. Meta-analysis indicated beneficial effects of donepezil and rivastigmine for cognitive and psychiatric symptoms. Rivastigmine, but not donepezil, was associated with greater risk of adverse events. Meta-analysis of memantine suggested that it is well tolerated but with few benefits. Descriptive summaries provide some evidence of benefits for galantamine, modafinil, levodopa, rotigotine, clozapine, duloxetine, clonazepam, ramelteon, gabapentin, zonisamide, and yokukansan. Piracetam, amantadine, selegiline, olanzapine, quetiapine, risperidone, and citalopram do not appear to be effective. High-level evidence related to pharmacological strategies for managing Lewy body dementia is rare. Strategies for important areas of need in Lewy body dementia, such as autonomic symptoms and caregiver burden, have not been investigated, nor have the views of patients and caregivers about pharmacological strategies.",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26085043/"
+    },
+    {
+      "pmid": "42109537",
+      "title": "Rotigotine and parkinsonism-hyperpyrexia syndrome.",
+      "journal": "Clinical parkinsonism & related disorders",
+      "year": "2026",
+      "abstract": "Parkinsonism-hyperpyrexia syndrome (PHS) is a potentially fatal complication of Parkinson's disease (PD) often triggered by antiparkinsonian medication discontinuation or reduction. Rotigotine, a transdermal dopamine agonist, provides continuous drug delivery and can be administered even when oral administration is difficult. However, the association between rotigotine use and development of PHS remains unclear. We retrospectively reviewed 166 episodes of emergency hospitalization for PD at Hyogo Medical University Hospital (2010-2024). After excluding 19 episodes with insufficient data, 147 were analyzed. Thirty episodes met the diagnostic criteria for PHS (PHS group), and 117 episodes did not (non-PHS group). Clinical characteristics, antiparkinsonian medications, and precipitating events during hospitalization were assessed. A multivariable logistic regression analysis was performed using age, sex, disease duration, and rotigotine administration as covariates. The PHS group had a shorter disease duration, lower modified Hoehn and Yahr stages, and a lower levodopa equivalent dose than the non-PHS group. Poor medication compliance was the most common precipitating factor among PHS cases (n\u00a0=\u00a011, 36.7%). Rotigotine was administered in five PHS and 41 non-PHS episodes. In the multivariable analysis, age was significantly negatively associated with the development of PHS (odds ratio [OR], 0.894; 95% confidence interval [CI], 0.840-0.952; p\u00a0=\u00a00.0005). And rotigotine administration showed a tendency to suppress the development of PHS (OR, 0.353; 95% CI, 0.121-1.031; p\u00a0=\u00a00.0569). Although not statistically significant, rotigotine use tends to be associated with a lower incidence of PHS. Maintaining good medication adherence is critical for preventing PHS, and we consider that rotigotine may be a useful therapeutic option.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42109537/"
+    },
+    {
+      "pmid": "37463763",
+      "title": "Parkinson's disease: symptoms and medications at the end of life.",
+      "journal": "BMJ supportive & palliative care",
+      "year": "2024",
+      "abstract": "People with Parkinson's disease (PwP) have a high palliative symptom burden throughout their disease course, equivalent to advanced malignancy. We aim to establish trends in symptom frequency and prescribing in the 72 hours prior to death for PwP. Retrospective case note review of PwP who died between February 2019 and September 2020. 51 patients were included. 60.78% of patients (n=31) had agitation and 58.82% (n=30) had pain in the final 72 hours. Patients with cognitive impairment were 4.67 times more likely to experience agitation (p=0.035) compared with those without, with higher total midazolam doses (29.18 mg vs 11.4 mg, p=0.21). Terminal motor symptoms were recorded in three patients. 28.57% of patients received the recommended dose of rotigotine for dopaminergic therapy. PwP have a significant symptom burden at the end of life (EOL) with levels of terminal agitation at the higher end of those expected in the general population. There was a trend towards higher doses of sedation, rather than analgesia, in people with coexistent cognitive impairment.Terminal stiffness, despite being seldom documented in the literature, is an important although infrequent symptom.Rotigotine use at EOL remains commonplace and better understanding of its effect and dosing is required.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37463763/"
+    },
+    {
+      "pmid": "18656214",
+      "title": "[Restless-legs syndrome].",
+      "journal": "Revue neurologique",
+      "year": "2008",
+      "abstract": "Restless-legs syndrome (RLS) is a sensorimotor disorder, characterized by an irresistible urge to move the legs usually accompanied or caused by uncomfortable and unpleasant sensations. It begins or worsens during periods of rest or inactivity, is partially or totally relieved by movements and is exacerbated or occurs at night and in the evening. RLS sufferers represent 2 to 3% of the general population in Western countries. Supportive criteria include a family history, the presence of periodic-leg movements (PLM) when awake or asleep and a positive response to dopaminergic treatment. The RLS phenotypes include an early onset form, usually idiopathic with a familial history and a late onset form, usually secondary to peripheral neuropathy. Recently, an atypical RLS phenotype without PLM and l-DOPA resistant has been characterized. RLS can occur in childhood and should be distinguished from attention deficit/hyperactivity disorder, growing pains and sleep complaints in childhood. RLS should be included in the diagnosis of all patients consulting for sleep complaints or discomfort in the lower limbs. It should be differentiated from akathisia, that is, an urge to move the whole body without uncomfortable sensations. Polysomnographic studies and the suggested immobilization test can detect PLM. Furthermore, an l-DOPA challenge has recently been validated to support the diagnosis of RLS. RLS may cause severe-sleep disturbances, poor quality of life, depressive and anxious symptoms and may be a risk factor for cardiovascular disease. In most cases, RLS is idiopathic. It may also be secondary to iron deficiency, end-stage renal disease, pregnancy, peripheral neuropathy and drugs, such as antipsychotics and antidepressants. The small-fiber neuropathy can mimic RLS or even trigger it. RLS is associated with many neurological and sleep disorders including Parkinson's disease, but does not predispose to these diseases. The pathophysiology of RLS includes an altered brain-iron metabolism, a dopaminergic dysfunction, a probable role of pain control systems and a genetic susceptibility with nine loci and three polymorphisms in genes serving developmental functions. RLS treatment begins with the elimination of triggering factors and iron supplementation when deficient. Mild or intermittent RLS is usually treated with low doses of l-DOPA or codeine; the first-line treatment for moderate to severe RLS is dopaminergic agonists (pramipexole, ropinirole, rotigotine). In severe, refractory or neuropathy-associated RLS, antiepileptic (gabapentin, pregabalin) or opioid (oxycodone, tramadol) drugs can be used.",
+      "publication_types": [
+        "English Abstract",
+        "Historical Article",
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/18656214/"
+    },
+    {
+      "pmid": "30062400",
+      "title": "Long-term treatment with rotigotine in drug-na\u00efve PSP patients.",
+      "journal": "Acta neurologica Belgica",
+      "year": "2019",
+      "abstract": "Progressive supranuclear palsy (PSP) is a severe neurodegenerative disease still lacking of alleviating treatments for either cognitive or motor disturbances. Aimed at widening the spectrum of therapeutic options, here, we describe efficacy and safety of a long-term treatment with Rotigotine, a non-ergolinic dopamine agonist, in PSP. Seven PSP drug-na\u00efve patients, presenting with Richardson's syndrome, received up to 6\u00a0mg/24\u00a0h transdermal patch for 42 weeks as unique therapy. Adverse effects were recorded; efficacy was measured by comparing baseline and final treatment scores of Montreal Cognitive Assessment (MoCA), Unified Parkinson Disease Rating Scale part3, and PSP rating scale (PSP-RS). At the end of our observation, no significant adverse events occurred; the cognitive item of PSP-RS was improved and MoCA score was similar at baseline. Contrariwise, motor disturbances worsened according to disease progression. Our observation thus suggests that long-term treatment with low doses of rotigotine is well tolerated and may support cognitive functions of PSP patients.",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30062400/"
+    },
+    {
+      "pmid": "41341481",
+      "title": "Patient-Reported Outcomes of Rotigotine in Parkinson's Disease: Real-World Evidence on Symptom Control and Quality of Life From China.",
+      "journal": "Parkinson's disease",
+      "year": "2025",
+      "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder impacting the quality of life, with a notable prevalence worldwide, including China. Rotigotine, a silicone-based patch that transdermally delivers a dopamine agonist, has shown promise as a PD treatment option. This study aimed to evaluate the safety and effectiveness of rotigotine in a real-world Chinese population. This multicenter, prospective, noninterventional postmarketing surveillance study was conducted across 27 hospitals in China from March 2021 to June 2023. It included adult patients with early and advanced idiopathic PD, newly initiating rotigotine (includes receiving rotigotine up to four weeks prior to enrollment). Safety was assessed through treatment-emergent adverse drug reactions (ADRs), serious adverse events (AEs) (SAEs), and treatment discontinuations due to AEs. Effectiveness was evaluated using the Patient Global Impression of Change (PGIC), Wearing-Off Questionnaire-9 (WOQ-9), and PD Questionnaire-8 (PDQ-8). Of 829 enrolled patients, 803 were included in the safety set and 572 in the full analysis set. The study reported a safety profile consistent with previous studies, with the most common AE being application site pruritus. The incidence of ADRs was 17.6%, lower than in previous Chinese Phase 3 studies and a Japanese noninterventional study. Over half of the patients reported improvement in PD symptoms as per PGIC, and PDQ-8 scores indicated an overall improvement in quality of life, particularly in patients with advanced PD. This study reaffirms the safety and effectiveness of rotigotine in a real-world Chinese PD population, including both early and advanced stages, aligning with previous research findings.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41341481/"
+    },
+    {
+      "pmid": "33264385",
+      "title": "Rotigotine patch prescription in inpatients with Parkinson's disease: evaluating prescription accuracy, delirium and end-of-life use.",
+      "journal": "Age and ageing",
+      "year": "2021",
+      "abstract": "Rotigotine patch, a trans-dermal dopamine agonist, is used acutely to replace oral dopaminergic medications for inpatients with Parkinson's disease where enteral routes are no longer available, and is also an option in end-of-life care where patients can no longer swallow. Concerns regarding acute use of Rotigotine include difficulty achieving dopaminergic equivalence, promotion of delirium/hallucinations and promotion of terminal agitation. our objectives were to establish: (i) accuracy of Rotigotine prescribing, (ii) rates of delirium/hallucinations and (iii) rates of terminal agitation. we retrospectively evaluated the use of Rotigotine in an inpatient population at a UK teaching hospital. Prescriptions between January 2018 and July 2019 were identified and inpatient records were analysed. OPTIMAL Calculator 2 was used as a gold standard for assessing conversion of oral dopaminergic medication to Rotigotine. a total of 84 inpatients were included. 25 (30%) patients were prescribed the recommended dose of Rotigotine; 31 (37%) higher and 28 (33%) lower than recommended. A total of 15 of 41 (37%) patients with dementia and 22 of 49 (45%) patients with delirium before initiation of Rotigotine inappropriately received the higher dose; 20 (24%) patients developed new/worsening delirium and 8 (10%) patients developed new/worsening hallucinations; and 59 (70%) patients were dead at time of evaluation, of these 40 (68%) died in hospital, 10 (25%) of whom experienced terminal agitation. acute conversion of oral dopaminergic medication to trans-dermal Rotigotine patch remains problematic despite the availability of validated tools. Inappropriate dosing may precipitate or worsen delirium/hallucinations. Use at end-of-life requires further evaluation.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33264385/"
+    },
+    {
+      "pmid": "28890931",
+      "title": "Rotigotine transdermal patch and sleep in Parkinson's disease: where are we now?",
+      "journal": "NPJ Parkinson's disease",
+      "year": "2017",
+      "abstract": "A wide range of sleep dysfunction complicates Parkinson's disease during its course from prodromal to palliative stage. It is now increasingly acknowledged that sleep disturbances are thus integral to the disease and pose a significant burden impacting on quality of life of patients. Sleep fragmentation, restless legs syndrome, nocturia, and nocturnal pain are regarded as one of the main components of night-time sleep dysfunction with possible secondary impact on cognition and well-being. The role of dopaminergic therapies, particularly using a continuous drug delivery strategy in managing some of these sleep issues, have been reported but the overall concept remains unclear. This review provides an overview of several aspects of night-time sleep dysfunction in Parkinson's disease and describes all available published open-label and blinded studies that investigated the use of rotigotine transdermal patch targeting sleep. Blinded studies have suggested beneficial effects of rotigotine transdermal patch on maintenance insomnia and restless legs syndrome in Parkinson's disease patients. Open-label studies support these observations and also suggest beneficial effects on nocturia and nocturnal pain.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28890931/"
+    },
+    {
+      "pmid": "37838081",
+      "title": "Transdermal Rotigotine at End-of-Life for Parkinson's Disease: Association With Measures of Distress.",
+      "journal": "Journal of pain and symptom management",
+      "year": "2024",
+      "abstract": "End-of-life (EOL) care for Parkinson's disease (PD) can be challenging when oral medications are no longer tolerated. To assess EOL prescribing for people with PD\u00a0(PWP), focusing on rotigotine dosing and proxy measures of distress: benzodiazepine and opioid use. A retrospective audit of patient records from PWP who died between January 2019 and May 2022 at the Royal Hobart Hospital (RHH), Australia, was conducted. Data was systematically collated on demographics, symptoms, levodopa equivalent daily dose (LEDD) and rotigotine, oral morphine equivalent (OME) and benzodiazepine doses in the last 72 hours of life . Pain (72%), respiratory secretions (66%) and agitation (66%) were the most documented EOL symptoms. 83% (n\u00a0=\u00a052) of PWP were eligible for rotigotine and, of those, 13% (n\u00a0=\u00a07) received the correct dose, 38% (n\u00a0=\u00a020) a lower dose, 12% (n\u00a0=\u00a06) a higher dose and 37% (n\u00a0=\u00a019) did not receive any. Rotigotine dose was positively associated with total (P\u00a0=\u00a00.016) and PRN (P\u00a0=\u00a00.037) benzodiazepine dose. LEDD was positively associated with total benzodiazepine (P\u00a0=\u00a00.018) and total OME dose (P\u00a0=\u00a00.046). Contraindicated dopamine antagonists were prescribed for 43% of PWP and administered in 31% of those cases. Rotigotine dose and admission LEDD were both associated with proxy measures of distress in the last 72 hours of life. This suggests cautious use of rotigotine at EOL. LEDD may help identify patients at risk of distress. Rates of inappropriate prescribing and symptom prevalence were high, indicating a need for further staff education to optimize the care of PWP.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37838081/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "drug_name": "Mk-7622",
+  "disease_name": "Parkinson",
+  "n_abstracts": 1,
+  "abstracts": [
+    {
+      "pmid": "31990455",
+      "title": "T-495, a novel low cooperative M<sub>1</sub> receptor positive allosteric modulator, improves memory deficits associated with cholinergic dysfunction and is characterized by low gastrointestinal side effect risk.",
+      "journal": "Pharmacology research & perspectives",
+      "year": "2020",
+      "abstract": "M<sub>1</sub> muscarinic acetylcholine receptor (M<sub>1</sub> R) activation can be a new therapeutic approach for the treatment of cognitive deficits associated with cholinergic hypofunction. However, M<sub>1</sub> R activation causes gastrointestinal (GI) side effects in animals. We previously found that an M<sub>1</sub> R positive allosteric modulator (PAM) with lower cooperativity (\u03b1-value) has a limited impact on ileum contraction and can produce a wider margin between cognitive improvement and GI side effects. In fact, TAK-071, a novel M<sub>1</sub> R PAM with low cooperativity (\u03b1-value of 199), improved scopolamine-induced cognitive deficits with a wider margin against GI side effects than a high cooperative M<sub>1</sub> R PAM, T-662 (\u03b1-value of 1786), in rats. Here, we describe the pharmacological characteristics of a novel low cooperative M<sub>1</sub> R PAM T-495 (\u03b1-value of 170), using the clinically tested higher cooperative M<sub>1</sub> R PAM MK-7622 (\u03b1-value of 511) as a control. In rats, T-495 caused diarrhea at a 100-fold higher dose than that required for the improvement of scopolamine-induced memory deficits. Contrastingly, MK-7622 showed memory improvement and induction of diarrhea at an equal dose. Combination of T-495, but not of MK-7622, and donepezil at each sub-effective dose improved scopolamine-induced memory deficits. Additionally, in mice with reduced acetylcholine levels in the forebrain via overexpression of A53T \u03b1-synuclein (ie, a mouse model of dementia with Lewy bodies and Parkinson's disease with dementia), T-495, like donepezil, reversed the memory deficits in the contextual fear conditioning test and Y-maze task. Thus, low cooperative M<sub>1</sub> R PAMs are promising agents for the treatment of memory deficits associated with cholinergic dysfunction.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31990455/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "drug_name": "Zagotenemab",
+  "disease_name": "Parkinson",
+  "n_abstracts": 1,
+  "abstracts": [
+    {
+      "pmid": "40301692",
+      "title": "Facile generation of drug-like conformational antibodies specific for amyloid fibrils.",
+      "journal": "Nature chemical biology",
+      "year": "2025",
+      "abstract": "Antibodies that recognize insoluble antigens, such as amyloid fibrils associated with neurodegenerative disorders, are important for research, diagnostic and therapeutic applications. However, these types of antibodies are difficult to generate, typically require animal immunization and also commonly require humanization in the case of therapeutic applications. Here we report a methodology for generating high-quality, fully human, conformation-specific antibodies against amyloid fibrils using a published human nonimmune library, yeast-surface display and quantitative fluorescence-activated cell sorting. Notably, this approach enables the isolation of conformation-specific antibodies against tau fibrils (Alzheimer's disease) and \u03b1-synuclein fibrils (Parkinson's disease) with combinations of high affinity, high conformational specificity and, in some cases, low off-target binding that rival or exceed those of clinical-stage antibodies specific for tau (zagotenemab) and \u03b1-synuclein (cinpanemab). This approach is expected to simplify the generation of conformation-specific antibodies against diverse protein aggregates and other insoluble antigens.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40301692/"
+    }
+  ]
+}

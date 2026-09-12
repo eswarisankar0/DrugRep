@@ -1,0 +1,186 @@
+{
+  "drug_name": "Buspirone",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "33070009",
+      "title": "A trial of buspirone for anxiety in Parkinson's disease: Safety and tolerability.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2020",
+      "abstract": "In Parkinson's disease (PD), anxiety is common, associated with lower health-related quality of life, and undertreated. The primary objective of this study was to determine the tolerability of buspirone for the treatment of anxiety in PD. Individuals with PD and clinically significant anxiety were randomized 4:1 to flexible dosage buspirone or placebo for 12 weeks. Treatment was initiated at 7.5\u00a0mg twice daily and titrated based on response and tolerability to an optimal dosage (maximum 30\u00a0mg twice daily). The primary outcome was the proportion of participants who failed to complete the study on study drug. Secondary outcomes included adverse events, dosage reductions, motor function, dyskinesias, and anxiety. A total of 21 participants enrolled, 4 were randomized to placebo and 17 to buspirone (mean (SD) age 65.5 (9.8), 76.5% male, 88% on concomitant antidepressant or anxiolytic). In the buspirone group, 7 (41%) failed to complete the study on drug, 5 due to intolerability. The median buspirone dosage was 7.5\u00a0mg twice daily. No serious adverse events occurred. A total of 9 (53%) buspirone participants experienced adverse events consistent with worsened motor function. In the buspirone group, mean (SD) improvement from baseline to week 12 in Hamilton Anxiety Rating Scale was -3.9 (3.8) and Parkinson Anxiety Scale -7.1 (6.4). Tolerability concerns do not support moving immediately forward with a large-scale efficacy trial. However, concomitant anxiolytics may have affected tolerability and a signal of efficacy was seen suggesting that future studies of buspirone monotherapy be considered.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33070009/"
+    },
+    {
+      "pmid": "41055918",
+      "title": "Buspirone regulates cortico-striatal gamma oscillations to ameliorate dyskinesia.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2025",
+      "abstract": "BackgroundLevodopa-induced dyskinesia (LID) in Parkinson's disease (PD) is linked to exaggerated gamma oscillations. Buspirone, a 5-HT1A receptor agonist, is a potent medication for psychiatric conditions, predominantly prescribed for anxiety treatment.ObjectiveThis study aims to investigate whether buspirone alleviates dyskinesia in LID rat and its effects on pathological oscillatory activity and cortico-striatal functional connectivity.MethodsWe collected motor behavior and electrophysiological data of cortico-striatal from Sham rats, unilateral 6-hydroxydopamine (6-OHDA)-lesioned PD model rats, and rats with LID. We further examined the behavioral and electrophysiological changes in LID rats following buspirone intervention.ResultsPD rats showed increased beta activity and aperiodic components at 10-50\u2005Hz, while LID rats exhibited excessive gamma oscillations and aperiodic activity at 50-150\u2005Hz. Additionally, gamma-band functional connectivity within the cortico-striatal circuit was significantly enhanced during on-state dyskinesia, when rats exhibited abnormal involuntary movements. Administration of buspirone effectively reduced dyskinesia severity, suppressed gamma activity, decreased aperiodic components (50-150\u2005Hz), and disrupted gamma-band functional connectivity without compromising the antiparkinsonian effects of levodopa.ConclusionsExcessive gamma oscillations represent a key electrophysiological marker of dyskinesia. Altered gamma-band connectivity within the cortico-striatal network may contribute to its pathophysiology. Buspirone appears to be a promising candidate for the treatment of LID, potentially offering a novel therapeutic strategy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41055918/"
+    },
+    {
+      "pmid": "2873889",
+      "title": "Buspirone, Parkinson's disease, and the locus ceruleus.",
+      "journal": "Clinical neuropharmacology",
+      "year": "1986",
+      "abstract": "Buspirone is a novel anxiolytic whose pharmacological profile differs from that of the benzodiazepines and includes dopaminergic agonist effects. Because of these properties, buspirone's usefulness in the management of idiopathic Parkinson's disease was evaluated in a controlled study of 16 outpatients with stage I-IV disease. At doses of 10 to 60 mg/day, no significant group or individual effects could be discerned on standardized disability, dyskinesia, anxiety, or depression scales. At high dose levels (100 mg/day) however, there was a significant worsening of disability ratings and a decrease in dyskinesia scores; anxiety ratings were also significantly increased. The results indicate that buspirone is well tolerated by parkinsonian patients at conventional antianxiety doses of 10 to 40 mg. Clinical effects of high dose treatment, on the other hand, resemble those associated with a reduction in central dopamine mediated synaptic function. Since buspirone reportedly produces dose-dependent stimulation of norepinephrine containing neurons in the locus ceruleus and behavioral symptoms of such activation were observed, these clinical observations support the concept that central noradrenergic stimulation can adversely affect parkinsonian symptoms.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/2873889/"
+    },
+    {
+      "pmid": "3026624",
+      "title": "Buspirone in Parkinson's disease.",
+      "journal": "Clinical neuropharmacology",
+      "year": "1986",
+      "abstract": "Buspirone, an anxiolytic unrelated to benzodiazepines that may act at the presynaptic dopamine receptor, was given to 11 patients with Parkinson's disease in an open label study. Seven patients completed the initial 10 week study achieving doses of 50-70 mg/day without any significant change in their clinical status. Six patients continued for an additional 3-11 weeks with increases in dose to 65-100 mg/day. Two of the three most severely affected patients had mild worsening of parkinsonian symptoms. Buspirone is ineffective in the treatment of Parkinson's disease, but at anxiolytic doses (less than 40 mg/day) does not adversely affect parkinsonian disability.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/3026624/"
+    },
+    {
+      "pmid": "38314643",
+      "title": "Buspirone and Zolmitriptan Combination for Dyskinesia: A Randomized, Controlled, Crossover Study.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2024",
+      "abstract": "Preclinical evidence suggests that co-administration of the 5-HT<sub>1A</sub> agonist buspirone and the 5-HT<sub>1B/1D</sub> agonist zolmitriptan act synergistically to reduce dyskinesia to a greater extent than that achieved by either drug alone. Assess the therapeutic potential of a fixed-dose buspirone and zolmitriptan combination in Parkinson's disease (PD) patients with levodopa-induced dyskinesia. Single-center, randomized, placebo-controlled, two-way crossover study (NCT02439203) of a fixed-dose buspirone/zolmitriptan regimen (10/1.25\u2009mg three times a day) in 30 patients with PD experiencing at least moderately disabling peak-effect dyskinesia. Seven days of treatment with buspirone/zolmitriptan added to levodopa significantly reduced dyskinesia as assessed by Abnormal Involuntary Movement Scale scores versus placebo (mean treatment effect vs. placebo: -4.2 [-6.1, -2.3]) without significantly worsening Unified Parkinson's Disease Rating Scale (UPDRS) Part III (ON) scores (mean treatment effect vs. placebo: 0.6 [-0.1, 1.3]). No serious adverse events were reported. In this proof-of-concept study, addition of buspirone/zolmitriptan to the patients' PD medication regimen significantly reduced dyskinesia severity without worsening motor function. \u00a9 2024 International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38314643/"
+    },
+    {
+      "pmid": "35163768",
+      "title": "The Anxiolytic Drug Buspirone Prevents Rotenone-Induced Toxicity in a Mouse Model of Parkinson's Disease.",
+      "journal": "International journal of molecular sciences",
+      "year": "2022",
+      "abstract": "A pharmacological and genetic blockade of the dopamine D3 receptor (D3R) has shown to be neuroprotective in models of Parkinson's disease (PD). The anxiolytic drug buspirone, a serotonin receptor 1A agonist, also functions as a potent D3R antagonist. To test if buspirone elicited neuroprotective activities, C57BL/6 mice were subjected to rotenone treatment (10mg/kg i.p for 21 days) to induce PD-like pathology and were co-treated with increasing dosages of buspirone (1, 3, or 10 mg/kg i.p.) to determine if the drug could prevent rotenone-induced damage to the central nervous system (CNS). We found that high dosages of buspirone prevented the behavioural deficits caused by rotenone in the open field test. Molecular and histological analyses confirmed that 10 mg/kg of buspirone prevented the degeneration of TH-positive neurons. Buspirone attenuated the induction of interleukin-1\u03b2 and interleukin-6 expression by rotenone, and this was paralleled by the upregulation of arginase-1, brain-derived neurotrophic factor (BDNF), and activity-dependent neuroprotective protein (ADNP) in the midbrain, striatum, prefrontal cortex, amygdala, and hippocampus. Buspirone treatment also improved mitochondrial function and antioxidant activities. Lastly, the drug prevented the disruptions in the expression of two neuroprotective peptides, pituitary adenylate cyclase-activating polypeptide (PACAP) and vasoactive intestinal peptide (VIP). These results pinpoint the neuroprotective efficacy of buspirone against rotenone toxicity, suggesting its potential use as a therapeutic agent in neurodegenerative and neuroinflammatory diseases, such as PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35163768/"
+    },
+    {
+      "pmid": "8149361",
+      "title": "Buspirone in levodopa-induced dyskinesias.",
+      "journal": "Clinical neuropharmacology",
+      "year": "1994",
+      "abstract": "We made a double-blind, crossover comparison of buspirone (10 mg orally, twice a day) and placebo in 10 patients with Parkinson's disease and levodopa-induced dyskinesias. The duration of the study was 3 weeks, for both buspirone and for placebo treatment. Chronic therapies remained unchanged. The extrapyramidal symptoms, dyskinesias, and anxious/depressive symptoms were evaluated at the beginning of the study and after the buspirone and placebo treatments. Seven patients concluded the trial. The extrapyramidal symptoms, evaluated in both the \"off\" and \"on\" states during an oral L-Dopa test, did not show any worsening during the trial. Buspirone significantly lessened the severity of levodopa-induced dyskinesias in five of the seven patients, whereas it proved ineffective in the two patients with the mildest dyskinesias. There were no changes in the mild anxious and depressive symptoms at any time during the study. The activities of buspirone on the serotonin and dopamine systems might have led to the antidyskinetic effect we observed. At daily dosages of 20 mg, buspirone might prove effective in reducing levodopa-induced dyskinesias without worsening of parkinsonism.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/8149361/"
+    },
+    {
+      "pmid": "12549947",
+      "title": "Pseudo-Parkinson disease secondary to ritonavir-buspirone interaction.",
+      "journal": "The Annals of pharmacotherapy",
+      "year": "2003",
+      "abstract": "To report a case of Parkinson-like symptoms appearing in a patient after introduction of ritonavir to buspirone therapy. A 54-year-old HIV-positive white man presented to the clinic with a 2-week history of ataxia, shuffling gait, cogwheel rigidity, resting tremor, and sad affect with masked features. This patient had been receiving high-dose buspirone (40 mg every morning and 30 mg every evening) for 2 years prior to the introduction of ritonavir/indinavir combination therapy (400 mg/400 mg twice daily) 6 weeks prior to initiation of the above symptoms. Buspirone was decreased to 15 mg 3 times daily, ritonavir/indinavir was discontinued, and amprenavir 1200 mg twice daily was added. The patient's symptoms began to subside after 1 week, with complete resolution after about 2 weeks. The patient continued to receive buspirone for an additional 12 months without recurrence of symptoms. This is the first reported interaction of buspirone and antiretrovirals. Buspirone, extensively metabolized by CYP3A4, was likely at supratherapeutic levels due to the inhibitory effect of ritonavir and, secondarily, indinavir. The Parkinson-like symptoms developed rapidly and severely, impacted this patient's quality of life, and necessitated significant clinic expenditures to identify this drug-drug interaction. This case demonstrates a severe drug-drug interaction between buspirone and ritonavir and further demonstrates the need for awareness of the metabolic profile for all agents an HIV-infected patient is receiving.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/12549947/"
+    },
+    {
+      "pmid": "39703252",
+      "title": "Serotonin Syndrome in Parkinson's Disease: Don't Get It Confused by a Tremor.",
+      "journal": "Cureus",
+      "year": "2024",
+      "abstract": "Serotonin syndrome (SS) is a potentially life-threatening condition caused by excessive serotonergic activity, often due to drug interactions. It classically manifests with autonomic and neuromuscular hyperactivity and by mental status changes that might include restlessness, delirium, and agitation. We present a case of a 76-year-old patient with Parkinson's disease with SS triggered by interaction between rasagiline and buspirone. He presented with altered mental status, hyperreflexia, and muscle rigidity. Due to the severity of symptoms, he was early admitted to the ICU, and his clinical condition improved after discontinuation of serotonergic agents and supportive care. In SS, a high index of suspicion is fundamental, so early treatment is implemented.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39703252/"
+    },
+    {
+      "pmid": "2884555",
+      "title": "Buspirone in the treatment of tardive dyskinesia.",
+      "journal": "Medical hypotheses",
+      "year": "1987",
+      "abstract": "Buspirone is a novel anxiolytic chemically unrelated to the benzodiazepines. In clinical trials it has been shown to be as effective as diazepam, with fewer side effects. Buspirone is primarily active in dopaminergic pathways. It has the properties of both a dopamine agonist and antagonist. In this paper a model for treatment of tardive dyskinesia with buspirone is developed, based on dopamine autoreceptor blockade. A clinical trial of buspirone in the treatment of movement disorders is warranted.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/2884555/"
+    },
+    {
+      "pmid": "25175895",
+      "title": "Side effect profile of 5-HT treatments for Parkinson's disease and L-DOPA-induced dyskinesia in rats.",
+      "journal": "British journal of pharmacology",
+      "year": "2015",
+      "abstract": "Treatment of Parkinson's disease (PD) with L-DOPA eventually causes abnormal involuntary movements known as dyskinesias in most patients. Dyskinesia can be reduced using compounds that act as direct or indirect agonists of the 5-HT1 A receptor, but these drugs have been reported to worsen PD features and are known to produce '5-HT syndrome', symptoms of which include tremor, myoclonus, rigidity and hyper-reflexia. Sprague-Dawley rats were given unilateral nigrostriatal dopamine lesions with 6-hydroxydopamine. Each of the following three purportedly anti-dyskinetic 5-HT compounds were administered 15\u2009min before L-DOPA: the full 5-HT1 A agonist \u00b1-8-hydroxy-2-dipropylaminotetralin (\u00b18-OH-DPAT), the partial 5-HT1 A agonist buspirone or the 5-HT transporter inhibitor citalopram. After these injections, animals were monitored for dyskinesia, 5-HT syndrome, motor activity and PD akinesia. Each 5-HT drug dose-dependently reduced dyskinesia by relatively equal amounts (\u00b18-OH-DPAT \u2265 citalopram \u2265 buspirone), but 5-HT syndrome was higher with \u00b18-OH-DPAT, lower with buspirone and not present with citalopram. Importantly, with or without L-DOPA, all three compounds provided an additional improvement of PD akinesia. All drugs tempered the locomotor response to L-DOPA suggesting dyskinesia reduction, but vertical rearing was reduced with 5-HT drugs, potentially reflecting features of 5-HT syndrome. The results suggest that compounds that indirectly facilitate 5-HT1 A receptor activation, such as citalopram, may be more effective therapeutics than direct 5-HT1 A receptor agonists because they exhibit similar anti-dyskinesia efficacy, while possessing a reduced side effect profile.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/25175895/"
+    },
+    {
+      "pmid": "36133803",
+      "title": "Motor cortico-nigral and cortico-entopeduncular information transmission and its modulation by buspirone in control and after dopaminergic denervation.",
+      "journal": "Frontiers in pharmacology",
+      "year": "2022",
+      "abstract": "Cortical information is transferred to the <i>substantia nigra pars reticulata</i> (SNr) and the entopeduncular nucleus (EP), the output structures of the basal ganglia (BG), through three different pathways: the hyperdirect trans-subthalamic and the direct and indirect trans-striatal pathways. The nigrostriatal dopamine (DA) and the activation of 5-HT<sub>1A</sub> receptors, distributed all along the BG, may modulate cortical information transmission. We aimed to investigate the effect of buspirone (5-HT<sub>1A</sub> receptor partial agonist) and WAY-100635 (5-HT<sub>1A</sub> receptor antagonist) on cortico-nigral and cortico-entopeduncular transmission in normal and DA loss conditions. Herein, simultaneous electrical stimulation of the motor cortex and single-unit extracellular recordings of SNr or EP neurons were conducted in urethane-anesthetized sham and 6-hydroxydopamine (6-OHDA)-lesioned rats before and after drug administrations. Motor cortex stimulation evoked monophasic, biphasic, or triphasic responses, combination of an early excitation, an inhibition, and a late excitation in both the SNr and EP, while an altered pattern of evoked response was observed in the SNr after 6-OHDA lesion. Systemic buspirone potentiated the direct cortico-SNr and cortico-EP transmission in sham animals since increased duration of the inhibitory response was observed. In DA denervated animals, buspirone administration enhanced early excitation amplitude in the cortico-SNr transmission. In both cases, the observed effects were mediated via a 5-HT<sub>1A</sub>-dependent mechanism as WAY-100635 administration blocked buspirone's effect. These findings suggest that in control condition, buspirone potentiates direct pathway transmission and DA loss modulates responses related to the hyperdirect pathway. Overall, the results may contribute to understanding the role of 5-HT<sub>1A</sub> receptors and DA in motor cortico-BG circuitry functionality.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36133803/"
+    },
+    {
+      "pmid": "22615592",
+      "title": "Buspirone improves haloperidol-induced Parkinson disease in mice through 5-HT(1A) recaptors.",
+      "journal": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+      "year": "2010",
+      "abstract": "The available literatures show that 5-HT(1A) receptors are widely distributed throughout the basal ganglia, and their activation facilitate dopamine release. Neuroleptic drugs such as haloperidol induce Parkinson-like syndrome through blocking brain D(2) receptors. This study aimed to investigate effect of buspirone, a partial agonist of 5HT(1A) receptor, on motor dysfunctions induced by haloperidol and involvement of 5HT(1A) receptors in this regard. Study was performed on the male mice weighing 25-30 g. Animals were divided randomly to groups of 10 animals. Motor dysfunction was induced by intraperitoneal (i.p.) injection of haloperidol (1 mg/kg). Catalepsy was assayed by bar-test method 5, 60, 120 and 180 minutes after drug administration and motor imbalance was studied by rotarod test. Results showed that buspirone (20 mg/kg, i.p.) decreased significantly haloperidol-induced catalepsy and balance disorder in a dose dependent manner. Furthermore, 8-OH-DPAT (10 mg/kg, i.p.), as an agonist of 5-HT(1A) receptor, decreased haloperidol-induced catalepsy and balance disorder. The effect of buspirone (20 mg/kg, i.p.) on haloperidol-induced motor disorders was abolished by NAN-190 (10 mg/kg, i.p.), as a 5-HT(1A) receptor antagonist. From the results it may be concluded that buspirone improves haloperidol-induced catalepsy and balance disorder through activation of 5-HT(1A) receptors.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22615592/"
+    },
+    {
+      "pmid": "33686657",
+      "title": "The effect of 5-HT<sub>1A</sub> receptor agonists on the entopeduncular nucleus is modified in 6-hydroxydopamine-lesioned rats.",
+      "journal": "British journal of pharmacology",
+      "year": "2021",
+      "abstract": "l-DOPA prolonged treatment leads to disabling motor complications as dyskinesia that could be decreased by drugs acting on 5-HT<sub>1A</sub> receptors. Since the internal segment of the globus pallidus, homologous to the entopeduncular nucleus in rodents, seems to be involved in the etiopathology of l-DOPA-induced dyskinesia, we investigated whether the entopeduncular nucleus is modulated by the 5-HT<sub>1A</sub> receptor partial and full agonists, buspirone, and 8-hydroxy-2-(di-n-propylamino)-tetralin (8-OH-DPAT) in control and 6-hydroxydopamine (6-OHDA)-lesioned rats with or without long-term l-DOPA treatment. Extracellular single-unit electrocorticogram and local field potential recordings under anaesthesia, immunostaining assays and optogenetic manipulation coupled to electrophysiological recordings were performed. Systemic buspirone reduced the entopeduncular nucleus firing rate in the sham animals and burst activity in the 6-OHDA-lesioned rats (with or without l-DOPA treatment), while local administration reduced entopeduncular nucleus activity in all the groups, regardless of DA integrity. Systemic 8-OH-DPAT also induced inhibitory effects only in the sham animals. Effects triggered by buspirone and 8-OH-DPAT were reversed by the 5-HT<sub>1A</sub> receptor antagonist, WAY-100635. Neither buspirone nor 8-OH-DPAT modified the low-frequency oscillatory activity in the entopeduncular nucleus or its synchronization with the motor cortex. Buspirone did not alter the response induced by subthalamic nucleus opto-stimulation in the entopeduncular nucleus. Systemic 5-HT<sub>1A</sub> receptor activation elicits different effects on the electrophysiological properties of the entopeduncular nucleus depending on the integrity of the nigrostriatal pathway and it does not alter the relationship between subthalamic nucleus and entopeduncular nucleus neuron activity.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33686657/"
+    },
+    {
+      "pmid": "16175159",
+      "title": "The neuropsychiatry of Parkinson's disease.",
+      "journal": "Minerva medica",
+      "year": "2005",
+      "abstract": "The neuropsychiatry of Parkinson's disease (PD) and its correlates are reviewed. Dementia occurs in up to 30% and can be treated with cholinesterase inhibitors. Cognitive impairments involve executive, visuospatial, attentional, and memory dysfunctions. Apathy may respond to dopamine agonists or cholines-terase inhibitors. Cognitive impairment, psychosis, and depression predict quality of life. Visual hallucinations and paranoia are common, and respond to low dose clozapine. Depression is common and predicts caregiver burden and depression. The best data suggest the efficacy of nortriptyline and the safety of SSRIs. Anxiety disorders occur in 40% of patients, especially off-period panic attacks and specific phobias. Bromazepam has proven useful for anxiety in PD, but buspirone has only diminished drug-induced dyskinesias to date. Sleep disorders occur in up to 94% of patients. Insomnia is common and is treated by dopaminergic agent dose reduction, nocturnal dosing, treatment of depression, or use of short half-lived hypnotics, depending on etiology. Parasomnias include REM behavior disorder and vivid dreams and nightmares. Excessive daytime somnolence occurs in at least 15% of patients. Sleep attacks are common and patients should be warned about driving when taking dopamine agonists. Sexual disorders occur in most patients. Paraphilias are associated with dopamine agonists, and clozapine may be useful in their treatment. Surgical therapies are associated with a wide variety of neuropsychiatric features, and vigilance for suicide attempts with subthalamic nucleus stimulation seems warranted. Neuropsychiatric disorders are important determinants of quality of life and caregiver burden in PD. More clinical research is needed to establish effective treatments.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/16175159/"
+    }
+  ]
+}

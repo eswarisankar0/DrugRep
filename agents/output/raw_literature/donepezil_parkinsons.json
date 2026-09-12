@@ -1,0 +1,193 @@
+{
+  "drug_name": "Donepezil",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "31638686",
+      "title": "Diagnosis and Management of Dementia: Review.",
+      "journal": "JAMA",
+      "year": "2019",
+      "abstract": "Worldwide, 47 million people live with dementia and, by 2050, the number is expected to increase to 131 million. Dementia is an acquired loss of cognition in multiple cognitive domains sufficiently severe to affect social or occupational function. In the United States, Alzheimer disease, one cause of dementia, affects 5.8 million people. Dementia is commonly associated with more than 1 neuropathology, usually Alzheimer disease with cerebrovascular pathology. Diagnosing dementia requires a history evaluating for cognitive decline and impairment in daily activities, with corroboration from a close friend or family member, in addition to a thorough mental status examination by a clinician to delineate impairments in memory, language, attention, visuospatial cognition such as spatial orientation, executive function, and mood. Brief cognitive impairment screening questionnaires can assist in initiating and organizing the cognitive assessment. However, if the assessment is inconclusive (eg, symptoms present, but normal examination findings), neuropsychological testing can help determine whether dementia is present. Physical examination may help identify the etiology of dementia. For example, focal neurologic abnormalities suggest stroke. Brain neuroimaging may demonstrate structural changes including, but not limited to, focal atrophy, infarcts, and tumor, that may not be identified on physical examination. Additional evaluation with cerebrospinal fluid assays or genetic testing may be considered in atypical dementia cases, such as age of onset younger than 65 years, rapid symptom onset, and/or impairment in multiple cognitive domains but not episodic memory. For treatment, patients may benefit from nonpharmacologic approaches, including cognitively engaging activities such as reading, physical exercise such as walking, and socialization such as family gatherings. Pharmacologic approaches can provide modest symptomatic relief. For Alzheimer disease, this includes an acetylcholinesterase inhibitor such as donepezil for mild to severe dementia, and memantine (used alone or as an add-on therapy) for moderate to severe dementia. Rivastigmine can be used to treat symptomatic Parkinson disease dementia. Alzheimer disease currently affects 5.8 million persons in the United States and is a common cause of dementia, which is usually accompanied by other neuropathology, often cerebrovascular disease such as brain infarcts. Causes of dementia can be diagnosed by medical history, cognitive and physical examination, laboratory testing, and brain imaging. Management should include both nonpharmacologic and pharmacologic approaches, although efficacy of available treatments remains limited.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31638686/"
+    },
+    {
+      "pmid": "30704681",
+      "title": "The Alzheimer's Disease Clinical Spectrum: Diagnosis and Management.",
+      "journal": "The Medical clinics of North America",
+      "year": "2019",
+      "abstract": "Alzheimer's disease (AD) care requires timely diagnosis and multidisciplinary management. Evaluation involves structured patient and caregiver history and symptom-function reviews, examination, and testing (laboratory and neuroimaging) to delineate impairment level, determine the cognitive-behavioral syndrome, and diagnose cause. Clinical biomarkers are available to aid high confidence in etiologic diagnosis. Management uses psychoeducation, shared goal setting, and patient-caregiver dyad decision making. When combined, pharmacologic and nonpharmacologic therapies mitigate symptoms and reduce clinical progression and care burden. AD biopathologic processes develop over decades before symptoms manifest; this period is increasingly targeted in research as an opportunity to best delay or prevent AD dementia.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30704681/"
+    },
+    {
+      "pmid": "32830221",
+      "title": "Brain-first versus body-first Parkinson's disease: a multimodal\u00a0imaging case-control study.",
+      "journal": "Brain : a journal of neurology",
+      "year": "2020",
+      "abstract": "Parkinson's disease is characterized by the presence of abnormal, intraneuronal \u03b1-synuclein aggregates, which may propagate from cell-to-cell in a prion-like manner. However, it remains uncertain where the initial \u03b1-synuclein aggregates originate. We have hypothesized that Parkinson's disease comprises two subtypes. A brain-first (top-down) type, where \u03b1-synuclein pathology initially arises in the brain with secondary spreading to the peripheral autonomic nervous system; and a body-first (bottom-up) type, where the pathology originates in the enteric or peripheral autonomic nervous system and then spreads to the brain. We also hypothesized that isolated REM sleep behaviour disorder (iRBD) is a prodromal phenotype for the body-first type. Using multimodal imaging, we tested the hypothesis by quantifying neuronal dysfunction in structures corresponding to Braak stages I, II and III involvement in three distinct patient groups. We included 37 consecutive de novo patients with Parkinson's disease into this case-control PET study. Patients with Parkinson's disease were divided into 24 RBD-negative (PDRBD-) and 13 RBD-positive cases (PDRBD+) and a comparator group of 22 iRBD patients. We used 11C-donepezil PET/CT to assess cholinergic (parasympathetic) innervation, 123I-metaiodobenzylguanidine (MIBG) scintigraphy to measure cardiac sympathetic innervation, neuromelanin-sensitive MRI to measure the integrity of locus coeruleus pigmented neurons, and 18F-dihydroxyphenylalanine (FDOPA) PET to assess putaminal dopamine storage capacity. Colon volume and transit times were assessed with CT scans and radiopaque markers. Imaging data from the three groups were interrogated with ANOVA and Kruskal-Wallis tests corrected for multiple comparisons. The PDRBD- and PDRBD+ groups showed similar marked reductions in putaminal FDOPA-specific uptake, whereas two-thirds of iRBD patients had normal scans (P\u2009<\u200910-13, ANOVA). When compared to the PDRBD- patients, the PDRBD+ and iRBD patients showed reduced mean MIBG heart:mediastinum ratios (P\u2009<\u200910-5, ANOVA) and colon 11C-donepezil standard uptake values (P\u2009=\u20090.008, ANOVA). The PDRBD+ group trended towards a reduced mean MRI locus coeruleus: pons ratio compared to PDRBD- (P\u2009=\u20090.07, t-test). In comparison to the other groups, the PDRBD+ group also had enlarged colon volumes (P\u2009<\u20090.001, ANOVA) and delayed colonic transit times (P\u2009=\u20090.01, Kruskal-Wallis). The combined iRBD and PDRBD+ patient data were compatible with a body-first trajectory, characterized by initial loss of cardiac MIBG signal and 11C-colonic donepezil signal followed by loss of putaminal FDOPA uptake. In contrast, the PDRBD- data were compatible with a brain-first trajectory, characterized by primary loss of putaminal FDOPA uptake followed by a secondary loss of cardiac MIBG signal and 11C-donepezil signal. These findings support the existence of brain-first and body-first subtypes of Parkinson's disease.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32830221/"
+    },
+    {
+      "pmid": "35665915",
+      "title": "Interventions for preventing falls in Parkinson's disease.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2022",
+      "abstract": "Most people with Parkinson's disease (PD) experience at least one fall during the course of their disease. Several interventions designed to reduce falls have been studied. An up-to-date synthesis of evidence for interventions to reduce falls in people with PD will assist with informed decisions regarding fall-prevention interventions for people with PD. To assess the effects of interventions designed to reduce falls in people with PD. CENTRAL, MEDLINE, Embase, four other databases and two trials registers were searched on 16 July 2020, together with reference checking, citation searching and contact with study authors to identify additional studies. We also conducted a top-up search on 13 October 2021. We included randomised controlled trials (RCTs) of interventions that aimed to reduce falls in people with PD and reported the effect on falls. We excluded interventions that aimed to reduce falls due to syncope. We used standard Cochrane Review procedures. Primary outcomes were rate of falls and number of people who fell at least once. Secondary outcomes were the number of people sustaining one or more fall-related fractures, quality of life, adverse events and economic outcomes. The certainty of the evidence was assessed using GRADE. This review includes 32 studies with 3370 participants randomised. We included 25 studies of exercise interventions (2700 participants), three studies of medication interventions (242 participants), one study of fall-prevention education (53 participants) and three studies of exercise plus education (375 participants). Overall, participants in the exercise trials and the exercise plus education trials had mild to moderate PD, while participants in the medication trials included those with more advanced disease. All studies had a high or unclear risk of bias in one or more items. Illustrative risks demonstrating the absolute impact of each intervention are presented in the summary of findings tables. Twelve studies compared exercise (all types) with a control intervention (an intervention not thought to reduce falls, such as usual care or sham exercise) in people with mild to moderate PD. Exercise probably reduces the rate of falls by 26% (rate ratio (RaR) 0.74, 95% confidence interval (CI) 0.63 to 0.87; 1456 participants, 12 studies; moderate-certainty evidence). Exercise probably slightly reduces the number of people experiencing one or more falls by 10% (risk ratio (RR) 0.90, 95% CI 0.80 to 1.00; 932 participants, 9 studies; moderate-certainty evidence).\u00a0 We are uncertain whether exercise makes little or no difference to the number of people experiencing one or more fall-related fractures (RR 0.57, 95% CI 0.28 to 1.17; 989 participants, 5 studies; very low-certainty evidence). Exercise may slightly improve health-related quality of life immediately following the intervention (standardised mean difference (SMD) -0.17, 95% CI -0.36 to 0.01; 951 participants, 5 studies; low-certainty evidence). We are uncertain whether exercise has an effect on adverse events or whether exercise is a cost-effective intervention for fall prevention. Three studies trialled a cholinesterase inhibitor (rivastigmine or donepezil). Cholinesterase inhibitors may reduce the rate of falls by 50% (RaR 0.50, 95% CI 0.44 to 0.58; 229 participants, 3 studies; low-certainty evidence). However, we are uncertain if this medication makes little or no difference to the number of people experiencing one or more falls (RR 1.01, 95% CI 0.90 to 1.14230 participants, 3 studies) and to health-related quality of life (EQ5D Thermometer mean difference (MD) 3.00, 95% CI -3.06 to 9.06; very low-certainty evidence). Cholinesterase inhibitors may increase the rate of non fall-related adverse events by 60% (RaR 1.60, 95% CI 1.28 to 2.01; 175 participants, 2 studies; low-certainty evidence). Most adverse events were mild and transient in nature. \u00a0No data was available regarding the cost-effectiveness of medication for fall prevention. We are uncertain of the effect of education compared to a control intervention on the number of people who fell at least once (RR 10.89, 95% CI 1.26 to 94.03; 53 participants, 1 study; very low-certainty evidence), and no data were available for the other outcomes of interest for this comparisonWe are also uncertain (very low-certainty evidence) whether exercise combined with education makes little or no difference to the number of falls (RaR 0.46, 95% CI 0.12 to 1.85; 320 participants, 2 studies), the number of people sustaining fall-related fractures (RR 1.45, 95% CI 0.40 to 5.32,320 participants, 2 studies), or health-related quality of life (PDQ39 MD 0.05, 95% CI -3.12 to 3.23, 305 participants, 2 studies). Exercise plus education may make little or no difference to the number of people experiencing one or more falls (RR 0.89, 95% CI 0.75 to 1.07; 352 participants, 3 studies; low-certainty evidence). We are uncertain whether exercise combined with education has an effect on adverse events or is a cost-effective intervention for fall prevention.\u00a0 AUTHORS' CONCLUSIONS: Exercise interventions probably reduce the rate of falls, and probably slightly reduce the number of people falling in people with mild to moderate PD.\u00a0 Cholinesterase inhibitors may reduce the rate of falls, but we are uncertain if they have an effect on the number of people falling. The decision to use these medications needs to be balanced against the risk of non fall-related adverse events, though these adverse events were predominantly mild or transient in nature. Further research in the form of large, high-quality RCTs are required to determine the relative impact of different types of exercise and different levels of supervision on falls, and how this could be influenced by disease severity. Further work is also needed to increase the certainty of the effects of medication and further explore falls prevention education interventions both delivered alone and in combination with exercise.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35665915/"
+    },
+    {
+      "pmid": "37358841",
+      "title": "Cholinesterase Inhibitors for Treatment of Psychotic Symptoms in Alzheimer Disease and Parkinson Disease: A Meta-analysis.",
+      "journal": "JAMA neurology",
+      "year": "2023",
+      "abstract": "Psychotic symptoms greatly increase the burden of disease for people with neurodegenerative disorders and their caregivers. Cholinesterase inhibitors (ChEIs) may be effective treatment for psychotic symptoms in these disorders. Previous trials only evaluated neuropsychiatric symptoms as a secondary and an overall outcome, potentially blurring the outcomes noted with ChEI use specifically for psychotic symptoms. To quantitatively assess the use of ChEIs for treatment of individual neuropsychiatric symptoms, specifically hallucinations and delusions, in patients with Alzheimer disease (AD), Parkinson disease (PD), and dementia with Lewy bodies (DLB). A systematic search was performed in PubMed (MEDLINE), Embase, and PsychInfo, without year restrictions. Additional eligible studies were retrieved from reference lists. The final search cutoff date was April 21, 2022. Studies were selected if they presented the results of placebo-controlled randomized clinical trials, including at least 1 donepezil, rivastigmine, or galantamine treatment arm in patients with AD, PD, or DLB; if they applied at least 1 neuropsychiatric measure including hallucinations and/or delusions; and if a full-text version of the study was available in the English language. Study selection was performed and checked by multiple reviewers. Original research data were requested on eligible studies. A 2-stage meta-analysis was then performed, using random-effects models. Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines were followed for extracting data and assessing the data quality and validity. Data extraction was checked by a second reviewer. Primary outcomes were hallucinations and delusions; secondary outcomes included all other individual neuropsychiatric subdomains as well as the total neuropsychiatric score. In total, 34 eligible randomized clinical trials were selected. Individual participant data on 6649 individuals (3830 [62.6%] women; mean [SD] age, 75.0 [8.2] years) were obtained from 17 trials (AD: n\u2009=\u200912; PD: n\u2009=\u20095; individual participant data were not available for DLB). An association with ChEI treatment was shown in the AD subgroup for delusions (-0.08; 95% CI, -0.14 to -0.03; P\u2009=\u2009.006) and hallucinations (-0.09; 95% CI, -0.14 to -0.04; P\u2009=\u2009.003) and in the PD subgroup for delusions (-0.14; 95% CI, -0.26 to -0.01; P\u2009=\u2009.04) and hallucinations (-0.08, 95% CI -0.13 to -0.03; P\u2009=\u2009.01). The results of this individual participant data meta-analysis suggest that ChEI treatment improves psychotic symptoms in patients with AD and PD with small effect sizes.",
+      "publication_types": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37358841/"
+    },
+    {
+      "pmid": "41874248",
+      "title": "Drugs for dementia.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2026",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41874248/"
+    },
+    {
+      "pmid": "26085043",
+      "title": "Pharmacological Management of Lewy Body Dementia: A Systematic Review and Meta-Analysis.",
+      "journal": "The American journal of psychiatry",
+      "year": "2015",
+      "abstract": "The authors examined research on effects, costs, and patient and caregiver views of pharmacological management strategies for Lewy body dementia. Studies were identified through bibliographic databases, trials registers, gray literature, reference lists, and experts. The authors used the search terms \"Lewy or parkinson\" and \"dementia\" through March 2015 and used the following inclusion criteria: participants with diagnoses of Lewy body dementia, dementia with Lewy bodies, or Parkinson's disease dementia (or participants' caregivers); investigation of pharmacological management strategies; outcome measures and test scores reported. Data extraction and quality assessment were conducted by at least two authors. Meta-analyses were conducted, and when studies could not be combined, summaries were provided. Forty-four studies examining 22 strategies were included in the review. Meta-analysis indicated beneficial effects of donepezil and rivastigmine for cognitive and psychiatric symptoms. Rivastigmine, but not donepezil, was associated with greater risk of adverse events. Meta-analysis of memantine suggested that it is well tolerated but with few benefits. Descriptive summaries provide some evidence of benefits for galantamine, modafinil, levodopa, rotigotine, clozapine, duloxetine, clonazepam, ramelteon, gabapentin, zonisamide, and yokukansan. Piracetam, amantadine, selegiline, olanzapine, quetiapine, risperidone, and citalopram do not appear to be effective. High-level evidence related to pharmacological strategies for managing Lewy body dementia is rare. Strategies for important areas of need in Lewy body dementia, such as autonomic symptoms and caregiver burden, have not been investigated, nor have the views of patients and caregivers about pharmacological strategies.",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26085043/"
+    },
+    {
+      "pmid": "30783428",
+      "title": "Cholinesterase inhibitors and memantine for Parkinson's disease dementia and Lewy body dementia: A meta-analysis.",
+      "journal": "Experimental and therapeutic medicine",
+      "year": "2019",
+      "abstract": "Recently, several randomized controlled trials on the use of cholinesterase inhibitors or memantine as treatments for cognitive impairment in Parkinson's disease (CIND-PD), Parkinson's disease with dementia (PDD) and dementia with Lewy bodies (DLB) were completed. The present study provided a meta-analysis of these studies to evaluate the efficacy of cholinesterase inhibitors and memantine on CIND-PD, PDD and DLB. The Cochrane Library, Pubmed, Embase and Web of Science databases were searched to retrieve eligible studies. As primary efficacy outcomes, cognitive function, global impression, behavioral symptoms and motor function were selected, while falling and adverse events were regarded as safety outcomes. Of note, domain-specific cognitive function was assessed as a primary efficacy outcome and falling as a safety outcome, which, to the best of our knowledge, has not been studied previously in CIND-PD, PDD and DLB. A total of 15 trials were included in the present meta-analysis. The results revealed that treatment with cholinesterase inhibitors resulted in improvements in cognitive function, the clinician's global impression, behavioral symptoms and motor function, in accordance with the results of previous studies. Furthermore, it was revealed that cholinesterase inhibitors had a significant effect on attention, processing speed, executive functions, memory and language; however, they did not improve visuospatial cognition compared with placebos. Memantine had a significant effect on attention, processing speed and executive functions. In addition, cholinesterase inhibitors and memantine did not significantly reduce falling. It was demonstrated that an increased number of adverse events occurred in the pooled cholinesterase inhibitors and memantine group, compared with that in the placebo group (risk ratio (RR)=1.09; 95% confidence interval (CI): 1.04-1.16; P=0.001); however, in the subgroup analysis, only the rivastigmine group experienced significantly more adverse events than the placebo group (85 vs. 73%; RR=1.18; 95% CI: 1.08-1.29; P=0.0001), but donepezil and memantine did not produce any significant adverse events. In conclusion, cholinesterase inhibitors and memantine have an effect not only on global cognitive function and motor function, but also on attention, processing speed, executive functions, memory and language. However, careful monitoring of the side effects of rivastigmine may be required. Further clinical trials are required to verify these conclusions.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30783428/"
+    },
+    {
+      "pmid": "33637811",
+      "title": "Donepezil for mild cognitive impairment in Parkinson's disease.",
+      "journal": "Scientific reports",
+      "year": "2021",
+      "abstract": "We investigated the efficacy of donepezil for mild cognitive impairment in Parkinson's disease (PD-MCI). This was a prospective, non-randomized, open-label, two-arm study. Eighty PD-MCI patients were assigned to either a treatment or control group. The treatment group received donepezil for 48\u00a0weeks. The primary outcome measures were the Korean version of Mini-Mental State Exam and Montreal Cognitive Assessment scores. Secondary outcome measures were the Clinical Dementia Rating, Unified Parkinson's Disease Rating Scale part III, Clinical Global Impression scores. Progression of dementia was assessed at 48-week. Comprehensive neuropsychological tests and electroencephalography (EEG) were performed at baseline and after 48\u00a0weeks. The spectral power ratio of the theta to beta2 band (TB2R) in the electroencephalogram was analyzed. There was no significant difference in the primary and secondary outcome measures between the two groups. However, the treatment group showed a significant decrease in TB2R at bilateral frontotemporoparietal channels compared to the control group. Although we could not demonstrate improvements in the cognitive functions, donepezil treatment had a modulatory effect on the EEG in PD-MCI patients. EEG might be a sensitive biomarker for detecting changes in PD-MCI after donepezil treatment.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33637811/"
+    },
+    {
+      "pmid": "31731914",
+      "title": "Cingulate cortex in Parkinson's disease.",
+      "journal": "Handbook of clinical neurology",
+      "year": "2019",
+      "abstract": "Once a diagnosis of Parkinson's disease (PD) has been made, even in its earliest prodromal form of subjective memory impairment, cognitive impairment has begun and involves anterior cingulate cortex (ACC). While the Braak staging scheme showed mid- to later-stage PD progression from cingulate allocortex adjacent to the corpus callosum and progressing into its neocortical moieties, the last decade has produced substantial information on the role of cingulate cortex in multiple symptoms, not just global measures of cognition. Voxel-based morphometry has been used in many studies of mild cognitive impairment (MCI) in PD to show reduced thickness in ACC and posterior cingulate cortex (PCC). Regional cerebral blood flow is altered in association with verbal IQ in all the PCC and anterior midcingulate cortex and executive impairments in ACC. Diffusion tensor imaging shows reduced fractional anisotropy throughout the entire cingulum bundle. Amnestic MCI is associated with reduced dopamine-2 receptor binding in ACC and, even in cognitively normal PD cases, dopaminergic pathways in ACC are impaired early in association with executive and language functions. The cholinergic system also has substantial changes in nicotinic and muscarinic receptor binding, and therapy with donepezil improves Mini-Mental State Exam scores and metabolism in pACC and dPCC. Cingulate cortex is also engaged in two critical symptoms: apathy and visual hallucinations. Finally, one can be optimistic that cingulate cortex will play an important role in developing new biomarkers of early PD. These methods have already been shown to be useful in cingulate cortex and include magnetic resonance spectroscopy, next-generation gene expression, and the new \u03b1-synuclein proximity ligation assay that specifically recognizes \u03b1-synuclein oligomers. Thus the future is bright for developing multivariate, multimodal biomarkers that include cingulate cortex.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31731914/"
+    },
+    {
+      "pmid": "28649615",
+      "title": "Imaging Parkinson's disease below the neck.",
+      "journal": "NPJ Parkinson's disease",
+      "year": "2017",
+      "abstract": "Parkinson's disease is a systemic disorder with widespread and early <i>\u03b1</i>-synuclein pathology in the autonomic and enteric nervous systems, which is present throughout the gastrointestinal canal prior to diagnosis. Gastrointestinal and genitourinary autonomic symptoms often predate clinical diagnosis by several years. It has been hypothesized that progressive <i>\u03b1</i>-synuclein aggregation is initiated in hyperbranched, non-myelinated neuron terminals, and may subsequently spread via retrograde axonal transport. This would explain why autonomic nerves are so prone to formation of <i>\u03b1</i>-synuclein pathology. However, the hypothesis remains unproven and in vivo imaging methods of peripheral organs may be essential to study this important research field. The loss of sympathetic and parasympathetic nerve terminal function in Parkinson's disease has been demonstrated using radiotracers such as <sup>123</sup>I-meta-iodobenzylguanidin, <sup>18</sup>F-dopamine, and <sup>11</sup>C-donepezil. Other radiotracer and radiological imaging methods have shown highly prevalent dysfunction of pharyngeal and esophageal motility, gastric emptying, colonic transit time, and anorectal function. Here, we summarize the methodology and main findings of radio-isotope and radiological modalities for imaging peripheral pathology in Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28649615/"
+    },
+    {
+      "pmid": "22915447",
+      "title": "Donepezil in Parkinson's disease dementia: a randomized, double-blind efficacy and safety study.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2012",
+      "abstract": "Parkinson's disease dementia (PDD) is associated with cholinergic deficits. This report presents an efficacy and safety study of the acetylcholinesterase inhibitor donepezil hydrochloride in PDD. PDD patients (n = 550) were randomized to donepezil (5 or 10 mg) or placebo for 24 weeks. Coprimary end points were the Alzheimer's Disease Assessment Scale-cognitive subscale (ADAS-cog) and Clinician's Interview-Based Impression of Change plus caregiver input (CIBIC+; global function). Secondary end points measured executive function, attention, activities of daily living (ADLs), and behavioral symptoms. Safety and tolerability were assessed. ADAS-cog mean changes from baseline to week 24 (end point) were not significant for donepezil in the intent-to-treat population by the predefined statistical model (difference from placebo: -1.45, P = .050, for 5 mg; -1.45, P = .076, for 10 mg). Alternative ADAS-cog analysis, removing the treatment-by-country interaction term from the model, revealed significant, dose-dependent benefit with donepezil (difference from placebo: -2.08, P = .002, for 5 mg; -3.31, P < .001, for 10 mg). The 10-mg group, but not the 5-mg group, had significantly better CIBIC+ scores compared with placebo (3.7 vs 3.9, P = .113, for 5 mg; 3.6 vs 3.9, P = .040, for 10 mg). Secondary end points-Mini-Mental State Exam; Delis-Kaplan Executive Function System; Brief Test of Attention, representing cognitive functions particularly relevant to PDD-showed significant benefit for both donepezil doses (P \u2264 .007). There were no significant differences in ADLs or behavior. Adverse events were more common with donepezil but mostly mild/moderate in severity. Although the study did not achieve its predefined primary end points, it presents evidence suggesting that donepezil can improve cognition, executive function, and global status in PDD. Tolerability was consistent with the known safety profile of donepezil. \u00a9 2012 Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22915447/"
+    },
+    {
+      "pmid": "26114860",
+      "title": "Donepezil Regulates 1-Methyl-4-phenylpyridinium-Induced Microglial Polarization in Parkinson's Disease.",
+      "journal": "ACS chemical neuroscience",
+      "year": "2015",
+      "abstract": "1-Methyl-4-phenylpyridinium (MPP+) induces microglial activation and degeneration of dopaminergic (DAergic) neurons. Donepezil is a well-known acetylcholinesterase inhibitor used clinically to treat cognitive dysfunction in Alzheimer's disease (AD). In the present study, we tested the hypothesis that MPP+ promotes microglial M1 polarization and suppresses M2 polarization and that this can be restored by donepezil. Results indicate that MPP+ treatment in microglial BV2 cells promotes microglial polarization toward the M1 state. However, pretreatment with donepezil inhibited MPP+-induced M1 polarization in microglia by suppressing the release of interleukin (IL)-6, IL-1\u03b2, or tumor necrosis factor (TNF)-\u03b1. Importantly, we found that MPP+ inhibited microglial M2 polarization by suppressing expression of Arg-1, Fizz1, and Ym1, which was also rescued by pretreatment with donepezil. In addition, IL-4-mediated induction of anti-inflammatory marker genes IL-10, IL-13, and transforming growth factor-\u03b22 (TGF-\u03b22) were significantly attenuated by MPP+ in BV2 cells, which was restored by pretreatment with donepezil in a concentration-dependent manner. Mechanistically, we found that the addition of MPP+ reduced the intensity of phosphorylated signal transducer and activator of transcription 6 (STAT6) but not total STAT6 in IL-4-stimulated BV2 cells. Importantly, pretreatment of microglial BV2 cells with donepezil 3 h prior to administration of MPP+ rescued the reduction of STAT6 phosphorylation induced by MPP+.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26114860/"
+    },
+    {
+      "pmid": "17472546",
+      "title": "Donepezil: an update.",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2007",
+      "abstract": "Donepezil hydrochloride is the most widely prescribed drug for Alzheimer's disease (AD). The main mechanism of action through which it influences cognition and function is presumed to be the inhibition of acetylcholinesterase enzyme in the brain; however, donepezil may also impact the pathophysiology of AD at several other points. Officially approved for mild-to-moderate and severe AD, donepezil has also been shown to be effective in early-stage AD, vascular dementia, Parkinson's disease dementia/Lewy body disease and cognitive symptoms associated with multiple sclerosis. In addition, one study suggested that donepezil may delay the onset of AD in subjects with mild cognitive impairment, a prodrome to AD. The pharmacokinetics, pharmacodynamics, safety/tolerability profile and drug interaction properties of donepezil make it an easy and safe agent to use. However, in general, the efficacy of donepezil is limited, and ongoing studies are investigating other agents that may ultimately overtake its present position as the mainstay of anti-AD therapy.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/17472546/"
+    },
+    {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    }
+  ]
+}

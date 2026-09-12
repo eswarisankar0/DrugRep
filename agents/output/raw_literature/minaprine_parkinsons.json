@@ -1,0 +1,19 @@
+{
+  "drug_name": "Minaprine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 1,
+  "abstracts": [
+    {
+      "pmid": "6869694",
+      "title": "[Statokinesimetric study of the effect of minaprine on tonic postural activity in akineto-hypertonic Parkinson patients].",
+      "journal": "Agressologie: revue internationale de physio-biologie et de pharmacologie appliquees aux effets de l'agression",
+      "year": "1983",
+      "abstract": "",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/6869694/"
+    }
+  ]
+}

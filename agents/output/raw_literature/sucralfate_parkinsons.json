@@ -1,0 +1,31 @@
+{
+  "drug_name": "Sucralfate",
+  "disease_name": "Parkinson",
+  "n_abstracts": 2,
+  "abstracts": [
+    {
+      "pmid": "40438945",
+      "title": "Characterizing pharmacobezoar formation: a descriptive analysis from VigiBase.",
+      "journal": "Clinical toxicology (Philadelphia, Pa.)",
+      "year": "2025",
+      "abstract": "Pharmacobezoars are concretions of drugs that can persist within the gastrointestinal tract and can lead to mechanical obstruction and pharmacological toxicity. We aimed to provide a descriptive analysis of reported cases of pharmacobezoar in VigiBase, the World Health Organization global database of adverse event reports for medicines and vaccines. We conducted a descriptive analysis of all de-duplicated individual case safety reports related to pharmacobezoars recorded in VigiBase, from its inception in 1968 to March 2, 2025. In a subgroup analysis, we selected reports containing at least one Preferred Term related to drug overdose, misuse, or suicidal behavior to identify potential cases of acute intoxication. A total of 632 individual case safety reports related to pharmacobezoars were analyzed. These primarily involved male patients (<i>n</i>\u2009=\u2009318; 50.3%), with a median age of 60.0\u2009years (IQR 43.0-71.0\u2009years). Overall, 432 reports (68.4%) described serious adverse drug reactions. The most frequently involved drugs were carbidopa/levodopa (<i>n</i>\u2009=\u2009148; 23.4%), quetiapine (<i>n</i>\u2009=\u200963; 10.0%), sucralfate (<i>n</i>\u2009=\u200946; 7.3%), nifedipine (<i>n</i>\u2009=\u200941; 6.5%), and acetylsalicylic acid (<i>n</i>\u2009=\u200940; 6.3%). The subgroup analysis included 158 reports related to acute intoxications, mostly involving female patients (<i>n</i>\u2009=\u2009103; 65.2%), with a median age of 43.0\u2009years (IQR 24.0-54.0\u2009years). Almost all were serious (<i>n</i>\u2009=\u2009156; 98.7%), with quetiapine, venlafaxine, ibuprofen, acetylsalicylic acid, paracetamol, and lorazepam most frequently reported. The findings highlight the clinical severity and heterogeneous presentation of pharmacobezoars. Carbidopa/levodopa was frequently reported, possibly reflecting underlying conditions such as Parkinson disease with delayed gastric motility. The high prevalence of psychotropics underscores the need for targeted prevention in at-risk populations, particularly those with psychiatric comorbidities. While pharmacobezoars are rare, their association with serious and potentially fatal outcomes warrants increased clinical awareness. Early recognition and appropriate management may be particularly important in cases involving high-risk drugs.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40438945/"
+    },
+    {
+      "pmid": "28641541",
+      "title": "\"Stress\" is 80 Years Old: From Hans Selye Original Paper in 1936 to Recent Advances in GI Ulceration.",
+      "journal": "Current pharmaceutical design",
+      "year": "2017",
+      "abstract": "The first scientific publication on 'general adaption syndrome', or as we know today 'biologic stress' has been published in Nature in 1936 by the 29-year old Hans Selye. His results in that short publication that contained no references or illustrations, were based on experiments in rats that were exposed to severe insults/ stressors, but his idea about a 'nonspecific bodily response' originated from his observations of sick patients whom he had seen as a medical student and young clinician. Autopsy of stressed rats revealed three major, grossly visible changes: hyperemia and enlargement of the adrenals, atrophy of the thymus and lymph nodes as well as hemorrhagic gastric erosions/ulcers (the \"stress triad\"). Based on this and additional observations, he concluded that the key master organ in stress reactions is the adrenal cortex (although he also accepted the limited and short lasting effect of catecholamines released from the adrenal medulla) which stimulated by an increased secretion of ACTH, secreted by the anterior pituitary gland. He thus identified the first molecular mediators of the stress reaction, i.e., steroids released from the adrenal cortex that we call today glucocorticoids, based on his classification and naming of steroids. At the end of a very productive life in experimental medicine, Selye recognized that under both unpleasant and demanding stressors as well as positive, rewarding stimuli adrenal cortex releases the same glucocorticoids and only certain brain structures may distinguish the stimuli under distress and eustress - terms he introduced in 1974, that also contained his last definition of stress: the nonspecific response of the body on any demand on it. After brief description of the history of stress research, the rest of this review is focused on one element of stress triad, i.e., gastroduodenal ulceration, especially its pathogenesis, prevention and treatment. Following a short description of acute gastroprotection, discovered by one of Selye's students, we discuss new molecular mediators of gastroduodenal ulceration like dopamine and new drugs that either only heal (very potently, on molar basis) or prevent and heal ulcers like sucralfate derivatives and the relatively new peptide BPC-157. We conclude that despite the extensive and multidisciplinary research on stress during the last 80 years, a lot of basic and clinical research is needed to better understand the manifestations, central and peripheral molecular regulators of stress response, especially the modes of prevention/management of distress or its transformation into eustress and the treatment of stress-related diseases.",
+      "publication_types": [
+        "Historical Article",
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28641541/"
+    }
+  ]
+}

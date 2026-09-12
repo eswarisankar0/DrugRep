@@ -1,0 +1,155 @@
+{
+  "drug_name": "Benztropine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 12,
+  "abstracts": [
+    {
+      "pmid": "11368397",
+      "title": "Fatal benztropine toxicity.",
+      "journal": "Medicine, science, and the law",
+      "year": "2001",
+      "abstract": "Benztropine is an anticholinergic agent used in the treatment of Parkinson's disease and drug induced extrapyramidal disorders. We report a case of fatal benztropine toxicity. This drug is regarded as relatively safe and reports of isolated toxicity are scarce. In ascribing a particular death to fatal drug toxicity the forensic pathologist must take into account the circumstances surrounding the death, the presence and significance of any co-existent natural disease and the potential contribution of any other detected therapeutic or illicit agents. This interpretation will occur in the knowledge that certain drugs will not be detected and that with respect to quantification of postmortem drug levels, the notion of postmortem redistribution should always be considered.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11368397/"
+    },
+    {
+      "pmid": "40760081",
+      "title": "The Parkinson's drug benztropine possesses histamine receptor 1-dependent host-directed antimicrobial activity against Mycobacterium tuberculosis.",
+      "journal": "npj antimicrobials and resistance",
+      "year": "2025",
+      "abstract": "Intracellular pathogens such as Mycobacterium tuberculosis (Mtb) evade host defence mechanisms to infect and survive within host cells. Host-directed therapy (HDT) offers a promising alternative to antibiotics and may overcome antimicrobial resistance. Using high-content screening, we identified benztropine (BZT), an approved Parkinson's disease drug, as a potent inhibitor of intracellular Mtb. BZT is active in both human and murine macrophages but is inactive in broth. In an aerosol Mtb mouse infection model, oral administration of BZT reduced the burden of Mtb in the lungs by up to 70%. BZT was also active against Salmonella enterica serovar Typhimurium (STm) in an abscess model of infection, significantly reducing size and bacterial load. Chemical competition assays, CRISPR knockouts, and siRNA silencing assays revealed that BZT's activity against Mtb is mediated via macrophage histamine receptor 1 (HRH1). Our findings establish BZT as a promising repurposed candidate and a lead compound for developing HRH1-targeting antibacterial HDTs.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40760081/"
+    },
+    {
+      "pmid": "36638693",
+      "title": "Benztropine and suicide attempts and intentional self-harm.",
+      "journal": "Psychiatry research",
+      "year": "2023",
+      "abstract": "This large-scale pharmacoepidemiologic study was conducted to confirm a previous signal for decreased risk of suicide attempt following prescription fills for benztropine. We used a within-person exposure-only cohort design to study the dynamic association between benztropine prescription fills over a 12-month period and suicidal events (suicide attempts and intentional self-harm) in 62,493 patients with private health insurance (MarketScan - MS) who filled a new benztropine prescription between 2011 and 2019. A discrete-time survival analysis was used to analyze the data, adjusting for age, sex, diagnoses related to suicidal behavior, Parkinson's disease, medical comorbidities, history of suicide attempts, concomitant CNS medications, and time-varying antipsychotic use. Overall, there were 486 suicidal events (0.8%) following the index end-date of the one-year baseline period. Benztropine use was associated with fewer suicidal events (HR=0.63, 95% CI\u00a0=\u00a00.50, 0.80). Patients treated with antipsychotics and benztropine had a similar reduction in suicidal events as patients treated with benztropine alone in both within-subject and between-subject analyses. Similar associations were found for patients with bipolar disorder or schizophrenia, and those treated with newer versus older generation antipsychotics. Dose-response and duration response relationships were found, with an overall 6% reduction in suicidal events per 1\u00a0mg equivalent dosage per month, that was similar in those treated and those not treated with antipsychotics. Benztropine was found to lower suicidal event rates, comparably in those receiving or not receiving antipsychotic medications, regardless of the presence of major psychiatric disorders. This observation warrants testing in a randomized clinical trial. No funding sources were utilized for this manuscript.",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36638693/"
+    },
+    {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
+      "pmid": "37141483",
+      "title": "Withdrawal-Emergent Dyskinesia Related to Benztropine: A Case Report.",
+      "journal": "WMJ : official publication of the State Medical Society of Wisconsin",
+      "year": "2023",
+      "abstract": "Benztropine is an anticholinergic drug used as a therapy for Parkinson's disease and treatment for extrapyramidal side effects. While tardive dyskinesia is an involuntary movement disorder that often occurs gradually after long-term use of medications, it does not commonly present acutely. A 31-year-old White woman experiencing psychosis presented with spontaneous, acute-onset dyskinesia induced with the withdrawal of benztropine. She had been followed in our academic outpatient clinic for medication management and intermittent psychotherapy. The pathophysiology of tardive dyskinesia is not fully understood, but several hypotheses exist, including the involvement of changes in basal ganglia neuronal systems. To our knowledge, this is the first case report to document acute-onset dyskinesia associated with the withdrawal of benztropine. his case report, which describes an atypical response to discontinuing benztropine, might offer the scientific community potential clues to better understand the pathophysiology of tardive dyskinesia.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37141483/"
+    },
+    {
+      "pmid": "41349504",
+      "title": "Association between cognitive adverse effects of anticholinergic medication and development of dementia in Parkinson's disease.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2026",
+      "abstract": "Approximately one-third of patients with Parkinson's disease (PD) develop dementia, and anticholinergic use has been implicated as a risk factor, particularly with prolonged exposure. This study examined whether short-term anticholinergic use was associated with differing dementia incidence between cognitive and non-cognitive adverse effects groups. We retrospectively reviewed records of 209 PD patients prescribed anticholinergics (trihexyphenidyl, benztropine, or amantadine) for the first time at Seoul National University Hospital between 2011 and 2020. Patients were classified into three groups: those who discontinued due to cognitive or non-cognitive adverse effects, and those who continued long-term use without adverse effects. Dementia incidence was compared across groups using Kaplan-Meier analysis, and multivariable logistic regression adjusted for age, sex, and disease duration. Of the 155 patients analyzed, 62 continued long-term use, whereas 12 and 81 discontinued due to cognitive and non-cognitive adverse effects, respectively. Baseline characteristics and anticholinergic dosages were comparable among groups. After covariate adjustment, dementia incidence did not differ between cognitive and non-cognitive adverse effects groups (adjusted OR\u00a0=\u00a01.17, 95\u00a0% CI 0.13-10.22, p\u00a0=\u00a00.890). Excluding those who discontinued due to lack of effect yielded similar results (adjusted OR\u00a0=\u00a00.68, 95\u00a0% CI 0.10-4.59, p\u00a0=\u00a00.690). No significant difference was observed between the long-term use and cognitive adverse effects group (adjusted OR\u00a0=\u00a01.57, 95\u00a0% CI 0.23-10.89, p\u00a0=\u00a00.646). The cognitive adverse effects of anticholinergics were not associated with increased dementia risk. Prospective studies assessing individual variability in anticholinergic sensitivity and cognitive outcomes in PD are warranted.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41349504/"
+    },
+    {
+      "pmid": "30657060",
+      "title": "Preventive action of benztropine on platinum-induced peripheral neuropathies and tumor growth.",
+      "journal": "Acta neuropathologica communications",
+      "year": "2019",
+      "abstract": "The endogenous cholinergic system plays a key role in neuronal cells, by suppressing neurite outgrowth and myelination and, in some cancer cells, favoring tumor growth. Platinum compounds are widely used as part of first line conventional cancer chemotherapy; their efficacy is however limited by peripheral neuropathy as a major side-effect. In a multiple sclerosis mouse model, benztropine, that also acts as an anti-histamine and a dopamine re-uptake inhibitor, induced the differentiation of oligodendrocytes through M1 and M3 muscarinic receptors and enhanced re-myelination. We have evaluated whether benztropine can increase anti-tumoral efficacy of oxaliplatin, while preventing its neurotoxicity.We showed that benztropine improves acute and chronic clinical symptoms of oxaliplatin-induced peripheral neuropathies in mice. Sensory alterations detected by electrophysiology in oxaliplatin-treated mice were consistent with a decreased nerve conduction velocity and membrane hyperexcitability due to alterations in the density and/or functioning of both sodium and potassium channels, confirmed by action potential analysis from ex-vivo cultures of mouse dorsal root ganglion sensory neurons using whole-cell patch-clamp. These alterations were all prevented by benztropine. In oxaliplatin-treated mice, MBP expression, confocal and electronic microscopy of the sciatic nerves revealed a demyelination and confirmed the alteration of the myelinated axons morphology when compared to animals injected with oxaliplatin plus benztropine. Benztropine also prevented the decrease in neuronal density in the paws of mice injected with oxaliplatin. The neuroprotection conferred by benztropine against chemotherapeutic drugs was associated with a lower expression of inflammatory cytokines and extended to diabetic-induced peripheral neuropathy in mice.Mice receiving benztropine alone presented a lower tumor growth when compared to untreated animals and synergized the anti-tumoral effect of oxaliplatin, a phenomenon explained at least in part by benztropine-induced ROS imbalance in tumor cells.This report shows that blocking muscarinic receptors with benztropine prevents peripheral neuropathies and increases the therapeutic index of oxaliplatin. These results can be rapidly transposable to patients as benztropine is currently indicated in Parkinson's disease in the United States.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30657060/"
+    },
+    {
+      "pmid": "41492586",
+      "title": "Previously Incarcerated Veteran: A Case of Drug-Induced Parkinsonism.",
+      "journal": "Cureus",
+      "year": "2025",
+      "abstract": "Drug-induced Parkinsonism (DIP) is a recognized extrapyramidal side effect (EPS) associated with prolonged antipsychotic therapy, and typically occurs early in antipsychotic initiation. We present a rare case of late-onset DIP in a 64-year-old previously incarcerated male veteran with schizophrenia, who had been maintained on risperidone for nearly 40 years without regular psychiatric follow-up. The patient presented with a one-month progression of rigidity, dysarthria, and dysphagia. Upon admission, neurological evaluation revealed significant cogwheel rigidity, slow speech, flat affect, and dysdiadochokinesia consistent with DIP. Treatment involved gradual tapering of risperidone, introduction of benztropine for symptomatic relief, and initiation of aripiprazole to maintain psychiatric stability. Symptoms markedly improved, reaffirming the diagnosis of DIP over idiopathic Parkinson's disease. This case emphasizes the importance of regular medication review and follow-up in managing antipsychotic therapy to prevent severe EPS complications, particularly in vulnerable populations such as incarcerated individuals and military veterans.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41492586/"
+    },
+    {
+      "pmid": "7202230",
+      "title": "Parkinson's disease: Cogentin with Sinemet, a better response.",
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "year": "1982",
+      "abstract": "1. A randomized, placebo controlled, double-blind cross-over study was conducted to evaluate the clinical efficacy of the anticholinergic agent, benztropine mesylate (CogentinR) in 29 patients with mild to moderate, idiopathic Parkinson disease. 2. Patients were maintained on a stable, therapeutically optimal dosage and schedule of levadopa-carbidopa (Sinemet) throughout the study. 3. Both the neurologist's and the patient's global assessments of treatment efficacy indicated that Sinemet plus benztropine mesylate resulted in significantly greater improvement than Sinemet plus placebo. 4. Qualitative and quantitative evaluations of relevant neurologic functions showed small, but statistically significant improvements for rigidity, finger tapping speed and activities of daily living in patients during the Sinemet plus benztropine mesylate treatment period. 5. At the completion of the study 16 patients chose to continue taking benztropine mesylate as an adjuvant to Sinemet. 6. No important adverse side effects occurred during the study.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S.",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/7202230/"
+    },
+    {
+      "pmid": "23565891",
+      "title": "Anti-Parkinson's disease drugs and pharmacogenetic considerations.",
+      "journal": "Expert opinion on drug metabolism & toxicology",
+      "year": "2013",
+      "abstract": "The development of pharmacogenetic-based clinical practice guidelines for the use of anti-Parkinson's disease drugs requires, as a pre-requisite, the identification and validation of genetic biomarkers. These biomarkers are then used as surrogate endpoints. This review analyzes potential genetic biomarkers which can be used to improve anti-Parkinson's disease therapy. The authors present an overview of current knowledge of pharmacogenetic implications of anti-Parkinson's disease drugs, including genes coding for the corresponding drug-metabolizing enzymes and drug targets. The gene/drug pairings with the strongest potential for pharmacogenetic recommendations include: CYP2C19/benztropine, COMT/levodopa and entacapone, CYP2B6/selegiline, UGT1A/entacapone, DRD2/ropinirole, pramipexole and cabergoline, and DRD3/ropinirole and pramipexole. Evidence supporting the effect of substrates, inhibitor or inducers for drug specific metabolizing enzymes in anti-Parkinson's disease drug response includes CYP1A2 in the response to ropinirole and rasagiline, and CYP3A4 in the response to bromocriptine, lisuride, pergolide and cabergoline. The authors present and discuss the current information on gene variations according to the 1000 genomes catalog and other databases with regards to anti-Parkinson's disease drugs. They also review and discuss the clinical implications of these variations. The goal of pharmacogenomic testing for anti-Parkinson's disease drugs should be conservative and aimed at selecting determined drugs for determined patients. However, much additional research is still needed to obtain reliable pre-prescription tests.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/23565891/"
+    },
+    {
+      "pmid": "9109903",
+      "title": "Benztropine versus clozapine for the treatment of tremor in Parkinson's disease.",
+      "journal": "Neurology",
+      "year": "1997",
+      "abstract": "Four open-label studies have reported beneficial effects of clozapine on the tremor of idiopathic Parkinson's disease (PD). We performed a double-blind crossover trial with a 2-week washout, comparing low-dose clozapine to benztropine for the treatment of tremor in PD. Twenty-two subjects enrolled and 19 completed the study. Benztropine and clozapine were equally effective in improving tremor and the motor score of the United Parkinson's Disease Rating Scale at mean doses of 3.0 and 39 mg/day, respectively. Significant adverse events were experienced with each drug, but leukopenia was not encountered. We conclude that the atypical antipsychotic drug clozapine is helpful in the treatment of tremor in PD and should be considered when all other drug therapies fail.",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/9109903/"
+    },
+    {
+      "pmid": "40148390",
+      "title": "Network based approach for drug target identification in early onset Parkinson's disease.",
+      "journal": "Scientific reports",
+      "year": "2025",
+      "abstract": "Despite the abundance of large-scale molecular and drug-response data, current research on early-onset Parkinson's disease (EOPD) markers often lacks mechanistic interpretations of drug-gene relationships, limiting our understanding of how drugs exert their therapeutic effects. While existing studies provide valuable EOPD markers, the mechanisms by which targeted drugs act remain poorly understood. We propose DTI-Prox, a novel workflow that identifies potentially overlooked EOPD markers and suggests relevant drug targets. DTI-Prox employs network proximity to measure how closely connected a drug and gene are within a biological network. Additionally, node similarity, which assesses the functional resemblance between network nodes, reveals meaningful drug-gene connections. DTI-Prox identifies 417 novel drug-target pairs and four previously unreported EOPD markers (PTK2B, APOA1, A2M, and BDNF), demonstrating significant pathway enrichment in neurodegenerative processes. Notably, shared pathway analysis shows that prioritized drugs such as Amantadine, Apomorphine, Atropine, Benztropine, Biperiden, Bromocriptine, Cabergoline, Carbidopa, and Citalopram, currently used for other conditions, interact with key EOPD-associated diagnostic markers, suggesting their potential for drug repurposing. The constructed functional network's validity is reinforced by statistically significant drug-target pairs. The findings provide new insights into EOPD drug mechanisms and identify promising therapeutic candidates, potentially leading to more effective, personalized treatment approaches for EOPD patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40148390/"
+    }
+  ]
+}

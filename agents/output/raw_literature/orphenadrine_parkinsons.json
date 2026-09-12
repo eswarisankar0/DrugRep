@@ -1,0 +1,174 @@
+{
+  "drug_name": "Orphenadrine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 14,
+  "abstracts": [
+    {
+      "pmid": "14087947",
+      "title": "PARKINSON'S DISEASE.",
+      "journal": "Physiotherapy",
+      "year": "1963",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/14087947/"
+    },
+    {
+      "pmid": "11277",
+      "title": "Extrapyramidal effects of neuroleptics.",
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "year": "1976",
+      "abstract": "A study was conducted on 66 psychiatric inpatients who took major tranquilizers for periods of four to 16 years. The frequency of signs of Parkinsonism and the effects of orphenadrine on these were studied in a double-blind crossover method. Sixty-one per cent of the patients showed signs of Parkinsonism. Female patients and those with organic brain pathology more frequently exhibited Parkinsonism (although the difference was not statistically significant). No correlation was found between duration of treatment and extrapyramidal effects. Of the 40 patients who developed Parkinsonism, 25 responded favourably to orphenadrine, while six (15%) had more marked manifestations on orphenadrine than on placebo.",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11277/"
+    },
+    {
+      "pmid": "3741741",
+      "title": "Treatment of Parkinson's disease with orphenadrine alone and in combination with L-dopa.",
+      "journal": "The British journal of clinical practice",
+      "year": "1986",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/3741741/"
+    },
+    {
+      "pmid": "12937087",
+      "title": "300-Hz subthalamic oscillations in Parkinson's disease.",
+      "journal": "Brain : a journal of neurology",
+      "year": "2003",
+      "abstract": "Despite several studies and models, much remains unclear about how the human basal ganglia operate. Deep brain stimulation (DBS) of the subthalamic nucleus (STN) is an effective treatment for complicated Parkinson's disease, but how DBS acts also remains unknown. The clinical benefit of DBS at frequencies >100 Hz suggests the possible importance of neural rhythms operating at frequencies higher than the range normally considered for basal ganglia processing (<100 Hz). The electrodes implanted for DBS also offer the opportunity to record neural activity from the human basal ganglia. This study aimed to assess whether oscillations at frequencies >100 Hz operate in the human STN. While recording local field potentials from the STN of nine patients with Parkinson's disease through DBS electrodes, we found a dopamine- and movement-dependent 300-Hz rhythm. At rest, and in the absence of dopaminergic medication, in most cases (eight out of 11 nuclei) the 100-1000 Hz band showed no consistent rhythm. Levodopa administration elicited (or markedly increased) a 300-Hz rhythm at rest [(mean +/- SD) central frequency: 319 +/- 33 Hz; bandwidth: 72 +/- 21 Hz; power increase (after medication - before medication)/before medication: 1.30 +/- 1.25; n = 11, P = 0.00098]. The 300-Hz rhythm was also increased by apomorphine, but not by orphenadrine. The 300-Hz rhythm was modulated by voluntary movement. Before levodopa administration, movement-related power increase in the 300-Hz rhythm was variably present in different subjects, whereas after levodopa it became a robust phenomenon [before 0.014 +/- 0.014 arbitrary units (AU), after 0.178 +/- 0.339 AU; n = 8, P = 0.0078]. The dopamine-dependent 300-Hz rhythm probably reflects a bistable compound nuclear activity and supports high-resolution information processing in the basal ganglia circuit. An absent 300-Hz subthalamic rhythm could be a pathophysiological clue in Parkinson's disease. The 300-Hz rhythm also provides the rationale for an excitatory--and not only inhibitory--interpretation of DBS mechanism of action in humans.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/12937087/"
+    },
+    {
+      "pmid": "13940177",
+      "title": "Assessment of drug therapy in Parkinsonism.",
+      "journal": "British medical journal",
+      "year": "1963",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/13940177/"
+    },
+    {
+      "pmid": "9195597",
+      "title": "Dopamine/glutamate interactions in Parkinson's disease.",
+      "journal": "Neuroscience and biobehavioral reviews",
+      "year": "1997",
+      "abstract": "In Parkinson's disease, the tonic inhibition by basal ganglia output structures may be exacerbated by the action of the subthalamic nucleus. As expected, the reduction of excitatory impact from this structure has been shown to reduce akinesia in monkeys with experimental parkinsonism. The findings of receptor binding studies supporting an increased neuronal activity of efferents of the subthalamic nucleus in patients with Parkinson's disease, suggest that subthalamic nucleotomy or pallidotomy may be effective lesions in the neurosurgical treatment of Parkinson's disease. Systemic administration of glutamate antagonists has been shown to have anti-akinetic effects in animal models of Parkinson's disease. Other observations in monkeys indicate that excitatory amino acids such as glutamate are involved in the pathophysiological cascade of MPTP (1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine)-induced neuronal cell death. The neuroprotective effects of competitive and non-competitive NMDA (N-methyl-D-aspartate) receptor antagonists against MPTP toxicity support the hypothesis that NMDA receptor-mediated events are involved in the neurotoxicity of MPTP. Glutamate antagonists may therefore be able to retard the progression and to improve the symptomatology of Parkinson's disease. Several compounds with anti-parkinsonian effects such as amantadine, memantine, budipine and orphenadrine have been shown to be non-competitive NMDA receptor antagonists and are candidates for clinical trials on the neuroprotective efficacy of NMDA receptor antagonism. Furthermore, glutamate antagonists are useful in the treatment of the akinetic parkinsonian crisis, a severe form of clinical deterioration in patients with Parkinson's disease.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/9195597/"
+    },
+    {
+      "pmid": "19217209",
+      "title": "Involvement of voltage-gated sodium channels blockade in the analgesic effects of orphenadrine.",
+      "journal": "Pain",
+      "year": "2009",
+      "abstract": "Orphenadrine is a drug acting on multiple targets, including muscarinic, histaminic, and NMDA receptors. It is used in the treatment of Parkinson's disease and in musculoskeletal disorders. It is also used as an analgesic, although its mechanism of action is still unknown. Both physiological and pharmacological results have demonstrated a critical role for voltage-gated sodium channels in many types of chronic pain syndromes. We tested the hypothesis that orphenadrine may block voltage-gated sodium channels. By using patch-clamp experiments, we evaluated the effects of the drug on whole-cell sodium currents in HEK293 cells expressing the skeletal muscle (Nav1.4), cardiac (Nav1.5) and neuronal (Nav1.1 and Nav1.7) subtypes of human sodium channels, as well as on whole-cell tetrodotoxin (TTX)-resistant sodium currents likely conducted by Nav1.8 and Nav1.9 channel subtypes in primary culture of rat DRG sensory neurons. The results indicate that orphenadrine inhibits sodium channels in a concentration-, voltage- and frequency-dependent manner. By using site-directed mutagenesis, we further show that orphenadrine binds to the same receptor as the local anesthetics. Orphenadrine affinities for resting and inactivated sodium channels were higher compared to those of known sodium channels blockers, such as mexiletine and flecainide. Low, clinically relevant orphenadrine concentration produces a significant block of Nav1.7, Nav1.8, and Nav1.9 channels, which are critical for experiencing pain sensations, indicating a role for sodium channel blockade in the clinical efficacy of orphenadrine as analgesic compound. On the other hand, block of Nav1.1 and Nav1.5 may contribute to the proconvulsive and proarrhythmic adverse reactions, especially observed during overdose.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/19217209/"
+    },
+    {
+      "pmid": "10340304",
+      "title": "In vitro and in vivo protective effect of orphenadrine on glutamate neurotoxicity.",
+      "journal": "Neuropharmacology",
+      "year": "1999",
+      "abstract": "The anticholinergic drug orphenadrine is used in the treatment of Parkinson's disease. In this study we evaluate the neuroprotective effects of orphenadrine on excitotoxicity in vivo and in vitro. Orphenadrine prevented the mitochondrial and the cytoplasmic membrane potential decrease evoked by NMDA (100 microM) in rat dissociated cerebellar granule cells showing an IC50 value of 11.6 +/- 4.7 microM (mean +/- SEM, n = 5) and 13.5 +/- 2.3 microM (n = 3), respectively. Orphenadrine was able to protect cerebellar granule cell cultures from glutamate-induced neurotoxicity. Kainic acid (KA, 10 mg/kg)-induced excitotoxicity was evaluated in vivo using the microglial marker peripheral-type benzodiazepine receptor (PBR) and heat shock protein 72 (HSP72) expression in the hippocampus. The Bmax of PBR for control tissues was 589.1 +/- 40.0 fmol/mg protein (n = 4), increasing to 1692.5 +/- 51.6 fmol/mg protein (n = 5) after the KA treatment. Pretreatment with orphenadrine (10 mg/kg) blocked the KA-induced increase in PBR density. As expected, KA-administration induced the expression of HSP72 that was blocked in the orphenadrine + KA-treated rats. We demonstrate that orphenadrine, interacting at the NMDA receptor, is able to prevent the neurotoxicity mediated by activation at glutamate ionotropic receptors.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10340304/"
+    },
+    {
+      "pmid": "15380487",
+      "title": "Rhythm-specific pharmacological modulation of subthalamic activity in Parkinson's disease.",
+      "journal": "Experimental neurology",
+      "year": "2004",
+      "abstract": "The subthalamic nucleus (STN) has a key role in the pathophysiology of Parkinson's disease and is the primary target for high-frequency deep brain stimulation (DBS). The STN rest electrical activity in Parkinson's disease, however, is still unclear. Here we tested the hypothesis that pharmacological modulation of STN activity has rhythm-specific effects in the classical range of EEG frequencies, below 50 Hz. We recorded local field potentials (LFPs) through electrodes implanted in the STN of patients with Parkinson's disease (20 nuclei from 13 patients). After overnight withdrawal of antiparkinsonian therapy, LFPs were recorded at rest both before (off) and after (on) acute administration of different antiparkinsonian drugs: levodopa, apomorphine, or orphenadrine. In the off-state, STN LFPs showed clearly defined peaks of oscillatory activity below 50 Hz: at low frequencies (2-7 Hz), in the alpha (7-13 Hz), low-beta (13-20 Hz), and high-beta range (20-30 Hz). In the on-state after levodopa and apomorphine administration, low-beta activity significantly decreased and low-frequency activity increased. In contrast, orphenadrine increased beta activity. Power changes elicited by levodopa and apomorphine at low frequencies and in the beta range were not correlated, whereas changes in the alpha band, which were globally not significant, correlated with the beta rhythm (namely, low beta: 13-20 Hz). In conclusion, in the human STN, there are at least two rhythms below 50 Hz that are separately modulated by antiparkinsonian medication: one at low frequencies and one in the beta range. Multiple rhythms are consistent with the hypothesis of multiple oscillating systems, each possibly correlating with specific aspects of human STN function and dysfunction.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15380487/"
+    },
+    {
+      "pmid": "10551971",
+      "title": "Orphenadrine poisoning in a child: clinical and analytical data.",
+      "journal": "Intensive care medicine",
+      "year": "1999",
+      "abstract": "Orphenadrine is an anticholinergic drug used mainly in the treatment of Parkinson's disease. It has a peripheral and central effect and a known cardiotoxic effect when taken in large doses. We report the successful outcome of the treatment of a 2 1/2-year-old girl who accidentally ingested 400 mg of orphenadrine hydrochloride (Disipal). One hour after ingestion she presented neurological symptoms: confusion, ataxic walking, and periods of severe agitation. Generalized tonic-clonic seizures appeared resistant to the administration of multiple antiepileptics. They ceased after a supplementary dose of intravenous diazepam, endotracheal intubation, and mechanical ventilation. An episode of ventricular tachycardia responded well to i. v. lidocaine. Physostigmine was administered in three successive doses. The initial orphenadrine plasma level (3,55 microg/ml) was in the toxic range, associated with high mortality. The calculated elimination half-life was 10.2 h and the molecule and/or its metabolites were found up to 90 h after ingestion.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10551971/"
+    },
+    {
+      "pmid": "6858777",
+      "title": "Abnormal involuntary movements: a study of dopaminergic receptor interaction.",
+      "journal": "Advances in neurology",
+      "year": "1983",
+      "abstract": "Abnormal involuntary movements caused by chronic levodopa treatment in Parkinson's disease, tardive dyskinesia resulting from long-term treatment with neuroleptics, and Huntington's disease all seem to be related to functional alteration and/or derangement of the DA/ACh systems. Recent data show the presence of different types of DA receptors D1 and D2, which seem to be involved in the pathogenesis of an alteration of their mutual equilibrium could account for movements disorders. In addition, hypofunction of the ACh system also seems to play a role in the pathogenesis of AIM. The purpose of this study was to verify an alteration of DA/ACh relationships by evaluating the clinical responses to pharmacological stimuli in patients affected by AIM secondary to chronic levodopa and chronic neuroleptic treatment. The following drugs were used to evaluate the DA receptors: lisuride (0.007 mg/kg i.v.) and tiapride (2.85 mg/kg i.v.) as agonist and antagonist, respectively, at D2 receptors; oxopentphylline (2.85 mg/kg i.v.) and alpha-flupenthixol (.057 mg/kg p.o.) as agonist and antagonist, respectively, at D1 receptors. Levodopa plus carbidopa (250 mg + 25 mg) was also used. The ACh system was studied using orphenadrine (1.1 mg/kg i.v.) as an antagonist and physostigmine (0.014 mg/kg i.v.) and neostigmine (0.26 mg/kg i.v.) as agonists. Our results suggest an involvement mainly of D1 receptors in the pathogenesis of TD, whereas D2 receptors seem to be important in the onset of AIM after chronic levodopa treatment in Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/6858777/"
+    },
+    {
+      "pmid": "71481",
+      "title": "Deaths after overdoses of orphenadrine.",
+      "journal": "Lancet (London, England)",
+      "year": "1977",
+      "abstract": "",
+      "publication_types": [
+        "Letter"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/71481/"
+    },
+    {
+      "pmid": "4948768",
+      "title": "Levodopa and orphenadrine hydrochloride in Parkinsonism.",
+      "journal": "European journal of clinical pharmacology",
+      "year": "1971",
+      "abstract": "",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/4948768/"
+    },
+    {
+      "pmid": "12804486",
+      "title": "Anticholinergics for symptomatic management of Parkinson's disease.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2003",
+      "abstract": "Anticholinergics were the first drugs available for the symptomatic treatment of Parkinson's disease and they are still widely used today, both as monotherapy and as part of combination regimes. They are commonly believed to be associated with a less favourable side effect profile than other antiparkinsonian drugs, in particular with respect to neuropsychiatric and cognitive adverse events. They have been claimed to exert a better effect on tremor than on other parkinsonian features. To determine the efficacy and tolerability of anticholinergics in the symptomatic treatment of Parkinson's disease compared to placebo or no treatment. The literature search included electronic searches of the Cochrane Controlled Trials Register (The Cochrane Library, Issue 4, 2001), MEDLINE (1966 to 2001), Old Medline (1960-1965), Index Medicus (1927 - 1959), as well as handsearching the neurology literature including the reference lists of identified articles, other reviews and book chapters. Randomised controlled trials of anticholinergic drugs versus placebo or no treatment in de-novo or advanced Parkinson's disease, either as monotherapy or as an add-on to other antiparkinsonian drugs were included. Trials of anticholinergic drugs that were never in general clinical use were excluded. Data was abstracted independently by two authors. Differences were settled by discussion among all authors. Data collected included patient characteristics, disease duration and severity, concomitant medication, interventions including duration and dose of anticholinergic treatment, outcome measures, rates of and reasons for withdrawals, and neuropsychiatric and cognitive adverse events. The initial search yielded 14 potentially eligible studies, five of which were subsequently excluded. In three cases this was because they dealt with substances that had never been marketed or had not been licensed for as far as could be traced back. One trial had been published twice in different languages. One study was excluded based on the assessment of its methodological quality. The remaining nine studies were all of double-blind cross-over design and included 221 patients. Trial duration was between five and 20 weeks and drugs investigated were benzhexol (mean doses: 8 to 20 mg/d), orphenadrine (mean dose not reported), benztropine (mean dose not reported), bornaprine (8 to 8.25 mg/d), benapryzine (200 mg/d), and methixine (45 mg/d). Only one study involved two anticholinergic drugs. Outcome measures varied widely across studies and in many cases, the scales applied were the authors' own and were not defined in detail. Incomplete reporting of methodology and results was frequent. The heterogeneous study designs as well as incomplete reporting precluded combined statistical analysis. Five studies used both tremor and other parkinsonian features as outcome measures. Outcome measures in these five studies were too different for a combined analysis and results varied widely, from a significant improvement in tremor only to significant improvement in other features but not in tremor. All studies except one (dealing with methixine) found a significant improvement from baseline on the anticholinergic drug in at least one outcome measure. The difference between placebo and active drug was reported in four studies and was found to be significant in all cases. No study failed to show superiority of the anticholinergic over placebo. The occurrence of neuropsychiatric and cognitive adverse events was reported in all but three studies (in 35 patients on active drug versus 13 on placebo). The most frequently reported reason for drop-outs from studies was in patients on placebo due to withdrawal from pre-trial anticholinergic treatment. As monotherapy or as an adjunct to other antiparkinsonian drugs, anticholinergics are more effective than placebo in improving motor function in Parkinson's disease. Neuropsychiatric and cognitive adverse events occur more frequently on anticholinergics than on placebo and are a more common reason for withdrawal than lack of efficacy. Results regarding a potentially better effect of the anticholinergic drug on tremor than on other outcome measures are conflicting and data do not strongly support a differential clinical effect on individual parkinsonian features. Data is insufficient to allow comparisons in efficacy or tolerability between individual anticholinergic drugs.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/12804486/"
+    }
+  ]
+}

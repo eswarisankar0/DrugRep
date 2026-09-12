@@ -1,0 +1,179 @@
+{
+  "drug_name": "Riluzole",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "25238733",
+      "title": "Treatment of frontotemporal dementia.",
+      "journal": "Current treatment options in neurology",
+      "year": "2014",
+      "abstract": "Frontotemporal dementia (FTD) encompasses a spectrum of neurodegenerative diseases with heterogeneous clinical presentations and two predominant types of underlying neuropathology. FTD typically comprises three distinct clinical syndromes: behavioral variant frontotemporal dementia (bvFTD), semantic variant primary progressive aphasia (svPPA), and nonfluent variant primary progressive aphasia (nfvPPA). FTD also frequently overlaps both clinically and neuropathologically with three other neurodegenerative syndromes: corticobasal syndrome (CBS), progressive supranuclear palsy (PSP), and amyotrophic lateral sclerosis (ALS). Each syndrome can be associated with one or more underlying neuropathological diagnoses and are referred to as frontotemporal lobar degeneration (FTLD). Although the various FTD syndromes can substantially differ in terms of clinical symptoms and underlying pathology, the symptoms can be broadly categorized into behavioral, cognitive and motor domains. Currently there are no Food and Drug Administration (FDA) approved therapies for the above syndromes except riluzole for ALS. FTD treatment strategies generally rely on off-label use of medications for symptomatic management, and most therapies lack quality evidence from randomized, placebo-controlled clinical trials. For behavioral symptoms, selective serotonin reuptake inhibitors may be effective, while case reports hint at possible efficacy with antipsychotics or anti-epileptics, but use of these latter agents is limited due to concerns regarding side effects. There are no effective therapies for cognitive complaints in FTD, which frequently involve executive function, memory, and language. Motor difficulties associated with FTD may present with parkinsonian symptoms or motor neuron disease, for which riluzole is indicated as therapy. Compared to idiopathic Parkinson's disease, FTD-related atypical parkinsonism is generally not responsive to dopamine replacement therapies, but a small percentage of patients may experience improvement with a trial of carbidopa-levodopa. Physical and occupational therapy remain an important corner stone of motor symptom management in FTD. Speech therapy may also help patients manage symptoms associated with aphasia, apraxia, and dysarthria. Recent advances in the understanding of FTLD pathophysiology and genetics have led to development of potentially disease-modifying therapies as well as symptomatic therapies aimed at ameliorating social and behavioral deficits.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/25238733/"
+    },
+    {
+      "pmid": "42161327",
+      "title": "CYP2D6 variants in amyotrophic lateral sclerosis: an association study of risk and survival.",
+      "journal": "Brain : a journal of neurology",
+      "year": "2026",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disease with limited therapeutic options. Riluzole remains the only widely available disease-modifying treatment for ALS, yet its survival benefit is modest and likely to vary substantially between patients. Cytochrome P450 2D6 (CYP2D6), is a highly polymorphic enzyme that contributes to interindividual variability in the metabolism of many drugs. CYP2D6 is also expressed in the brain, and experimental and translational studies indicate that brain CYP2D activity can influence local metabolism of neuroactive compounds. Accordingly, CYP2D6 poor function variants have been examined as susceptibility modifiers in the development of other neurodegenerative diseases, including Parkinson's disease and Alzheimer's disease, with heterogenous evidence; however, the role of CYP2D6 in ALS has not been established.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42161327/"
+    },
+    {
+      "pmid": "35768587",
+      "title": "Quantum-dot-labeled synuclein seed assay identifies drugs modulating the experimental prion-like transmission.",
+      "journal": "Communications biology",
+      "year": "2022",
+      "abstract": "Synucleinopathies are neurodegenerative disorders including Parkinson disease (PD), dementia with Lewy body (DLB), and multiple system atrophy (MSA) that involve deposits of the protein alpha-synuclein (\u03b1-syn) in the brain. The inoculation of \u03b1-syn aggregates derived from synucleinopathy or preformed fibrils (PFF) formed in vitro induces misfolding and deposition of endogenous \u03b1-syn. This is referred to as prion-like transmission, and the mechanism is still unknown. In this study, we label \u03b1-syn PFF with quantum dots and visualize their movement directly in acute slices of brain tissue inoculated with \u03b1-syn PFF seeds. Using this system, we find that the trafficking of \u03b1-syn seeds is dependent on fast axonal transport and the seed spreading is dependent on endocytosis and neuronal activity. We also observe pharmacological effects on \u03b1-syn seed spreading; clinically available drugs including riluzole are effective in reducing the spread of \u03b1-syn seeds and this effect is also observed in vivo. Our quantum-dot-labeled \u03b1-syn seed assay system combined with in vivo transmission experiment reveals an early phase of transmission, in which uptake and spreading of seeds occur depending on neuronal activity, and a later phase, in which seeds induce the propagation of endogenous misfolded \u03b1-syn.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35768587/"
+    },
+    {
+      "pmid": "22649630",
+      "title": "Calcium signaling and neurodegeneration.",
+      "journal": "Acta naturae",
+      "year": "2010",
+      "abstract": "Neurodegenerative disorders, such as Alzheimer's disease (AD), Parkinson's disease (PD), amyotrophic lateral sclerosis (ALS), Huntington's disease (HD), and spinocerebellar ataxias (SCA) are very important both for fundamental science and for practical medicine. Despite extensive research into the causes of these diseases, clinical researchers have had very limited progress and, as of now, there is still no cure for any of these diseases. One of the main obstacles in the way of creating treatments for these disorders is the fact that their etiology and pathophysiology still remain unclear. This paper reviews results that support the so-called \"calcium hypothesis of neurodegenerative diseases.\" The calcium hypothesis states that the atrophic and degenerative processes in the neurons of AD, PD, ALS, HD, and SCA patients are accompanied by alterations in calcium homeostasis. Moreover, the calcium hypothesis states that this deregulation of calcium signaling is one of the early-stage and key processes in the pathogenesis of these diseases. Based on the results we reviewed, we conclude that the calcium channels and other proteins involved in the neuronal calcium signaling system are potential drug targets for AD, PD, ALS, HD, and SCA therapy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22649630/"
+    },
+    {
+      "pmid": "22956874",
+      "title": "Amyotrophic lateral sclerosis and the clinical potential of dexpramipexole.",
+      "journal": "Therapeutics and clinical risk management",
+      "year": "2012",
+      "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder that leads to progressive weakness from loss of motor neurons and death on average in less than 3 years after symptom onset. No clear causes have been found and just one medication, riluzole, extends survival. Researchers have identified some of the cellular processes that occur after disease onset, including mitochondrial dysfunction, protein aggregation, oxidative stress, excitotoxicity, inflammation, and apoptosis. Mitochondrial disease may be a primary event in neurodegeneration or occur secondary to other cellular processes, and may itself contribute to oxidative stress, excitotoxicity, and apoptosis. Clinical trials currently aim to slow disease progression by testing drugs that impact one or more of these pathways. While every agent tested in the 18 years after the approval of riluzole has been ineffective, basic and clinical research methods in ALS have become dramatically more sophisticated. Dexpramipexole (RPPX), the R(+) enantiomer of pramiprexole, which is approved for symptomatic treatment of Parkinson disease, carries perhaps the currently largest body of pre-and early clinical data that support testing in ALS. The neuroprotective properties of RPPX in various models of neurodegeneration, including the ALS murine model, may be produced through protective actions on mitochondria. Early phase trials in human ALS suggest that the drug can be taken safely by patients in doses that provide neuroprotection in preclinical models. A Phase III trial to test the efficacy of RPPX in ALS is underway.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22956874/"
+    },
+    {
+      "pmid": "8666012",
+      "title": "Riluzole prevents MPTP-induced parkinsonism in the rhesus monkey: a pilot study.",
+      "journal": "European journal of pharmacology",
+      "year": "1995",
+      "abstract": "Previous studies have shown that riluzole (2-amino-6-trifluoromethoxy-benzothiazole), a drug which interferes with glutamate neurotransmission, has a neuroprotective action in rodent models of global and focal cerebral ischemia. In this pilot study, the protective and palliative effects of riluzole have been examined using an animal model of Parkinson's disease. Two monkeys were rendered hemiparkinsonian by one intracarotid injection of 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP), and motor signs were evaluated using clinical examination and electromyographic recordings. When riluzole (4 mg/kg) was administered before the injection of MPTP, parkinsonian motor symptoms, in particular bradykinesia and rigidity, were absent. When injected daily in one monkey which presented stable motor symptoms, bradykinesia and rigidity were significantly reduce d. Riluzole pretreatment induced a persistent increase in dopamine turnover when compared to MPTP alone. Thus, a possible neuroprotection and a facilitation of dopamine release may explain the behavioural effects reported with riluzole treatment. These preliminary results suggest that riluzole could possess neuroprotective and palliative effects in a primate model of Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/8666012/"
+    },
+    {
+      "pmid": "11835434",
+      "title": "Neuroprotective effect of riluzole in a primate model of Parkinson's disease: behavioral and histological evidence.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2002",
+      "abstract": "Our study aimed to determine whether riluzole, which has shown efficacy as a disease-modifying agent in amyotrophic lateral sclerosis (ALS), is neuroprotective in a marmoset model of Parkinson's disease (PD). Reduction of energy demand by riluzole could be a rational neuroprotective strategy with good tolerability. The efficacy of riluzole was evaluated in marmosets by testing its ability to reduce MPTP-induced behavioral deficits and loss of dopaminergic nigral neurons. Marmosets were divided into two groups of four animals each: animals in Group 1 were injected twice with MPTP (2 mg/kg subcutaneous) and treated with riluzole (10 mg/kg per os b.i.d.), animals in Group 2 (controls) were injected with MPTP and with the vehicle of riluzole. A third group of marmosets which did not receive MPTP or riluzole drug was introduced for neurohistopathological studies (normal animals). Marmosets treated with riluzole preserved a better motor function and neurological performance through the 26 days of assessment when compared with the controls. Histologically, there was sparing of TH- and Nissl-stained nigral neurons and of TH-stained terminals in the striatum and the putamen in the group treated with riluzole compared to the controls. We conclude that riluzole protects dopaminergic neurons and reduces behavioral deficits in a marmoset model of PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11835434/"
+    },
+    {
+      "pmid": "12039422",
+      "title": "A double-blind, placebo-controlled and longitudinal study of riluzole in early Parkinson's disease.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2002",
+      "abstract": "To the extent that excitotoxicity may play a role in the pathogenesis of certain neurodegenerative disorders, antagonists of glutamate, an excitatory neurotransmitter, should exert neuroprotective effects in these disorders, including Parkinson's disease (PD). Patients in early stages of PD, not previously treated with levodopa, were randomized to receive riluzole 50mg capsules orally, taken twice daily or a matching placebo. All subjects were evaluated at baseline (pre-treatment), at 1, 3 and 6 months (post-treatment), and following a 6-week washout. After the washout, all subjects were offered an enrollment in an open label, 1-year, extension study. The principal investigator (JJ), however, remained blinded to the original assignment during the entire study. The patients were assessed by the Unified Parkinson's Disease Rating Scale (UPDRS), Activities of Daily Living (ADL), Hoehn & Yahr (HY) stage, and Schwab and England (SE) ADL scale. The quantitative assessments included Movement Time (MT) and Reaction Time (RT). Additionally, the time to initiate dopaminergic therapy was assessed. Safety was determined at each visit by clinical history and examination, a panel of blood safety laboratory tests including complete blood count, chemistry profile, and liver function studies. Twenty patients with a mean age of 62+/-9.02 (range: 46-73) years and mean duration of symptoms of 18+/-9.53 (range: 6-36) months were enrolled. One patient withdrew from the study because he needed more aggressive treatment of his symptoms. Analysis of the efficacy variables showed no meaningful symptomatic effect of riluzole on UPDRS score. Likewise, there was no significant change in the median HY stage, SE ADL rating, or the MT/RT. Seventeen patients (mean age 62+/-9.26) elected to continue in the open label extension study. Although the observed deterioration in UPDRS scores seemed to be more pronounced in the placebo group than in the riluzole group, the difference did not reach statistical significance. There was no statistically significant difference in the latency between enrollment and start of symptomatic therapy when patients initially treated with riluzole were compared to those initially treated with placebo (8.3 vs 9 months). This pilot and extension study showed that riluzole, 100mg/day, was well tolerated in patients with early PD. No evidence of symptomatic effect of riluzole was observed. Because of the exploratory nature of the design and small size of the study, it was not possible to determine whether riluzole affected the natural history of PD. The encouraging results from our study, however, suggest that larger, longitudinal studies are warranted.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/12039422/"
+    },
+    {
+      "pmid": "10347995",
+      "title": "Riluzole for levodopa-induced dyskinesias in advanced Parkinson's disease.",
+      "journal": "Lancet (London, England)",
+      "year": "1999",
+      "abstract": "",
+      "publication_types": [
+        "Letter"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10347995/"
+    },
+    {
+      "pmid": "8895866",
+      "title": "Neuroprotective effects of riluzole on a model of Parkinson's disease in the rat.",
+      "journal": "Neuroscience",
+      "year": "1996",
+      "abstract": "The aim of the present study was to analyse whether riluzole, a compound that interacts with the voltage-dependent sodium channel and impairs glutamatergic transmission, would exhibit a neuroprotective activity in a model of Parkinson's disease in the rat. Impaired skilled forelimb use, circling behavior, and altered dopaminergic metabolism of the mesotelencephalic system were evaluated in unilaterally 6-hydroxydopamine-lesioned rats. Riluzole was administered twice 15 min before, and 24 h after, the lesion. Riluzole reduced both the contralateral rotations induced by apomorphine and the ipsilateral ones elicited by amphetamine. Moreover, the decreased dopaminergic metabolism seen after 6-hydroxydopamine injection was attenuated in the riluzole-treated animals, at both the striatal and nigral levels. These biochemical and behavioral results demonstrate the ability of riluzole partially to protect the degeneration of the nigrostriatal dopaminergic neurons induced by the toxin 6-hydroxydopamine. Perhaps, the most striking evidence for the protective effect of riluzole was that this compound improved the skilled paw use, a complex sensorimotor behavior which is not easily ameliorated by palliative therapies such as dopaminergic grafts. These results extend previous data showing that riluzole counteracts the toxicity induced by 1-methyl-4-1,2,3,6-tetrahydropyridine and 1-methyl-4-phenylpyridinium in rodent dopaminergic neurons. The use of riluzole may be considered of potential interest for the neuroprotective therapy of Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/8895866/"
+    },
+    {
+      "pmid": "37090611",
+      "title": "omicSynth: an Open Multi-omic Community Resource for Identifying Druggable Targets across Neurodegenerative Diseases.",
+      "journal": "medRxiv : the preprint server for health sciences",
+      "year": "2023",
+      "abstract": "Treatments for neurodegenerative disorders remain rare, although recent FDA approvals, such as Lecanemab and Aducanumab for Alzheimer's Disease, highlight the importance of the underlying biological mechanisms in driving discovery and creating disease modifying therapies. The global population is aging, driving an urgent need for therapeutics that stop disease progression and eliminate symptoms. In this study, we create an open framework and resource for evidence-based identification of therapeutic targets for neurodegenerative disease. We use Summary-data-based Mendelian Randomization to identify genetic targets for drug discovery and repurposing. In parallel, we provide mechanistic insights into disease processes and potential network-level consequences of gene-based therapeutics. We identify 116 Alzheimer's disease, 3 amyotrophic lateral sclerosis, 5 Lewy body dementia, 46 Parkinson's disease, and 9 Progressive supranuclear palsy target genes passing multiple test corrections (p<sub>SMR_multi</sub> < 2.95\u00d710<sup>-6</sup> and p<sub>HEIDI</sub> > 0.01). We created a therapeutic scheme to classify our identified target genes into strata based on druggability and approved therapeutics - classifying 41 <i>novel</i> targets, 3 <i>known</i> targets, and 115 <i>difficult</i> targets (of these 69.8% are expressed in the disease relevant cell type from single nucleus experiments). Our <i>novel</i> class of genes provides a springboard for new opportunities in drug discovery, development and repurposing in the pre-competitive space. In addition, looking at drug-gene interaction networks, we identify previous trials that may require further follow-up such as Riluzole in AD. We also provide a user-friendly web platform to help users explore potential therapeutic targets for neurodegenerative diseases, decreasing activation energy for the community [https://nih-card-ndd-smr-home-syboky.streamlit.app/].",
+      "publication_types": [
+        "Preprint",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37090611/"
+    },
+    {
+      "pmid": "41017705",
+      "title": "Structure and function of voltage-gated sodium channel Nav1.6: Involvement in the pathological process of neural injury.",
+      "journal": "Neural regeneration research",
+      "year": "2026",
+      "abstract": "The voltage-gated sodium channel Nav1.6, encoded by the sodium voltage-gated channel alpha subunit 8 gene, is a crucial regulator of neuronal excitability, with widespread expression throughout the central and peripheral nervous systems. Recent breakthroughs in structural biology, particularly the elucidation of the cryo-EM architecture of Nav1.6 at a resolution of 0.31 nm, have provided unprecedented insights into its molecular organization and functional modulation. As a key mediator of action potential initiation and propagation, Nav1.6 possesses unique biophysical properties, including persistent and resurgent sodium currents that critically influence neuronal firing patterns. This comprehensive review synthesizes current knowledge on the physiological functions and pathological roles of Nav1.6 in multiple neurological conditions. Key findings include the following: (1) Epilepsy studies reveal more than 250 sodium voltage-gated channel alpha subunit 8 mutations with distinct genotype-phenotype correlations, where gain-of-function variants lead to severe epileptic encephalopathies, while loss-of-function variants are associated with generalized epilepsy, highlighting the potential of Nav1.6-selective blockers such as XEN901 and GS967. (2) In Alzheimer's disease, Nav1.6 mediates amyloid-\u03b2 oligomer-induced neuronal hyperexcitability through amyloid precursor protein-dependent membrane trafficking and regulates beta-secretase 1 expression via nuclear factor of activated T cells 1 signaling, suggesting novel disease-modifying strategies. (3) Parkinson's disease research has demonstrated that Nav1.6 upregulation in reactive astrocytes in the globus pallidus contributes to motor deficits through calcium-mediated abnormalities in neuronal synchronization. (4) Amyotrophic lateral sclerosis involves Nav1.6-dependent cortical hyperexcitability preceding motor neuron degeneration, with riluzole showing partial efficacy through sodium current modulation. (5) Multiple sclerosis pathophysiology features Nav1.6 redistribution in demyelinated axons, which drives calcium-dependent axonal injury via reverse Na + /Ca 2+ exchange. (6) Chronic pain mechanisms involve Nav1.6 overexpression in dorsal root ganglia neurons, regulated by the p38 mitogen-activated protein kinase and tumor necrosis factor-\u03b1 signaling pathways. (7) Traumatic brain injury models show that exercise-induced cognitive improvement is correlated with the normalization of Nav1.6-mediated excitability. Therapeutic development has progressed from nonselective sodium channel blockers to precision approaches, including state-dependent pore blockers designed using structural insights; allosteric modulators targeting specific conformations; gene therapy strategies using clustered regularly interspaced short palindromic repeats and antisense oligonucleotides; and miRNA-based regulation of channel expression. Current challenges include achieving sufficient subtype selectivity, optimizing blood-brain barrier penetration, and developing clinically relevant biomarkers for patient stratification. Future directions emphasize the integration of advanced technologies-such as single-cell multiomics to map neuronal subtype-specific expression patterns, patient-derived organoids for personalized drug testing, and machine learning-assisted drug design-to accelerate translation. Large-scale collaborative efforts will be essential to validate therapeutic candidates and establish genotype-guided treatment protocols for Nav1.6-related disorders.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41017705/"
+    },
+    {
+      "pmid": "22178201",
+      "title": "Neuroprotective effects of riluzole in early phase Parkinson's disease on clinically relevant parameters in the marmoset MPTP model.",
+      "journal": "Neuropharmacology",
+      "year": "2012",
+      "abstract": "The present study evaluates neuroprotection in a marmoset MPTP (1-methyl-1,2,3,6-tetrahydropyridine) model representing early Parkinson's disease (PD). The anti-glutamatergic compound riluzole is used as a model compound for neuroprotection. The compound is one of the few protective compounds used in the clinic for a neurodegenerative disorder. Marmoset monkeys were randomized into three groups of six: 1) an MPTP group receiving a total MPTP dose of 7\u00a0mg/kg (4 injections over two weeks, s.c.) 2) a riluzole group receiving besides MPTP, a twice daily dose of riluzole (10\u00a0mg/kg, p.o.), starting one week before MPTP and continuing for one week after the final MPTP injection and 3) a control group receiving saline instead of MPTP and riluzole. The marmosets' Parkinsonian symptoms were scored daily and their activity level, hand-eye coordination, jumping behavior, axial turning and night sleep parameters were tested and recorded weekly. At three weeks following the last MPTP challenge, brains were dissected and dopamine levels in the striatum and the tyrosine hydroxylase (TH) expressing dopamine (DA) neurons in the substantia nigra (SN) were compared. MPTP affected all behavioral parameters and sleep architecture and induced a relatively mild (50%) decline of DA neurons in the substantia nigra (SN). Riluzole relieved the Parkinsonian signs, and improved the hand-eye coordination as well as turning ability. Moreover, riluzole prevented the impact of MPTP on sleep architecture and rapid eye movement behavioral disorder (RBD). Riluzole also increased the number of surviving DA neurons in MPTP-treated marmosets to 75%. However, riluzole did not prevent the MPTP-induced impairments on locomotor activity and jumping activity. In conclusion, reduction of excitotoxicity by riluzole appeared to be effective in reducing progressive neurodegeneration and relieved several clinically relevant PD symptoms in an animal model representing the early phase of PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22178201/"
+    },
+    {
+      "pmid": "22480308",
+      "title": "Riluzole neuroprotection in a Parkinson's disease model involves suppression of reactive astrocytosis but not GLT-1 regulation.",
+      "journal": "BMC neuroscience",
+      "year": "2012",
+      "abstract": "Riluzole is a neuroprotective drug used in the treatment of motor neurone disease. Recent evidence suggests that riluzole can up-regulate the expression and activity of the astrocyte glutamate transporter, GLT-1. Given that regulation of glutamate transport is predicted to be neuroprotective in Parkinson's disease, we tested the effect of riluzole in parkinsonian rats which had received a unilateral 6-hydroxydopamine injection into the median forebrain bundle. Rats were treated with intraperitoneal riluzole (4 mg/kg or 8 mg/kg), 1 hour before the lesion then once daily for seven days. Riluzole produced a modest but significant attenuation of dopamine neurone degeneration, assessed by suppression of amphetamine-induced rotations, preservation of tyrosine hydroxylase positive neuronal cell bodies in the substantia nigra pars compacta and attenuation of striatal tyrosine hydroxylase protein loss. Seven days after 6-hydroxydopamine lesion, reactive astrocytosis was observed in the striatum, as determined by increases in expression of glial fibrillary acidic protein, however the glutamate transporter, GLT-1, which is also expressed in astrocytes was not regulated by the lesion. The results confirm that riluzole is a neuroprotective agent in a rodent model of parkinson's disease. Riluzole administration did not regulate GLT-1 levels but significantly reduced GFAP levels, in the lesioned striatum. Riluzole suppression of reactive astrocytosis is an intriguing finding which might contribute to the neuroprotective effects of this drug.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22480308/"
+    },
+    {
+      "pmid": "32815196",
+      "title": "Combination of acamprosate and baclofen (PXT864) as a potential new therapy for amyotrophic lateral sclerosis.",
+      "journal": "Journal of neuroscience research",
+      "year": "2020",
+      "abstract": "There is currently no therapy impacting the course of amyotrophic lateral sclerosis (ALS). The only approved treatments are riluzole and edaravone, but their efficacy is modest and short-lasting, highlighting the need for innovative therapies. We previously demonstrated the ability of PXT864, a combination of low doses of acamprosate and baclofen, to synergistically restore cellular and behavioral activity in Alzheimer's and Parkinson's disease models. The overlapping genetic, molecular, and cellular characteristics of these neurodegenerative diseases supported investigating the effectiveness of PXT864 in ALS. As neuromuscular junction (NMJ) alterations is a key feature of ALS, the effects of PXT864 in primary neuron-muscle cocultures injured by glutamate were studied. PXT864 significantly and synergistically preserved NMJ and motoneuron integrity following glutamate excitotoxicity. PXT864 added to riluzole significantly improved such protection. PXT864 activity was then assessed in primary cultures of motoneurons derived from SOD1<sup>G93A</sup> rat embryos. These motoneurons presented severe maturation defects that were significantly improved by PXT864. In this model, glutamate application induced an accumulation of TDP-43 protein in the cytoplasm, a hallmark that was completely prevented by PXT864. The anti-TDP-43 aggregation effect was also confirmed in a cell line expressing TDP-43 fused to GFP. These results demonstrate the value of PXT864 as a promising therapeutic strategy for the treatment of ALS.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32815196/"
+    }
+  ]
+}

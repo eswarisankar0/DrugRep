@@ -1,0 +1,80 @@
+{
+  "drug_name": "Propylthiouracil",
+  "disease_name": "Parkinson",
+  "n_abstracts": 6,
+  "abstracts": [
+    {
+      "pmid": "29575306",
+      "title": "6-n-propylthiouracil taste disruption and TAS2R38 nontasting form in Parkinson's disease.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2018",
+      "abstract": "The few studies that evaluated taste function in Parkinson's disease (PD) showed inconsistent results. The inherited ability to taste the bitter compound of 6-n-propylthiouracil has been considered to be a paradigm of general taste perception. 6-n-propylthiouracil taste perception is mediated by the TAS2R38 receptor, and reduced 6-n-propylthiouracil sensitivity has been associated with several diseases not typically related to taste function. We evaluated the 6-n-propylthiouracil taste perception and the TAS2R38 gene as genetic risk factors for the development of idiopathic PD in PD patients and healthy controls (HC). The 6-n-propylthiouracil taste perception was assessed by testing the responsiveness, and the ability to recognize, 6-n-propylthiouracil and sodium chloride. The participants were classified for 6-n-propylthiouracil taster status and genotyped for the TAS2R38 gene. A significant increase in the frequency of participants classified as 6-n-propylthiouracil nontasters and a reduced ability to recognize bitter taste quality of 6-n-propylthiouracil were found in PD patients when compared with healthy controls. The results also showed that only 5% of PD patients had the homozygous genotype for the dominant tasting variant of TAS2R38, whereas most of them carried the recessive nontaster form and a high number had a rare variant. Our results show that 6-n-propylthiouracil taster status and TAS2R38 locus are associated with PD. The 6-n-propylthiouracil test may therefore represent a novel, simple way to identify increased vulnerability to PD. Moreover, the presence of the nontasting form of TAS2R38 in PD may further substantiate that disease-associated taste disruption may represent a risk factor associated with the disease. \u00a9 2018 International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29575306/"
+    },
+    {
+      "pmid": "32161534",
+      "title": "\"Smelling and Tasting\" Parkinson's Disease: Using Senses to Improve the Knowledge of the Disease.",
+      "journal": "Frontiers in aging neuroscience",
+      "year": "2020",
+      "abstract": "Among non-motor manifestations of Parkinson's Disease (PD), peripheral, sensory symptoms are particularly relevant. Smell dysfunction starts very early and frequently precedes the PD motor symptoms by years (being often a cue to the diagnosis). Moreover, olfactory system could be, together with gut, one of those peripheral sites where PD pathology first develops. Unlike smell loss, the relationship between PD and taste impairment is far less established. It can start early in the course of the disease but more frequently appears in advanced stages, in parallel with the advent of MCI, likely reflecting cortical involvement. Among PD patients has been demonstrated an increase in the frequency of the non-tasters for PROP (prototypical gustatory stimulus, 6- n-propylthiouracil), a genetically determined bitter taste which is mediated by TAS2RS38 receptor, and a significant increase of the recessive non-testing variant of this receptor. TAS2R38 receptors are expressed also in other tissues, such as in the epithelia of the gut and nasal cavities, where they can influence epithelial immunity ad its interaction with microbiota. Those pieces of evidence suggest that not only systematic assessment of taste and smell can be of a remarkable help for clinicians in the early diagnosis, but also that understanding the mechanisms of sensory involvement in PD could increase the knowledge of the pathophysiology of the disease.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32161534/"
+    },
+    {
+      "pmid": "37542020",
+      "title": "Repositioning the existing drugs for neuroinflammation: a fusion of computational approach and biological validation to counter the Parkinson's disease progression.",
+      "journal": "Molecular diversity",
+      "year": "2024",
+      "abstract": "Parkinson's disease is caused by the deficiency of striatal dopamine and the accumulation of aggregated \u03b1-synuclein in the substantia nigra pars compacta (SNpc). Neuroinflammation associated with oxidative stress is a key factor contributing to the death of dopaminergic neurons in SNpc and advancement of Parkinson's disease. Two molecular targets, i.e., nuclear factor kappa-light-chain-enhancer (NF-kB) and \u03b1-synuclein play a substantial role in neuroinflammation progression. Therefore, the compounds targeting these neuroinflammatory targets hold a great potential to combat Parkinson's disease. Thereby, in this study, molecular docking and Connectivity Map (CMap) based gene expression profiling was utilized to reposition the approved drugs as neuroprotective agents for Parkinson's disease. With in silico screening, two drugs namely theophylline and propylthiouracil were selected for anti-neuroinflammatory activity evaluation in in vivo models of chronic neuroinflammation. The neuroinflammatory effect of the identified compounds was confirmed by quantifying the expression of three important neuroinflammatory mediators, i.e. IL-6, TNF-alpha, and IL-1 beta on brain tissue using ELISA assay. The ELISA experiment demonstrated that both compounds significantly decreased the expression of neuroinflammatory mediators, highlighting the compounds' potential in neuroinflammation management. Furthermore, the drug and disease interaction network of the two identified drugs and diseases (neuroinflammation and Parkinson's disease) suggested that the two drugs might interact with various targets namely adenosine receptors, Poly [ADP-ribose] polymerase-1, myeloperoxidase (MPO) and thyroid peroxidase through multiple pathways associated with neuroinflammation and Parkinson's disease. Computational studies suggest that a particular drug may be effective in managing Parkinson's disease associated with neuroinflammation. However, further research is needed to confirm this in biological experiments.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37542020/"
+    },
+    {
+      "pmid": "36934313",
+      "title": "Gustatory dysfunction is related to Parkinson's disease: A systematic review and meta-analysis.",
+      "journal": "International forum of allergy & rhinology",
+      "year": "2023",
+      "abstract": "Olfactory dysfunction has been reported to be involved in Parkinson's disease (PD) pathogenesis. However, gustatory dysfunction in PD has not been evaluated as in-depth as olfactory dysfunction. We reviewed the previously published studies regarding gustatory function in PD patients and suggested the possibility that gustatory dysfunction may also be associated with PD. MEDLINE, Cochrane Library, Embase, and PubMed databases were searched for studies evaluating gustatory function in PD patients. We used the standardized mean difference and a 95% confidence interval (CI) as the effect analysis index regarding the taste strip test. The relative risk and 95% CI were used as the effect analysis index for the questionnaires and propylthiouracil (PTU)/phenylthiocarbamide (PTC) perception test. Statistical heterogeneity was assessed using forest plots, Cochran's Q, and the I<sup>2</sup> statistic; heterogeneity was considered high when I<sup>2</sup> was over 75%. Publication bias was assessed by funnel plots and the Egger bias test. We identified 19 articles that reported the results of gustatory function tests in PD patients and healthy controls. Most of these studies used various gustatory tests, including taste strips, questionnaires, taste solutions, PTU/PTC perception tests, and electrogustometry, and reported significantly lower gustatory function in PD patients than in the controls. However, several articles reported contradictory results. Based on these studies, gustatory dysfunction is closely related to PD. However, the number of studies and enrolled subjects was small, and a unified gustatory function test was lacking. Therefore, further studies with larger populations and normalized gustatory function tests are needed.",
+      "publication_types": [
+        "Meta-Analysis",
+        "Systematic Review",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36934313/"
+    },
+    {
+      "pmid": "32946938",
+      "title": "Genetic variants of TAS2R38 bitter taste receptor associate with distinct gut microbiota traits in Parkinson's disease: A pilot study.",
+      "journal": "International journal of biological macromolecules",
+      "year": "2020",
+      "abstract": "The non-tasting form of the bitter taste receptor, TAS2R38, has been shown as a genetic risk factor associated with the development of Parkinson's disease (PD). Specific taste receptors that are expressed in the lower gastrointestinal tract may respond to alteration in gut microbiota composition, detecting bacterial molecules, and regulate immune responses. Given the importance of brain-gut-microbiota axis and gene-environment interactions in PD, we investigate the associations between the genetic variants of TAS2R38 and gut microbiota composition in 39 PD patients. The results confirm that the majority of PD patients have reduced sensitivity to 6-n-propylthiouracil (PROP) and are carriers of at least one non-functional TAS2R38 AVI haplotype. Moreover, we found this correlation to be associated with a reduction in bacteria alpha-diversity with a predominant reduction of Clostridium genus. We hypothesised that the high frequency of the non-taster form of TAS2R38 associated with a diminuition of Clostridium bacteria in PD might determine a reduction in the activation of protective signalling-molecules useful in preserving gut homeostasis. This pilot study, by identifying a decrease in specific bacteria associated with a reduced sensitivity to PROP, adds essential information that opens new avenues of research into the association of PD microbiota composition and sensory modification.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32946938/"
+    },
+    {
+      "pmid": "805160",
+      "title": "Propylthiouracil blocks extrathyroidal conversion of thyroxine to triiodothyronine and augments thyrotropin secretion in man.",
+      "journal": "The Journal of clinical investigation",
+      "year": "1975",
+      "abstract": "Propylthiouracil (PTU) inhibits peripheral deiodination of thyroxine (T4) and triiodothyronine (T3) and decreases the metabolic effectiveness of T4 in animals. To assess the effect of PTU on extrathyroidal conversion of T4 to T3 in man, 15 studies were performed in athyreotic patients treated with 100 or 200 mug of L-T4 daily for 1 mo before the addition of PTU, 250 mg every 6 h for 8 days. serum T3, T4, and thyrotropin (TSH) were measured daily by radioimmunoassay; serum TSH response to 500-mug thyrotropin-releasing hormone (TRH) was measured before and on the last day of giving PTU. On the 100-mug LT4 dose, serum T3 fell from 120 plus or minus 5 (SE) to 83 plus or minus 6 ng/dl (P less than 0.005) with return to 113 plus or minus 5 ng/dl after stopping PTU; serum T4 (4.5 plus or minus 0.3 mug/dl) did not change. Similar results were seen in patients taking 200 mug of L-T4 daily. On the 100-mug dose of L-T4 the fall in T3 was accompanied by a reciprocal rise in serum TSH to 195 plus or minus 33% of initial concentration (P less than 0.01) with return to 104 plus or minus 8% after PTU. The serum TSH response to TRH (DELTAMUU/ml over base line) was greater during PTU therapy than during the control period. On 100-mug L-T4 DELTA TSH rose from 64 plus or minus 19 to 101 plus or minus 23 muU/ml (P less than 0.005). Expressed as percent of base-line TSH concentration, TSH rose from 140 plus or minus 52 to 280 plus or minus 44% (control vs. PTU) at 15 min, 265 plus or minus 72 to 367 plus or minus 63% at 30 min, 223 plus or minus 54 to 313 plus or minus 54% at 45 min, 187 plus or minus 45 to 287 plus or minus 51% at 60 min, and 145 plus or minus 22 to 210 plus or minus 28% at 120 min after TRH. The data suggest that PTU blocks extrathyroidal conversion of T4 to T3, thus increasing pituitary TSH secretion and augmenting the TSH response to TRH.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/805160/"
+    }
+  ]
+}

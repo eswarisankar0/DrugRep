@@ -1,0 +1,149 @@
+{
+  "drug_name": "Ropinirole",
+  "disease_name": "Parkinson",
+  "n_abstracts": 12,
+  "abstracts": [
+    {
+      "pmid": "40055961",
+      "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2025",
+      "abstract": "To update evidence-based medicine recommendations for treating motor fluctuations of Parkinson's disease (PD). The International Parkinson and Movement Disorder Society (MDS) Evidence Based Medicine in Movement Disorders Committee recommendations for the treatments of PD were first published in 2002 and regularly updated. The current review uses a new methodology, including the Cochrane Risk of Bias tool and a modified version of GRADE (Grading of Recommendations, Assessment, Development, and Evaluations). On January 1, 2023, a literature search was conducted without date limit in the MEDLINE, Embase, and Cochrane databases using the following search terms: Parkinson disease, levodopa and, for the Embase database, randomized controlled trial (RCT). The inclusion criteria for studies were: patients with PD, on oral levodopa therapy, experiencing motor fluctuations, investigating an intervention that was (commercially) available in at least one country, study design RCT, and with a follow-up duration of at least 3\u2009months. A total of 102\u00a0studies were included. Levodopa extended release, pramipexole immediate release and extended release, ropinirole immediate release, rotigotine, opicapone, safinamide, and bilateral subthalamic nucleus deep brain stimulation (DBS) were assessed as efficacious, and continuous intestinal levodopa infusion, continuous subcutaneous levodopa, continuous subcutaneous apomorphine, ropinirole prolonged release, ropinirole patch, entacapone, rasagiline, istradefylline, amantadine extended release, zonisamide, bilateral globus pallidus DBS, and pallidotomy were assessed as likely efficacious for the treatment of motor fluctuations in people with PD who are already being treated with levodopa. There are several treatment options that can improve motor fluctuations in PD. These recommendations will assist physicians and patients in determining which intervention to use. \u00a9 2025 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40055961/"
+    },
+    {
+      "pmid": "28273839",
+      "title": "Parkinson's Disease: From Pathogenesis to Pharmacogenomics.",
+      "journal": "International journal of molecular sciences",
+      "year": "2017",
+      "abstract": "Parkinson's disease (PD) is the second most important age-related neurodegenerative disorder in developed societies, after Alzheimer's disease, with a prevalence ranging from 41 per 100,000 in the fourth decade of life to over 1900 per 100,000 in people over 80 years of age. As a movement disorder, the PD phenotype is characterized by rigidity, resting tremor, and bradykinesia. Parkinson's disease -related neurodegeneration is likely to occur several decades before the onset of the motor symptoms. Potential risk factors include environmental toxins, drugs, pesticides, brain microtrauma, focal cerebrovascular damage, and genomic defects. Parkinson's disease neuropathology is characterized by a selective loss of dopaminergic neurons in the substantia nigra pars compacta, with widespread involvement of other central nervous system (CNS) structures and peripheral tissues. Pathogenic mechanisms associated with genomic, epigenetic and environmental factors lead to conformational changes and deposits of key proteins due to abnormalities in the ubiquitin-proteasome system together with dysregulation of mitochondrial function and oxidative stress. Conventional pharmacological treatments for PD are dopamine precursors (levodopa, l-DOPA, l-3,4 dihidroxifenilalanina), and other symptomatic treatments including dopamine agonists (amantadine, apomorphine, bromocriptine, cabergoline, lisuride, pergolide, pramipexole, ropinirole, rotigotine), monoamine oxidase (MAO) inhibitors (selegiline, rasagiline), and catechol-<i>O</i>-methyltransferase (COMT) inhibitors (entacapone, tolcapone). The chronic administration of antiparkinsonian drugs currently induces the \"wearing-off phenomenon\", with additional psychomotor and autonomic complications. In order to minimize these clinical complications, novel compounds have been developed. Novel drugs and bioproducts for the treatment of PD should address dopaminergic neuroprotection to reduce premature neurodegeneration in addition to enhancing dopaminergic neurotransmission. Since biochemical changes and therapeutic outcomes are highly dependent upon the genomic profiles of PD patients, personalized treatments should rely on pharmacogenetic procedures to optimize therapeutics.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28273839/"
+    },
+    {
+      "pmid": "28950686",
+      "title": "Sleepiness and Depression in Parkinson's Disease Patients Treated with Ropinirole and Levodopa.",
+      "journal": "Journal of movement disorders",
+      "year": "2017",
+      "abstract": "We aimed to investigate the effect of ropinirole on excessive daytime sleepiness (EDS) and depression in Parkinson's disease (PD) with a large population. We conducted a cross-sectional observational study at nine hospitals in Korea between April 24, 2013, and April 22, 2015. We analyzed the demographic and clinical features, other medical history, history of antiparkinsonian medication within 6 months, Hoehn and Yahr stage (HY stage), Unified Parkinson's Disease Rating Scale (UPDRS) part II and III, Epworth Sleepiness Scale (ESS), and 30-item Geriatric Depression Scale (GDS-30). Four-hundred-thirteen patients with PD (mean age: 65.2 \u00b1 9.0 years; men: 227 patients) were analyzed. Multivariate logistic regression analysis showed that age at examination, UPDRS II, and GDS-30 were independent risk factors for EDS and that sex, UPDRS II, and ESS were independent risk factors for depression. Our large group study did not find any significant associations of ropinirole with EDS and depression in Korean PD patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28950686/"
+    },
+    {
+      "pmid": "34784871",
+      "title": "How to Optimize the Effectiveness and Safety of Parkinson's Disease Therapy? - A Systematic Review of Drugs Interactions with Food and Dietary Supplements.",
+      "journal": "Current neuropharmacology",
+      "year": "2022",
+      "abstract": "Despite increasing worldwide incidence of Parkinson's disease, the therapy is still suboptimal due to the diversified clinical manifestations, lack of sufficient treatment, the poor adherence in advanced patients, and varied response. Proper intake of medications regarding food and managing drug-food interactions may optimize Parkinson's disease treatment. We investigated potential effects that food, beverages, and dietary supplements may have on the pharmacokinetics and pharmacodynamics of drugs used by parkinsonian patients; identified the most probable interactions; and shaped recommendations for the optimal intake of drugs regarding food. We performed a systematic review in adherence to PRISMA guidelines, and included a total of 81 studies in the qualitative synthesis. We found evidence for levodopa positive interaction with coffee, fiber and vitamin C, as well as for the potential beneficial impact of low-fat and protein redistribution diet. Contrastingly, high-protein diet and ferrous sulfate supplements can negatively affect levodopa pharmacokinetics and effectiveness. For other drugs, the data of food impact are scarce. Based on the available limited evidence, all dopamine agonists (bromocriptine, cabergoline, ropinirole), tolcapone, rasagiline, selegiline in tablets, safinamide, amantadine and pimavanserin can be taken with or without a meal. Opicapone and orally disintegrating selegiline tablets should be administered on an empty stomach. Of monoamine oxidase B inhibitors, safinamide is the least susceptible for interaction with the tyramine-rich food, whereas selegiline and rasagiline may lose selectivity to monoamine oxidase B when administered in supratherapeutic doses. The level of presented evidence is low due to the poor studies design, their insufficient actuality, and missing data.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34784871/"
+    },
+    {
+      "pmid": "35341012",
+      "title": "Clinical Observation of Ropinirole Hydrochloride in the Treatment of Parkinson's Disease.",
+      "journal": "Computational and mathematical methods in medicine",
+      "year": "2022",
+      "abstract": "Parkinson's disease is a degenerative disease of the nervous system, which is more common in middle-aged and elderly people. Currently, the incidence of PD is increasing. The disease is a degenerative disease, which is irreversible and requires life-long treatment. Ropinirole hydrochloride can also be used for Parkinson's disease. Therefore, this article conducted research on this; the purpose is to further determine whether the drug can be used for Parkinson's disease. The method used in this article is a method of quantitative analysis and experimental testing. This article selects Parkinson's disease patients from the provincial hospital to conduct investigations and group experiments on these people to test the effects of different levels of ropinirole hydrochloride in the treatment of Parkinson's disease. Experimental data showed that when the dose of ropinirole was 1\u2009mg, its peak concentration reached 24.95 and the clearance rate reached 143.42. This shows that, in the early stage of medication, it has certain benefits in disease control.",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35341012/"
+    },
+    {
+      "pmid": "35076270",
+      "title": "Parkinson's Disease Medication Alters Small Intestinal Motility and Microbiota Composition in Healthy Rats.",
+      "journal": "mSystems",
+      "year": "2022",
+      "abstract": "Parkinson's disease (PD) is known to be associated with altered gastrointestinal function and microbiota composition. To date, the effect of PD medication on the gastrointestinal function and microbiota, at the site of drug absorption, the small intestine, has not been studied, although it may represent an important confounder in reported microbiota alterations observed in PD patients. To this end, healthy (non-PD) wild-type Groningen rats were employed and treated with dopamine, pramipexole (in combination with levodopa-carbidopa), or ropinirole (in combination with levodopa-carbidopa) for 14 sequential days. Rats treated with dopamine agonists showed a significant reduction in small intestinal motility and an increase in bacterial overgrowth in the distal small intestine. Notably, significant alterations in microbial taxa were observed between the treated and vehicle groups; analogous to the changes previously reported in human PD versus healthy control microbiota studies. These microbial changes included an increase in <i>Lactobacillus</i> and <i>Bifidobacterium</i> and a decrease in <i>Lachnospiraceae</i> and <i>Prevotellaceae</i>. Markedly, certain <i>Lactobacillus</i> species correlated negatively with levodopa levels in the systemic circulation, potentially affecting the bioavailability of levodopa. Overall, the study highlights a significant effect of PD medication intrinsically on disease-associated comorbidities, including gastrointestinal dysfunction and small intestinal bacterial overgrowth, as well as the gut microbiota composition. The results urge future studies to take into account the influence of PD medication <i>per se</i> when seeking to identify microbiota-related biomarkers for PD. <b>IMPORTANCE</b> Parkinson's disease (PD) is the second most common neurodegenerative disorder and is known to be associated with altered gastrointestinal function and microbiota composition. We previously showed that the gut bacteria harboring tyrosine decarboxylase enzymes interfere with levodopa, the main treatment for PD (S. P. van Kessel, A. K. Frye, A. O. El-Gendy, M. Castejon, A. Keshavarzian, G. van Dijk, and S. El Aidy, Nat Commun 10:310, 2019). Although PD medication could be an important confounder in the reported alterations, its effect, apart from the disease itself, on the microbiota composition or the gastrointestinal function at the site of drug absorption, the small intestine, has not been studied. The findings presented here show a significant impact of commonly prescribed PD medication on the small intestinal motility, small intestinal bacterial overgrowth, and microbiota composition, irrespective of the PD. Remarkably, we observed negative associations between bacterial species harboring tyrosine decarboxylase activity and levodopa levels in the systemic circulation, potentially affecting the bioavailability of levodopa. Overall, this study shows that PD medication is an important factor in determining gastrointestinal motility and, in turn, microbiota composition and may, partly, explain the differential abundant taxa previously reported in the cross-sectional PD microbiota human studies. The results urge future studies to take into account the influence of PD medication on gut motility and microbiota composition when seeking to identify microbiota-related biomarkers for PD.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35076270/"
+    },
+    {
+      "pmid": "30863304",
+      "title": "Effectiveness of Integrative Therapy for Parkinson's Disease Management.",
+      "journal": "Frontiers in aging neuroscience",
+      "year": "2019",
+      "abstract": "<b>Objectives:</b> To investigate the effectiveness of integrative therapy on prevalence and length of hospitalization and management of major complications of Parkinson's disease (PD) in the South Korea. <b>Methods:</b> This study was a retrospective cohort analysis conducted using the National Health Insurance Service-National Sample Cohort in the South Korea. Patients over 65 years old who were newly diagnosed with PD during 2007-2011 were identified. The integrative therapy group was defined as patients treated with both Korean medicine (KM) and biomedicine, and the monotherapy group consisted of patients treated with biomedicine alone. From PD diagnosis to 2013, the prevalence and annual length of hospitalization because of PD and major complications (dementia, depression and pneumonia/sepsis) were analyzed using logistic regression, ANOVA and <i>t</i>-tests after propensity score (PS) matching with a 1:1 ratio. <b>Results:</b> After PS estimation and matching, the cohort used in the analysis included 228 subjects (114 integrative therapy group, 114 monotherapy group). Sex, age, index year, comorbidity, severity of disability, neurologic care, and anti-parkinsonism medication (levodopa, ropinirole, pramipexole, selegiline) were adjusted in both groups. The prevalence of hospitalization due to pneumonia/sepsis was 0.50 times (95% C.I.: 0.26-0.96) lower in the integrative therapy group than the monotherapy group, which was statistically significant (<i>p</i> = 0.038). The prevalence and annual length of total hospitalization and hospitalization because of PD, dementia, and depression in the integrative therapy group showed positive results compared to the monotherapy group, but these differences were not statistically significant. <b>Conclusion:</b> It has not been clearly identified that integrative therapy with KM and biomedicine for PD management is better treatment for patients compared to biomedicine monotherapy; however, we found a clue of better result in integrated therapy. Therefore, further investigation by increasing the number of subjects is needed to confirm the findings presented herein.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30863304/"
+    },
+    {
+      "pmid": "30446407",
+      "title": "Clinical pharmacokinetics of pramipexole, ropinirole and rotigotine in patients with Parkinson's disease.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2019",
+      "abstract": "Pramipexole (PRA), ropinirole (ROP) and rotigotine (ROT) are non-ergoline dopaminergic agonists (DAs) used to treat Parkinson's disease (PD). Clinical pharmacokinetics of DAs is poorly characterized in PD. The main purpose of our study was to investigate the effect of dose, age and sex on steady-state plasma concentrations of DAs in real life PD patients on chronic DAs therapy. The study was single center, open and prospective. Blood samples for measurement of DAs plasma concentrations were drawn in the morning, at a median 18-h distance from the last DA dose. Ninety-one patients treated with PRA, 50 with ROP and 37 with ROT were enrolled in the study. Plasma concentration of DAs significantly correlated with weight-adjusted daily dose in all subgroups, although at a given dose, matched plasma concentrations highly varied among patients. Median PRA plasma concentration-to-daily dose ratio (C/D) [(ng/mL)/(mg/kg/d)] was 68% higher in patients >65 years than \u226465 years (158 vs 94, p\u202f<\u202f0.001), while was not affected by age in ROP and ROT subgroups. No sex-mediated differences in C/D ratios were observed in any group. These are the first observations on DAs pharmacokinetics in PD patients' everyday clinical practice. Of relevance, patients over 65yrs may require about one third of PRA dose compared to under 65yrs to achieve the same plasma concentration. Due to the high intersubject variability in plasma concentrations at the same dosage, we speculate that monitoring of plasma DAs might be helpful in the individualization of treatment in selected patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30446407/"
+    },
+    {
+      "pmid": "10190658",
+      "title": "The effect of steady-state ropinirole on plasma concentrations of digoxin in patients with Parkinson's disease.",
+      "journal": "British journal of clinical pharmacology",
+      "year": "1999",
+      "abstract": "The aim of this single-blind study was to assess the effect of ropinirole, a novel treatment for Parkinson's disease, on the steady-state pharmacokinetics and safety of digoxin in 10 patients with Parkinson's disease. There were three parts to the study: digoxin once daily plus placebo three times daily for 1 week; digoxin once daily plus ropinirole three times daily for 6 weeks; and digoxin once daily plus placebo three times daily for 1 week. Serial blood samples were collected over 24 h at the end of each part of the study for pharmacokinetic assessment. Pre-dose blood samples were collected on specific days throughout the study to assess the attainment of steady-state plasma levels of digoxin. The primary endpoints were AUC(0, tau) and Cmax for digoxin. There was a mean decrease of 10% in digoxin AUC (0, tau) (90% CI: 0.79, 1.01) and a 25% decrease in digoxin Cmax (90% CI: 0.58, 0.97) when ropinirole was co-administered, compared with digoxin alone Cmin plasma values for digoxin, however, were fairly constant throughout the study (point estimates 0.99, 95% CI: 0.85, 1.15). Changes in trough levels of digoxin are believed to be the most reliable way of assessing steady-state concentrations of digoxin, and therefore the clinical significance of an interaction. Changes in Cmax are too readily influenced by other factors. These results therefore indicate that on pharmacokinetic grounds no dose adjustment is necessary for digoxin co-administered with ropinirole.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10190658/"
+    },
+    {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
+      "pmid": "15675721",
+      "title": "Depression and Parkinson's disease.",
+      "journal": "Journal of neurology",
+      "year": "2004",
+      "abstract": "Depression occurs in approximately 45% of all patients with Parkinson's disease (PD), reduces quality of life independent of motor symptoms and seems to be underrated and undertreated. Characteristics of symptoms differ from major depression. Because of overlapping clinical symptoms, diagnosis is based on subjectively experienced anhedonia and feeling of emptiness. Available rating scales for major depression may not be adequate to correctly measure severity of depression in PD. Anxiety and depression may manifest as first symptoms of PD many years before motor symptoms. Serotonergic, noradrenergic and dopaminergic mechanisms play key roles in the etiology of depression in PD. Tricyclic and newer, selective antidepressants including serotonin and noradrenaline reuptake inhibitors (SSRI, SNRI) appear to be effective in treating depression in PD. Selective reuptake inhibitors seem to have a favorable side effect profile. Recent controlled studies show antidepressant effects of pramipexole in bipolar II depression. New dopamine agonists pramipexole and ropinirole appear to ameliorate depressive symptoms in PD in addition to effects on motor symptoms. There is a lack of appropriate rating scales and controlled studies regarding depression in PD.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15675721/"
+    },
+    {
+      "pmid": "11675845",
+      "title": "Warfarin and ropinirole interaction.",
+      "journal": "The Annals of pharmacotherapy",
+      "year": "2001",
+      "abstract": "To report a case of increased international normalized ratio (INR) in a geriatric patient receiving warfarin and ropinirole. A 63-year-old African-American man with a history of Parkinson disease, Alzheimer disease, and status post-cardio-vascular accident was evaluated for symptoms of progressing stiffness and rigidity. Ropinirole was added to his current therapy for Parkinson disease, with a corresponding decrease in the dose of levodopa/carbidopa to allow levodopa sparing. On laboratory evaluation, he was noted to have an increased INR nine days after these adjustments; the INR had previously been stable. No other significant medication, social, or diet changes were noted. Warfarin was withheld for four days and restarted at approximately 75% of the previous weekly dose. The patient had no obvious signs of bleeding. Furthermore, the warfarin dose was again increased after discontinuation of ropinirole due to common gastrointestinal adverse effects. Warfarin is an oral anticoagulant whose narrow therapeutic index and potential for drug interaction is well documented. It is always possible that a change in blood coagulability can occur without an obvious contributable cause; however, an acute change in a previously stable INR with the addition of other medications always raises questions as to the possible mechanism of adverse reaction. No previously documented interaction of this precise nature has been identified. Ropinirole may elevate the anticoagulant effects of warfarin. Patients receiving warfarin should be considered for more frequent INR monitoring when ropinirole is added, adjusted, or discontinued from their medical regimen.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11675845/"
+    }
+  ]
+}

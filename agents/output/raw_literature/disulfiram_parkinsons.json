@@ -1,0 +1,125 @@
+{
+  "drug_name": "Disulfiram",
+  "disease_name": "Parkinson",
+  "n_abstracts": 10,
+  "abstracts": [
+    {
+      "pmid": "38552923",
+      "title": "Pyroptosis-mediator GSDMD promotes Parkinson's disease pathology via microglial activation and dopaminergic neuronal death.",
+      "journal": "Brain, behavior, and immunity",
+      "year": "2024",
+      "abstract": "GSDMD-mediated pyroptosis occurs in the nigrostriatal pathway in Parkinson's disease animals, yet the role of GSDMD in neuroinflammation and death of dopaminergic neurons in Parkinson's disease remains elusive. Here, our in vivo and in vitro studies demonstrated that GSDMD, as a pyroptosis executor, contributed to glial reaction and death of dopaminergic neurons across different Parkinson's disease models. The ablation of the Gsdmd attenuated Parkinson's disease damage by reducing dopaminergic neuronal death, microglial activation, and detrimental transformation. Disulfiram, an inhibitor blocking GSDMD pore formation, efficiently curtailed pyroptosis, thereby lessening the pathology of Parkinson's disease. Additionally, a modification in GSDMD was identified in the blood of Parkinson's disease patients in contrast to healthy subjects. Therefore, the detected alteration in GSDMD within the blood of Parkinson's disease patients and the protective impact of disulfiram could be promising for the diagnostic and therapeutic approaches against Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38552923/"
+    },
+    {
+      "pmid": "37487070",
+      "title": "Disulfiram blocks inflammatory TLR4 signaling by targeting MD-2.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": "2023",
+      "abstract": "Toll-like receptor 4 (TLR4) sensing of lipopolysaccharide (LPS), the most potent pathogen-associated molecular pattern of gram-negative bacteria, activates NF-\u03baB and Irf3, which induces inflammatory cytokines and interferons that trigger an intense inflammatory response, which is critical for host defense but can also cause serious inflammatory pathology, including sepsis. Although TLR4 inhibition is an attractive therapeutic approach for suppressing overexuberant inflammatory signaling, previously identified TLR4 antagonists have not shown any clinical benefit. Here, we identify disulfiram (DSF), an FDA-approved drug for alcoholism, as a specific inhibitor of TLR4-mediated inflammatory signaling. TLR4 cell surface expression, LPS sensing, dimerization and signaling depend on TLR4 binding to MD-2. DSF and other cysteine-reactive drugs, previously shown to block LPS-triggered inflammatory cell death (pyroptosis), inhibit TLR4 signaling by covalently modifying Cys133 of MD-2, a key conserved residue that mediates TLR4 sensing and signaling. DSF blocks LPS-triggered inflammatory cytokine, chemokine, and interferon production by macrophages in vitro. In the aggressive N-methyl-4-phenyl-1,2,3,6-tetrahydropyridine mouse model of Parkinson's disease (PD) in which TLR4 plays an important role, DSF markedly suppresses neuroinflammation and dopaminergic neuron loss, and restores motor function. Our findings identify a role for DSF in curbing TLR4-mediated inflammation and suggest that DSF and other drugs that target MD-2 might be useful for treating PD and other diseases in which inflammation contributes importantly to pathogenesis.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37487070/"
+    },
+    {
+      "pmid": "40075434",
+      "title": "Exposure to disulfiram and incidence of parkinsonism.",
+      "journal": "Journal of occupational medicine and toxicology (London, England)",
+      "year": "2025",
+      "abstract": "Case reports implicate disulfiram treatment in causing parkinsonism, but these observations lack epidemiological confirmation. Aim of the present study was to estimate the risk of incident parkinsonism associated with disulfiram dispensing in a large Italian population. In this observational cohort study, administrative data were used, linking records at the individual level from civic registries, population census, mortality registers, hospital admissions, archives of drug prescriptions, and direct ambulatory drug distribution. Participants included all residents in the Piedmont region of Italy aged\u2009\u2265\u200940 years participating in 2011 census, still resident and alive at the beginning of 2013, followed-up from 2013 to 2019. The outcome was incident parkinsonism identified through multiple prescriptions of levodopa or a hospital admission for Parkinson's disease or atypical parkinsonism. Exposure to disulfiram and to neuroleptics was assessed through regional drug prescription archives. The association between disulfiram and parkinsonism onset was assessed using Cox proportional hazards models, adjusted for gender, age and neuroleptic use. The study population included 2,498,491 individuals (mean age: 62 years). During follow-up, 19,072 parkinsonism cases were identified, 8 of whom had been prescribed disulfiram. Exposure to disulfiram was associated with a three-fold increased risk of parkinsonism (HR\u2009=\u20093.10, 95% CI\u2009=\u20091.55-6.21) that remained significant when adjusted for neuroleptic use (HR\u2009=\u20092.04, 95% CI\u2009=\u20091.01-4.10). The association was stronger among persons unexposed to neuroleptics and among those with more than four disulfiram prescriptions. These results support the hypothesis that disulfiram may cause parkinsonism. Clinicians and drug regulatory agencies should consider parkinsonism when assessing the risks and benefits of disulfiram use.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40075434/"
+    },
+    {
+      "pmid": "23801948",
+      "title": "Acetaldehyde and parkinsonism: role of CYP450 2E1.",
+      "journal": "Frontiers in behavioral neuroscience",
+      "year": "2013",
+      "abstract": "The present review update the relationship between acetaldehyde (ACE) and parkinsonism with a specific focus on the role of P450 system and CYP 2E1 isozyme particularly. We have indicated that ACE is able to enhance the parkinsonism induced in mice by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine, a neurotoxin able to damage the nigrostriatal dopaminergic pathway. Similarly diethyldithiocarbamate, the main metabolite of disulfiram, a drug widely used to control alcoholism, diallylsulfide (DAS) and phenylisothiocyanate also markedly enhance the toxin-related parkinsonism. All these compounds are substrate/inhibitors of CYP450 2E1 isozyme. The presence of CYP 2E1 has been detected in the dopamine (DA) neurons of rodent Substantia Nigra (SN), but a precise function of the enzyme has not been elucidated yet. By treating CYP 2E1 knockout (KO) mice with the neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine, the SN induced lesion was significantly reduced when compared with the lesion observed in wild-type animals. Several in vivo and in vitro studies led to the conclusion that CYP 2E1 may enhance the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine toxicity in mice by increasing free radical production inside the dopaminergic neurons. ACE is a good substrate for CYP 2E1 enzyme as the other substrate-inhibitors and by this way may facilitate the susceptibility of dopaminergic neurons to toxic events. The literature suggests that ethanol and/or disulfiram may be responsible for toxic parkinsonism in human and it indicates that basal ganglia are the major targets of disulfiram toxicity. A very recent study reports that there are a decreased methylation of the CYP 2E1 gene and increased expression of CYP 2E1 mRNA in Parkinson's disease (PD) patient brains. This study suggests that epigenetic variants of this cytochrome contribute to the susceptibility, thus confirming multiples lines of evidence which indicate a link between environmental toxins and PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/23801948/"
+    },
+    {
+      "pmid": "17151518",
+      "title": "[Wernicke's encephalopathy associated with chronic disulfiram intoxication].",
+      "journal": "Revue neurologique",
+      "year": "2006",
+      "abstract": "We report the case of a patient with an unusual association of Wernicke encephalopathy and chronic disulfiram intoxication. A 41-year-old man presented with progressive frontal decline and akineto-rigid parkinsonism under chronic disulfiram therapy. He also developed acute confusion with ataxia, blepharospasm, and supranuclear ophthalmoplegia following a severe malnutrition due to refusal of food intake. Brain MRI revealed symmetrical and reversible hyperintense lesions on T2 and FLAIR in the posterior putaminal regions, dorso-medial thalamic and subthalamic nuclei, the periaqueducal gray matter, the cerebellar peduncles, and the pontine tegmentum. A slow partial clinical recovery with persistent frontal syndrome was observed after discontinuation of disulfiram and parenteral administration of thiamine. The symmetry and reversibility of the MRI lesions in the basal ganglia and brain stem were suggestive of a deficiency, a toxic or a metabolic neurological disease. The dorso-medial thalamo-subthalamic and brainstem localizations, as well as their occurrence in a state of malnutrition, were consistent with Wernicke encephalopathy. Moreover, chronic disulfiram intoxication might explain the frontal syndrome and the akineto-rigid parkinsonism, associated with MRI putaminal lesions. Similar MRI lesions have been described in the so-called \"energy deprivation syndromes\", which are toxic, genetic or nutritional disorders that disrupt enzymes involved in energy generating metabolic pathways such as glycolysis and pyruvate oxidation.",
+      "publication_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/17151518/"
+    },
+    {
+      "pmid": "8052659",
+      "title": "High levels of a retinoic acid-generating dehydrogenase in the meso-telencephalic dopamine system.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": "1994",
+      "abstract": "Retinoic acid is synthesized from retinaldehyde by several different dehydrogenases, which are arranged in conserved spatial and developmentally regulated patterns. Here we show for the mouse that a class-1 aldehyde dehydrogenase, characterized by oxidation and disulfiram sensitivity, is found in the brain at high levels only in the basal forebrain. It is present in axons and terminals of a subpopulation of dopaminergic neurons of the mesostriatal and mesolimbic system, forming a retinoic acid-generating projection from the ventral tegmentum to the corpus striatum and the shell of the nucleus accumbens. In the striatum the projection is heaviest to dorsal and rostral regions, declining gradually toward ventral. The enzyme is expressed early in development, shortly after appearance of tyrosine hydroxylase. Other dopaminergic neurons in the brain, as well as the chromaffin cells of the adrenal medulla, do not contain this dehydrogenase. The presence of this enzyme may be a factor in the long-term success of transplants of dopaminergic cells to the corpus striatum in Parkinson disease, and it may play a role in parkinsonism and catatonia due to disulfiram (Antabuse) neurotoxicity.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/8052659/"
+    },
+    {
+      "pmid": "22170038",
+      "title": "Modulation of aldehyde dehydrogenase activity affects (\u00b1)-4-hydroxy-2E-nonenal (HNE) toxicity and HNE-protein adduct levels in PC12 cells.",
+      "journal": "Journal of molecular neuroscience : MN",
+      "year": "2012",
+      "abstract": "Oxidative stress is known to be one of the major factors underlying Parkinson's disease (PD). One of the consequences of oxidative stress is lipid peroxidation. A toxic product of lipid peroxidation, (\u00b1)-4-hydroxy-2E-nonenal (HNE) leads to membrane disruption and formation of HNE-protein adducts and such adducts have been detected in PD brain tissues. Aldehyde dehydrogenases (ALDHs) are involved in metabolizing HNE and other endogenous aldehydes. Interestingly, the cytosolic aldehyde dehydrogenase 1A1 (ALDH1A1) has been reported to be down-regulated in brain tissues affected in PD which could result in enhancement of HNE toxicity. We sought to first establish the role of ALDH1A1 in mediating HNE toxicity in PC12 cells by overexpressing ALDH1A1 and by using disulfiram, an ALDH inhibitor. Overexpression and inhibition of ALDH1A1 activity resulted in reduced and increased HNE toxicity, respectively. We then established conditions for detecting HNE-protein adducts following HNE treatment and showed that overexpression and inhibition of ALDH activity resulted in reduced and increased formation of HNE-protein adducts, respectively. We also show that 6-methyl-2-(phenylazo)-3-pyridinol, previously identified as an activator of ALDH1A1, can protect PC12 cells against HNE-mediated toxicity and can cause a small but significant decrease in levels of HNE-protein adducts. Our results should encourage identification of more potent ALDH activators and their testing in the PC12-HNE model. Such cytoprotective compounds could then be tested for their neuroprotective activity in in vivo models of oxidative stress-induced PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22170038/"
+    },
+    {
+      "pmid": "4646433",
+      "title": "[Disulfiram and L-dopa in patients with Parkinson's syndrome and in torsion dystonia].",
+      "journal": "La Prensa medica mexicana",
+      "year": "1972",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/4646433/"
+    },
+    {
+      "pmid": "10729359",
+      "title": "Cytochrome P450-dependent N-dealkylation of L-deprenyl in C57BL mouse liver microsomes: effects of in vivo pretreatment with ethanol, phenobarbital, beta-naphthoflavone and L-deprenyl.",
+      "journal": "European journal of pharmacology",
+      "year": "2000",
+      "abstract": "The monoamine oxidase inhibitor L-deprenyl [(-)-deprenyl, selegiline] is an effective therapeutic agent for improving early symptoms of idiopathic Parkinson's disease. It appears to exert this action independently of its inhibition of monoamine oxidase B (MAO-B) and some of its metabolites are thought to contribute. Cytochrome P450 (CYP) activities are known to give rise to L-deprenyl metabolites that may affect the dopaminergic system. In order to clarify the interactions of L-deprenyl with these enzymes, C57BL mice were treated with L-deprenyl, ethanol, phenobarbital or beta-naphthoflavone to induce different CYP isozymes. After preincubation of L-deprenyl with liver microsomes from control or treated mice, the metabolites were analysed by a GLC method. L-deprenyl (10 mg/kg i.p. for 3 days) caused a significant decrease in total CYP levels (0.315+/-0.019, L-deprenyl; 0.786+/-0.124, control, nmol/mg protein) and CYP2E1-associated p-nitrophenol hydroxylase activity (0.92+/-0.04 vs. 1.17+/-0.06 nmol/min/mg). Both phenobarbital and ethanol increased the N-depropynylation activity towards L-deprenyl that leads to the formation of methamphetamine (4. 11+/-0.64, phenobarbital; 4.77+/-1.15, ethanol; 1.77+/-0.34, control, nmol/min/mg). Ethanol alone increased the N-demethylation rate of L-deprenyl, that results in formation of nordeprenyl (3.99+/-0.68, ethanol; 1.41+/-0.31, control, nmol/min/mg). Moreover, the N-dealkylation pathways of deprenyl are inhibited by 4-methylpyrazole and disulfiram, two CYP2E1 inhibitors. None of the other treatments modified L-deprenyl metabolism. These findings indicate that mainly CYP2E1 and to a lesser extent CYP2B isozymes are involved in L-deprenyl metabolism. They also suggest that, by reducing CYP content, L-deprenyl treatment may impair the metabolic disposition of other drugs given in combination regimens.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10729359/"
+    },
+    {
+      "pmid": "1210962",
+      "title": "[The phenomenon of experimental motor retardation as one of the manifestations of the Parkinsonian syndrome].",
+      "journal": "Zhurnal nevropatologii i psikhiatrii imeni S.S. Korsakova (Moscow, Russia : 1952)",
+      "year": "1975",
+      "abstract": "A low frequency stimulation of the head of the caudate nucleus in freely moving cats leads to an arrest of reactions with an increased muscular tone and tremor. This reaction may serve as an experimental model of one of the expressions of parkinsonism, inasmuch as its accomplishment depends upon the central dopaminergic mechanisms (confirmed on experiments with disulfiram and alpha-methyltyrosine). The similarity is also supplemented by the fact that the arrested reaction is weakened by antiparkinson drugs (d, 1-amphetamine, DOPA, artane) and is increased by neuroeptical preparation (aminazine, haloperidol, reserpine).",
+      "publication_types": [
+        "English Abstract",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/1210962/"
+    }
+  ]
+}

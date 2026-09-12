@@ -1,0 +1,20 @@
+{
+  "drug_name": "Gallium Nitrate",
+  "disease_name": "Parkinson",
+  "n_abstracts": 1,
+  "abstracts": [
+    {
+      "pmid": "19199933",
+      "title": "Use of protein tyrosine phosphatase inhibitors as promising targeted therapeutic drugs.",
+      "journal": "Current medicinal chemistry",
+      "year": "2009",
+      "abstract": "Protein tyrosine phosphatases (PTPs) are considered to be involved in the etiology of diabetes mellitus, neural diseases such as Alzheimer;s and Parkinson;s disease, regulation of allergy and inflammation, or they are even considered to be responsible for the pathogens; virulence in vivo. Since discovery of first PTP inhibitors such as dephostatin in early 90th years, the research moved on toward search for inhibitors specific for the individual PTP molecules. Currently, dozens of new PTP inhibitors are reported each year, ranging from natural products, natural product analogs, peptides, phosphonates, nonpeptidic inhibitors, mimotopes, metal-containing inhibitors, redox inhibitors, to simply silencing RNAs as widely used inhibitors of PTP expression. Several currently used drugs also show PTP inhibitory activity. Among them are sodium stibogluconate, phenylarsine oxide, alendronate, etidronate, vanadate, gallium nitrate, suramin, or aplidin. However, the market is still waiting for the first clinically approved selective PTP inhibitor. Here in this review are described inhibitors of activity or expression of the particular classical PTPs, with emphasis on specific inhibition of the respective PTP over the others. The inhibitors are not classified according to their chemical composition, but according to their biological activity, which should help to simplify search for inhibitors of particular classical PTPs. Even though PTP inhibitors are difficult to develop, lifting the fog of phosphatase inhibition is of the great market potential and further clinical impact.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/19199933/"
+    }
+  ]
+}

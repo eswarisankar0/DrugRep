@@ -1,0 +1,151 @@
+{
+  "drug_name": "Procyclidine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 12,
+  "abstracts": [
+    {
+      "pmid": "37051629",
+      "title": "Combination of acetylcholinesterase inhibitors and NMDA receptor antagonists increases survival rate in soman-poisoned mice.",
+      "journal": "Toxicology mechanisms and methods",
+      "year": "2023",
+      "abstract": "Organophosphorus nerve agents pose a global threat to both military personnel and civilian population, because of their high acute toxicity and insufficient medical countermeasures. Commonly used drugs could ameliorate the intoxication and overall medical outcomes. In this study, we tested the drugs able to alleviate the symptoms of Alzheimer's disease (donepezil, huperzine A, memantine) or Parkinson's disease (procyclidine). They were administered to mice before soman intoxication in terms of their: <b>i)</b> protection potential against soman toxicity and <b>ii)</b> influence on post-exposure therapy consisting of atropine and asoxime (also known as oxime HI-6). Their pretreatment effect was not significant, when administered alone, but in combination (acetylcholinesterase inhibitor such as denepezil or huperzine A with NMDA antagonist such as memantine or procyclidine) they lowered the soman toxicity more than twice. These combinations also positively influenced the efficacy of post-exposure treatment in a similar fashion; the combinations increased the therapeutic effectiveness of antidotal treatment. In conclusion, the most effective combination - huperzine A and procyclidine - lowered the toxicity three times and improved the post-exposure therapy efficacy more than six times. These results are unprecedented in the published literature.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37051629/"
+    },
+    {
+      "pmid": "42061810",
+      "title": "Unexpected mechanisms of repurposed drugs in the pathogenic pathways of neurodegenerative diseases. Discovering new neuroprotective therapies in cellular models.",
+      "journal": "Neuropharmacology",
+      "year": "2026",
+      "abstract": "Advances in biomedicine have increased life expectancy, leading to a growing prevalence of age-related neurodegenerative diseases such as Alzheimer's and Parkinson's disease, alongside disorders of genetic or environmental origin including multiple sclerosis, Huntington's disease, and amyotrophic lateral sclerosis. Despite their diverse etiologies, these conditions share convergent pathogenic mechanisms-calcium overload, neuroinflammation, and oxidative stress-that drive neuronal apoptosis and progressive neurodegeneration. Developing therapies that effectively target these interconnected pathways remains a major challenge. Here, we applied a drug-repurposing pipeline integrating computational chemistry, calcium channel affinity prediction, and in vitro validation in SH-SY5Y and HEK293\u202fcells. Eight clinically approved CNS drugs were screened for activity against Ca\u1d651, Orai1, and P2X7 channels, and subsequently evaluated in neuroprotection assays. Several compounds demonstrated significant efficacy, with chlorpromazine showing broad-spectrum activity (neuroprotection, Ca\u1d651.2 and P2X7 antagonism, anti-inflammatory effects), trimipramine emerging as a potent antioxidant, and vilazodone displaying synergistic neuroprotection in combination with procyclidine. These findings reveal multi-target pharmacological profiles in well-tolerated drugs not currently used for neurodegenerative indications. By highlighting both individual and combinatorial strategies, this work provides a foundation for translational studies aimed at repurposing approved agents for complex neurological disorders, with particular relevance to Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42061810/"
+    },
+    {
+      "pmid": "10952768",
+      "title": "Anticholinergic drugs used in Parkinson's disease: An overlooked class of drugs from a pharmacokinetic perspective.",
+      "journal": "Journal of pharmacy & pharmaceutical sciences : a publication of the Canadian Society for Pharmaceutical Sciences, Societe canadienne des sciences pharmaceutiques",
+      "year": "1999",
+      "abstract": "Anticholinergic drugs were the first pharmacological agents used in the treatment of Parkinson\"s disease. Although levodopa and other centrally acting dopaminergic agonists have largely supplanted their use, they still have a place in treatment of the disease. As a therapeutic class, there is little pharmacokinetic information available for these drugs, which is inclusive of benztropine, biperiden, diphenhydramine, ethopropazine, orphenadrine, procyclidine and trihexyphenidyl. Pharmacokinetic information is largely restricted to studies involving young health volunteers given single doses. In general, this class of drugs is rapidly absorbed after oral administration to humans. Oral bioavailability is variable between the different drugs, ranging from 30% to over 70%. Each of the drugs appears to possess a large Vd in humans and animals, and distribution to tissues is rapid. The drugs are all characterized by relatively low clearance relative to hepatic blood flow, and appear to be extensively metabolized, primarily to N-dealkylated and hydroxylated metabolites. The available information suggests that excretion of parent drug and metabolite is via the urine and bile. Although the existence of a plasma concentration vs. therapeutic effect relationship has not been explored, there is some evidence suggesting a relationship between concentration and peripheral side effects. Elderly tolerate the drugs less well than do younger patients. There is a notable lack of pharmacokinetic information for these drugs in the elderly. The lack of pharmacokinetic information for multiple dose administration and in the elderly may be a possible hindrance in the safe and effective use of these drugs in patients with Parkinson\"s disease.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10952768/"
+    },
+    {
+      "pmid": "17289099",
+      "title": "The combination of donepezil and procyclidine protects against soman-induced seizures in rats.",
+      "journal": "Toxicology and applied pharmacology",
+      "year": "2007",
+      "abstract": "Current treatment of nerve agent poisoning consists of prophylactic administration of pyridostigmine and therapy using atropine, an oxime and a benzodiazepine. Pyridostigmine does however not readily penetrate the blood-brain barrier giving ineffective protection of the brain against centrally mediated seizure activity. In this study, we have evaluated donepezil hydrochloride, a partial reversible inhibitor of acetylcholinesterase (AChE) clinically used for treating Alzheimer's disease, in combination with procyclidine, used in treatment of Parkinson's disease and schizophrenia, as prophylaxis against intoxication by the nerve agent soman. The results demonstrated significant protective efficacy of donepezil (2.5 mg/kg) combined with procyclidine (3 or 6 mg/kg) when given prophylactically against a lethal dose of soman (1.6 x LD(50)) in Wistar rats. No neuropathological changes were found in rats treated with this combination 48 h after soman intoxication. Six hours after soman exposure cerebral AChE activity and acetylcholine (ACh) concentration was 5% and 188% of control, respectively. The ACh concentration had returned to basal levels 24 h after soman intoxication, while AChE activity had recovered to 20% of control. Loss of functioning muscarinic ACh receptors (17%) but not nicotinic receptors was evident at this time point. The recovery in brain AChE activity seen in our study may be due to the reversible binding of donepezil to the enzyme. Donepezil is well tolerated in humans, and a combination of donepezil and procyclidine may prove useful as an alternative to the currently used prophylaxis against nerve agent intoxication.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/17289099/"
+    },
+    {
+      "pmid": "20377305",
+      "title": "The use of organotypic hippocampal slice cultures to evaluate protection by non-competitive NMDA receptor antagonists against excitotoxicity.",
+      "journal": "Alternatives to laboratory animals : ATLA",
+      "year": "2010",
+      "abstract": "There is great interest in testing neuroprotectants which inhibit the neurodegeneration that results from excessive activation of N-methyl-D-aspartate (NMDA) receptors. As an alternative to in vivo testing in animal models, we demonstrate here the use of a complex in vitro model to compare the efficacy and toxicity of NMDA receptor inhibitors. Organotypic hippocampal slice cultures were used to compare the effectiveness of the Alzheimer's disease drug, memantine, the Parkinson's disease drug, procyclidine, and the novel neuroprotectant, gacyclidine (GK11), against NMDA-induced toxicity. All three drugs are non-competitive NMDA receptor open-channel blockers that inhibit excitotoxic injury, and their neuroprotective capacities have been extensively investigated in vivo in animal models. They have also been evaluated as potential countermeasure agents against organophosphate poisoning. Quantitative densitometric image analysis of propidium iodide uptake in hippocampal regions CA1, CA3 and DG, showed that, after exposure to 10microM NMDA for 24 hours, GK11 was the most potent of the three drugs, with an IC50 of about 50nM and complete protection at 250nM. When applied at high doses, GK11 was still the more potent neuroprotectant, and also the least cytotoxic. These findings are consistent with those from in vivo tests in rodents. We conclude that the slice culture model provides valuable pre-clinical data, and that applying the model to the screening of neuroprotectants might significantly limit the use of in vivo tests in animals.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/20377305/"
+    },
+    {
+      "pmid": "326325",
+      "title": "A comparison of piribedil, procyclidine and placebo in the control of phenothiazine-induced parkinsonism.",
+      "journal": "The British journal of psychiatry : the journal of mental science",
+      "year": "1977",
+      "abstract": "A double-blind, cross-over trial of the effectiveness of piribedil, procyclidine and placebo in the control of parkinsonism induced by fluphenazine decanoate was conducted in sixteen cases of chronic schizophrenia. Procyclidine was shown to be more effective and piribedil less effective than the placebo. Piribedil produced a number of unpleasant effects, including headache, vomiting and malaise.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/326325/"
+    },
+    {
+      "pmid": "11678378",
+      "title": "Simultaneous determination of enantiomers of structurally related anticholinergic analogs in human serum by liquid chromatography-electrospray ionization mass spectrometry with on-line sample cleanup.",
+      "journal": "Journal of chromatography. B, Biomedical sciences and applications",
+      "year": "2001",
+      "abstract": "Trihexyphenidyl, biperiden and procyclidine are anticholinergic drugs produced as racemates for the treatment of Parkinson's disease. This paper describes a simple and sensitive LC-MS method for the simultaneous determination of these compounds in human serum. An on-line sample clean-up procedure was used, where serum samples were directly injected into a \"restricted-access media\" pre-column. After the exclusion of the serum proteins, the drug molecules were eluted to a beta-cyclodextrin analytical column for chiral separation. The quantitation was done by electrospray ionization MS using diphenidol as an internal standard. The method developed has limits of detection of 1 ng/ml, at least two-orders-of-magnitude linear dynamic ranges (r>0.999), and RSDs of less than 10%. The system can be completely automated for increased sample throughput and unattended analyses.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11678378/"
+    },
+    {
+      "pmid": "13902214",
+      "title": "[Prophylaxis and therapy of a drug-related Parkinson syndrome with procyclidine hydrochloride (Kemadrin)].",
+      "journal": "Wiener klinische Wochenschrift",
+      "year": "1962",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/13902214/"
+    },
+    {
+      "pmid": "13451881",
+      "title": "Procyclidine hydrochloride (kemadrin) treatment of parkinsonism; result in 108 patients.",
+      "journal": "Neurology",
+      "year": "1957",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/13451881/"
+    },
+    {
+      "pmid": "4924342",
+      "title": "Double-blind comparison of levodopa and procyclidine in parkinsonism, with illustrations of levodopa-induced movement disorders.",
+      "journal": "Neurology",
+      "year": "1970",
+      "abstract": "",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/4924342/"
+    },
+    {
+      "pmid": "14478260",
+      "title": "[A study on antiparkinson drugs with special reference to Kemadrin (procyclidine)].",
+      "journal": "No to shinkei = Brain and nerve",
+      "year": "1962",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/14478260/"
+    },
+    {
+      "pmid": "4921586",
+      "title": "Double-blind comparison of levodopa and procyclidine in parkinsonism, with illustrations of levodopa-induced movement disorders.",
+      "journal": "Neurology",
+      "year": "1970",
+      "abstract": "",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/4921586/"
+    }
+  ]
+}

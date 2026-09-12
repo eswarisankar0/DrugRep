@@ -1,0 +1,187 @@
+{
+  "drug_name": "Prasinezumab",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "35921451",
+      "title": "Trial of Prasinezumab in Early-Stage Parkinson's Disease.",
+      "journal": "The New England journal of medicine",
+      "year": "2022",
+      "abstract": "Aggregated \u03b1-synuclein plays an important role in the pathogenesis of Parkinson's disease. The monoclonal antibody prasinezumab, directed at aggregated \u03b1-synuclein, is being studied for its effect on Parkinson's disease. In this phase 2 trial, we randomly assigned participants with early-stage Parkinson's disease in a 1:1:1 ratio to receive intravenous placebo or prasinezumab at a dose of 1500 mg or 4500 mg every 4 weeks for 52 weeks. The primary end point was the change from baseline to week 52 in the sum of scores on parts I, II, and III of the Movement Disorder Society-sponsored revision of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS; range, 0 to 236, with higher scores indicating greater impairment). Secondary end points included the dopamine transporter levels in the putamen of the hemisphere ipsilateral to the clinically more affected side of the body, as measured by <sup>123</sup>I-ioflupane single-photon-emission computed tomography (SPECT). A total of 316 participants were enrolled; 105 were assigned to receive placebo, 105 to receive 1500 mg of prasinezumab, and 106 to receive 4500 mg of prasinezumab. The baseline mean MDS-UPDRS scores were 32.0 in the placebo group, 31.5 in the 1500-mg group, and 30.8 in the 4500-mg group, and mean (\u00b1SE) changes from baseline to 52 weeks were 9.4\u00b11.2 in the placebo group, 7.4\u00b11.2 in the 1500-mg group (difference vs. placebo, -2.0; 80% confidence interval [CI], -4.2 to 0.2; P\u2009=\u20090.24), and 8.8\u00b11.2 in the 4500-mg group (difference vs. placebo, -0.6; 80% CI, -2.8 to 1.6; P\u2009=\u20090.72). There was no substantial difference between the active-treatment groups and the placebo group in dopamine transporter levels on SPECT. The results for most clinical secondary end points were similar in the active-treatment groups and the placebo group. Serious adverse events occurred in 6.7% of the participants in the 1500-mg group and in 7.5% of those in the 4500-mg group; infusion reactions occurred in 19.0% and 34.0%, respectively. Prasinezumab therapy had no meaningful effect on global or imaging measures of Parkinson's disease progression as compared with placebo and was associated with infusion reactions. (Funded by F. Hoffmann-La Roche and Prothena Biosciences; PASADENA ClinicalTrials.gov number, NCT03100149.).",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35921451/"
+    },
+    {
+      "pmid": "39666171",
+      "title": "An update on immune-based alpha-synuclein trials in Parkinson's disease.",
+      "journal": "Journal of neurology",
+      "year": "2024",
+      "abstract": "Parkinson's disease (PD) is a prevalent, chronic neurodegenerative disorder characterised by the progressive loss of dopaminergic neurons in the substantia nigra and other brain regions. The aggregation of alpha-synuclein (\u03b1-syn) into Lewy bodies and neurites is a key pathological feature associated with PD and its progression. Many therapeutic studies aim to target these aggregated forms of \u03b1-syn to potentially slow down or stop disease progression in PD. This review provides a comprehensive analysis of recent clinical trials involving vaccines and monoclonal antibodies targeting \u03b1-syn. Specifically, UB-312, AFFITOPE PD01A, PD03A and ACI-7104.056 are designed to provoke an immune response against \u03b1-syn (active immunisation), while Prasinezumab and Cinpanemab, MEDI1341 and Lu AF82422 focus on directly targeting \u03b1-syn aggregates (passive immunisation). Despite some promising results, challenges such as variable efficacy and trial discontinuations persist. Future research must address these challenges to advance disease-modifying therapies for PD around this therapeutic target.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39666171/"
+    },
+    {
+      "pmid": "37893474",
+      "title": "Cognitive Impairment in Parkinson's Disease: An Updated Overview Focusing on Emerging Pharmaceutical Treatment Approaches.",
+      "journal": "Medicina (Kaunas, Lithuania)",
+      "year": "2023",
+      "abstract": "Cognitive impairment in patients with Parkinson's disease (PD) is one of the commonest and most disabling non-motor manifestations during the course of the disease. The clinical spectrum of PD-related cognitive impairment includes subjective cognitive decline (SCD), mild cognitive impairment (MCI) and PD dementia (PDD). As the disease progresses, cognitive decline creates a significant burden for the family members and/or caregivers of patients with PD, and has a great impact on quality of life. Current pharmacological treatments have demonstrated partial efficacy and failed to halt disease progression, and novel, effective, and safe therapeutic strategies are required. Accumulating preclinical and clinical evidence shows that several agents may provide beneficial effects on patients with PD and cognitive impairment, including ceftriaxone, ambroxol, intranasal insulin, nilotinib, atomoxetine, mevidalen, blarcamesine, prasinezumab, SYN120, ENT-01, NYX-458, GRF6021, fosgonimeton, INT-777, Neuropeptide S, silibinin, osmotin, cordycepin, huperzine A, fibroblast growth factor 21, Poloxamer 188, ginsenoside Rb1, thioredoxin-1, tangeretin, istradefylline and Eugenia uniflora. Potential underlying mechanisms include the inhibition of a-synuclein aggregation, the improvement of mitochondrial function, the regulation of synaptic plasticity, an impact on the gut-brain axis, the modulation of neuroinflammation and the upregulation of neurotrophic factors, as well as cholinergic, dopaminergic, serotoninergic and norepinephrine neurotransmission. In this updated overview, we aim to cover the clinical aspects of the spectrum of PD-related cognitive impairment and discuss recent evidence on emerging treatment approaches that are under investigation at a preclinical and clinical level. Finally, we aim to provide additional insights and propose new ideas for investigation that may be feasible and effective for the spectrum of PD-related cognitive impairment.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37893474/"
+    },
+    {
+      "pmid": "38622249",
+      "title": "Prasinezumab slows motor progression in rapidly progressing early-stage Parkinson's disease.",
+      "journal": "Nature medicine",
+      "year": "2024",
+      "abstract": "Prasinezumab, a monoclonal antibody that binds aggregated \u03b1-synuclein, is being investigated as a potential disease-modifying therapy in early-stage Parkinson's disease. Although in the PASADENA phase 2 study, the primary endpoint (Movement Disorder Society Unified Parkinson's Disease Rating Scale (MDS-UPDRS) sum of Parts I\u2009+\u2009II\u2009+\u2009III) was not met, prasinezumab-treated individuals exhibited slower progression of motor signs than placebo-treated participants (MDS-UPDRS Part III). We report here an exploratory analysis assessing whether prasinezumab showed greater benefits on motor signs progression in prespecified subgroups with faster motor progression. Prasinezumab's potential effects on disease progression were assessed in four prespecified and six exploratory subpopulations of PASADENA: use of monoamine oxidase B inhibitors at baseline (yes versus no); Hoehn and Yahr stage (2 versus 1); rapid eye movement sleep behavior disorder (yes versus no); data-driven subphenotypes (diffuse malignant versus nondiffuse malignant); age at baseline (\u226560\u2009years versus <60\u2009years); sex (male versus female); disease duration (>12\u2009months versus <12\u2009months); age at diagnosis (\u226560\u2009years versus <60\u2009years); motor subphenotypes (akinetic-rigid versus tremor-dominant); and motor subphenotypes (postural instability gait dysfunction versus tremor-dominant). In these subpopulations, the effect of prasinezumab on slowing motor signs progression (MDS-UPDRS Part III) was greater in the rapidly progressing subpopulations (for example, participants who were diffuse malignant or taking monoamine oxidase B inhibitors at baseline). This exploratory analysis suggests that, in a trial of 1-year duration, prasinezumab might reduce motor progression to a greater extent in individuals with more rapidly progressing Parkinson's disease. However, because this was a post hoc analysis, additional randomized clinical trials are needed to validate these findings.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38622249/"
+    },
+    {
+      "pmid": "38139032",
+      "title": "The Construction and Validation of a Novel Ferroptosis-Related Gene Signature in Parkinson's Disease.",
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "abstract": "As a newly discovered regulated cell death mode, ferroptosis is associated with the development of Parkinson's disease (PD) and has attracted much attention. Nonetheless, the relationship between ferroptosis and PD pathogenesis remains unclear. The GSE8397 dataset includes GPL96 and GPL97 platforms. The differential genes were analyzed by immune infiltration and Gene Set Enrichment Analysis (GSEA) (<i>p</i> < 0.05), and differential multiple |logFC| > 1 and weighted gene coexpression network analysis (WGCNA) were used to screen differential expression genes (DEGs). The intersection with 368 ferroptosis-related genes (FRGs) was conducted for gene ontology/Kyoto encyclopedia of gene and genome (GO/KEGG) enrichment analysis, gene expression analysis, correlation analysis, single-cell sequencing analysis, and prognosis analysis (area under the curve, AUC) and to predict relevant miRNAs and construct network diagrams using Cytoscape. The intersection genes of differentially expressed ferroptosis-related genes (DEFRGs) and mitochondrial dysfunction genes were validated in the substantia nigra of MPTP-induced PD mice models by Western blotting and immunohistochemistry, and the protein-binding pocket was predicted using the DoGSiteScorer database. According to the results, the estimated scores were positively correlated with the stromal scores or immune scores in the GPL96 and GPL97 platforms. In the GPL96 platform, the GSEA showed that differential genes were mainly involved in the GnRH signaling pathway, B cell receptor signaling pathway, inositol phosphate metabolism, etc. In the GPL97 platform, the GSEA showed that differential genes were mainly involved in the ubiquitin-mediated proteolysis, axon guidance, Wnt signaling pathway, MAPK signaling pathway, etc. We obtained 26 DEFRGs, including 12 up-regulated genes and 14 down-regulated genes, with good correlation. The area under the prognostic analysis curve (AUC > 0.700) showed a good prognostic ability. We found that they were enriched in different neuronal cells, oligodendrocytes, astrocytes, oligodendrocyte precursor cells, and microglial cells, and their expression scores were positively correlated, and selected genes with an AUC curve \u22650.9 were used to predict miRNA, including miR-214/761/3619-5p, miR-203, miR-204/204b/211, miR-128/128ab, miR-199ab-5p, etc. For the differentially expressed ferroptosis-mitochondrial dysfunction-related genes (DEF-MDRGs) (<i>AR</i>, <i>ISCU</i>, <i>SNCA</i>, and <i>PDK4</i>), in the substantia nigra of mice, compared with the Saline group, the expression of AR and ISCU was decreased (<i>p</i> < 0.05), and the expression of \u03b1-Syn and PDK4 was increased (<i>p</i> < 0.05) in the MPTP group. Therapeutic drugs that target SNCA include ABBV-0805, Prasinezumab, Cinpanemab, and Gardenin A. The results of this study suggest that cellular DEF-MDRGs might play an important role in PD. <i>AR</i>, <i>ISCU</i>, <i>SNCA</i>, and <i>PDK4</i> have the potential to be specific biomarkers for the early diagnosis of PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38139032/"
+    },
+    {
+      "pmid": "39379705",
+      "title": "Sustained effect of prasinezumab on Parkinson's disease motor progression in the open-label extension of the PASADENA trial.",
+      "journal": "Nature medicine",
+      "year": "2024",
+      "abstract": "The Phase II trial of Anti-alpha-Synuclein Antibody in Early Parkinson's Disease (PASADENA) is an ongoing double-blind, placebo-controlled trial evaluating the safety and efficacy of prasinezumab in early-stage Parkinson's disease (PD). During the double-blind period, prasinezumab-treated individuals showed less progression of motor signs (Movement Disorders Society-sponsored revision of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS) Part\u2009III) than placebo-treated individuals. We evaluated whether the effect of prasinezumab on motor progression, assessed as a change in MDS-UPDRS Part\u2009III score in the OFF and ON states, and MDS-UPDRS Part\u2009II score, was sustained for 4\u2009years from the start of the trial. We compared participants enrolled in the PASADENA open-label extension study with those enrolled in an external comparator arm derived from the Parkinson's Progression Markers Initiative observational study. The PASADENA delayed-start (n\u2009=\u200994) and early-start (n\u2009=\u2009177) groups showed a slower decline (a smaller increase in score) in MDS-UPDRS Part\u2009III scores in the OFF state (delayed start, -51%; early start, -65%), ON state (delayed start, -94%; early start, -118%) and MDS-UPDRS Part\u2009II (delayed start, -48%; early start, -40%) than did the Parkinson's Progression Markers Initiative external comparator (n\u2009=\u2009303). This exploratory analysis, which requires confirmation in future studies, suggested that the effect of prasinezumab in slowing motor progression in PD may be sustained long term. PASADENA ClinicalTrials.gov no. NCT03100149 .",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial, Phase II",
+        "Randomized Controlled Trial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39379705/"
+    },
+    {
+      "pmid": "39798255",
+      "title": "A Phase 2b, multicenter, randomized, double-blind, placebo-controlled study to evaluate the efficacy and safety of intravenous prasinezumab in early-stage Parkinson's disease (PADOVA): Rationale, design, and baseline data.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2025",
+      "abstract": "Prasinezumab was shown to potentially delay motor progression in individuals with early-stage Parkinson's disease (PD) who were either treatment-na\u00efve or on monoamine oxidase type B inhibitor (MAO-Bi) therapy in the PASADENA study. We report the rationale, design, and baseline patient characteristics of the PADOVA study, designed to evaluate prasinezumab in an early-stage PD population receiving standard-of-care (SOC) symptomatic medications. PADOVA (NCT04777331) is a Phase 2b, multicenter, randomized, double-blind, placebo-controlled, parallel-group study, in which individuals with early-stage PD on SOC stable symptomatic monotherapy (levodopa or MAO-Bi) receive intravenous prasinezumab 1500\u00a0mg every 4 weeks. The primary endpoint is time to confirmed motor progression, defined as \u22655 points increase from baseline on the Movement Disorder Society-sponsored revision of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS) Part III in practically defined OFF-medication state. 586 participants were enrolled between May 5th, 2021 and March 22nd, 2023. At baseline, 74.2\u00a0% and 25.8\u00a0% of participants were receiving levodopa and MAO-Bi, respectively. Mean age was 64.2 years and 63.5\u00a0% were male. Mean time from diagnosis was 18.6 months, 85\u00a0% of participants were in Hoehn & Yahr (H&Y) Stage 2, and mean MDS-UPDRS Part III score was 24.5. Compared with the PASADENA population, PADOVA participants were older (\u223c5 years), with longer disease duration (\u223c8 months), and slightly more advanced based on H&Y stage (10\u00a0% more in Stage 2) and MDS-UPDRS Part III (\u223c3 points more). PADOVA has successfully recruited an early-stage PD population to test the effect of prasinezumab when added to background SOC.",
+      "publication_types": [
+        "Journal Article",
+        "Clinical Trial Protocol"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39798255/"
+    },
+    {
+      "pmid": "34659081",
+      "title": "A Phase II Study to Evaluate the Safety and Efficacy of Prasinezumab in Early Parkinson's Disease (PASADENA): Rationale, Design, and Baseline Data.",
+      "journal": "Frontiers in neurology",
+      "year": "2021",
+      "abstract": "<b>Background:</b> Currently available treatments for Parkinson's disease (PD) do not slow clinical progression nor target alpha-synuclein, a key protein associated with the disease. <b>Objective:</b> The study objective was to evaluate the efficacy and safety of prasinezumab, a humanized monoclonal antibody that binds aggregated alpha-synuclein, in individuals with early PD. <b>Methods:</b> The PASADENA study is a multicenter, randomized, double-blind, placebo-controlled treatment study. Individuals with early PD, recruited across the US and Europe, received monthly intravenous doses of prasinezumab (1,500 or 4,500 mg) or placebo for a 52-week period (Part 1), followed by a 52-week extension (Part 2) in which all participants received active treatment. Key inclusion criteria were: aged 40-80 years; Hoehn & Yahr (H&Y) Stage I or II; time from diagnosis \u22642 years; having bradykinesia plus one other cardinal sign of PD (e.g., resting tremor, rigidity); DAT-SPECT imaging consistent with PD; and either treatment na\u00efve or on a stable monoamine oxidase B (MAO-B) inhibitor dose. Study design assumptions for sample size and study duration were built using a patient cohort from the Parkinson's Progression Marker Initiative (PPMI). In this report, baseline characteristics are compared between the treatment-na\u00efve and MAO-B inhibitor-treated PASADENA cohorts and between the PASADENA and PPMI populations. <b>Results:</b> Of the 443 patients screened, 316 were enrolled into the PASADENA study between June 2017 and November 2018, with an average age of 59.9 years and 67.4% being male. Mean time from diagnosis at baseline was 10.11 months, with 75.3% in H&Y Stage II. Baseline motor and non-motor symptoms (assessed using Movement Disorder Society-Unified Parkinson's Disease Rating Scale [MDS-UPDRS]) were similar in severity between the MAO-B inhibitor-treated and treatment-na\u00efve PASADENA cohorts (MDS-UPDRS sum of Parts I + II + III [standard deviation (SD)]; 30.21 [11.96], 32.10 [13.20], respectively). The overall PASADENA population (63.6% treatment na\u00efve and 36.4% on MAO-B inhibitor) showed a similar severity in MDS-UPDRS scores (e.g., MDS-UPDRS sum of Parts I + II + III [SD]; 31.41 [12.78], 32.63 [13.04], respectively) to the PPMI cohort (all treatment na\u00efve). <b>Conclusions:</b> The PASADENA study population is suitable to investigate the potential of prasinezumab to slow disease progression in individuals with early PD. <b>Trial Registration:</b> NCT03100149.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34659081/"
+    },
+    {
+      "pmid": "39251364",
+      "title": "Investigating the Mechanisms of Antibody Binding to Alpha-Synuclein for the Treatment of Parkinson's Disease.",
+      "journal": "Molecular pharmaceutics",
+      "year": "2024",
+      "abstract": "Parkinson's disease (PD) is an idiopathic neurodegenerative disorder with the second-highest prevalence rate behind Alzheimer's disease. The pathophysiological hallmarks of PD are both degeneration of dopaminergic neurons in the substantia nigra pars compacta and the inclusion of misfolded \u03b1-synuclein (\u03b1-syn) aggregates known as Lewy bodies. Despite decades of research for potential PD treatments, none have been developed, and developing new therapeutic agents is a time-consuming and expensive process. Computational methods can be used to investigate the properties of drug candidates currently undergoing clinical trials to determine their theoretical efficiency at targeting \u03b1-syn. Monoclonal antibodies (mAbs) are biological drugs with high specificity, and Prasinezumab (PRX002) is an mAb currently in Phase II, which targets the C-terminus (AA 118-126) of \u03b1-syn. We utilized BioLuminate and PyMol for the structure prediction and preparation of the fragment antigen-binding (Fab) region of PRX002 and 34 different conformations of \u03b1-syn. Protein-protein docking simulations were performed using PIPER, and 3 of the docking poses were selected based on the best fit. Molecular dynamics simulations were conducted on the docked protein structures in triplicate for 1000 ns, and hydrogen bonds and electrostatic and hydrophobic interactions were analyzed using MDAnalysis to determine which residues were interacting and how often. Hydrogen bonds were shown to form frequently between the HCDR2 region of PRX002 and \u03b1-syn. Free energy was calculated to determine the binding affinity. The predicted binding affinity shows a strong antibody-antigen attraction between PRX002 and \u03b1-syn. RMSD was calculated to determine the conformational change of these regions throughout the simulation. The mAb's developability was determined using computational screening methods. Our results demonstrate the efficiency and developability of this therapeutic agent.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39251364/"
+    },
+    {
+      "pmid": "40523921",
+      "title": "Exploratory digital outcome measures of motor sign progression in Parkinson's disease patients treated with prasinezumab.",
+      "journal": "NPJ digital medicine",
+      "year": "2025",
+      "abstract": "Digital health technology (DHT) tools for Parkinson's disease (PD) e.g., smartphones and wearables were used for remote and frequent measurement of motor signs in the phase 2 PASADENA study of the anti-alpha-synuclein monoclonal antibody prasinezumab. 316 early-stage PD participants were randomized to placebo, 1500\u2009mg, or 4500\u2009mg prasinezumab for 52 weeks; placebo participants were re-randomized to prasinezumab for the ensuing 52 weeks. Patients performed daily smartphone motor \"active tests\", and were passively monitored by smartphone/smartwatch throughout the day over 2\u2009y. Change from baseline analyses censored data at dopaminergic treatment start. Bilateral speeded tapping variability and hand-turning, U-turn speed, passively monitored hand movement power, and summary Simple Sum scores progressed numerically less in prasinezumab-treated vs placebo at week 52. All findings except hand-turning persisted at week 104. DHT sensor-based outcome measures may contribute to quantifying disease progression in clinical research of early-stage, dopaminergic treatment-na\u00efve PD. Clinical Trial Registry Name: ClinicalTrials.gov; Clinical Trial Registry ID: NCT03100149; registered 2017-03-29.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40523921/"
+    },
+    {
+      "pmid": "39313800",
+      "title": "Limitations and potential strategies of immune checkpoint blockade in age-related neurodegenerative disorders.",
+      "journal": "The journal of physiological sciences : JPS",
+      "year": "2024",
+      "abstract": "Neurological disorders such as Alzheimer's disease (AD), and Parkinson's disease (PD) have no disease-modifying treatments, resulting in a global dementia crisis that affects more than 50 million people. Amyloid-beta (A\u03b2), tau, and alpha-synuclein (\u03b1-Syn) are three crucial proteins that are involved in the pathogenesis of these age-related neurodegenerative diseases. Only a few approved AD medications have been used in the clinic up to this point, and their results are only partial symptomatic alleviation for AD patients and cannot stop the progression of AD. Immunotherapies have attracted considerable interest as they target certain protein strains and conformations as well as promote clearance. Immunotherapies also have the potential to be neuroprotective: as they limit synaptic damage and spread of neuroinflammation by neutralizing extracellular protein aggregates. Lately, disease-modifying therapies (DMTs) that can alter the pathophysiology that underlies AD with anti-A\u03b2 monoclonal antibodies (MAbs) (e.g., aducanumab, lecanemab, gantenerumab, donanemab, solanezumab, crenezumab, tilavonemab). Similarly, in Parkinson's disease (PD), DMTs utilizing anti-\u03b1Syn (MAbs) (e.g., prasinezumab, cinpanemab,) are progressively being developed and evaluated in clinical trials. These therapies are based on the hypothesis that both AD and PD may involve systemic impairments in cell-dependent clearance mechanisms of amyloid-beta (A\u03b2) and alpha-synuclein (\u03b1Syn), respectively, meaning the body's overall inability to effectively remove A\u03b2 and \u03b1Syn due to malfunctioning cellular mechanisms. In this review we will provide possible evidence behind the use of immunotherapy with MAbs in AD and PD and highlight the recent clinical development landscape of anti-A\u03b2 (MAbs) and anti-\u03b1Syn (MAbs) from these clinical trials in order to better investigate the therapeutic possibilities and adverse effects of these anti-A\u03b2 and anti-\u03b1Syn MAbs on AD and PD.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39313800/"
+    },
+    {
+      "pmid": "40554286",
+      "title": "Comparative assessment of binding and functional differences of clinical antibodies targeting \u03b1-synuclein in cellular models of Parkinson's disease.",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2025",
+      "abstract": "Parkinson's disease (PD) affects 10 million individuals worldwide with no available disease modifying therapies. The pathological hallmark of PD, Lewy bodies, are characterized by aggregated \u03b1-synuclein (\u03b1-syn) inclusions in disease lesions. In preclinical models, aggregation of \u03b1-syn leads to neuronal dysfunction, cell death, and propagation of Lewy pathology. Six clinical stage \u03b1-syn targeting monoclonal antibodies that were developed to treat or slow the progression of PD have advanced into efficacy trials, but none to date have achieved their primary endpoints. Except cinpanemab, which binds the N-terminus of \u03b1-syn, all other clinical \u03b1-syn antibodies bind C-terminal epitopes. To evaluate the impact of binding characteristics on functional activity, we affinity matured cinpanemab and benchmarked it against the clinical antibodies that vary in their affinity and selectivity for aggregated forms of \u03b1-syn. Our evaluation shows the impact of epitope, affinity, selectivity, and assay format on PFF uptake, and PFF-seed induced aggregation and S129 phosphorylation of endogenous \u03b1-syn in cellular models of PD. The comparative assessment provides new insights into the properties of \u03b1-syn antibodies and should aid in the design of next generation therapeutics for the treatment of PD and other synucleinopathies.",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40554286/"
+    },
+    {
+      "pmid": "39971932",
+      "title": "Prasinezumab slows motor progression in Parkinsons disease: beyond the clinical data.",
+      "journal": "NPJ Parkinson's disease",
+      "year": "2025",
+      "abstract": "A post hoc subgroup analysis has suggested potential therapeutic benefits of prasinezumab, a humanized monoclonal anti-\u03b1-synuclein antibody, in patients with rapidly progressing Parkinson's disease (PD), despite initial trials showing limited impact on primary outcomes. Caution is needed due to the retrospective nature of subgroup analyses, and potential confounding factors that may have influenced the observed treatment effects in specific patient subsets. Critical considerations are provided here for designing and implementing preclinical studies and clinical trials involving monoclonal antibodies, suggesting that future research should prioritize refining preclinical models and optimizing biomarker-based patient selection to reduce risks of false trial outcomes, eventually advancing antibody-based therapies in PD effectively and safely.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39971932/"
+    },
+    {
+      "pmid": "34042040",
+      "title": "Immunotherapies for Parkinson's Disease: Progression of Clinical Development.",
+      "journal": "CNS & neurological disorders drug targets",
+      "year": "2021",
+      "abstract": "Parkinson's disease is a common neurodegenerative disease affecting the movement and well-being of most elderly. The manifestations of Parkinson's disease often include resting tremor, stiffness, bradykinesia, and muscular rigidity. The typical hallmark of Parkinson's disease is the destruction of neurons in the substantia nigra and the presence of Lewy bodies in different compartments of the central nervous system. Due to various limitations to the currently available treatments, immunotherapies have emerged to be the new approach to Parkinson's disease treatment. This approach shows some positive outcomes on the efficacy by removing the aggregated species of alpha-synuclein, which is believed to be one of the causes of Parkinson's disease. In this review, an overview of how alpha-synuclein contributes to Parkinson's disease and the effects of a few new immunotherapeutic treatments, including BIIB054 (cinpanemab), MEDI1341, AFFITOPE, and PRX002 (prasinezumab) that are currently under clinical development, will be discussed.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34042040/"
+    },
+    {
+      "pmid": "36373296",
+      "title": "Prasinezumab and Cinpanemab - The Perspective of a Person with Parkinson's.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2022",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36373296/"
+    }
+  ]
+}

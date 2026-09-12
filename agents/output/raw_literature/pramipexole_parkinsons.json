@@ -1,0 +1,180 @@
+{
+  "drug_name": "Pramipexole",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "40055961",
+      "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2025",
+      "abstract": "To update evidence-based medicine recommendations for treating motor fluctuations of Parkinson's disease (PD). The International Parkinson and Movement Disorder Society (MDS) Evidence Based Medicine in Movement Disorders Committee recommendations for the treatments of PD were first published in 2002 and regularly updated. The current review uses a new methodology, including the Cochrane Risk of Bias tool and a modified version of GRADE (Grading of Recommendations, Assessment, Development, and Evaluations). On January 1, 2023, a literature search was conducted without date limit in the MEDLINE, Embase, and Cochrane databases using the following search terms: Parkinson disease, levodopa and, for the Embase database, randomized controlled trial (RCT). The inclusion criteria for studies were: patients with PD, on oral levodopa therapy, experiencing motor fluctuations, investigating an intervention that was (commercially) available in at least one country, study design RCT, and with a follow-up duration of at least 3\u2009months. A total of 102\u00a0studies were included. Levodopa extended release, pramipexole immediate release and extended release, ropinirole immediate release, rotigotine, opicapone, safinamide, and bilateral subthalamic nucleus deep brain stimulation (DBS) were assessed as efficacious, and continuous intestinal levodopa infusion, continuous subcutaneous levodopa, continuous subcutaneous apomorphine, ropinirole prolonged release, ropinirole patch, entacapone, rasagiline, istradefylline, amantadine extended release, zonisamide, bilateral globus pallidus DBS, and pallidotomy were assessed as likely efficacious for the treatment of motor fluctuations in people with PD who are already being treated with levodopa. There are several treatment options that can improve motor fluctuations in PD. These recommendations will assist physicians and patients in determining which intervention to use. \u00a9 2025 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40055961/"
+    },
+    {
+      "pmid": "28273839",
+      "title": "Parkinson's Disease: From Pathogenesis to Pharmacogenomics.",
+      "journal": "International journal of molecular sciences",
+      "year": "2017",
+      "abstract": "Parkinson's disease (PD) is the second most important age-related neurodegenerative disorder in developed societies, after Alzheimer's disease, with a prevalence ranging from 41 per 100,000 in the fourth decade of life to over 1900 per 100,000 in people over 80 years of age. As a movement disorder, the PD phenotype is characterized by rigidity, resting tremor, and bradykinesia. Parkinson's disease -related neurodegeneration is likely to occur several decades before the onset of the motor symptoms. Potential risk factors include environmental toxins, drugs, pesticides, brain microtrauma, focal cerebrovascular damage, and genomic defects. Parkinson's disease neuropathology is characterized by a selective loss of dopaminergic neurons in the substantia nigra pars compacta, with widespread involvement of other central nervous system (CNS) structures and peripheral tissues. Pathogenic mechanisms associated with genomic, epigenetic and environmental factors lead to conformational changes and deposits of key proteins due to abnormalities in the ubiquitin-proteasome system together with dysregulation of mitochondrial function and oxidative stress. Conventional pharmacological treatments for PD are dopamine precursors (levodopa, l-DOPA, l-3,4 dihidroxifenilalanina), and other symptomatic treatments including dopamine agonists (amantadine, apomorphine, bromocriptine, cabergoline, lisuride, pergolide, pramipexole, ropinirole, rotigotine), monoamine oxidase (MAO) inhibitors (selegiline, rasagiline), and catechol-<i>O</i>-methyltransferase (COMT) inhibitors (entacapone, tolcapone). The chronic administration of antiparkinsonian drugs currently induces the \"wearing-off phenomenon\", with additional psychomotor and autonomic complications. In order to minimize these clinical complications, novel compounds have been developed. Novel drugs and bioproducts for the treatment of PD should address dopaminergic neuroprotection to reduce premature neurodegeneration in addition to enhancing dopaminergic neurotransmission. Since biochemical changes and therapeutic outcomes are highly dependent upon the genomic profiles of PD patients, personalized treatments should rely on pharmacogenetic procedures to optimize therapeutics.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28273839/"
+    },
+    {
+      "pmid": "24756517",
+      "title": "Pharmacological treatment of Parkinson disease: a review.",
+      "journal": "JAMA",
+      "year": null,
+      "abstract": "Parkinson disease is the second most common neurodegenerative disease worldwide. Although no available therapies alter the underlying neurodegenerative process, symptomatic therapies can improve patient quality of life. To provide an evidence-based review of the initial pharmacological management of the classic motor symptoms of Parkinson disease; describe management of medication-related motor complications (such as motor fluctuations and dyskinesia), and other medication adverse effects (nausea, psychosis, and impulse control disorders and related behaviors); and discuss the management of selected nonmotor symptoms of Parkinson disease, including rapid eye movement sleep behavior disorder, cognitive impairment, depression, orthostatic hypotension, and sialorrhea. References were identified using searches of PubMed between January 1985 and February 2014 for English-language human studies and the full database of the Cochrane Library. The classification of studies by quality (classes I-IV) was assessed using the levels of evidence guidelines from the American Academy of Neurology and the highest-quality data for each topic. Although levodopa is the most effective medication available for treating the motor symptoms of Parkinson disease, in certain instances (eg, mild symptoms, tremor as the only or most prominent symptom, aged <60 years) other medications (eg, monoamine oxidase type B inhibitors [MAOBIs], amantadine, anticholinergics, \u03b2-blockers, or dopamine agonists) may be initiated first to avoid levodopa-related motor complications. Motor fluctuations may be managed by modifying the levodopa dosing regimen or by adding several other medications, such as MAOBIs, catechol-O-methyltransferase inhibitors, or dopamine agonists. Impulse control disorders are typically managed by reducing or withdrawing dopaminergic medication, particularly dopamine agonists. Evidence-based management of some nonmotor symptoms is limited by a paucity of high-quality positive studies. Strong evidence supports using levodopa and dopamine agonists for motor symptoms at all stages of Parkinson disease. Dopamine agonists and drugs that block dopamine metabolism are effective for motor fluctuations and clozapine is effective for hallucinations. Cholinesterase inhibitors may improve symptoms of dementia and antidepressants and pramipexole may improve depression. Evidence supporting other therapies for motor and nonmotor features is less well established.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24756517/"
+    },
+    {
+      "pmid": "39675389",
+      "title": "Pramipexole decreases allodynia and hyperalgesia via NF-\u03baB in astrocytes in rats with Parkinson's disease.",
+      "journal": "Pharmacology, biochemistry, and behavior",
+      "year": "2025",
+      "abstract": "Pain is one of the principal non-motor symptoms of Parkinson's disease (PD), negatively impacting the patient's quality of life. This study aimed to demonstrate whether an effective dose of pramipexole (PPX) can modulate the NF-\u03baB/p-p65 activation in glial cells (astrocytes and microglia) and diminish the hypersensitivity (allodynia and hyperalgesia) in male Wistar rats with PD. For this, 2\u00a0\u03bcl of 6-hydroxydopamine (6-OHDA, 8\u00a0\u03bcg/\u03bcL/0.2\u00a0\u03bcl/min) was administered unilaterally in the Substantia Nigra of the Pars Compacta (SNpc) to establish a PD model rat. Motor behavioral tests were used to validate the PD model, and von Frey filaments were used to evaluate allodynia and hyperalgesia. Immunohistochemical and immunofluorescence were used to analyze the level of tyrosine hydroxylase in SNpc and striatum as well as the expression of GFAP, Iba-1, NF-\u03baB/p-65 in the L4-L6 spinal cord dorsal horn. Unilateral 6-OHDA-lesion reduces motor capacity and produces long-term allodynia and hyperalgesia in both hind paws. L4-L6 spinal cord dorsal horn astrocytes and microglia were active in these 6-OHDA-lesioned rats. Moreover, PPX (1 and 3\u00a0mg/Kg, i.p./10\u00a0days, n\u00a0=\u00a010 per group) inhibited the bilateral mechanical hypersensitivity, and PPX (3\u00a0mg/Kg/i.p./10\u00a0days) reduced 6-OHDA-induced astrocyte and microglia activation, as well as reduced NF-\u03baB/p-p65 expression only in astrocytes of dorsal horn spinal cord in the L5-L6. These findings suggest that PPX could alleviate pain by decreasing the activation of microglia and astrocytes through the NF-\u03baB/p-p65 pathway in the dorsal horn spinal cord. Therefore, PPX could be considered an optional tool for improving pain hypersensitivity in PD patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39675389/"
+    },
+    {
+      "pmid": "28291594",
+      "title": "Pramipexole associated dystonia.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2017",
+      "abstract": "",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28291594/"
+    },
+    {
+      "pmid": "40221966",
+      "title": "Pregnancy and delivery in women with Parkinson's disease: A case series.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2025",
+      "abstract": "BackgroundParkinson's disease (PD) is a progressive degenerative disease affecting people at any age; however, it is generally more prevalent in older age groups. Younger individuals, especially women, are facing significant challenges that pertain to pregnancy. Unfortunately, the available information is limited and supported mostly by anecdotical experience.ObjectiveTo gain insight into the interaction between early-onset PD and pregnancy.MethodsWe report on a case series of women, diagnosed with PD, that underwent pregnancy to explore the disease catachrestic, natural history, and different challenges associated with these unique group of people.ResultsWe identified a total of 9 participants who met our inclusion criteria, who had gone through a total of 12 pregnancies after onset of PD motor symptoms. In 10 out of 12 pregnancies, participants did not use any PD medication; throughout 1 pregnancy, a participant used pramipexole and throughout 1 pregnancy, a participant used levodopa/carbidopa.ConclusionsOur study supports the importance of further multicentric studies on pregnant women with PD to prospectively collect data on complications, birth outcomes, lactation, and PD severity.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40221966/"
+    },
+    {
+      "pmid": "39665610",
+      "title": "The Combined Use of Levodopa/Benserazide and Pramipexole Proves Beneficial for Managing Parkinson's Disease.",
+      "journal": "Actas espanolas de psiquiatria",
+      "year": "2024",
+      "abstract": "Parkinson's disease (PD), a prevalent neurological condition, is characterized by the progressive degeneration of dopamine-producing neurons, leading to motor dysfunction and non-motor symptoms. Therefore, this study aimed to evaluate the impact of combining levodopa/benserazide with pramipexole on PD patients, focusing on cognitive function, plasma monoamine neurotransmitter levels, and serum growth differentiation factor-15 (GDF-15) and angiopoietin-1 (Ang-1) levels. This retrospective study included 120 PD patients admitted to the hospital between January 2021 and January 2023. Based on the treatment approaches, the patients were categorized into the control group (n = 61) and the observation group (n = 59). The control group received oral levodopa/benserazide tablets, while the observation group was treated with levodopa/benserazide tablets combined with pramipexole. The two experimental groups were assessed and compared across several parameters, including PD symptoms [Unified Parkinson's Disease Rating Scale (UPDRS)], cognitive function [Montreal Cognitive Assessment (MoCA)], the levels of plasma monoamine neurotransmitters, and serum GDF-15 and Ang-1 levels. The response rate to treatment was more significant in the observation group (96.55%) compared to the control group (87.93%, p = 0.162). Post-treatment, both groups demonstrated a decline in their UPDRS and overall scores, with the observation group indicating substantially lower scores than the control group (p < 0.05). Furthermore, both groups showed improvements in MoCA scores, with the observation group exhibiting higher scores than the control group (p < 0.05). Similarly, we observed significantly increased dopamine, 5-hydroxytryptamine, and norepinephrine levels in both groups, with the observation group showing a more pronounced increase (p < 0.05). Additionally, we observed a significant decrease in serum GDF-15 levels and an increase in Ang-1 levels across both groups after treatment. However, the observation group exhibited lower GDF-15 levels and higher Ang-1 levels than the control group (p < 0.05). The combined use of levodopa/benserazide and pramipexole proves beneficial for managing PD. This therapeutic regimen can improve cognitive abilities and plasma monoamine neurotransmitter levels in PD patients, reduce brain tissue damage and decrease serum levels of GDF-15.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39665610/"
+    },
+    {
+      "pmid": "28096656",
+      "title": "Analysis of pramipexole dose-response relationships in Parkinson's disease.",
+      "journal": "Drug design, development and therapy",
+      "year": "2017",
+      "abstract": "Pramipexole (PPX), a non-ergot dopamine receptor agonist, is a first-line treatment for Parkinson's disease (PD). A critical dose level above which a better benefit-to-harm ratio exists has not been examined. Chinese PD patients (n=464) were retrospectively analyzed by PPX maintenance dose, PD stage, combined levodopa dose, and baseline tremor contribution. The sum score of Baseline Activities of Daily Living (part II) and Motor Examination (III) of the Unified Parkinson's Disease Rating Scale (UPDRS II+III) was used as a covariate for final score adjustment. Sustained-release (SR) and immediate-release (IR) PPX showed similar efficacy based on score changes at 18 weeks, with comparable tolerability. Approximately two-third of patients received PPX at \u22651.5 mg/d, and one fourth of patients had \u226520% tremor contribution to UPDRS II+III. After treatment, patients receiving PPX \u22651.5 mg/d showed better improvement in UPDRS II+III scores (<i>P</i>=0.0025), with similar trends with the IR and SR formulations. Patients with \u226520% tremor contribution showed better improvement in UPDRS II+III scores (<i>P</i>=0.0017). No differences were seen based on PD stage or combined levodopa dose. The overall proportions of adverse events (AEs) were similar. More patients discontinued because of intolerable side effects, and more investigator-defined drug-related AEs were recorded in the <1.5 mg/d subgroup. UPDRS II+III improvement was better with PPX \u22651.5 than with <1.5 mg/d in Chinese PD patients after 18 weeks of treatment, with similar trends seen with IR and SR formulations. The frequency of AEs in PPX \u22651.5 and <1.5 mg/d subgroups was similar.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28096656/"
+    },
+    {
+      "pmid": "35463692",
+      "title": "Pramipexole Inhibits Neuronal Apoptosis in Rats with Parkinson's Disease.",
+      "journal": "Journal of healthcare engineering",
+      "year": "2022",
+      "abstract": "To explore the inhibition of pramipexole on the neuronal apoptosis and its influences on the expressions of brain tissue brain-derived neurotrophic factor (BDNF), and serum miR-103a and miR-30b and inflammatory factors in rats with Parkinson's disease. A total of 36 Sprague-Dawley rats were randomly divided into normal group (<i>n</i>\u2009=\u200912), model group (<i>n</i>\u2009=\u200912) and pramipexole group (<i>n</i>\u2009=\u200912). Compared with that in normal group, the positive expression of BDNF was substantially increased in model group and pramipexole group, and its positive expression in pramipexole group was notably higher than that in model group. The WB results revealed that compared with those in normal group, the relative protein expression levels of Bax and Bcl-2 were markedly increased and decreased, respectively, in the other two groups, and that pramipexole group exhibited a remarkable decline in the relative protein expression level of Bax and a considerable increase in that of Bcl-2, compared with model group. The relative expression levels of miR-103a and miR-30b in model and pramipexole groups were markedly higher than those in normal group, and pramipexole group had remarkably higher relative expression levels of miR-103a and miR-30b than model group. It was found through ELISA that model and pramipexole groups had markedly raised IL-1<i>\u03b2</i> and IL-18 content compared with normal group, and their content in pramipexole group was remarkably lower than that in model group. Based on the TUNEL results, compared with that in normal group, the apoptosis rate of cells rose substantially in the other two groups, and the apoptosis rate in pramipexole group was notably lower than that in model group. Pramipexole may up-regulate the expressions of BDNF, miR-103a and miR-30b to inhibit the apoptosis and inflammation in Parkinson's disease model rats.",
+      "publication_types": [
+        "Journal Article",
+        "Retracted Publication"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35463692/"
+    },
+    {
+      "pmid": "33891271",
+      "title": "Pramipexole attenuates 6-OHDA-induced Parkinson's disease by mediating the Nurr1/NF-\u03baB pathway.",
+      "journal": "Molecular biology reports",
+      "year": "2021",
+      "abstract": "Neuroinflammation is the key factor associated with the progression of Parkinson's disease (PD). Pramipexole (PPX) has anti-inflammatory and antioxidant properties. This study explored the effects of PPX on PD and its related mechanisms. A PD rat model was established using 6-hydroxydopamine (6-OHDA). Thirty rats were divided into the following three groups: control, PD, and PD\u2009+\u2009PPX. The rats in the PD and PD\u2009+\u2009PPX groups were first administered 6-OHDA and then respectively treated with saline and PPX. Afterward, rotational behavior tests were performed to evaluate the efficiency of PPX. The level of tyrosine hydroxylase (TH) was measured using immunohistochemical staining. Subsequently, real-time quantitative PCR (RT-qPCR) and western blot were used to determine the expression of \u03b1-synuclein (\u03b1-syn), nuclear receptor subfamily 4 group A member 2 (Nurr1), and nuclear factor kappa B (NF-\u03baB). PPX improved the motor behavior of PD rats caused by 6-OHDA. The number of TH-positive neurons in the PD group was significantly lower than that in the control group (P\u2009<\u20090.05), while PPX could rescue 6-OHDA-induced TH loss. RT-qPCR and western blot showed that Nurr1 expression was significantly downregulated in the PD group compared to that of the control group (P\u2009<\u20090.05), while after PPX treatment, its expression was significantly upregulated (P\u2009<\u20090.05). For \u03b1-syn and NF-\u03baB, 6-OHDA significantly upregulated their expressions (P\u2009<\u20090.05), whereas PPX reversed them. PPX improved the motor behavior of PD through mediating the inflammatory response and regulating the Nurr1/NF-\u03baB signaling pathway.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33891271/"
+    },
+    {
+      "pmid": "40743132",
+      "title": "Development and characterization of pramipexole dihydrochloride buccal films for Parkinson's disease treatment.",
+      "journal": "PloS one",
+      "year": "2025",
+      "abstract": "Parkinson's disease is one of the most common neurodegenerative diseases worldwide. Swallowing difficulties present a significant challenge in the treatment of Parkinson's disease patients. Our current experimental work aimed to produce and assess a buccal polymer film containing pramipexole as the active pharmaceutical agent. This dosage form addresses the swallowing difficulties faced by Parkinson's patients, potentially eliminating inappropriate drug application and thereby improving therapeutic success. For the preparation of polymer films, chitosan was used as the film-forming agent, and pramipexole dihydrochloride was the active pharmaceutical ingredient. The physical properties of the prepared polymer films, such as thickness, tensile strength, mass, and disintegration time were examined, along with in vitro mucoadhesivity. The chemical interactions between the different components of the films were analyzed using FTIR spectroscopy. Additionally, the dissolution of pramipexole from the polymer film and the permeation of the active ingredient through the TR146 buccal cell line were investigated. Finally, the biocompatibility of the prepared polymer films was also tested on a buccal cell line. The results indicate that increasing the concentration of glycerol reduced the tensile strength and mucoadhesion of the films to 12 kPa and 7 N, respectively. Interactions between the components of films were confirmed by FTIR analysis. All formulations demonstrated biocompatibility higher than 80%. Based on different investigations, Sample 4 and Sample 5 are suitable for buccal application. These formulations exhibit promising attributes for treating Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40743132/"
+    },
+    {
+      "pmid": "32901990",
+      "title": "Retinal Layers and Choroid Measurements in Parkinson's Disease With or Without Pramipexole Treatment.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2020",
+      "abstract": "",
+      "publication_types": [
+        "Letter",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32901990/"
+    },
+    {
+      "pmid": "17826796",
+      "title": "Pramipexole-induced antecollis in Parkinson's disease.",
+      "journal": "Journal of the neurological sciences",
+      "year": "2008",
+      "abstract": "We report a case of antecollis, or dropped head with Parkinson's disease (PD) induced by pramipexole, a nonergot dopamine agonist. An 80-year-old woman presented with progressively severe neck flexion, which developed within a few weeks of taking pramipexole at 3 mg/day. She had a disturbed gait and complained of difficulty in daily activity because of restricted visual field and severe stooped posture. Surface EMG showed disproportionate tonus of the neck muscles but needle EMG of the neck muscles was normal. Withdrawal of pramipexole resulted in immediate improvement; the patient could keep the head in natural position and walk normally. Pramipexole-induced antecollis may be serious, but is a reversible dystonia in patients with PD. Clinicians should be aware of such complication.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/17826796/"
+    },
+    {
+      "pmid": "35076270",
+      "title": "Parkinson's Disease Medication Alters Small Intestinal Motility and Microbiota Composition in Healthy Rats.",
+      "journal": "mSystems",
+      "year": "2022",
+      "abstract": "Parkinson's disease (PD) is known to be associated with altered gastrointestinal function and microbiota composition. To date, the effect of PD medication on the gastrointestinal function and microbiota, at the site of drug absorption, the small intestine, has not been studied, although it may represent an important confounder in reported microbiota alterations observed in PD patients. To this end, healthy (non-PD) wild-type Groningen rats were employed and treated with dopamine, pramipexole (in combination with levodopa-carbidopa), or ropinirole (in combination with levodopa-carbidopa) for 14 sequential days. Rats treated with dopamine agonists showed a significant reduction in small intestinal motility and an increase in bacterial overgrowth in the distal small intestine. Notably, significant alterations in microbial taxa were observed between the treated and vehicle groups; analogous to the changes previously reported in human PD versus healthy control microbiota studies. These microbial changes included an increase in <i>Lactobacillus</i> and <i>Bifidobacterium</i> and a decrease in <i>Lachnospiraceae</i> and <i>Prevotellaceae</i>. Markedly, certain <i>Lactobacillus</i> species correlated negatively with levodopa levels in the systemic circulation, potentially affecting the bioavailability of levodopa. Overall, the study highlights a significant effect of PD medication intrinsically on disease-associated comorbidities, including gastrointestinal dysfunction and small intestinal bacterial overgrowth, as well as the gut microbiota composition. The results urge future studies to take into account the influence of PD medication <i>per se</i> when seeking to identify microbiota-related biomarkers for PD. <b>IMPORTANCE</b> Parkinson's disease (PD) is the second most common neurodegenerative disorder and is known to be associated with altered gastrointestinal function and microbiota composition. We previously showed that the gut bacteria harboring tyrosine decarboxylase enzymes interfere with levodopa, the main treatment for PD (S. P. van Kessel, A. K. Frye, A. O. El-Gendy, M. Castejon, A. Keshavarzian, G. van Dijk, and S. El Aidy, Nat Commun 10:310, 2019). Although PD medication could be an important confounder in the reported alterations, its effect, apart from the disease itself, on the microbiota composition or the gastrointestinal function at the site of drug absorption, the small intestine, has not been studied. The findings presented here show a significant impact of commonly prescribed PD medication on the small intestinal motility, small intestinal bacterial overgrowth, and microbiota composition, irrespective of the PD. Remarkably, we observed negative associations between bacterial species harboring tyrosine decarboxylase activity and levodopa levels in the systemic circulation, potentially affecting the bioavailability of levodopa. Overall, this study shows that PD medication is an important factor in determining gastrointestinal motility and, in turn, microbiota composition and may, partly, explain the differential abundant taxa previously reported in the cross-sectional PD microbiota human studies. The results urge future studies to take into account the influence of PD medication on gut motility and microbiota composition when seeking to identify microbiota-related biomarkers for PD.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35076270/"
+    },
+    {
+      "pmid": "28193849",
+      "title": "<i>Toxoplasma gondii</i> exposure and Parkinson's disease: a case-control study.",
+      "journal": "BMJ open",
+      "year": "2017",
+      "abstract": "To determine the association between <i>Toxoplasma gondii</i> infection and Parkinson's disease and to investigate whether <i>T. gondii</i> seropositivity is associated with the general characteristics of patients with Parkinson's disease. Case-control study. Cases and controls were enrolled in Durango City, Mexico. 65 patients with Parkinson's disease and 195 age- and gender-matched control subjects without Parkinson's disease. Serum samples of participants were analysed for anti-<i>T. gondii</i> IgG and IgM antibodies by commercially available enzyme-linked immunoassays. Prevalence of <i>T. gondii</i> DNA was determined in seropositive subjects using PCR. The association between clinical data and infection was examined by bivariate analysis. Anti-<i>T. gondii</i> IgG antibodies were found in 6/65 cases (9.2%) and in 21/195 controls (10.8%) (OR 0.84; 95% CI 0.32 to 2.18; p=0.81). The frequency of high (>150\u2005IU/mL) antibody levels was similar among cases and controls (p=0.34). None of the anti-<i>T. gondii</i> IgG positive cases and four of the anti-<i>T. gondii</i> IgG positive controls had anti-<i>T. gondii</i> IgM antibodies (p=0.54). The prevalence of <i>T. gondii</i> DNA was comparable in seropositive cases and controls (16.7% and 25%, respectively; p=1.0). Seroprevalence of <i>T. gondii</i> infection was associated with a young age onset of disease (p=0.03), high Unified Parkinson Disease Rating Scale scores (p=0.04) and depression (p=0.02). Seropositivity to <i>T. gondii</i> infection was lower in patients treated with pramipexole than in patients without this treatment (p=0.01). However, none of the associations remained significant after Bonferroni correction. The results do not support an association between <i>T. gondii</i> infection and Parkinson's disease. However, <i>T. gondii</i> infection might have an influence on certain symptoms of Parkinson's disease. Further research to elucidate the role of <i>T. gondii</i> exposure on Parkinson's disease is warranted.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28193849/"
+    }
+  ]
+}

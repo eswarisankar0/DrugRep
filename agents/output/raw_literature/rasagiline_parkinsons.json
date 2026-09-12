@@ -1,0 +1,171 @@
+{
+  "drug_name": "Rasagiline",
+  "disease_name": "Parkinson",
+  "n_abstracts": 14,
+  "abstracts": [
+    {
+      "pmid": "40055961",
+      "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2025",
+      "abstract": "To update evidence-based medicine recommendations for treating motor fluctuations of Parkinson's disease (PD). The International Parkinson and Movement Disorder Society (MDS) Evidence Based Medicine in Movement Disorders Committee recommendations for the treatments of PD were first published in 2002 and regularly updated. The current review uses a new methodology, including the Cochrane Risk of Bias tool and a modified version of GRADE (Grading of Recommendations, Assessment, Development, and Evaluations). On January 1, 2023, a literature search was conducted without date limit in the MEDLINE, Embase, and Cochrane databases using the following search terms: Parkinson disease, levodopa and, for the Embase database, randomized controlled trial (RCT). The inclusion criteria for studies were: patients with PD, on oral levodopa therapy, experiencing motor fluctuations, investigating an intervention that was (commercially) available in at least one country, study design RCT, and with a follow-up duration of at least 3\u2009months. A total of 102\u00a0studies were included. Levodopa extended release, pramipexole immediate release and extended release, ropinirole immediate release, rotigotine, opicapone, safinamide, and bilateral subthalamic nucleus deep brain stimulation (DBS) were assessed as efficacious, and continuous intestinal levodopa infusion, continuous subcutaneous levodopa, continuous subcutaneous apomorphine, ropinirole prolonged release, ropinirole patch, entacapone, rasagiline, istradefylline, amantadine extended release, zonisamide, bilateral globus pallidus DBS, and pallidotomy were assessed as likely efficacious for the treatment of motor fluctuations in people with PD who are already being treated with levodopa. There are several treatment options that can improve motor fluctuations in PD. These recommendations will assist physicians and patients in determining which intervention to use. \u00a9 2025 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40055961/"
+    },
+    {
+      "pmid": "32322387",
+      "title": "Freezing of gait in Parkinson's disease: pathophysiology, risk factors and treatments.",
+      "journal": "Translational neurodegeneration",
+      "year": "2020",
+      "abstract": "Freezing of gait (FOG) is a common, disabling symptom of Parkinson's disease (PD), but the mechanisms and treatments of FOG remain great challenges for clinicians and researchers. The main focus of this review is to summarize the possible mechanisms underlying FOG, the risk factors for screening and predicting the onset of FOG, and the clinical trials involving various therapeutic strategies. In addition, the limitations and recommendations for future research design are also discussed. In the mechanism section, we briefly introduced the physiological process of gait control and hypotheses about the mechanism of FOG. In the risk factor section, gait disorders, PIGD phenotype, lower striatal DAT uptake were found to be independent risk factors of FOG with consistent evidence. In the treatment section, we summarized the clinical trials of pharmacological and non-pharmacological treatments. Despite the limited effectiveness of current medications for FOG, especially levodopa resistant FOG, there were some drugs that showed promise such as istradefylline and rasagiline. Non-pharmacological treatments encompass invasive brain and spinal cord stimulation, noninvasive repetitive transcranial magnetic stimulation (rTMS) or transcranial direct current stimulation (tDCS) and vagus nerve stimulation (VNS), and physiotherapeutic approaches including cues and other training strategies. Several novel therapeutic strategies seem to be effective, such as rTMS over supplementary motor area (SMA), dual-site DBS, spinal cord stimulation (SCS) and VNS. Of physiotherapy, wearable cueing devices seem to be generally effective and promising. FOG model hypotheses are helpful for better understanding and characterizing FOG and they provide clues for further research exploration. Several risk factors of FOG have been identified, but need combinatorial optimization for predicting FOG more precisely. Although firm conclusions cannot be drawn on therapeutic efficacy, the literature suggested that some therapeutic strategies showed promise.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32322387/"
+    },
+    {
+      "pmid": "28273839",
+      "title": "Parkinson's Disease: From Pathogenesis to Pharmacogenomics.",
+      "journal": "International journal of molecular sciences",
+      "year": "2017",
+      "abstract": "Parkinson's disease (PD) is the second most important age-related neurodegenerative disorder in developed societies, after Alzheimer's disease, with a prevalence ranging from 41 per 100,000 in the fourth decade of life to over 1900 per 100,000 in people over 80 years of age. As a movement disorder, the PD phenotype is characterized by rigidity, resting tremor, and bradykinesia. Parkinson's disease -related neurodegeneration is likely to occur several decades before the onset of the motor symptoms. Potential risk factors include environmental toxins, drugs, pesticides, brain microtrauma, focal cerebrovascular damage, and genomic defects. Parkinson's disease neuropathology is characterized by a selective loss of dopaminergic neurons in the substantia nigra pars compacta, with widespread involvement of other central nervous system (CNS) structures and peripheral tissues. Pathogenic mechanisms associated with genomic, epigenetic and environmental factors lead to conformational changes and deposits of key proteins due to abnormalities in the ubiquitin-proteasome system together with dysregulation of mitochondrial function and oxidative stress. Conventional pharmacological treatments for PD are dopamine precursors (levodopa, l-DOPA, l-3,4 dihidroxifenilalanina), and other symptomatic treatments including dopamine agonists (amantadine, apomorphine, bromocriptine, cabergoline, lisuride, pergolide, pramipexole, ropinirole, rotigotine), monoamine oxidase (MAO) inhibitors (selegiline, rasagiline), and catechol-<i>O</i>-methyltransferase (COMT) inhibitors (entacapone, tolcapone). The chronic administration of antiparkinsonian drugs currently induces the \"wearing-off phenomenon\", with additional psychomotor and autonomic complications. In order to minimize these clinical complications, novel compounds have been developed. Novel drugs and bioproducts for the treatment of PD should address dopaminergic neuroprotection to reduce premature neurodegeneration in addition to enhancing dopaminergic neurotransmission. Since biochemical changes and therapeutic outcomes are highly dependent upon the genomic profiles of PD patients, personalized treatments should rely on pharmacogenetic procedures to optimize therapeutics.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28273839/"
+    },
+    {
+      "pmid": "29570866",
+      "title": "International Parkinson and movement disorder society evidence-based medicine review: Update on treatments for the motor symptoms of Parkinson's disease.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2018",
+      "abstract": "The objective of this review was to update evidence-based medicine recommendations for treating motor symptoms of Parkinson's disease (PD). The Movement Disorder Society Evidence-Based Medicine Committee recommendations for treatments of PD were first published in 2002 and updated in 2011, and we continued the review to December 31, 2016. Level I studies of interventions for motor symptoms were reviewed. Criteria for inclusion and quality scoring were as previously reported. Five clinical indications were considered, and conclusions regarding the implications for clinical practice are reported. A total of 143 new studies qualified. There are no clinically useful interventions to prevent/delay disease progression. For monotherapy of early PD, nonergot dopamine agonists, oral levodopa preparations, selegiline, and rasagiline are clinically useful. For adjunct therapy in early/stable PD, nonergot dopamine agonists, rasagiline, and zonisamide are clinically useful. For adjunct therapy in optimized PD for general or specific motor symptoms including gait, rivastigmine is possibly useful and physiotherapy is clinically useful; exercise-based movement strategy training and formalized patterned exercises are possibly useful. There are no new studies and no changes in the conclusions for the prevention/delay of motor complications. For treating motor fluctuations, most nonergot dopamine agonists, pergolide, levodopa ER, levodopa intestinal infusion, entacapone, opicapone, rasagiline, zonisamide, safinamide, and bilateral STN and GPi DBS are clinically useful. For dyskinesia, amantadine, clozapine, and bilateral STN DBS and GPi DBS are clinically useful. The options for treating PD symptoms continues to expand. These recommendations allow the treating physician to determine which intervention to recommend to an individual patient. \u00a9 2018 International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29570866/"
+    },
+    {
+      "pmid": "34957948",
+      "title": "Monoamine Oxidase-B Inhibitors for the Treatment of Parkinson's Disease: Past, Present, and Future.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2022",
+      "abstract": "Monoamine oxidase-B (MAO-B) inhibitors are commonly used for the symptomatic treatment of Parkinson's disease (PD). MAO-B inhibitor monotherapy has been shown to be effective and safe for the treatment of early-stage PD, while MAO-B inhibitors as adjuvant drugs have been widely applied for the treatment of the advanced stages of the illness. MAO-B inhibitors can effectively improve patients' motor and non-motor symptoms, reduce \"OFF\" time, and may potentially prevent/delay disease progression. In this review, we discuss the effects of MAO-B inhibitors on motor and non-motor symptoms in PD patients, their mechanism of action, and the future development of MAO-B inhibitor therapy.",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34957948/"
+    },
+    {
+      "pmid": "35203982",
+      "title": "Rasagiline Withdrawal Syndrome in Parkinson's Disease.",
+      "journal": "Brain sciences",
+      "year": "2022",
+      "abstract": "Parkinson's disease (PD) patients using dopamine agonists can develop withdrawal symptoms, referred to as dopamine agonist withdrawal syndrome (DAWS), under dose tapering or discontinuation of these drugs. DAWS includes a severe stereotypical cluster of psychiatric and psychological symptoms encompassing severe mood and anxiety disturbances, autonomic symptoms, as well as generalized pain and drug cravings. However, symptoms of withdrawal of dopamine replacement therapies (DRT) are not simply limited to dopamine agonists tapering, as observed in PD patients on deep brain stimulation after dopaminergic drugs withdrawal related to surgery. To date, no DRT-related withdrawal syndrome has been described in PD patients who discontinue rasagiline, an irreversible inhibitor of monoamine oxidase-B (MAO-B). Here we report three PD patients who developed a severe withdrawal syndrome after rasagiline suspension. The syndrome was mainly characterized by prominent psychiatric disorders (depression, anxiety with panic attacks, dysphoria, and agitation) associated with fatigue, generalized pain, and autonomic manifestations (closely resembling symptoms of DAWS). In our opinion, this report suggests the importance of closely monitoring PD patients undergoing rasagiline suspension for withdrawal symptoms and provides interesting points of reflection on the role of rasagiline and other MAO-B inhibitors in mood disorders.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35203982/"
+    },
+    {
+      "pmid": "29464559",
+      "title": "Monoamine Oxidases.",
+      "journal": "Sub-cellular biochemistry",
+      "year": "2018",
+      "abstract": "Monoamine oxidases A and B (MAO A and B) are mammalian flavoenzymes bound to the outer mitochondrial membrane. They were discovered almost a century ago and they have been the subject of many biochemical, structural and pharmacological investigations due to their central role in neurotransmitter metabolism. Currently, the treatment of Parkinson's disease involves the use of selective MAO B inhibitors such as rasagiline and safinamide. MAO inhibition was shown to exert a general neuroprotective effect as a result of the reduction of oxidative stress produced by these enzymes, which seems to be relevant also in non-neuronal contexts. MAOs were successfully expressed as recombinant proteins in Pichia pastoris, which allowed a thorough biochemical and structural characterization. These enzymes are characterized by a globular water-soluble main body that is anchored to the mitochondrial membrane through a C-terminal \u03b1-helix, similar to other bitopic membrane proteins. In both MAO A and MAO B the enzyme active site consists of a hydrophobic cavity lined by residues that are conserved in the two isozymes, except for few details that determine substrate and inhibitor specificity. In particular, human MAO B features a dual-cavity active site whose conformation depends on the size of the bound ligand. This article provides a comprehensive and historical review of MAOs and the state-of-the-art of these enzymes as membrane drug targets.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29464559/"
+    },
+    {
+      "pmid": "12090555",
+      "title": "Rasagiline. Teva Pharmaceutical.",
+      "journal": "Current opinion in investigational drugs (London, England : 2000)",
+      "year": "2002",
+      "abstract": "Rasagiline is a selective and potent irreversible MAO(B) inhibitor which is under development by Teva for the treatment of neurological diseases. Rasagiline is in phase III trials in the US, Canada and Europe for Parkinson's disease (PD) and has completed phase II trials in Israel and Hungary. Teva planned to submit a filing in 2002 and expected to launch rasagiline in 2003. Lundbeck acquired European development and commercialization rights to rasagiline in November 1999 and, in September 2001, the company reported that it planned to file an NDA in 2003. In March 2002, analysts at Morgan Stanley Dean Witter predicted that H Lundbeck would make sales of rasagiline of DKr 100 million in 2003, rising to DKr 300 million in 2008. In the same month, launch was predicted in 2004/2005 for the PD indication, and 2005/2006 for the AD indication, by analysts at Deutsche Banc Alex Brown.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/12090555/"
+    },
+    {
+      "pmid": "16106586",
+      "title": "Rasagiline.",
+      "journal": "Nature reviews. Drug discovery",
+      "year": "2005",
+      "abstract": "",
+      "publication_types": [
+        "Comparative Study",
+        "News"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/16106586/"
+    },
+    {
+      "pmid": "35334012",
+      "title": "Rasagiline, sleep quality and well-being in Parkinson's disease: a pilot study.",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "year": "2022",
+      "abstract": "Sleep disordersand excessive daytime sleepiness are among the commonest nonmotor symptoms in Parkinson disease (PD) and can contribute to significantly lower quality of life in affected patients. Various antiparkinson drugs exert a relevant influence on sleep quality, daily vigilance and well-being. In the latest years, administration of monoamine oxidase type B inhibitor (iMAO-B) medications in PD, especially rasagiline, has gained importance due to the hypothesized neuroprotective effect of these agents. Whereas the 'wakepromoting' effect of selegine, due to its activating amphetamine-like compounds, has been already described, less is known regarding the effect of rasagiline, a world-wide used iMAO-B drug. A pilot study was carried out to analyze the effects of rasagiline on sleep and healthrelated quality of life in a small cohort of PD patients. According to our results, PD patients treated with rasagiline referred better sleep quality, required less frequently hypnotic medication, complained of lower daytime sleepiness and presented higher scores in social functioning, perceived energy levels and emotional well-being. Albeit limited by the small sample size, our study suggests an intriguing role of rasagiline in improving sleep and quality of life in PD patients. Further studies are necessary to confirm our preliminary observations.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35334012/"
+    },
+    {
+      "pmid": "21370275",
+      "title": "Rasagiline-induced serotonin syndrome.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2011",
+      "abstract": "",
+      "publication_types": [
+        "Letter"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/21370275/"
+    },
+    {
+      "pmid": "30566307",
+      "title": "Anti-parkinsonian drugs today.",
+      "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+      "year": "2017",
+      "abstract": "The current pharmacotherapeutic options for Parkinson's disease is described in this article. Newly formulations of levodopa developed to date. Levodopa / carbidopa intestinal gel (Duodopa) was approved recently in Japan. Duodopa permits to maintain plasma concentrations of levodopa at steady levels and prolongs ON time without dyskinesia. IPX066 is a newly developed oral formulation of levodopa, and launched in US. It contains both an immediate-release and a sustained-release levodopa component. Safinamide has an inhibitory activity of glutamate release and antagonism of sodium channel activity in addition to MAO-B inhibitor. Opicapone is a novel third generation COMT inhibitor. Rasagiline is a widely used MAO-B inhibitor in many countries. Clinical trials of the both agents are performed in Japan. Pimavanserin, a 5-HT2A inverse agonist, is the first and only medication approved by FDA for the treatment of psychosis associated with Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30566307/"
+    },
+    {
+      "pmid": "41188875",
+      "title": "Interaction between rasagiline and Pueraria radix in in vitro models of parkinson's disease.",
+      "journal": "BMC complementary medicine and therapies",
+      "year": "2025",
+      "abstract": "The management of Parkinson's disease (PD) remains challenging owing to the limitations of current therapies. Although rasagiline (RASA), a monoamine oxidase-B (MAO-B) inhibitor, offers advantages over levodopa, its efficacy as a monotherapy is moderate. Pueraria root (PR), a traditional East Asian medicine, has demonstrated neuroprotective potential against several neurodegenerative conditions. This study investigated the pharmacodynamic and pharmacokinetic interactions between RASA and PR to evaluate their potential as a combination therapy for PD. We examined synergistic effects on MAO-B inhibition by performing MAO-B enzyme reaction assay. We measured the cell viability for evaluating the neuroprotective effects of their co-administration against 6-OHDA-induced toxicity in PC12 cells. For investigating the interaction of drug metabolism, CYP450 expressions were measured in hepatocytes using quantitative real-time polymerase chain reaction. Concentration-dependent studies revealed a significant synergistic inhibition of MAO-B activity when RASA and PR were co-administered at specific ratios, as confirmed by combination index analysis. Although neither of the two drugs alone provided significant neuroprotection at concentrations effective for MAO-B inhibition, their co-administration significantly increased the survival of in 6-OHDA-treated cells. Importantly, investigation of CYP450 metabolism demonstrated minimal interference between these compounds, with no significant alterations in the expression patterns of relevant CYP isoforms during co-administration. These findings suggest that the RASA - PR combination offers enhanced therapeutic potential through synergistic effects, while maintaining favourable metabolic compatibility. This study establishes a scientific foundation for integrating traditional herbal medicine with conventional pharmaceuticals in PD management, potentially allowing for reduced conventional drug dosages while improving therapeutic outcomes.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41188875/"
+    },
+    {
+      "pmid": "30963543",
+      "title": "Rasagiline and safinamide as a dopamine-sparing therapy for Parkinson's disease.",
+      "journal": "Acta neurologica Scandinavica",
+      "year": "2019",
+      "abstract": "To evaluate whether the prescription of monoamine oxidase B inhibitors (MAOB-I), rasagiline and safinamide, contributes to the reduction of levodopa and/or dopamine agonists (DA) dose in order to minimize adverse effects. A total of 724 patients with Parkinson's disease (PD) have been prospectively included in our database since the year 2000, representing a total of 5124 visits. For each patient and visit, antiparkinsonian treatment was recorded. In the presence of rasagiline and safinamide, we analysed the evolution of levodopa equivalent dose (LED) and LED for DA (LED-DA). The data obtained from the 1664 visits between 2006 and 2010 (321 patients) and the 1709 visits between 2014 and 2018 (403 patients) were analysed in order to assess the impact of the introduction of rasagiline and safinamide, respectively. The annual mean LED remained stable without statistically significant differences. In the first period (impact of rasagiline), the annual mean LED-DA in 2010 was significantly higher than in 2006 (P\u00a0=\u00a00.001). In the second period (impact of safinamide), the annual mean LED-DA in 2018 was significantly lower than in 2014 (P\u00a0=\u00a00.002). A repeated-measure analyses of LED-DA including only patients who had taken safinamide showed a statistically significant decrease in LED-DA (P\u00a0=\u00a00.027). The introduction of MAOB-I in the overall treatment of PD as part of routine clinical practice has not helped to reduce annual mean LED. However, safinamide reduces annual mean LED-DA and may be linked to a reduction in dose-dependent adverse effects in the long term.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30963543/"
+    }
+  ]
+}

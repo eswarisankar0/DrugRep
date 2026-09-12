@@ -1,0 +1,182 @@
+{
+  "drug_name": "Ketamine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "22749554",
+      "title": "[Parkinson's disease and ketamine].",
+      "journal": "Annales francaises d'anesthesie et de reanimation",
+      "year": "2012",
+      "abstract": "",
+      "publication_types": [
+        "Letter",
+        "Comment"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22749554/"
+    },
+    {
+      "pmid": "38645137",
+      "title": "Alpha-synuclein aggregates are phosphatase resistant.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2024",
+      "abstract": "Alpha-synuclein (\u03b1syn) is an intrinsically disordered protein that aggregates in the brain in several neurodegenerative diseases collectively called synucleinopathies. Phosphorylation of \u03b1syn at serine 129 (PSER129) was considered rare in the healthy human brain but is enriched in pathological \u03b1syn aggregates and is used as a specific marker for disease inclusions. However, recent observations challenge this assumption by demonstrating that PSER129 results from neuronal activity and can be readily detected in the non-diseased mammalian brain. Here, we investigated experimental conditions under which two distinct PSER129 pools, namely endogenous-PSER129 and aggregated-PSER129, could be detected and differentiated in the mammalian brain. Results showed that in the wild-type (WT) mouse brain, perfusion fixation conditions greatly influenced the detection of endogenous-PSER129, with endogenous-PSER129 being nearly undetectable after delayed perfusion fixation (30-minute and 1-hour postmortem interval). Exposure to anesthetics (e.g., Ketamine or xylazine) before perfusion did not significantly influence endogenous-PSER129 detection or levels. In situ, non-specific phosphatase calf alkaline phosphatase (CIAP) selectively dephosphorylated endogenous-PSER129 while \u03b1syn preformed fibril (PFF)-seeded aggregates and genuine disease aggregates (Lewy pathology and Papp-Lantos bodies in Parkinson's disease and multiple systems atrophy brain, respectively) were resistant to CIAP-mediated dephosphorylation. The phosphatase resistance of aggregates was abolished by sample denaturation, and CIAP-resistant PSER129 was closely associated with proteinase K (PK)-resistant \u03b1syn (i.e., a marker of aggregation). CIAP pretreatment allowed for highly specific detection of seeded \u03b1syn aggregates in a mouse model that accumulates non-aggregated-PSER129. We conclude that \u03b1syn aggregates are impervious to phosphatases, and CIAP pretreatment increases detection specificity for aggregated-PSER129, particularly in well-preserved biological samples (e.g., perfusion fixed or flash-frozen mammalian tissues) where there is a high probability of interference from endogenous-PSER129. Our findings have important implications for the mechanism of PSER129-accumulation in the synucleinopathy brain and provide a simple experimental method to differentiate endogenous-from aggregated PSER129.",
+      "publication_types": [
+        "Preprint",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38645137/"
+    },
+    {
+      "pmid": "38822421",
+      "title": "Alpha-synuclein aggregates are phosphatase resistant.",
+      "journal": "Acta neuropathologica communications",
+      "year": "2024",
+      "abstract": "Alpha-synuclein (\u03b1syn) is an intrinsically disordered protein that aggregates in the brain in several neurodegenerative diseases collectively called synucleinopathies. Phosphorylation of \u03b1syn at serine 129 (PSER129) was considered rare in the healthy human brain but is enriched in pathological \u03b1syn aggregates and is used as a specific marker for disease inclusions. However, recent observations challenge this assumption by demonstrating that PSER129 results from neuronal activity and can be readily detected in the non-diseased mammalian brain. Here, we investigated experimental conditions under which two distinct PSER129 pools, namely endogenous-PSER129 and aggregated-PSER129, could be detected and differentiated in the mammalian brain. Results showed that in the wild-type (WT) mouse brain, perfusion fixation conditions greatly influenced the detection of endogenous-PSER129, with endogenous-PSER129 being nearly undetectable after delayed perfusion fixation (30-min and 1-h postmortem interval). Exposure to anesthetics (e.g., Ketamine or xylazine) before perfusion did not significantly influence endogenous-PSER129 detection or levels. In situ, non-specific phosphatase calf alkaline phosphatase (CIAP) selectively dephosphorylated endogenous-PSER129 while \u03b1syn preformed fibril (PFF)-seeded aggregates and genuine disease aggregates (Lewy pathology and Papp-Lantos bodies in Parkinson's disease and multiple systems atrophy brain, respectively) were resistant to CIAP-mediated dephosphorylation. The phosphatase resistance of aggregates was abolished by sample denaturation, and CIAP-resistant PSER129 was closely associated with proteinase K (PK)-resistant \u03b1syn (i.e., a marker of aggregation). CIAP pretreatment allowed for highly specific detection of seeded \u03b1syn aggregates in a mouse model that accumulates non-aggregated-PSER129. We conclude that \u03b1syn aggregates are impervious to phosphatases, and CIAP pretreatment increases detection specificity for aggregated-PSER129, particularly in well-preserved biological samples (e.g., perfusion fixed or flash-frozen mammalian tissues) where there is a high probability of interference from endogenous-PSER129. Our findings have important implications for the mechanism of PSER129-accumulation in the synucleinopathy brain and provide a simple experimental method to differentiate endogenous-from aggregated PSER129.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38822421/"
+    },
+    {
+      "pmid": "40368261",
+      "title": "Demyelination in psychiatric and neurological disorders: Mechanisms, clinical impact, and novel therapeutic strategies.",
+      "journal": "Neuroscience and biobehavioral reviews",
+      "year": "2025",
+      "abstract": "Demyelination, defined as the loss of myelin sheaths around neuronal axons, is increasingly recognized as a key factor in a broad range of psychiatric and neurological disorders, including schizophrenia, major depressive disorder, bipolar disorder, post-traumatic stress disorder, autism spectrum disorder, substance use disorders, Alzheimer's disease, Parkinson's disease, and multiple sclerosis. This review investigates the core mechanisms driving demyelination, its clinical impact, and emerging therapeutic strategies aimed at maintaining or restoring myelin integrity. Disruption of myelin impairs crucial neural communication pathways, resulting in cognitive, motor, and behavioral deficits that substantially reduce quality of life and create significant economic and social challenges. Key contributors to demyelination include genetic predisposition, environmental triggers, immune dysregulation, neuroinflammation, and alterations in the gut-brain axis mediated by the vagus nerve. Promising therapies include sphingosine 1-phosphate receptor modulators and muscarinic acetylcholine receptor antagonists, both of which diminish immune-related myelin damage and may enhance neuroprotection. In addition, the novel antidepressant arketamine appears to boost myelination through transforming growth factor-\u03b21 signaling pathways. Approaches targeting the gut-brain axis, such as noninvasive transcutaneous auricular vagus nerve stimulation and fecal microbiota transplantation, may also help reduce inflammation and support myelin repair. Future research should center on clarifying the precise molecular mechanisms of demyelination, developing targeted therapies, and leveraging advanced neuroimaging for earlier detection and personalized treatment. By combining immunomodulatory and neuroprotective strategies, there is potential to significantly improve outcomes for individuals affected by demyelinating psychiatric and neurological disorders.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40368261/"
+    },
+    {
+      "pmid": "33359641",
+      "title": "Ketamine reversed short-term memory impairment and depressive-like behavior in animal model of Parkinson's disease.",
+      "journal": "Brain research bulletin",
+      "year": "2021",
+      "abstract": "The most common features of Parkinson's disease (PD) are motor impairments, but many patients also present depression and memory impairment. Ketamine, an N-methyl-d-aspartate (NMDA) receptor antagonist, has been shown to be effective in patients with treatment-resistant major depression. Thus, the present study evaluated the action of ketamine on memory impairment and depressive-like behavior in an animal model of PD. Male Wistar rats received a bilateral infusion of 6 \u03bcg/side 6-hydroxydopamine (6-OHDA) into the substantia nigra pars compacta (SNc). Short-term memory was evaluated by the social recognition test, and depressive-like behaviors were evaluated by the sucrose preference and forced swimming tests (FST). Drug treatments included vehicle (i.p., once a week); ketamine (5, 10 and 15 mg/kg, i.p., once a week); and imipramine (20 mg/kg, i.p., daily). The treatments were administered 21 days after the SNc lesion and lasted for 28 days. The SNc lesion impaired short-term social memory, and all ketamine doses reversed the memory impairment and anhedonia (reduction of sucrose preference) induced by 6-OHDA. In the FST, 6-OHDA increased immobility, and all doses of ketamine and imipramine reversed this effect. The anti-immobility effect of ketamine was associated with an increase in swimming but not in climbing, suggesting a serotonergic effect. Ketamine and imipramine did not reverse the 6-OHDA-induced reduction in tyrosine hydroxylase immunohistochemistry in the SNc. In conclusion, ketamine reversed depressive-like behaviors and short-term memory impairment in rats with SNc bilateral lesions, indicating a promising profile for its use in PD patients.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33359641/"
+    },
+    {
+      "pmid": "35550159",
+      "title": "Asleep DBS under ketamine sedation: Proof of concept.",
+      "journal": "Neurobiology of disease",
+      "year": "2022",
+      "abstract": "Deep brain stimulation (DBS) is commonly and safely performed for selective Parkinson's disease patients. Many centers perform DBS lead positioning exclusively under local anesthesia, to optimize brain microelectrode recordings (MER) and testing of stimulation-related therapeutic and side effects. These measures enable physiological identification of the DBS borders and subdomains based on electrophysiological properties like firing rates and patterns, intra-operative evaluation of therapeutic window, and improvement of lead placement accuracy. Nevertheless, due to the challenges of awake surgery, some centers use sedation or general anesthesia, despite the distortion of discharge properties and interference with clinical testing, resulting in potential impact on surgical outcomes. Thus, there is a need for a novel anesthesia regimen that enables sedation without compromising intra-operative monitoring. This open-label study investigates the use of low-dose ketamine for conscious sedation during microelectrode recordings and lead positioning in subthalamic nucleus (STN) DBS for Parkinson's disease patients. Three anesthetic regimens were retrospectively compared in 38 surgeries (74 MER trajectories, 5962 recording sites) across three DBS centers: 1) Interleaved propofol-ketamine (PK), 2) Interleaved propofol-awake (PA), and 3) Fully awake (AA). All anesthesia regimens achieved satisfactory MER. Detection of STN borders and subdomains by expert electrophysiologist was similar between the groups. Electrophysiological signature of the STN under ketamine was not inferior to either control group. All patients completed stimulation testing. This study supports a low-dose ketamine anesthesia regimen for DBS which allows microelectrode recordings and stimulation testing that are not inferior to those conducted under awake and propofol-awake regimens and may optimize patient experience. A prospective double-blind study that would also compare patients' satisfaction level and clinical outcome should be performed to confirm these findings.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35550159/"
+    },
+    {
+      "pmid": "39518474",
+      "title": "A Scoping Review of GLP-1 Receptor Agonists: Are They Associated with Increased Gastric Contents, Regurgitation, and Aspiration Events?",
+      "journal": "Journal of clinical medicine",
+      "year": "2024",
+      "abstract": "<b>Background:</b> The increased popularity and ubiquitous use of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for the treatment of diabetes, heart failure, and obesity has led to significant concern for increased risk for perioperative aspiration, given their effects on delayed gastric emptying. This concern is highlighted by many major societies that have published varying guidance on the perioperative management of these medications, given limited data. We conducted a scoping review of the available literature regarding the aspiration risk and aspiration/regurgitant events related to GLP-1 RAs. <b>Methods:</b> A librarian-assisted search was performed using five electronic medical databases (PubMed, Embase, and Web of Science Platform Databases, including Web of Science Core Collection, KCI Korean Journal Database, MEDLINE, and Preprint Citation Index) from inception through March 2024 for articles that reported endoscopic, ultrasound, and nasogastric evaluation for increased residual gastric volume retained food contents, as well as incidences of regurgitation and aspiration events. Two reviewers independently screened titles, abstracts, and full text of articles to determine eligibility. Data extraction was performed using customized fields established a priori within a systematic review software system. <b>Results:</b> Of the 3712 citations identified, 24 studies met eligibility criteria. Studies included four prospective, six retrospective, five case series, and nine case reports. The GLP-1 RAs reported in the studies included semaglutide, liraglutide, lixisenatide, dulaglutide, tirzepatide, and exenatide. All studies, except one case report, reported patients with confounding factors for retained gastric contents and aspiration, such as a history of diabetes, cirrhosis, hypothyroidism, psychiatric disorders, gastric reflux, Barrett's esophagus, Parkinson's disease, dysphagia, obstructive sleep apnea, gastric polyps, prior abdominal surgeries, autoimmune diseases, pain, ASA physical status classification, procedural factors (i.e., thyroid surgery associated with risk for nausea, ketamine associated with nausea and secretions), and/or medications associated with delayed gastric emptying (opioids, anticholinergics, antidepressants, beta-blockers, calcium channel blockers, DPP-IV inhibitors, and antacids). Of the eight studies (three prospective and five retrospective) that evaluated residual contents in both GLP-1 users and non-users, seven studies (<i>n</i> = 7/8) reported a significant increase in residual gastric contents in GLP-1 users compared to non-users (19-56% vs. 5-20%). In the three retrospective studies that evaluated for aspiration events, there was no significant difference in aspiration events, with one study reporting aspiration rates of 4.8 cases per 10,000 in GLP-1 RA users compared to 4.6 cases per 10,000 in nonusers and the remaining two studies reporting one aspiration event in the GLP-1 RA user group and none in the non-user group. In one study that evaluated for regurgitation or reflux by esophageal manometry and pH, there was no significant difference in reflux episodes but a reduction in gastric acidity in the GLP-1 RA user group compared to the non-user group. <b>Conclusions:</b> There is significant variability in the findings reported in the studies, and most of these studies include confounding factors that may influence the association between GLP-1 RAs and an increased risk of aspiration and related events. While GLP-1 RAs do increase residual gastric contents in line with their mechanism of action, the currently available data do not suggest a significant increase in aspiration and regurgitation events associated with their use and the withholding of GLP-1 RAs to reduce aspiration and regurgitation events, as is currently recommended by many major societal guidelines. Large randomized controlled trials (RCTs) may be helpful in further elucidating the impact of GLP-1 RAs on perioperative aspiration risk.",
+      "publication_types": [
+        "Journal Article",
+        "Scoping Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39518474/"
+    },
+    {
+      "pmid": "39585797",
+      "title": "Decoupling of motor cortex to movement in Parkinson's dyskinesia rescued by sub-anaesthetic ketamine.",
+      "journal": "Brain : a journal of neurology",
+      "year": "2025",
+      "abstract": "Gamma-band and single-unit neural activity in primary motor cortex are involved in the control of movement. This activity is disrupted in Parkinson's disease (PD) and levodopa-induced dyskinesia (LID), a debilitating consequence of dopamine replacement therapy for PD. Physiological features of LID include pathological narrowband gamma oscillations, finely tuned gamma and altered primary motor cortex firing activity. Given that most studies characterize LID through visual scoring, little is known about the relationships between ongoing dyskinetic movements, gamma and neuronal activity at fast (sub-second) and slow (seconds) time scales. Here, we investigate how motor cortex activity changes with movement at multiple time scales in animal models of PD and LID. Furthermore, sub-anaesthetic ketamine has emerged as a possible therapy for LID. How ketamine might reduce LID is not fully understood. Consequently, we investigate how ketamine affects the relationship between motor cortex activity and movement. To investigate these questions, local-field and single-unit activity from >3000 motor cortex neurons was acquired using a standard model of PD/LID (n = 10 male rats). Data in LID and sham animals were acquired following levodopa (L-DOPA; 12\u2005mg/kg, intraperitoneal) and ketamine (20\u2005mg/kg, intraperitoneal) administration. Movement was assessed using traditional abnormal involuntary movement scores and head-mounted inertial sensors sampled at 200\u2005Hz. Although correlations between movement, gamma and single-unit activity were high in all animals during control conditions, correlations decreased considerably in animal models of LID following L-DOPA administration. This suggests that primary motor cortex can become functionally decoupled from ongoing movements in LID. Interestingly, this effect was observed in both the dopamine-depleted and non-depleted hemispheres. Ketamine disrupted finely tuned gamma, decreased LID and moderately increased single-unit correlations with movement during LID. Ketamine, however, did not enhance the correlation between gamma-band activity and movement. Finally, ketamine exerted a selective effect on neuronal interactions and ensemble activity in LID animals. Specifically, analysis of cell-pair firing-rate correlations showed that ketamine induced a distinct neural ensemble state in LID by reorganizing the pattern of cell-pair interactions. These findings provide insight into the role that motor cortex neurons and gamma-band activity play during healthy movement and LID. Results suggest that primary motor cortex does not directly trigger specific dyskinetic movements during LID but, instead, dysregulated motor cortex activity might permit aberrant movements to emerge spontaneously in downstream circuits. These data further support the anti-dyskinetic properties of ketamine and suggest that ketamine acts to reduce LID by disrupting pathological interactions between motor cortex neurons during dyskinesia.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39585797/"
+    },
+    {
+      "pmid": "31601399",
+      "title": "Novel targets for parkinsonism-depression comorbidity.",
+      "journal": "Progress in molecular biology and translational science",
+      "year": "2019",
+      "abstract": "With the aging population growing and the incidence of neurodegenerative diseases on the rise, the researchers in the field are yet more urgently challenged to slow and/or reverse the devastating consequences of such progression. The challenge is further enforced by psychiatric co-morbid conditions, particularly the feeling of despair in these population. Fortunately, as our understanding of the neurobiological substrates of maladies affecting the central nervous system increases, more therapeutic options are also presented. In this short review while providing evidence of shared biological substrates between Parkinson's disease and depression, novel therapeutic targets and drugs are suggested. The emphasis will be on neuroplasticity underscored by roles of neurotrophic and inflammatory factors. Examples of few therapeutic drugs as well as future directions are also touched upon.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31601399/"
+    },
+    {
+      "pmid": "38116733",
+      "title": "Levodopa-induced dyskinesia: do current clinical trials hold hope for future treatment?",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2024",
+      "abstract": "",
+      "publication_types": [
+        "Editorial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38116733/"
+    },
+    {
+      "pmid": "42199136",
+      "title": "Dopamine, glutamate, and gamma-aminobutyric acid: Key hubs in neurotransmitters, signal transduction, and cognitive dysfunction.",
+      "journal": "Neural regeneration research",
+      "year": "2026",
+      "abstract": "Neurotransmitters such as dopamine, glutamate, and gamma-aminobutyric acid (GABA) play crucial roles in regulating cognitive functions including learning, memory, and executive control. Dysregulation in synthesis, release, and metabolism of these neurotransmitters is implicated in the pathogenesis of various neurological disorders, such as Alzheimer's disease, Parkinson's disease, depression, and schizophrenia, leading to significant cognitive impairment. Recent research highlights that dopamine modulates reward processing, motivation, and memory through its synthesis via tyrosine hydroxylase and reuptake via the dopamine transporter. Glutamate, the primary excitatory neurotransmitter, mediates synaptic plasticity and cognitive processes through ionotropic and metabotropic receptors, while gamma-aminobutyric acid maintains inhibitory balance via GABA A and GABA B receptors. Notedly, interactions among these neurotransmitters, such as dopamine-Glu cross-talk through N-methyl-D-aspartate and dopamine receptors, and GABAergic regulation of dopaminergic activity, are critical for cognitive function. Existing detection techniques, including microdialysis, electrochemical sensors, and genetically encoded indicators, have advanced our understanding but still lack the spatiotemporal resolution needed to fully capture dynamic neurotransmitter interactions in real time. Although pharmacological interventions targeting these systems (e.g., L-3,4-dihydroxyphenylalanine, ketamine, GABAergic modulators) show potential, clinical applications are limited by significant side effects and variable efficacy. In summary, a multi-target approach, combining advanced detection methods with a deeper understanding of neurotransmitter crosstalk, may pave the way for more effective diagnostic and treatment interventions for cognitive disorders.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42199136/"
+    },
+    {
+      "pmid": "29111184",
+      "title": "Neuron-protective effect of subanesthestic-dosage ketamine on mice of Parkinson's disease.",
+      "journal": "Asian Pacific journal of tropical medicine",
+      "year": "2017",
+      "abstract": "To discuss the neuron-protective effect and possible mechanism of subanesthestic-dosage ketamine on Parkinson's disease mice induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine. A total of 30 mice were divided equally into three groups, model control group (MC group), ketamine treatment group (KT group), and blank control group (BC group), respectively. The Parkinson's disease mice of MC group and KT groups were established by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (20\u00a0mg/kg/d), while mice in KT group were treated by intraperitoneal injection of subanesthestic-dosage ketamine (8\u00a0mg/kg). Differences on behaviors and the number of nigra dopaminergic neurons of mice in each group were compared through the behavioral test and tyrosine hydroxylase immunohistochemistry experiments after the treatments. Furthermore, Western blot was used to test the expression of autophagy-related gene LC3-\u2161, Beclin1, Parkin, PINK1, and mTOR. Compared with the BC group, the neuroethology scores were lower and the amount of TH positive cells were less both in MC and MT groups; In KT group, the neuroethology scores were higher and the amount of tyrosine hydroxylase positive cells were significantly more than that in MC group (P\u00a0<\u00a00.05). Moreover, expression levels of autophagy-related proteins LC3-II, Beclin1, Parkin, and PINK1 were higher, while the mTOR expression level was lower than that in MC group. The subanesthestic-dosage ketamine has some protective effects on the coordinating ability of movement and cognitive ability of Parkinson's disease mice induced by 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine. This is probably due to that the autophagy activity of cells is activated by subanesthestic-dosage ketamine and that the neurons are protected.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29111184/"
+    },
+    {
+      "pmid": "31222868",
+      "title": "Effect of alcohol on the sense of agency in healthy humans.",
+      "journal": "Addiction biology",
+      "year": "2020",
+      "abstract": "Even at low to moderate doses, ingestion of the widely used recreational drug alcohol (ethanol) can impact cognitive and emotional processing. Recent studies show that the sense of agency (SoA; ie, the subjective experience of voluntary control over actions) can be modulated by specific pharmacological manipulations. The SoA, as quantified by the intentional binding (IB) paradigm, is enhanced by direct or indirect dopaminergic agonists in patients with Parkinson's disease and by ketamine (an N-methyl-D-aspartate (NMDA) receptor antagonist) in healthy individuals. These findings implicate dopaminergic and glutamatergic neurotransmission in mechanisms underlying SoA. Alcohol has a complex set of actions, including disinhibition of dopaminergic neurotransmission and allosteric antagonism at NMDA receptors. Here, we tested the hypothesis that low to moderate doses of alcohol would enhance SoA, and impact impulsivity and subjective emotional state. We conducted two experiments in 59 healthy male and female social drinkers, who ingested either a placebo \"vehicle,\" or one of two doses of ethanol: 0.4 and 0.6 g/kg. In both experiments, we observed increased SoA/IB at both doses of alcohol exposure, relative to the placebo condition. We found no correlation between the effects of alcohol on IB and on impulsivity or subjective emotional state. Our findings might have implications for social and legal responsibility related to alcohol use, particularly in states prior to overt intoxication. Further studies are necessary to investigate the effects of alcohol and other addictive substances on the SoA.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31222868/"
+    },
+    {
+      "pmid": "41134420",
+      "title": "Ketamine enhances neurological function through neuronal and plasticity-related protein changes in rats with permanent middle cerebral artery occlusion.",
+      "journal": "Metabolic brain disease",
+      "year": "2025",
+      "abstract": "Ketamine (KET) is a drug that has been used as an anesthetic for many years. However, in the last two decades, new properties have been discovered that make it useful in treating various psychiatric and neurological disorders. Ketamine has shown effectiveness in preclinical models and patients with conditions such as depression, Parkinson's disease, and obsessive-compulsive disorder, among others.\u00a0In the present study, we evaluated the effect of ketamine (KET) (15\u00a0mg/kg) administered at 24, 48, and 72\u00a0h following permanent middle cerebral artery occlusion (pMCAO) in rats, a model of stroke. Forty male Sprague-Dawley rats (~\u2009300\u00a0g) were randomly assigned to three groups: Sham, pMCAO-Saline, and pMCAO-KET (n\u2009=\u200912 per group). Three rats died during the procedures. Neurological function was assessed using the Bederson score after the final KET administration, 72\u00a0h post-occlusion. After the neurological assessment, brains were obtained, and dendritic intersections were measured using Sholl analysis, and GFAP, BDNF, and AMPA protein presence were characterized through immunohistochemistry. Additionally, the expression of the AMPA subunit GRIA1 was evaluated by RT-PCR.\u00a0Our results indicate that ketamine improves sensorimotor performance after pMCAO, as measured by the Bederson score. We also observed cytoarchitectural changes, including increased dendritic branching following ketamine administration. Moreover, ketamine helped reduce the infarct area and alleviate neuropathological features associated with astrocyte reactivity and microglial infiltration. Also, this was accompanied by plasticity-related changes, evidenced by increased levels of neuroplasticity proteins BDNF and AMPA.\u00a0These findings suggest that ketamine may be a promising strategy for stroke treatment, with neurobiological changes related to plasticity underlying its effects.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41134420/"
+    },
+    {
+      "pmid": "24723855",
+      "title": "Neuronal activity (c-Fos) delineating interactions of the cerebral cortex and basal ganglia.",
+      "journal": "Frontiers in neuroanatomy",
+      "year": "2014",
+      "abstract": "The cerebral cortex and basal ganglia (BG) form a neural circuit that is disrupted in disorders such as Parkinson's disease. We found that neuronal activity (c-Fos) in the BG followed cortical activity, i.e., high in arousal state and low in sleep state. To determine if cortical activity is necessary for BG activity, we administered atropine to rats to induce a dissociative state resulting in slow-wave electroencephalography but hyperactive motor behaviors. Atropine blocked c-Fos expression in the cortex and BG, despite high c-Fos expression in the sub-cortical arousal neuronal groups and thalamus, indicating that cortical activity is required for BG activation. To identify which glutamate receptors in the BG that mediate cortical inputs, we injected ketamine [N-methyl-d-aspartate (NMDA) receptor antagonist] and 6-cyano-nitroquinoxaline-2, 3-dione (CNQX, a non-NMDA receptor antagonist). Systemic ketamine and CNQX administration revealed that NMDA receptors mediated subthalamic nucleus (STN) input to internal globus pallidus (GPi) and substantia nigra pars reticulata (SNr), while non-NMDA receptor mediated cortical input to the STN. Both types of glutamate receptors were involved in mediating cortical input to the striatum. Dorsal striatal (caudoputamen, CPu) dopamine depletion by 6-hydroxydopamine resulted in reduced activity of the CPu, globus pallidus externa (GPe), and STN but increased activity of the GPi, SNr, and putative layer V neurons in the motor cortex. Our results reveal that the cortical activity is necessary for BG activity and clarifies the pathways and properties of the BG-cortical network and their putative role in the pathophysiology of BG disorders.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24723855/"
+    }
+  ]
+}

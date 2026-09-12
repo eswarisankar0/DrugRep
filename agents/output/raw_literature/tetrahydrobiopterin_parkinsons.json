@@ -1,0 +1,183 @@
+{
+  "drug_name": "Tetrahydrobiopterin",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "37214873",
+      "title": "Crucial neuroprotective roles of the metabolite BH4 in dopaminergic neurons.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2023",
+      "abstract": "Dopa-responsive dystonia (DRD) and Parkinson's disease (PD) are movement disorders caused by the dysfunction of nigrostriatal dopaminergic neurons. Identifying druggable pathways and biomarkers for guiding therapies is crucial due to the debilitating nature of these disorders. Recent genetic studies have identified variants of GTP cyclohydrolase-1 (GCH1), the rate-limiting enzyme in tetrahydrobiopterin (BH4) synthesis, as causative for these movement disorders. Here, we show that genetic and pharmacological inhibition of BH4 synthesis in mice and human midbrain-like organoids accurately recapitulates motor, behavioral and biochemical characteristics of these human diseases, with severity of the phenotype correlating with extent of BH4 deficiency. We also show that BH4 deficiency increases sensitivities to several PD-related stressors in mice and PD human cells, resulting in worse behavioral and physiological outcomes. Conversely, genetic and pharmacological augmentation of BH4 protects mice from genetically- and chemically induced PD-related stressors. Importantly, increasing BH4 levels also protects primary cells from PD-affected individuals and human midbrain-like organoids (hMLOs) from these stressors. Mechanistically, BH4 not only serves as an essential cofactor for dopamine synthesis, but also independently regulates tyrosine hydroxylase levels, protects against ferroptosis, scavenges mitochondrial ROS, maintains neuronal excitability and promotes mitochondrial ATP production, thereby enhancing mitochondrial fitness and cellular respiration in multiple preclinical PD animal models, human dopaminergic midbrain-like organoids and primary cells from PD-affected individuals. Our findings pinpoint the BH4 pathway as a key metabolic program at the intersection of multiple protective mechanisms for the health and function of midbrain dopaminergic neurons, identifying it as a potential therapeutic target for PD.",
+      "publication_types": [
+        "Preprint",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37214873/"
+    },
+    {
+      "pmid": "2476906",
+      "title": "Tetrahydrobiopterin and Parkinson's disease.",
+      "journal": "Acta neurologica Scandinavica",
+      "year": "1989",
+      "abstract": "Two patients with Parkinson's disease were treated with 1 g tetrahydrobiopterin (BH4) for 5 days. Clinical improvement was not observed. In the cerebrospinal fluid (CSF) a 4-8 fold increase in the concentration of homovanillic acid (HVA), and a 3-fold increase in the concentration of 5-hydroxyindole acetic acid (5-HIAA) was measured. However, the concentration of HVA reached, was only approximately half as high, as that of patients treated with madopar (DOPA + benserazid). In urine, the excretion of HVA increased 13-37 fold, when the patients were treated with madopar, whereas no increase in the HVA excretion was measured after the BH4 administration. Additionally, 2 patients with Parkinson's disease were treated with 1 g BH4 in combination with 15 g tyrosine for 3 days, and 1 parkinsonian patient was treated with 15 g tyrosine daily for 7 weeks. No increase in the CSF concentrations of HVA or 5-HIAA was observed. The results suggest, the BH4 in the dosage used, is not effective in the treatment of Parkinson's disease.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/2476906/"
+    },
+    {
+      "pmid": "11375751",
+      "title": "Parkinson's disease--redox mechanisms.",
+      "journal": "Current medicinal chemistry",
+      "year": "2001",
+      "abstract": "Parkinson's disease occurs in 1% of people over the age of 65 when about 60% of the dopaminergic neurons in the substantia nigra of the midbrain are lost. Dopaminergic neurons appear to die by a process of apoptosis that is induced by oxidative stress. Oxygen radicals abstract hydrogen from DNA forming DNA radicals that lead to DNA fragmentation, activation of DNA protective mechanisms, NAD depletion and apoptosis. Oxygen radicals can be formed in dopaminergic neurons by redox cycling of MPP+, the active metabolite of MPTP. This redox cycling mechanism involves the reduction of MPP+ by a number of enzymes, especially flavin containing enzymes, some of which are found in mitochondria. Tyrosine hydroxylase is present in all dopaminergic neurons and is responsible for the synthesis of dopamine. However, tyrosine hydroxylase can form oxygen radicals in a redox mechanism involving its cofactor, tetrahydrobiopterin. Dopamine may be oxidized by monoamine oxidase to form oxygen radicals and 3,4-dihydroxyphenylacetaldehyde. This aldehyde may be oxidized by aldehyde dehydrogenase with the formation of oxygen radicals and 3,4-dihydroxyphenylacetic acid. The redox mechanisms of oxygen radical formation by MPTP, tyrosine hydroxylase, monoamine oxidase and aldehyde dehydrogenase will be discussed. Possible clinical applications of these mechanisms will be briefly presented.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11375751/"
+    },
+    {
+      "pmid": "33623004",
+      "title": "Oral berberine improves brain dopa/dopamine levels to ameliorate Parkinson's disease by regulating gut microbiota.",
+      "journal": "Signal transduction and targeted therapy",
+      "year": "2021",
+      "abstract": "The phenylalanine-tyrosine-dopa-dopamine pathway provides dopamine to the brain. In this process, tyrosine hydroxylase (TH) is the rate-limiting enzyme that hydroxylates tyrosine and generates levodopa (L-dopa) with tetrahydrobiopterin (BH<sub>4</sub>) as a coenzyme. Here, we show that oral berberine (BBR) might supply H<sup>\u2022</sup> through dihydroberberine (reduced BBR produced by bacterial nitroreductase) and promote the production of BH<sub>4</sub> from dihydrobiopterin; the increased BH<sub>4</sub> enhances TH activity, which accelerates the production of L-dopa by the gut bacteria. Oral BBR acts in a way similar to vitamins. The L-dopa produced by the intestinal bacteria enters the brain through the circulation and is transformed to dopamine. To verify the gut-brain dialog activated by BBR's effect, Enterococcus faecalis or Enterococcus faecium was transplanted into Parkinson's disease (PD) mice. The bacteria significantly increased brain dopamine and ameliorated PD manifestation in mice; additionally, combination of BBR with bacteria showed better therapeutic effect than that with bacteria alone. Moreover, 2,4,6-trimethyl-pyranylium tetrafluoroborate (TMP-TFB)-derivatized matrix-assisted laser desorption mass spectrometry (MALDI-MS) imaging of dopamine identified elevated striatal dopamine levels in mouse brains with oral Enterococcus, and BBR strengthened the imaging intensity of brain dopamine. These results demonstrated that BBR was an agonist of TH in Enterococcus and could lead to the production of L-dopa in the gut. Furthermore, a study of 28 patients with hyperlipidemia confirmed that oral BBR increased blood/fecal L-dopa by the intestinal bacteria. Hence, BBR might improve the brain function by upregulating the biosynthesis of L-dopa in the gut microbiota through a vitamin-like effect.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33623004/"
+    },
+    {
+      "pmid": "41667488",
+      "title": "Genetic co-regulation of neopterin and Parkinson's disease.",
+      "journal": "NPJ Parkinson's disease",
+      "year": "2026",
+      "abstract": "Neopterin is a pro-inflammatory molecule upregulated in several diseases; however, its role in pathophysiology is unclear and its genetic regulation is unexplored. We observed that neopterin levels increase during senescence (P-value\u2009=\u20091.88\u00d710<sup>-13</sup>, beta\u2009=\u20090.96) and positively correlate with age-related neurodegeneration and inflammation markers. The heritability estimation of neopterin variation was 35%. We then conducted a genome-wide association study on 999 Sardinians, identifying two signals in the GTP cyclohydrolase (GCH1) gene that were suggestively associated with neopterin levels. The first signal, led by rs140884539-C (P-value\u2009=\u20097.05\u00d710<sup>-08</sup>, beta\u2009=\u20090.59), was in strong linkage disequilibrium with variants associated with predisposition to rheumatoid arthritis, decrease in dopamine, increased levels of GCH1 transcript, dopamine metabolites, and galectin-3. The second signal, represented by rs12323905-T (P-value\u2009=\u20098.17\u00d710<sup>-08</sup>, beta\u2009=\u20090.30), colocalised with GCH1 splicing and Parkinson's disease signals. Transcriptome analysis of 605 Sardinians showed that the Parkinson's disease-predisposing variant was significantly associated with an increase in a shorter and inactive form of GCH1, whose presence is predicted to reduce the GCH1 decamer stability. The GCH1 homo-decamer regulates neopterin and tetrahydrobiopterin production, a cofactor required for the synthesis of dopamine and serotonin. Our data motivate experimental work to test whether modulating GCH1 expression or isoform ratio alters dopaminergic function in Parkinson's disease models.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41667488/"
+    },
+    {
+      "pmid": "33713342",
+      "title": "GCH1 mutations in hereditary spastic paraplegia.",
+      "journal": "Clinical genetics",
+      "year": "2021",
+      "abstract": "GCH1 mutations have been associated with dopa-responsive dystonia (DRD), Parkinson's disease (PD) and tetrahydrobiopterin (BH<sub>4</sub> )-deficient hyperphenylalaninemia B. Recently, GCH1 mutations have been reported in five patients with hereditary spastic paraplegia (HSP). Here, we analyzed a total of 400 HSP patients (291 families) from different centers across Canada by whole exome sequencing (WES). Three patients with heterozygous GCH1 variants were identified: monozygotic twins with a p.(Ser77_Leu82del) variant, and a patient with a p.(Val205Glu) variant. The former variant is predicted to be likely pathogenic and the latter is pathogenic. The three patients presented with childhood-onset lower limb spasticity, hyperreflexia and abnormal plantar responses. One of the patients had diurnal fluctuations, and none had parkinsonism or dystonia. Phenotypic differences between the monozygotic twins were observed, who responded well to levodopa treatment. Pathway enrichment analysis suggested that GCH1 shares processes and pathways with other HSP-associated genes, and structural analysis of the variants indicated a disruptive effect. In conclusion, GCH1 mutations may cause HSP; therefore, we suggest a levodopa trial in HSP patients and including GCH1 in the screening panels of HSP genes. Clinical differences between monozygotic twins suggest that environmental factors, epigenetics, and stochasticity could play a role in the clinical presentation.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33713342/"
+    },
+    {
+      "pmid": "3546599",
+      "title": "Biopterin in Parkinson's disease.",
+      "journal": "Journal of neurology, neurosurgery, and psychiatry",
+      "year": "1987",
+      "abstract": "Tetrahydrobiopterin is an essential co-factor in the natural synthesis of dopamine. Oral tetrahydrobiopterin was given in small doses to four patients with early Parkinson's disease but had no discernible effect.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/3546599/"
+    },
+    {
+      "pmid": "34026550",
+      "title": "Reduced macular thickness and macular vessel density in early-treated adult patients with PKU.",
+      "journal": "Molecular genetics and metabolism reports",
+      "year": "2021",
+      "abstract": "Macular structure is poorly evaluated in early-treated phenylketonuria (ETPKU). To evaluate potential changes, we aimed to examine retinas of PKU patients using optical coherence tomography (OCT) with additional OCT angiography (OCTA) and compare the results to healthy controls. A total of 100 adults were recruited in this monocentric, case-control study: 50 patients with ETPKU (mean age: 30.66\u00a0\u00b1\u00a08.00\u00a0years) and 50 healthy controls (mean age: 30.45\u00a0\u00b1\u00a07.18\u00a0years). Macular thickness, vessel density and flow area of the right eye was assessed with spectral domain OCT angiography SD-OCT(A). Macular microstructural data between the ETPKU and control group was compared. In the ETPKU group, the relationship between visual functional parameters (best corrected visual acuity [VA], spherical equivalent [SE], contrast sensitivity [CS] and near stereoacuity) and microstructural alterations was examined. The dependency of OCT(A) values on serum phenylalanine (Phe) level was analysed. There was significant average parafoveal and perifoveal total retinal layer thinning in ETPKU patients compared to healthy controls (<i>p</i>\u00a0<\u00a00.016 and <i>p</i>\u00a0<\u00a00.001, respectively), while the foveal region remained unchanged in the ETPKU group. Whole macular and parafoveal superficial capillary plexus density was significantly decreased in ETPKU compared to controls (<i>p</i>\u00a0<\u00a00.001). There were no significant differences in the foveal avascular zone, nonflow area, macular superficial and deep capillary plexus between the groups. The temporal parafoveal inner retinal layer thickness was found to negatively correlate with individual Phe levels (<i>r</i>\u00a0=\u00a0-0.35, <i>p</i>\u00a0=\u00a00.042). There was no difference in vascular density and retinal thickness in the subgroup analysis of patients with good therapy adherence compared to patients on a relaxed diet. Durable elevation in Phe levels are only partially associated with macular retinal structural changes. However, therapy adherence might not influence these ophthalmological complications.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34026550/"
+    },
+    {
+      "pmid": "10830421",
+      "title": "Parkinsonism, dystonia, and hemiatrophy.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2000",
+      "abstract": "Hemiatrophy has been reported in association with a variety of neurologic conditions, including parkinsonism. Patients with the hemiparkinson-hemiatrophy syndrome (HP-HA) have asymmetric parkinsonism with limb atrophy on the more affected side. Several authors have suggested that asymmetric brain damage early in life results in both atrophy and parkinsonism. Dopa-responsive dystonia (DRD) is a disease in which a deficiency of tetrahydrobiopterin, or, less commonly, of tyrosine hydroxylase, results in levodopa-responsive dystonia with parkinson features in children. We have recently identified four patients with DRD who had asymmetric dystonia and limb atrophy on the more affected side. Based on these patients, we suggest that a deficiency of the nigrostriatal dopamine system may, by itself, be sufficient to cause body atrophy and may underlie the limb atrophy in both DRD and HP-HA.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10830421/"
+    },
+    {
+      "pmid": "16343695",
+      "title": "Tetrahydrobiopterin causes mitochondrial dysfunction in dopaminergic cells: implications for Parkinson's disease.",
+      "journal": "Neurochemistry international",
+      "year": "2006",
+      "abstract": "Parkinson's disease (PD) is a neurodegenerative disorder associated with a selective loss of dopaminergic neurons in the substantia nigra. While the underlying cause of PD is not clearly understood, oxidative stress and mitochondrial dysfunction are thought to play a role. We have previously suggested tetrahydrobiopterin (BH4), an obligatory cofactor for the dopamine synthesis enzyme tyrosine hydroxylase and present selectively in monoaminergic neurons in the brain, as an endogenous molecule that contributes to the dopaminergic neurodegeneration. In the present study, we show that BH4 leads to inhibition of activities of complexes I and IV of the electron transport chain (ETC) and reduction of mitochondrial membrane potential. BH4 appears to be different from rotenone and MPP(+), the synthetic compounds used to generate Parkinson models, in its effect on complex IV. BH4 also induces the release of mitochondrial cytochrome c. Pretreatment with the sulfhydryl antioxidant N-acetylcysteine or the quinone reductase inducer dimethyl fumarate prevents the ETC inhibition and cytochrome c release following BH4 exposure, suggesting the involvement of quinone products. Together with our previous observation that BH4 leads to generation of oxidative stress and selective dopaminergic neurodegeneration both in vitro and in vivo via inducing apoptosis, the mitochondrial involvement in BH4 toxicity further suggests possible relevance of this endogenous molecule to pathogenesis of PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/16343695/"
+    },
+    {
+      "pmid": "19704083",
+      "title": "Dopamine agonists in 6-pyruvoyl tetrahydropterin synthase deficiency.",
+      "journal": "Neurology",
+      "year": "2009",
+      "abstract": "To report the efficacy, tolerability, and safety of the dopamine agonist pramipexole in a series of 5 patients affected by inherited 6-pyruvoyl tetrahydropterin synthase (PTPS) deficiency and needing l-3,4 dihydroxyphenylalanine (l-dopa) therapy. Patients included 4 males and 1 female with ages ranging from 2 to 26 years. Their medication included tetrahydrobiopterin (BH4), 5-hydroxytryptophan, l-dopa, carbidopa, selegiline, and entacapone. All experienced residual symptoms of dopamine deficiency, movement and behavioral disability, and complications of l-dopa therapy, associated with fluctuating hyperprolactinemia. Patients had full assessment of clinical and biochemical condition, including evaluation by an adapted Unified Parkinson's Disease Rating Scale (UPDRS) and measurement of plasma prolactin (PRL) and catecholamines, before and after a 6-week trial with pramipexole. Pramipexole was administered twice daily as an adjunct to l-dopa therapy in dosages upwardly titrated, with a concurrent reduction of l-dopa dosage. Clinical follow-up went on for 1 year. Pramipexole was well tolerated by all patients, with marked improvement and stabilization of their clinical picture. The mean improvement on the total UPDRS score was 43% (range 33.3%-55.6%) from baseline. Diurnal profiles of plasma PRL normalized and plasma catecholamine levels lasted unchanged. The daily administrations of l-dopa were curtailed from 3 or 4 to 2, and the l-dopa dosage was reduced up to 40%. The addition of pramipexole to the treatment of 6-pyruvoyl tetrahydropterin synthase deficiency improves the results of l-3,4 dihydroxyphenylalanine therapy. Similar benefits may be expected in other forms of inherited tetrahydrobiopterin deficiency.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/19704083/"
+    },
+    {
+      "pmid": "27562098",
+      "title": "Long-term safety and effectiveness of pramipexole in tetrahydrobiopterin deficiency.",
+      "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+      "year": "2016",
+      "abstract": "Tetrahydrobiopterin (BH<sub>4</sub>) deficiencies are inherited neuro-metabolic disorders leading to monoamine neurotransmitters deficiency. An individualized replacement therapy with neurotransmitters precursors is necessary to restore dopaminergic and serotoninergic homeostasis. The correction of dopaminergic tone is complicated, like in Parkinson disease, by l-dopa short half-life and adverse effects. To improve this picture, since 2009 we introduced the non-ergot dopamine agonist pramipexole as an adjunct to l-dopa therapy in the treatment of the most common causes of BH<sub>4</sub> deficiency, 6-pyruvoyl tetrahydropterin synthase (PTPS) deficiency and dihydropteridine reductase (DHPR) deficiency. In the short-term period, this approach allowed substantial clinical advantages in affected patients, with amelioration and stabilization of the clinical picture on twice daily treatment administration and no adverse effect. Here we describe the long-term clinical follow-up (83\u00a0\u00b1\u00a024 months) of seven patients with BH<sub>4</sub> deficiency treated with pramipexole. After a period of good clinical compensation (34\u00a0\u00b1\u00a01 months), different impulse control disorders (gambling, compulsive buying, and hypersexuality) were observed in three patients treated with high-dose pramipexole (0.030-0.033\u00a0mg/kg/day) beyond adolescence. These psychiatric adverse effects promptly disappeared after curtailing pramipexole dose by 50-60%. Low-dose pramipexole therapy has been safe and effective in the long-term period in all treated patients (59\u00a0\u00b1\u00a09 months). High-dose pramipexole therapy in BH<sub>4</sub> deficiency can be complicated, like in Parkinson disease, by psychiatric adverse effects. Low-dose pramipexole therapy (\u223c0.010\u00a0mg/kg/day) has been safe and clinically effective on long-term follow-up, representing a helpful therapeutic option in patients with BH<sub>4</sub> deficiency.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/27562098/"
+    },
+    {
+      "pmid": "22325981",
+      "title": "Dopamine agonists in dihydropteridine reductase deficiency.",
+      "journal": "Molecular genetics and metabolism",
+      "year": "2012",
+      "abstract": "The traditional treatment of severe disorders of tetrahydrobiopterin (BH4) metabolism is based on the replacement therapy with BH4, 5-hydroxytryptophan, and L-dopa. Major problems are encountered with L-dopa therapy, especially with increasing age when higher doses are necessary, because of its short half-life and adverse effects. Consequently, different L-dopa-sparing strategies have been successively introduced, with partial reduction of L-dopa dosage and amelioration of the clinical outcome. Recently, we demonstrated that the dopamine agonist pramipexole improves the therapeutic effect of L-dopa in 6-pyruvoyl tetrahydropterin synthase (PTPS) deficiency, the most common disorder of BH4 metabolism. Here we report its effectiveness in two patients (males, 7 and 22 years) with dihydropteridine reductase (DHPR) deficiency, the second most frequent cause of BH4 deficiency. Both patients experienced residual symptoms of dopamine deficiency, movement and behavioral disability, and complications of L-dopa therapy, associated with fluctuating hyperprolactinemia. They had full clinical and biochemical assessment, by an adapted Unified Parkinson's Disease Rating Scale (UPDRS) and measurement of diurnal plasma prolactin (PRL) profile before and after a trial with pramipexole. Besides allowing the reduction of L-dopa daily dosage (-58%) and administrations (from three to two) in one patient and to stop L-dopa therapy in the other, the introduction of pramipexole markedly improved and stabilized clinical and biochemical picture in both patients, as revealed by reduction of UPDRS scores and normalization of diurnal plasma prolactin profiles. Dopamine agonists can improve or even replace L-dopa therapy in disorders of synthesis and regeneration of BH4.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22325981/"
+    },
+    {
+      "pmid": "34423297",
+      "title": "Impaired dopamine metabolism is linked to fatigability in mice and fatigue in Parkinson's disease patients.",
+      "journal": "Brain communications",
+      "year": "2021",
+      "abstract": "Fatigue is a common symptom of Parkinson's disease that compromises significantly the patients' quality of life. Despite that, fatigue has been under-recognized as symptom, its pathophysiology remains poorly understood, and there is no adequate treatment so far. Parkinson's disease is characterized by the progressive loss of midbrain dopaminergic neurons, eliciting the classical motor symptoms including slowing of movements, muscular rigidity and resting tremor. The dopamine synthesis is mediated by the rate-limiting enzyme tyrosine hydroxylase, which requires tetrahydrobiopterin as a mandatory cofactor. Here, we showed that reserpine administration (1\u2009mg/kg, two intraperitoneal injections with an interval of 48\u2009h) in adult Swiss male mice (8-10\u2009weeks; 35-45\u2009g) provoked striatal depletion of dopamine and tetrahydrobiopterin, and intolerance to exercise. The poor exercise performance of reserpinized mice was not influenced by emotional or anhedonic factors, mechanical nociceptive thresholds, electrocardiogram pattern alterations or muscle-impaired bioenergetics. The administration of levodopa (100\u2009mg/kg; i.p.) plus benserazide (50\u2009mg/kg; i.p.) rescued reserpine-induced fatigability-like symptoms and restored striatal dopamine and tetrahydrobiopterin levels. Remarkably, it was observed, for the first time, that impaired blood dopamine metabolism inversely and idependently correlated with fatigue scores in eighteen idiopathic Parkinson's disease patients (male <i>n\u2009</i>=<i>\u2009</i>13; female <i>n\u2009</i>=<i>\u2009</i>5; age 61.3\u2009\u00b1\u20099.59\u2009years). Altogether, this study provides new experimental and clinical evidence that fatigue symptoms might be caused by the impaired striatal dopaminergic neurotransmission, pointing to a central origin of fatigue in Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34423297/"
+    },
+    {
+      "pmid": "39026821",
+      "title": "Characterization of Dnajc12 knockout mice, a model of hypodopaminergia.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2024",
+      "abstract": "Homozygous DNAJC12 c.79-2A>G (p. V27Wfs*14) loss-of-function mutations were first reported as a cause of young-onset Parkinson's disease. However, bi-allelic autosomal recessive pathogenic variants in DNAJC12 may lead to an alternative constellation of neurological features, including infantile dystonia, developmental delay, intellectual disability and neuropsychiatric disorders. DNAJC12 is understood to co-chaperone aromatic amino acid hydroxylases to foster the synthesis of biogenic amines. In vitro, we discover overexpressed DNAJC12 forms a complex with guanine triphosphate cyclohydrolase 1 (GCH1), the rate-limiting enzyme in the synthesis of tetrahydrobiopterin, a cofactor paramount for biogenic amines synthesis. We also confirm DNAJC12's interaction with tyrosine (TH) and tryptophan hydroxylase (TPH), which are rate-limiting enzymes for synthesis of biogenic amines dopamine (DA) and serotonin (5-HT). In-vitro knock-down of DNAJC12 with a siRNA destabilizes the DNAJC12-TH-GCH1 complex, reducing GCH1 levels, whereas reciprocal overexpression of both TH and GCH1 increases endogenous DNAJC12, alluding to the significance of modulating the DNAJC12-TH-GCH1 complex as a therapy for DNAJC12 and other biogenic amine disorders. We extend these investigations to a Cre-conditional knock-out mice (cDKO) in which loxP sites flanking Dnajc12 exon 2 enable its excision by cre-recombinase. With germline Cre expression, we have created a constitutive Dnajc12 knock-out (DKO). DKO mice exhibit reduced locomotion/ exploratory behavior at 3 months in automated open-field testing, accompanied by increased plasma phenylalanine which is a cardinal feature of patients with pathogenic DNAJC12 variants. In striatal tissue, total DA and 5-HT, their metabolites, and electrically-evoked DA release are all reduced. Biochemical alterations in synaptic proteins are also apparent, with enhanced phosphorylation of Th pSer31 and pSer40 reflecting biological compensation. Most immediately, cDKO and DKO mice present models to develop and refine therapeutic approaches for biogenic amines disorders, including dystonia and parkinsonism. They will also enable the pleiotropic functions of biogenic amines (including DA), usually synthesized in the brain or periphery, to be separated.",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39026821/"
+    }
+  ]
+}

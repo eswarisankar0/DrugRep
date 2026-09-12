@@ -1,0 +1,32 @@
+{
+  "drug_name": "Glycopyrronium",
+  "disease_name": "Parkinson",
+  "n_abstracts": 2,
+  "abstracts": [
+    {
+      "pmid": "20385892",
+      "title": "Glycopyrrolate for sialorrhea in Parkinson disease: a randomized, double-blind, crossover trial.",
+      "journal": "Neurology",
+      "year": "2010",
+      "abstract": "Sialorrhea affects approximately 75% of patients with Parkinson disease (PD). Sialorrhea is often treated with anticholinergics, but central side effects limit their usefulness. Glycopyrrolate (glycopyrronium bromide) is an anticholinergic drug with a quaternary ammonium structure not able to cross the blood-brain barrier in considerable amounts. Therefore, glycopyrrolate exhibits minimal central side effects, which may be an advantage in patients with PD, of whom a significant portion already experience cognitive deficits. To determine the efficacy and safety of glycopyrrolate in the treatment of sialorrhea in patients with PD. We conducted a 4-week, randomized, double-blind, placebo-controlled, crossover trial with oral glycopyrrolate 1 mg 3 times daily in 23 patients with PD. The severity of the sialorrhea was scored on a daily basis by the patients or a caregiver with a sialorrhea scoring scale ranging from 1 (no sialorrhea) to 9 (profuse sialorrhea). The mean (SD) sialorrhea score improved from 4.6 (1.7) with placebo to 3.8 (1.6) with glycopyrrolate (p = 0.011). Nine patients (39.1%) with glycopyrrolate had a clinically relevant improvement of at least 30% vs 1 patient (4.3%) with placebo (p = 0.021). There were no significant differences in adverse events between glycopyrrolate and placebo treatment. Oral glycopyrrolate 1 mg 3 times daily is an effective and safe therapy for sialorrhea in Parkinson disease. This study provides Class I evidence that glycopyrrolate 1 mg 3 times daily is more effective than placebo in reducing sialorrhea in patients with Parkinson disease during a 4-week study.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/20385892/"
+    },
+    {
+      "pmid": "15012169",
+      "title": "Anaesthesia in elderly patients with neurodegenerative disorders: special considerations.",
+      "journal": "Drugs & aging",
+      "year": "2004",
+      "abstract": "Neurodegenerative diseases are increasingly common in elderly patients, who present a particular anaesthetic challenge. The majority of people over the age of 70 years have some degree of cerebral atrophy. The pathogenesis of neurodegenerative diseases is due to alterations in the transport, degradation and aggregation of proteins. Alterations in physiology that occur with advancing age affect both the pharmacokinetics and pharmacodynamics of drugs used in the elderly. Changes in pharmacokinetics result in either increased or reduced drug concentrations depending on the variable contributions of absorption, metabolism and elimination. The distribution of a drug depends on its protein binding, cardiac output and blood volume, which are all altered in the elderly. Metabolism and excretion of drugs are also affected due to changes in hepatic and renal mass and blood flow in the elderly. A number of drugs are used in neurodegenerative disorders including antidepressants, benzodiazepines, antipsychotics, acetylcholinesterase inhibitors and levodopa. Polypharmacy is a common problem, which can lead to adverse drug interactions and an exacerbation of dementia. Levodopa, bromocriptine and tricyclic antidepressants are known to cause orthostatic hypotension in patients with neurodegenerative disease. Elderly patients are liable to excessive sedation from benzodiazepines in both the pre- and postoperative period; therefore these drugs should be prescribed in low doses. For induction of general anaesthesia propofol is a suitable agent in patients with neurodegenerative disease due to its rapid metabolism, but may not be suitable in patients with Parkinson's disease as it can induce spontaneous involuntary movements. Volatile inhalational agents should be administered carefully in the elderly, as they are more sensitive to the depressant cerebral and cardiovascular effects. Levodopa should be avoided in conjunction with halothane, which sensitises the heart to catecholamines. Co-administration of monoamine oxidase inhibitors and opioids should be avoided as it can cause agitation, muscular rigidity, sweating and hyperpyrexia. If an anticholinergic agent is required, then glycopyrronium bromide is the drug of choice in this group of patients, as it does not cross the blood brain barrier. Patients should continue to take their usual medications in hospital and do not let the change in routine alter the times at which treatments are administered. This is particularly relevant to the timing of levodopa in Parkinson's disease, as missed treatment can be detrimental. Regional anaesthesia may, however, have significant advantages in patients with Parkinson's disease, who can continue to take oral levodopa preoperatively, during surgery, if required, and early in the postoperative period. Anti-emetic drugs such as phenothiazines, butyrophenones and metoclopramide should be used carefully in the postoperative period in these patients as their antidopaminergic effects may induce or exacerbate parkinsonian effects.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15012169/"
+    }
+  ]
+}

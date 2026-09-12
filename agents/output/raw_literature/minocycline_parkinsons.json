@@ -1,0 +1,178 @@
+{
+  "drug_name": "Minocycline",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "19467572",
+      "title": "Minocycline may attenuate postherpetic neuralgia.",
+      "journal": "Medical hypotheses",
+      "year": "2009",
+      "abstract": "Postherpetic neuralgia (PHN) is a chronic pain syndrome and one of the most common complications of herpes zoster. Although the pathophysiological mechanisms involved in PHN are still largely unknown, it seems reasonable to assume that there are lesions of the peripheral afferent pain pathways and inflammation-induced damage to afferent ganglia in the spinal cord. Growing body of evidence indicates that the glial cells, particularly microglia (CNS macrophages) and astrocytes are activated following peripheral and central noxious insult and their activation is thought to play an important role in central sensitization. Glial modulators showed antiallodynic and antihyperalgesic properties in various models of experimental pain. Minocycline is a semisynthetic second generation tetracycline that exerts neuroprotection effect. It has been shown to be effective in preventing sciatic inflammatory neuropathy and intrathecal HIV-1gp120 associated pain behaviors. This agent has been used recently as a selective microglial inhibitor since it prevents microglial activation and disease progression in experimental allergic encephalomyelitis, an animal model of multiple sclerosis and other neurodegenerative diseases, such as amyotropic lateral sclerosis and Parkinson's disease. Therefore, we hypothesize that minocycline might attenuate postherpetic neuralgia by specifically inhibiting the activation and metabolism of glial cells.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/19467572/"
+    },
+    {
+      "pmid": "34925722",
+      "title": "Minocycline Mitigation of Tremor Syndrome and Defect of Cognitive and Balance Induced by Harmaline.",
+      "journal": "Basic and clinical neuroscience",
+      "year": "2021",
+      "abstract": "Minocycline has anti-inflammatory, anti-apoptotic, and anti-oxidant effects. Preclinical data suggest that minocycline could be beneficial for treating common neurological disorders, including Parkinson disease and multiple sclerosis. In this study, the effects of minocycline on harmaline-induced motor and cognitive impairments were studied in male Wistar rats. The rats were divided into four groups of ten animals each. Harmaline was used for the induction of Essential Tremor (ET). Minocycline (90 mg/kg, IP) was administered 30 minutes before the saline or harmaline. Tremor intensity, spontaneous locomotor activity, passive avoidance memory, anxiety-related behaviors, and motor function were assessed in the rats. The results showed that minocycline could recover tremor intensity and step width but failed to recuperate the motor balance. The memory impairments observed in harmaline-treated rats were somewhat reversed by administration of minocycline. The cerebellum and inferior olive nucleus were studied for neuronal degeneration using histochemistry and transmission electron microscopy techniques. Harmaline caused ultrastructural changes and neuronal cell loss in inferior olive and cerebellar Purkinje cells. Minocycline exhibited neuroprotective changes on cerebellar Purkinje cells and inferior olivary neurons. These results open new therapeutic perspectives for motor and memory impairments in ET. However, further studies are needed to clarify the exact mechanisms.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34925722/"
+    },
+    {
+      "pmid": "23204983",
+      "title": "Tetracyclines and neuromuscular disorders.",
+      "journal": "Current neuropharmacology",
+      "year": "2012",
+      "abstract": "Tetracyclines are a class of antibiotics which could act as neuroprotective molecules in several neurological disorders, such as Huntington disease, Parkinson disease, stroke and multiple sclerosis. The main biological effects of tetracyclines are the inhibition of microglial activation, the attenuation of apoptosis and the suppression of reactive oxygen species production. The anti-apoptotic effect of tetracyclines involves the mitochondrion, and the major target for neuroprotective effects of tetracyclines lies within the complex network that links mitochondria, oxidative stress and apoptosis.Neuromuscular disorders are due to dysfunction of motor neurons, peripheral nerves, neuromuscular junction, or skeletal muscle itself. Animal studies have shown that minocycline could play neuroprotective effects in amyotrophic lateral sclerosis, but these positive findings have not been replicated in patients. Other neuromuscular disorders which tetracyclines may benefit are Guillain-Barr\u00e9 syndrome and other neuropathies, muscular dystrophies and mitochondrial disorders. However, well-designed double-blind controlled trials are still needed. Further studies are strongly needed to establish the most appropriate timing and dosage, as well as the indications for which tetracyclines could be effective and safe.Here, we review the neuroprotective effects of tetracyclines in animal models, the clinical studies in humans, and we focus on their potential application in patients with neuromuscular disorders.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/23204983/"
+    },
+    {
+      "pmid": "16712819",
+      "title": "Behavioral and morphological effects of minocycline in the 6-hydroxydopamine rat model of Parkinson's disease.",
+      "journal": "Brain research",
+      "year": "2006",
+      "abstract": "The neuropathology in many neurodegenerative diseases is mediated by inflammatory cascades that influence neuronal dysfunction and death. Minocycline reduces the neurodegeneration observed in various models of Parkinson's. We exploited the unilateral 6-hydroxydopamine (6-OHDA) lesion model to assess the effect of minocycline on related neurodegeneration. Thirty Fisher 344 rats were divided into three daily treatment groups: (1) after: 45 mg/kg of minocycline beginning 24 h after lesioning; (2) before: 45 mg/kg of minocycline beginning 3 days before 6-OHDA lesioning; (3) control: corresponding saline-treated controls. Animals were assessed for apomorphine-induced rotations for 4 weeks. A longitudinal model for repeated measures showed that both after and before groups had significantly lower rotations than controls (P < 0.001 for both comparisons). Pair-wise group comparisons showed that the before animals rotated less compared to controls (mean rotations: 164 +/- 38 versus 386 +/- 49, respectively, P = 0.001). After animals also rotated significantly less then controls (mean rotations: 125 +/- 41 versus 386 +/- 49, respectively, P < 0.001). Animals receiving minocycline displayed reduced tyrosine hydroxylase-positive cell loss in the lesioned nigra versus contralateral nonlesioned nigra, compared to controls (mean differences: 5065 for after, 3550 for before, and 6483 for controls; P = 0.158 for after versus controls, P = 0.019 for before versus controls). The remaining lesioned nigral cells of both minocycline-treated groups were larger than controls, with the most robust cell size and fiber density observed in the after group. These data suggest that the therapeutic potential of minocycline may depend on the time of drug administration relative to neuropathogenic event.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/16712819/"
+    },
+    {
+      "pmid": "29199243",
+      "title": "Daphnane and Phorbol Diterpenes, Anti-neuroinflammatory Compounds with Nurr1 Activation from the Roots and Stems of Daphne genkwa.",
+      "journal": "Biological & pharmaceutical bulletin",
+      "year": "2017",
+      "abstract": "The methanol extract of the roots and stems of Daphne genkwa and its constituents yuanhuacin (1) and genkwanine N were previously reported to have Nurr1 activating effects and neuroprotective effects in an animal model of Parkinson's disease (PD). In this study, four more daphnane-type diterpenes (acutilonine F (2), wikstroemia factor M<sub>1</sub> (3), yuanhuadine (5), and yuanhuatine (6)) and two phorbol-type diterpenes (prostratin Q (4) and 12-O-n-deca-2,4,6-trienoyl-phorbol-(13)-acetate (7)) were isolated as Nurr1 activating compounds from the D. genkwa extract. Consistent with their higher Nurr1 activating activity, compounds 1, 4, 5, and 7 exhibited higher inhibitory activity on lipopolysaccharide (LPS)-induced nitric oxide (NO) production in murine microglial BV-2 cells with an IC<sub>50</sub> (\u00b5M) of 1-2, which was 15-30 times more potent than that of minocycline (29.9\u2009\u00b5M), a well-known anti-neuroinflammatory agent. Additionally, these diterpenes reduced expression and transcription of LPS-induced pro-inflammatory cytokines in BV-2 cells. Thus, the daphnane-type and phorbol-type diterpenes had anti-neuroinflammatory activity with Nurr1 activation and could be responsible for the anti-PD effect of the roots and stems of D. genkwa.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29199243/"
+    },
+    {
+      "pmid": "15217383",
+      "title": "Deleterious effects of minocycline in animal models of Parkinson's disease and Huntington's disease.",
+      "journal": "The European journal of neuroscience",
+      "year": "2004",
+      "abstract": "Minocycline has been shown to exert anti-inflammatory effects underlying its putative neuroprotective properties in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) mouse model of Parkinson's disease and in the R6/2 mouse model of Huntington's disease (HD). However, contradictory results have recently been reported. We report deleterious effects of minocycline in two phenotypic (toxic) models of Parkinson's disease and HD in monkey and mouse. Of seven MPTP-intoxicated female cynomolgus monkeys (0.2 mg/kg, i.v. until day 15), three received minocycline (200 mg b.i.d.). While placebo-MPTP-treated animals displayed mild parkinsonism at day 15, the minocycline/MPTP-treated animals tended to be more affected (P = 0.057) and showed a greater loss of putaminal dopaminergic nerve endings (P < 0.0001). In the 3-nitropropionic acid (3-NP) mouse model of HD, minocycline (45 mg/kg i.p.) was administered 30 min before each i.p. injection of 3-NP (b.i.d., cumulated dose, 360 mg/kg in 5 days). Mice receiving minocycline exhibited a worsening of the mean motor score with a slower recovery slope, more impaired general activity and significantly deteriorated performances on the rotarod, pole test and beam-traversing tasks. The histopathological outcome demonstrated that minocycline-treated mice presented significantly more severe neuronal cell loss in the dorsal striatum. The effect of minocycline vs. 3-NP was also investigated on hippocampal and cortical cell cultures. minocycline blocked 3-NP-induced neurotoxicity at certain doses (1 mm cortical neurons) but not at higher doses (10 mm). Thus, minocycline may have variable and even deleterious effects in different species and models according to the mode of administration and dose.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15217383/"
+    },
+    {
+      "pmid": "30873213",
+      "title": "The therapeutic role of minocycline in Parkinson's disease.",
+      "journal": "Drugs in context",
+      "year": "2019",
+      "abstract": "Minocycline, a semisynthetic tetracycline-derived antibiotic, has been shown to exert anti-apoptotic, anti-inflammatory, and antioxidant effects. Furthermore, there is rapidly growing evidence suggesting that minocycline may have some neuroprotective activity in various experimental models such as cerebral ischemia, traumatic brain injury, amyotrophic lateral sclerosis, Parkinson's disease (PD), Huntington's disease, and multiple sclerosis. In this perspective review, we summarize the preclinical and clinical findings suggesting the neuroprotective role of minocycline in PD.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30873213/"
+    },
+    {
+      "pmid": "30949504",
+      "title": "Minocycline Protects against Rotenone-Induced Neurotoxicity Correlating with Upregulation of Nurr1 in a Parkinson's Disease Rat Model.",
+      "journal": "BioMed research international",
+      "year": "2019",
+      "abstract": "The aim of this study was to investigate the effect of minocycline in rats with rotenone-induced Parkinson's disease (PD). The open field test was performed to determine the motor ability of the rats. Double immunofluorescence staining was used to detect the expression of tyrosine hydroxylase (TH) and Nurr1 in the substantia nigra (SN) of rats. The relative protein levels of TH, Nurr1, and the total- and phosphorylated-cAMP-response element binding protein (CREB) were determined by western blot analysis. The production of reactive oxygen species (ROS) and nitric oxide (NO) was detected by commercial kits. After exposure to rotenone for 28 days, rats exhibited decreased ambulation and rearing frequency and prolonged immobility time with loss of TH positive neurons in the SN. The phosphorylation levels of CREB and Nurr1 expression decreased significantly accompanied with the release of ROS and NO. Minocycline alleviated the motor deficits of rats lesioned by rotenone and elevated the expression of TH, as well as suppressing the release of ROS and NO in the SN. That was in line with the elevated phosphorylation levels of CREB and Nurr1 expression. In conclusion, our present study showed minocycline protected against neurotoxicity in a rotenone-induced rat model of PD, which was correlated with upregulation of Nurr1.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30949504/"
+    },
+    {
+      "pmid": "32015787",
+      "title": "Chronic Systemic Inflammation Exacerbates Neurotoxicity in a Parkinson's Disease Model.",
+      "journal": "Oxidative medicine and cellular longevity",
+      "year": "2020",
+      "abstract": "Systemic inflammation is a crucial factor for microglial activation and neuroinflammation in neurodegeneration. This work is aimed at assessing whether previous exposure to systemic inflammation potentiates neurotoxic damage by the neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) and how chronic systemic inflammation participates in the physiopathological mechanisms of Parkinson's disease. Two different models of systemic inflammation were employed to explore this hypothesis: a single administration of lipopolysaccharide (sLPS; 5\u2009mg/kg) and chronic exposure to low doses (mLPS; 100\u2009<i>\u03bc</i>g/kg twice a week for three months). After three months, both groups were challenged with MPTP. With the sLPS administration, Iba1 staining increased in the striatum and substantia nigra, and the cell viability lowered in the striatum of these mice. mLPS alone had more impact on the proinflammatory profile of the brain, steadily increasing TNF<i>\u03b1</i> levels, activating microglia, reducing BDNF, cell viability, and dopamine levels, leading to a damage profile similar to the MPTP model <i>per se</i>. Interestingly, mLPS increased MAO-B activity possibly conferring susceptibility to MPTP damage. mLPS, along with MPTP administration, exacerbated the neurotoxic effect. This effect seemed to be coordinated by microglia since minocycline administration prevented brain TNF<i>\u03b1</i> increase. Coadministration of sLPS with MPTP only facilitated damage induced by MPTP without significant change in the inflammatory profile. These results indicate that chronic systemic inflammation increased susceptibility to MPTP toxic effect and is an adequate model for studying the impact of systemic inflammation in Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32015787/"
+    },
+    {
+      "pmid": "39156564",
+      "title": "Activation and polarization of striatal microglia and astrocytes are involved in bradykinesia and allodynia in early-stage parkinsonian mice.",
+      "journal": "Fundamental research",
+      "year": "2024",
+      "abstract": "In addition to the cardinal motor symptoms, pain is a major non-motor symptom of Parkinson's disease (PD). Neuroinflammation in the substantia nigra pars compacta and dorsal striatum is involved in neurodegeneration in PD. But the polarization of microglia and astrocytes in the dorsal striatum and their contribution to motor deficits and hyperalgesia in PD have not been characterized. In the present study, we observed that hemiparkinsonian mice established by unilateral 6-OHDA injection in the medial forebrain bundle exhibited motor deficits and mechanical allodynia. In these mice, both microglia and astrocytes in the dorsal striatum were activated and polarized to M1/M2 microglia and A1/A2 astrocytes as genes specific to these cells were upregulated. These effects peaked 7 days after 6-OHDA injection. Meanwhile, striatal astrocytes in parkinsonian mice also displayed hyperpolarized membrane potentials, enhanced voltage-gated potassium currents, and dysfunction in inwardly rectifying potassium channels and glutamate transporters. Systemic administration of minocycline, a microglia inhibitor, attenuated the expression of genes specific to M1 microglia and A1 astrocytes in the dorsal striatum (but not those specific to M2 microglia and A2 astrocytes), attenuated the damage in the nigrostriatal dopaminergic system, and alleviated the motor deficits and mechanical allodynia in parkinsonian mice. By contrast, local administration of minocycline into the dorsal striatum of parkinsonian mice mitigated only hyperalgesia. This study suggests that M1 microglia and A1 astrocytes in the dorsal striatum may play important roles in the development of pathophysiology underlying hyperalgesia in the early stages of PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39156564/"
+    },
+    {
+      "pmid": "29079063",
+      "title": "Neuroprotective and Neuro-restorative Effects of Minocycline and Rasagiline in a Zebrafish 6-Hydroxydopamine Model of Parkinson's Disease.",
+      "journal": "Neuroscience",
+      "year": "2017",
+      "abstract": "Parkinson's disease is a common, debilitating, neurodegenerative disorder for which the current gold standard treatment, levodopa (L-DOPA) is symptomatic. There is an urgent, unmet need for neuroprotective or, ideally, neuro-restorative drugs. We describe a 6-hydroxydopamine (6-OHDA) zebrafish model to screen drugs for neuroprotective and neuro-restorative capacity. Zebrafish larvae at two days post fertilization were exposed to 6-OHDA for three days, with co-administration of test drugs for neuroprotection experiments, or for 32\u202fh, with subsequent treatment with test drugs for neuro-restoration experiments. Locomotor activity was assessed by automated tracking and dopaminergic neurons were visualized by tyrosine hydroxylase immuno-histochemistry. Exposure to 6-OHDA for either 32\u202fh or 3\u202fdays induced similar, significant locomotor deficits and neuronal loss in 5-day-old larvae. L-DOPA (1\u202fmM) partially restored locomotor activity, but was neither neuroprotective nor neuro-restorative, mirroring the clinical situation. The calcium channel blocker, isradipine (1\u202f\u00b5M) did not prevent or reverse 6-OHDA-induced locomotor deficit or neuronal loss. However, both the tetracycline analog, minocycline (10\u202f\u00b5M), and the monoamine oxidase B inhibitor, rasagiline (1\u202f\u00b5M), prevented the locomotor deficits and neuronal loss due to three-day 6-OHDA exposure. Importantly, they also reversed the locomotor deficit caused by prior exposure to 6-OHDA; rasagiline also reversed neuronal loss and minocycline partially restored neuronal loss due to prior 6-OHDA, making them candidates for investigation as neuro-restorative treatments for Parkinson's disease. Our findings in zebrafish reflect preliminary clinical findings for rasagiline and minocycline. Thus, we have developed a zebrafish model suitable for high-throughput screening of putative neuroprotective and neuro-restorative therapies for the treatment of Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29079063/"
+    },
+    {
+      "pmid": "18977395",
+      "title": "Minocycline and neurodegenerative diseases.",
+      "journal": "Behavioural brain research",
+      "year": "2009",
+      "abstract": "Minocycline is a semi-synthetic, second-generation tetracycline analog which is effectively crossing the blood-brain barrier, effective against gram-positive and -negative infections. In addition to its own antimicrobacterial properties, minocycline has been reported to exert neuroprotective effects over various experimental models such as cerebral ischemia, traumatic brain injury, amyotrophic lateral sclerosis, Parkinson's disease, kainic acid treatment, Huntington' disease and multiple sclerosis. Minocycline has been focused as a neuroprotective agent over neurodegenerative disease since it has been first reported that minocycline has neuroprotective effects in animal models of ischemic injury [Yrjanheikki J, Keinanen R, Pellikka M, Hokfelt T, Koisinaho J. Tetracyclines inhibit microglial activation and are neuroprotective in global brain ischemia. Proc Natl Acad Sci USA 1998;95:15769-74; Yrjanheikki J, Tikka T, Keinanen R, Goldsteins G, Chan PH, Koistinaho J. A tetracycline derivative, minocycline, reduces inflammation and protects against focal cerebral ischemia with a wide therapeutic window. Proc Natl Acad Sci USA 1999;96:13496-500]. Recently, the effect of minocycline on Alzheimer's disease has been also reported. Although its precise primary target is not clear, the action mechanisms of minocycline for neuroprotection reported so far are; via; the inhibition of mitochondrial permeability-transition mediated cytochrome c release from mitochondria, the inhibition of caspase-1 and -3 expressions, and the suppression of microglial activation, involvement in some signaling pathways, metalloprotease activity inhibition. Because of the high tolerance and the excellent penetration into the brain, minocycline has been clinically tried for some neurodegenerative diseases such as stroke, multiple sclerosis, spinal cord injury, amyotropic lateral sclerosis, Hungtington's disease and Parkinson's disease. This review will briefly summarize the effects and action mechanisms of minocycline on neurodegenerative diseases.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/18977395/"
+    },
+    {
+      "pmid": "11724929",
+      "title": "Minocycline prevents nigrostriatal dopaminergic neurodegeneration in the MPTP model of Parkinson's disease.",
+      "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+      "year": "2001",
+      "abstract": "Parkinson's disease is a chronic neurodegenerative disorder characterized by the loss of dopamine neurons in the substantia nigra, decreased striatal dopamine levels, and consequent extrapyramidal motor dysfunction. We now report that minocycline, a semisynthetic tetracycline, recently shown to have neuroprotective effects in animal models of stroke/ischemic injury and Huntington's disease, prevents nigrostriatal dopaminergic neurodegeneration in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) mouse model of Parkinson's disease. Minocycline treatment also blocked dopamine depletion in the striatum as well as in the nucleus accumbens after MPTP administration. The neuroprotective effect of minocycline is associated with marked reductions in inducible NO synthase (iNOS) and caspase 1 expression. In vitro studies using primary cultures of mesencephalic and cerebellar granule neurons (CGN) and/or glia demonstrate that minocycline inhibits both 1-methyl-4-phenylpyridinium (MPP(+))-mediated iNOS expression and NO-induced neurotoxicity, but MPP(+)-induced neurotoxicity is inhibited only in the presence of glia. Further, minocycline also inhibits NO-induced phosphorylation of p38 mitogen-activated protein kinase (MAPK) in CGN and the p38 MAPK inhibitor, SB203580, blocks NO toxicity of CGN. Our results suggest that minocycline blocks MPTP neurotoxicity in vivo by indirectly inhibiting MPTP/MPP(+)-induced glial iNOS expression and/or directly inhibiting NO-induced neurotoxicity, most likely by inhibiting the phosphorylation of p38 MAPK. Thus, NO appears to play an important role in MPTP neurotoxicity. Neuroprotective tetracyclines may be effective in preventing or slowing the progression of Parkinson's and other neurodegenerative diseases.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11724929/"
+    },
+    {
+      "pmid": "25764516",
+      "title": "Minocycline Rescues from Zinc-Induced Nigrostriatal Dopaminergic Neurodegeneration: Biochemical and Molecular Interventions.",
+      "journal": "Molecular neurobiology",
+      "year": "2016",
+      "abstract": "Accumulation of zinc (Zn) in dopaminergic neurons is implicated in Parkinson's disease (PD), and microglial activation plays a critical role in toxin-induced Parkinsonism. Oxidative stress is accused in Zn-induced dopaminergic neurodegeneration; however, its connection with microglial activation is still not known. This study was undertaken to elucidate the role and underlying mechanism of microglial activation in Zn-induced nigrostriatal dopaminergic neurodegeneration. Male Wistar rats were treated intraperitoneally with/without zinc sulphate (20\u00a0mg/kg) in the presence/absence of minocycline (30\u00a0mg/kg), a microglial activation inhibitor, for 2-12 weeks. While neurobehavioral and biochemical indexes of PD and number of dopaminergic neurons were reduced, the number of microglial cells was increased in the substantia nigra of the Zn-exposed animals. Similarly, Zn elevated lipid peroxidation (LPO) and activities of superoxide dismutase (SOD) and nicotinamide adenine dinucleotide phosphate (NADPH) oxidase; however, catalase activity was reduced. Besides, Zn increased an association of NADPH oxidase subunit p67(phox) with membrane, cytochrome c release from the mitochondria and cleavage of pro-caspase 3. Zn attenuated the expression of tyrosine hydroxylase (TH) and vesicular monoamine transporter-2 (VMAT-2) while augmented the expression of dopamine transporter (DAT) and heme oxygenase-1 (HO-1). Minocycline alleviated Zn-induced behavioural impairments, loss of TH-positive neurons, activated microglial cells and biochemical indexes and modulated the expression of studied genes/proteins towards normalcy. The results demonstrate that minocycline reduces the number of activated microglial cells and oxidative stress, which rescue from Zn-induced changes in the expression of monoamine transporter and nigrostriatal dopaminergic neurodegeneration.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/25764516/"
+    },
+    {
+      "pmid": "33402167",
+      "title": "Microglial activation contributes to cognitive impairments in rotenone-induced mouse Parkinson's disease model.",
+      "journal": "Journal of neuroinflammation",
+      "year": "2021",
+      "abstract": "Cognitive decline occurs frequently in Parkinson's disease (PD), which greatly decreases the quality of life of patients. However, the mechanisms remain to be investigated. Neuroinflammation mediated by overactivated microglia is a common pathological feature in multiple neurological disorders, including PD. This study is designed to explore the role of microglia in cognitive deficits by using a rotenone-induced mouse PD model. To evaluate the role of microglia in rotenone-induced cognitive deficits, PLX3397, an inhibitor of colony-stimulating factor 1 receptor, and minocycline, a widely used antibiotic, were used to deplete or inactivate microglia, respectively. Cognitive performance of mice among groups was detected by Morris water maze, objective recognition, and passive avoidance tests. Neurodegeneration, synaptic loss, \u03b1-synuclein phosphorylation, glial activation, and apoptosis were determined by immunohistochemistry and Western blot or immunofluorescence staining. The gene expression of inflammatory factors and lipid peroxidation were further explored by using RT-PCR and ELISA kits, respectively. Rotenone dose-dependently induced cognitive deficits in mice by showing decreased performance of rotenone-treated mice in the novel objective recognition, passive avoidance, and Morris water maze compared with that of vehicle controls. Rotenone-induced cognitive decline was associated with neurodegeneration, synaptic loss, and Ser129-phosphorylation of \u03b1-synuclein and microglial activation in the hippocampal and cortical regions of mice. A time course experiment revealed that rotenone-induced microglial activation preceded neurodegeneration. Interestingly, microglial depletion by PLX3397 or inactivation by minocycline significantly reduced neuronal damage and \u03b1-synuclein pathology as well as improved cognitive performance in rotenone-injected mice. Mechanistically, PLX3397 and minocycline attenuated rotenone-induced astroglial activation and production of cytotoxic factors in mice. Reduced lipid peroxidation was also observed in mice treated with combined PLX3397 or minocycline and rotenonee compared with rotenone alone group. Finally, microglial depletion or inactivation was found to mitigate rotenone-induced neuronal apoptosis. Taken together, our findings suggested that microglial activation contributes to cognitive impairments in a rotenone-induced mouse PD model via neuroinflammation, oxidative stress, and apoptosis, providing novel insight into the immunopathogensis of cognitive deficits in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33402167/"
+    }
+  ]
+}

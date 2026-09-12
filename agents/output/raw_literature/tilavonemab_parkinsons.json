@@ -1,0 +1,42 @@
+{
+  "drug_name": "Tilavonemab",
+  "disease_name": "Parkinson",
+  "n_abstracts": 3,
+  "abstracts": [
+    {
+      "pmid": "40684253",
+      "title": "Language impairment is associated with faster progression in progressive supranuclear palsy-Richardson syndrome.",
+      "journal": "Alzheimer's & dementia : the journal of the Alzheimer's Association",
+      "year": "2025",
+      "abstract": "Cognitive impairment is common but often overlooked due to motor symptoms in progressive supranuclear palsy-Richardson syndrome (PSP-RS). This study investigates whether cognitive deficits predict disease progression in PSP-RS. A total of 146 PSP-RS from the Tilavonemab trial were evaluated at baseline and over 52\u00a0weeks using the PSP-Rating Scale (PSPRS), the Repeatable Battery for the Assessment of Neuropsychological Status (RBANS), and the Unified Parkinson's Disease Rating Scale Part-II (UPDRS-II). Multiple linear regression analyses were performed between the RBANS, UPDRS-II, and the PSPRS change. Clinical scores, gray matter volumes, and neurofilament-light chain (NfL) were compared using analyses of covariance (ANCOVAs) and linear mixed models between language score-groups. Lower RBANS-language at baseline predicted greater PSPRS worsening over time. The low language-score group showed poorer cognitive performance, elevated NfL, and reduced gray matter volume in language-related areas. Speech/language deficits predict worse prognosis in PSP-RS, emphasizing the value of including language scores in clinical trials. Speech and language deficits predict a worse prognosis in progressive supranuclear palsy-Richardson syndrome (PSP-RS). Lower language scores are associated with worse cognitive performance over time. Lower language scores related to higher neurofilament-light chain (NfL) at baseline. The low language-score group presented greater atrophy in language-related brain areas. Stratifying PSP-RS cases using language scores may improve clinical trials.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40684253/"
+    },
+    {
+      "pmid": "39313800",
+      "title": "Limitations and potential strategies of immune checkpoint blockade in age-related neurodegenerative disorders.",
+      "journal": "The journal of physiological sciences : JPS",
+      "year": "2024",
+      "abstract": "Neurological disorders such as Alzheimer's disease (AD), and Parkinson's disease (PD) have no disease-modifying treatments, resulting in a global dementia crisis that affects more than 50 million people. Amyloid-beta (A\u03b2), tau, and alpha-synuclein (\u03b1-Syn) are three crucial proteins that are involved in the pathogenesis of these age-related neurodegenerative diseases. Only a few approved AD medications have been used in the clinic up to this point, and their results are only partial symptomatic alleviation for AD patients and cannot stop the progression of AD. Immunotherapies have attracted considerable interest as they target certain protein strains and conformations as well as promote clearance. Immunotherapies also have the potential to be neuroprotective: as they limit synaptic damage and spread of neuroinflammation by neutralizing extracellular protein aggregates. Lately, disease-modifying therapies (DMTs) that can alter the pathophysiology that underlies AD with anti-A\u03b2 monoclonal antibodies (MAbs) (e.g., aducanumab, lecanemab, gantenerumab, donanemab, solanezumab, crenezumab, tilavonemab). Similarly, in Parkinson's disease (PD), DMTs utilizing anti-\u03b1Syn (MAbs) (e.g., prasinezumab, cinpanemab,) are progressively being developed and evaluated in clinical trials. These therapies are based on the hypothesis that both AD and PD may involve systemic impairments in cell-dependent clearance mechanisms of amyloid-beta (A\u03b2) and alpha-synuclein (\u03b1Syn), respectively, meaning the body's overall inability to effectively remove A\u03b2 and \u03b1Syn due to malfunctioning cellular mechanisms. In this review we will provide possible evidence behind the use of immunotherapy with MAbs in AD and PD and highlight the recent clinical development landscape of anti-A\u03b2 (MAbs) and anti-\u03b1Syn (MAbs) from these clinical trials in order to better investigate the therapeutic possibilities and adverse effects of these anti-A\u03b2 and anti-\u03b1Syn MAbs on AD and PD.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39313800/"
+    },
+    {
+      "pmid": "37658103",
+      "title": "Analysis of clinical failure of anti-tau and anti-synuclein antibodies in neurodegeneration using a quantitative systems pharmacology model.",
+      "journal": "Scientific reports",
+      "year": "2023",
+      "abstract": "Misfolded proteins in Alzheimer's disease and Parkinson's disease follow a well-defined connectomics-based spatial progression. Several anti-tau and anti-alpha synuclein (aSyn) antibodies have failed to provide clinical benefit in clinical trials despite substantial target engagement in the experimentally accessible cerebrospinal fluid (CSF). The proposed mechanism of action is reducing neuronal uptake of oligomeric protein from the synaptic cleft. We built a quantitative systems pharmacology (QSP) model to quantitatively simulate intrasynaptic secretion, diffusion and antibody capture in the synaptic cleft, postsynaptic membrane binding and internalization of monomeric and oligomeric tau and aSyn proteins. Integration with a physiologically based pharmacokinetic (PBPK) model allowed us to simulate clinical trials of anti-tau antibodies gosuranemab, tilavonemab, semorinemab, and anti-aSyn antibodies cinpanemab and prasineuzumab. Maximal target engagement for monomeric tau was simulated as 45% (semorinemab) to 99% (gosuranemab) in CSF, 30% to 99% in ISF but only 1% to 3% in the synaptic cleft, leading to a reduction of less than 1% in uptake of oligomeric tau. Simulations for prasineuzumab and cinpanemab suggest target engagement of free monomeric aSyn of only 6-8% in CSF, 4-6% and 1-2% in the ISF and synaptic cleft, while maximal target engagement of aggregated aSyn was predicted to reach 99% and 80% in the synaptic cleft with similar effects on neuronal uptake. The study generates optimal values of selectivity, sensitivity and PK profiles for antibodies. The study identifies a gradient of decreasing target engagement from CSF to the synaptic cleft as a key driver of efficacy, quantitatively identifies various improvements for drug design and emphasizes the need for QSP modelling to support the development of tau and aSyn antibodies.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37658103/"
+    }
+  ]
+}

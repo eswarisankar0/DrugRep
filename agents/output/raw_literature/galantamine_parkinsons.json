@@ -1,0 +1,187 @@
+{
+  "drug_name": "Galantamine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "37358841",
+      "title": "Cholinesterase Inhibitors for Treatment of Psychotic Symptoms in Alzheimer Disease and Parkinson Disease: A Meta-analysis.",
+      "journal": "JAMA neurology",
+      "year": "2023",
+      "abstract": "Psychotic symptoms greatly increase the burden of disease for people with neurodegenerative disorders and their caregivers. Cholinesterase inhibitors (ChEIs) may be effective treatment for psychotic symptoms in these disorders. Previous trials only evaluated neuropsychiatric symptoms as a secondary and an overall outcome, potentially blurring the outcomes noted with ChEI use specifically for psychotic symptoms. To quantitatively assess the use of ChEIs for treatment of individual neuropsychiatric symptoms, specifically hallucinations and delusions, in patients with Alzheimer disease (AD), Parkinson disease (PD), and dementia with Lewy bodies (DLB). A systematic search was performed in PubMed (MEDLINE), Embase, and PsychInfo, without year restrictions. Additional eligible studies were retrieved from reference lists. The final search cutoff date was April 21, 2022. Studies were selected if they presented the results of placebo-controlled randomized clinical trials, including at least 1 donepezil, rivastigmine, or galantamine treatment arm in patients with AD, PD, or DLB; if they applied at least 1 neuropsychiatric measure including hallucinations and/or delusions; and if a full-text version of the study was available in the English language. Study selection was performed and checked by multiple reviewers. Original research data were requested on eligible studies. A 2-stage meta-analysis was then performed, using random-effects models. Preferred Reporting Items for Systematic Reviews and Meta-analyses guidelines were followed for extracting data and assessing the data quality and validity. Data extraction was checked by a second reviewer. Primary outcomes were hallucinations and delusions; secondary outcomes included all other individual neuropsychiatric subdomains as well as the total neuropsychiatric score. In total, 34 eligible randomized clinical trials were selected. Individual participant data on 6649 individuals (3830 [62.6%] women; mean [SD] age, 75.0 [8.2] years) were obtained from 17 trials (AD: n\u2009=\u200912; PD: n\u2009=\u20095; individual participant data were not available for DLB). An association with ChEI treatment was shown in the AD subgroup for delusions (-0.08; 95% CI, -0.14 to -0.03; P\u2009=\u2009.006) and hallucinations (-0.09; 95% CI, -0.14 to -0.04; P\u2009=\u2009.003) and in the PD subgroup for delusions (-0.14; 95% CI, -0.26 to -0.01; P\u2009=\u2009.04) and hallucinations (-0.08, 95% CI -0.13 to -0.03; P\u2009=\u2009.01). The results of this individual participant data meta-analysis suggest that ChEI treatment improves psychotic symptoms in patients with AD and PD with small effect sizes.",
+      "publication_types": [
+        "Meta-Analysis",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37358841/"
+    },
+    {
+      "pmid": "41874248",
+      "title": "Drugs for dementia.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2026",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41874248/"
+    },
+    {
+      "pmid": "26085043",
+      "title": "Pharmacological Management of Lewy Body Dementia: A Systematic Review and Meta-Analysis.",
+      "journal": "The American journal of psychiatry",
+      "year": "2015",
+      "abstract": "The authors examined research on effects, costs, and patient and caregiver views of pharmacological management strategies for Lewy body dementia. Studies were identified through bibliographic databases, trials registers, gray literature, reference lists, and experts. The authors used the search terms \"Lewy or parkinson\" and \"dementia\" through March 2015 and used the following inclusion criteria: participants with diagnoses of Lewy body dementia, dementia with Lewy bodies, or Parkinson's disease dementia (or participants' caregivers); investigation of pharmacological management strategies; outcome measures and test scores reported. Data extraction and quality assessment were conducted by at least two authors. Meta-analyses were conducted, and when studies could not be combined, summaries were provided. Forty-four studies examining 22 strategies were included in the review. Meta-analysis indicated beneficial effects of donepezil and rivastigmine for cognitive and psychiatric symptoms. Rivastigmine, but not donepezil, was associated with greater risk of adverse events. Meta-analysis of memantine suggested that it is well tolerated but with few benefits. Descriptive summaries provide some evidence of benefits for galantamine, modafinil, levodopa, rotigotine, clozapine, duloxetine, clonazepam, ramelteon, gabapentin, zonisamide, and yokukansan. Piracetam, amantadine, selegiline, olanzapine, quetiapine, risperidone, and citalopram do not appear to be effective. High-level evidence related to pharmacological strategies for managing Lewy body dementia is rare. Strategies for important areas of need in Lewy body dementia, such as autonomic symptoms and caregiver burden, have not been investigated, nor have the views of patients and caregivers about pharmacological strategies.",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26085043/"
+    },
+    {
+      "pmid": "34203763",
+      "title": "Transcriptomic and Genetic Associations between Alzheimer's Disease, Parkinson's Disease, and Cancer.",
+      "journal": "Cancers",
+      "year": "2021",
+      "abstract": "Alzheimer's (AD) and Parkinson's diseases (PD) are the two most prevalent neurodegenerative disorders in human populations. Epidemiological studies have shown that patients suffering from either condition present a reduced overall risk of cancer than controls (i.e., inverse comorbidity), suggesting that neurodegeneration provides a protective effect against cancer. Reduced risks of several site-specific tumors, including colorectal, lung, and prostate cancers, have also been observed in AD and PD. By contrast, an increased risk of melanoma has been described in PD patients (i.e., direct comorbidity). Therefore, a fundamental question to address is whether these associations are due to shared genetic and molecular factors or are explained by other phenomena, such as flaws in epidemiological studies, exposure to shared risk factors, or the effect of medications. To this end, we first evaluated the transcriptomes of AD and PD post-mortem brain tissues derived from the hippocampus and the substantia nigra and analyzed their similarities to those of a large panel of 22 site-specific cancers, which were obtained through differential gene expression meta-analyses of array-based studies available in public repositories. Genes and pathways that were deregulated in both disorders in each analyzed pair were examined. Second, we assessed potential genetic links between AD, PD, and the selected cancers by establishing interactome-based overlaps of genes previously linked to each disorder. Then, their genetic correlations were computed using cross-trait LD score regression and GWAS summary statistics data. Finally, the potential role of medications in the reported comorbidities was assessed by comparing disease-specific differential gene expression profiles to an extensive collection of differential gene expression signatures generated by exposing cell lines to drugs indicated for AD, PD, and cancer treatment (LINCS L1000). We identified significant inverse associations of transcriptomic deregulation between AD hippocampal tissues and breast, lung, liver, and prostate cancers, and between PD substantia nigra tissues and breast, lung, and prostate cancers. Moreover, significant direct (same direction) associations of deregulation were observed between AD and PD and brain and thyroid cancers, as well as between PD and kidney cancer. Several biological processes, including the immune system, oxidative phosphorylation, PI3K/AKT/mTOR signaling, and the cell cycle, were found to be deregulated in both cancer and neurodegenerative disorders. Significant genetic correlations were found between PD and melanoma and prostate cancers. Several drugs indicated for the treatment of neurodegenerative disorders and cancer, such as galantamine, selegiline, exemestane, and estradiol, were identified as potential modulators of the comorbidities observed between neurodegeneration and cancer.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34203763/"
+    },
+    {
+      "pmid": "14533126",
+      "title": "Cognitive, psychiatric and motor response to galantamine in Parkinson's disease with dementia.",
+      "journal": "International journal of geriatric psychiatry",
+      "year": "2003",
+      "abstract": "Cholinesterase inhibitors with additional nicotinic activity, such as galantamine, may be useful in PD patients with dementia (PDD) since stimulation of nicotinic receptors may prevent the down-regulation that is likely to accompany cholinesterase inhibition and facilitate dopamine release in the striatum. Sixteen PDD patients (six female) with onset of cognitive impairment after at least one year with parkinsonism participated in this open-label trial of galantamine. Cognitive, psychiatric, and motor symptoms were assessed before and after 8 weeks of treatment with galantamine using unstructured clinical assessment as well as rating scales including the Mini-Mental State Examination (MMSE), clock drawing test, verbal fluency and selected items from the Neuropsychiatric Inventory (NPI). Age (mean, SD) was 75.6 (5.2) years, duration of PD 13.4 (5.9), duration of dementia 2.1 (1.7) years, Hoehn and Yahr score was 3.8 (0.8) and baseline MMSE score was 17.7 (6.7). Side-effects caused discontinuation in three patients, but were rare and mild in the remaining 13. Improvement of global mental symptoms was noted in eight patients, whereas worsening was reported in four. Hallucinations improved in seven of the nine patients with hallucinations before treatment. Parkinsonism improved in six patients, but a mild worsening of tremor was noted in three. Clock-drawing improved (p=0.016), and trends towards improvement on MMSE (p=0.09) and verbal fluency (p=0.16) were found. Although controlled trials are needed, the findings suggest that galantamine is useful in patients with PDD.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/14533126/"
+    },
+    {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
+      "pmid": "39944527",
+      "title": "Clinical Practice Guidelines for Dementia: Recommendations for Cholinesterase Inhibitors and Memantine.",
+      "journal": "Dementia and neurocognitive disorders",
+      "year": "2025",
+      "abstract": "This clinical practice guideline provides evidence-based recommendations for treatment of dementia, focusing on cholinesterase inhibitors and N-methyl-D-aspartate (NMDA) receptor antagonists for Alzheimer's disease (AD) and other types of dementia. Using the Population, Intervention, Comparison, Outcomes (PICO) framework, we developed key clinical questions and conducted systematic literature reviews. A multidisciplinary panel of experts, organized by the Korean Dementia Association, evaluated randomized controlled trials and observational studies. Recommendations were graded for evidence quality and strength using Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methodology. Three main recommendations are presented: (1) For AD, cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are strongly recommended for improving cognition and daily function based on moderate evidence; (2) Cholinesterase inhibitors are conditionally recommended for vascular dementia and Parkinson's disease dementia, with a strong recommendation for Lewy body dementia; (3) For moderate to severe AD, NMDA receptor antagonist (memantine) is strongly recommended, demonstrating significant cognitive and functional improvements. Both drug classes showed favorable safety profiles with manageable side effects. This guideline offers standardized, evidence-based pharmacologic recommendations for dementia management, with specific guidance on cholinesterase inhibitors and NMDA receptor antagonists. It aims to support clinical decision-making and improve patient outcomes in dementia care. Further updates will address emerging treatments, including amyloid-targeting therapies, to reflect advances in dementia management.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39944527/"
+    },
+    {
+      "pmid": "39766362",
+      "title": "Galantamine-Memantine Combination in the Treatment of Parkinson's Disease Dementia.",
+      "journal": "Brain sciences",
+      "year": "2024",
+      "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder that affects over 1% of population over age 60. It is defined by motor and nonmotor symptoms including a spectrum of cognitive impairments known as Parkinson's disease dementia (PDD). Currently, the only US Food and Drug Administration-approved treatment for PDD is rivastigmine, which inhibits acetylcholinesterase and butyrylcholinesterase increasing the level of acetylcholine in the brain. Due to its limited efficacy and side effect profile, rivastigmine is often not prescribed, leaving patients with no treatment options. PD has several derangements in neurotransmitter pathways (dopaminergic neurons in the nigrostriatal pathway, kynurenine pathway (KP), acetylcholine, \u03b17 nicotinic receptor, and N-methyl-D-aspartate (NMDA) receptors) and rivastigmine is only partially effective as it only targets one pathway. Kynurenic acid (KYNA), a metabolite of tryptophan metabolism, affects the pathophysiology of PDD in multiple ways. Both galantamine (\u03b17 nicotinic receptor) and memantine (antagonist of the NMDA subtype of the glutamate receptor) are KYNA modulators. When used in combination, they target multiple pathways. While randomized controlled trials (RCTs) with each drug alone for PD have failed, the combination of galantamine and memantine has demonstrated a synergistic effect on cognitive enhancement in animal models. It has therapeutic potential that has not been adequately assessed, warranting future randomized controlled trials. In this review, we summarize the KYNA-centric model for PD pathophysiology and discuss how this treatment combination is promising in improving cognitive function in patients with PDD through its action on KYNA.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39766362/"
+    },
+    {
+      "pmid": "18975103",
+      "title": "Efficacy and safety of galantamine (reminyl) for dementia in patients with Parkinson's disease (an open controlled trial).",
+      "journal": "Neuroscience and behavioral physiology",
+      "year": "2008",
+      "abstract": "An open controlled trial of the use of galantamine at a maximum dose of 16 mg/day included 41 patients with Parkinson's disease with dementia randomized to a galantamine treatment group (21 patients) and a control group (20 patients). Cognitive, neuropsychiatric, and motor symptoms were assessed clinically before the trial and at 4, 12, and 24 weeks, using the Mini Mental State Examination (MMSE), the cognitive Alzheimer's Disease Assessment Scale (ADAS-cog), the clock drawing test, the Frontal Assessment Battery (FAB), and the Neuropsychiatric Inventory (NPI) with assessment of distress in relatives. Patients treated with galantamine had better scores on the MMSE (p < 0.05),ADAS-cog (p < 0.05), the clock drawing test (p < 0.05), and the FAB (p < 0.01) at the end of the study period as compared with the control group. Changes in total point scores on the NPI-12 at the ends of weeks 12 and 24, as compared with the beginning of the trial, were in favor of the group treated with galantamine, with significant changes in the hallucinations (p = 0.0002), anxiety (p = 0.04), sleep disturbance (p = 0.04), and apathy (p = 0.006) sections. Galantamine treatment was accompanied by decreases in the level of distress in patients' relatives (p = 0.007) and improvements in daily activity (p = 0.003). Improvements in gait and decreases in freezing and falls were seen in the galantamine treatment group. However, two patients of this group showed minor increases in tremor. Side effects (drooling, postural hypotension, nausea, dysuria) occurred in seven patients (30%).",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/18975103/"
+    },
+    {
+      "pmid": "18427456",
+      "title": "[Efficacy and safety of galantamine (reminyl) in the treatment of dementia in patients with Parkinson's disease (open-label controlled trial)].",
+      "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+      "year": "2007",
+      "abstract": "Forty-one Parkinson's disease patients with dementia (21 galantamine group, 20--control group) with onset of dementia at least two years after the manifestation of parkinsonian symptoms participated in this open-label controlled trial of galantamine in maximum dose 16 mg/day. Cognitive, psychiatric and motor symptoms were assessed before and after 4, 12 and 24 weeks of treatment using clinical assessment as well as rating scales, including the Mini-Mental State Examination (MMSE), ADAS-cog, clock drawing test, Frontal Assessment Battery (FAB), and the Neuropsychiatric Inventory (NPI-12) with assessment of caregiver distress. Patients treated with galantamine had better scores on MMSE (p<0,05), ADAS-cog (p<0,05), clock drawing test (p<0,05) and FAB (p<0,01) to the end of the trial comparing to the control group. NPI scores on individual items changed from baseline at week 12 and 24, showing benefits of galantamine treatment as compared to the controls, with significant difference for hallucinations (p=0,0002), anxiety (p=0,04), sleep disorders (p=0,04) and apathy (p=0,006). Galantamine therapy was associated with a significant reduction in caregiver distress (p=0,007), improvement of daily life activity (p=0,003). Gait, freezing and falls were improved in the galantamine group but a mild worsening of tremor was noted in two patients. Adverse events (drooling, postural hypotension, nausea, dysuria) were observed in 7 (30%) of galantamine treated patients.",
+      "publication_types": [
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "English Abstract",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/18427456/"
+    },
+    {
+      "pmid": "34950896",
+      "title": "An introduction to therapeutic approaches to vascular cognitive impairment.",
+      "journal": "Cerebral circulation - cognition and behavior",
+      "year": "2021",
+      "abstract": "Vascular cognitive impairment (VCI), encompassing vascular dementia, has been claimed as the \"second-most common dementia\" after Alzheimer Disease. Whether or not this is true, the clinical picture of most dementia in older people includes vascular disease. There are no validated pharmacological targets for prevention or treatment of VCI. This has inspired a multitude of potential treatment approaches, reflected by the articles in this Special Issue. These include <i>in vitro</i> testing of the novel oral anticoagulant dabigatran for protection against \u03b2-amyloid neurotoxicity, and an overview of neuroinflammation in VCI and the role of circulating markers (PIGF, VEGF-D) identified by the MarkVCID study. There are reviews of potential therapeutics, including adrenomedullin and nootropic preparations (exemplified by cerebrolysin). The role of sleep is reviewed, with possible therapeutic targets (5HT2A receptors). There is a clinical study protocol (INVESTIGATE-SVD) and a feasibility analysis for a secondary prevention trial in small vessel disease. Clinical data include secondary analyses of blood pressure and cerebral blood flow from a longitudinal clinical trial (NILVAD), differences between methylphenidate and galantamine responders and non-responders (STREAM-VCI), appraisal of treatment approaches in India, and primary outcomes from a randomised trial of Argentine tango dancing to preserve cognition in African American women (ACT). Treating vascular disease has great potential to improve global cognitive health, with public health impacts alongside individual benefit. Vascular disease burden varies across populations, offering the possibility of proactively addressing health inequity in dementia using vascular interventions. The next 5-10 years will witness cost-effective lifestyle interventions, repurposed drugs and novel therapeutics.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34950896/"
+    },
+    {
+      "pmid": "35006557",
+      "title": "Pharmacological Management of Apathy in Dementia.",
+      "journal": "CNS drugs",
+      "year": "2022",
+      "abstract": "Apathy is a highly prevalent symptom of dementia. Despite its association with faster cognitive and functional decline, decreased quality of life and increased mortality, no therapies are currently approved to treat apathy. The objective of this review was to summarize the drugs that have been studied for apathy treatment in patients with dementia (specifically Alzheimer's disease [AD], Huntington's disease [HD] and Parkinson's disease [PD] dementia; dementia with Lewy bodies [DLB]; vascular dementia [VaD]; and frontotemporal dementia [FTD]) based on their putative mechanisms of action. A search for relevant studies was performed using ClinicalTrials.gov and PubMed. Eligible studies were randomized controlled trials that were available in English and included at least one drug intervention and an apathy measure scale. A total of 52 studies that included patients with AD (n = 33 studies), PD (n = 5), HD (n = 1), DLB (n = 1), FTD (n = 3), VaD (n = 1), VaD and AD (n = 4), VaD and mixed dementia (n = 1), and AD, VaD and mixed dementia (n = 3) were eligible for inclusion. These studies showed that methylphenidate, olanzapine, cholinesterase inhibitors, choline alphoscerate, citalopram, memantine, and mibampator are the only beneficial drugs in AD-related apathy. For PD-related apathy, only methylphenidate, rotigotine and rivastigmine showed benefits. Regarding FTD- and DLB-related apathy, initial studies with agomelatine and rivastigmine showed benefits, respectively. As for HD- and only-VaD-related apathy, no drugs demonstrated benefits. With regards to mixed populations, memantine, galantamine and gingko biloba showed effects on apathy in the AD plus VaD populations and nimodipine in the VaD plus mixed dementia populations. Of the drugs with positive results, some are already prescribed to patients with dementia to target other symptoms, some have characteristics-such as medical contraindications (e.g., cardiovascular) and adverse effects (e.g., gastrointestinal disturbances)-that limit their clinical use and some require further study. Future studies should investigate apathy as a primary outcome, making use of appropriate sample sizes and study durations to ensure durability of results. There should also be a consensus on using scales with high test/retest and interrater reliabilities to limit the inconsistencies between clinical trials. In conclusion, there are currently no US FDA-approved drugs that target apathy in dementia, so there is an ongoing need for the development of such drugs.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35006557/"
+    },
+    {
+      "pmid": "33920698",
+      "title": "Treatment of Parkinson's Disease with Cognitive Impairment: Current Approaches and Future Directions.",
+      "journal": "Behavioral sciences (Basel, Switzerland)",
+      "year": "2021",
+      "abstract": "Cognitive impairment risk in Parkinson's disease increases with disease progression and poses a significant burden to the patients, their families and society. There are no disease-modifying therapies or preventative measures for Parkinson's disease mild cognitive impairment (PD-MCI), or Parkinson's disease dementia (PDD). This article reviews current and previously investigated treatments and those under investigation, including pharmacologic, non-pharmacologic and surgical procedures. There are currently no effective pharmacologic or non-pharmacologic treatments for PD-MCI. The only recommended treatment for PDD currently is rivastigmine, a cholinesterase inhibitor. Donepezil and galantamine-other cholinesterase inhibitors-are possibly useful. Memantine, a N-methyl-D-aspartate (NMDA) receptor antagonist, is considered investigational in PDD. Drug repurposing (atomoxetine, levodopa, insulin, atomoxetine for PD-MCI; ambroxol and ceftriaxone for PDD) and novel medications (SYN120, GRF6021, NYX-458 for PD-MCI; ANAVEX2-73, LY3154207, ENT-01, DAAOI-P for PDD) currently have insufficient evidence. There is growing research supporting exercise in the treatment of PD-MCI, but most non-pharmacological approaches have insufficient evidence for use in PD-MCI (cognitive rehabilitation, deep brain stimulation, transcranial direct current stimulation, transcranial ultrasound, vestibular nerve stimulation) and PDD (cognitive intervention, deep brain stimulation, transcranial alternating current stimulation, transcranial ultrasound, temporal blood brain barrier disruption). Research is needed for both disease-modifying and symptomatic treatments in PD cognitive impairment.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33920698/"
+    },
+    {
+      "pmid": "40704847",
+      "title": "Real-world health care costs and resource utilization associated with mild cognitive impairment in the United States: A retrospective cohort study of commercial and Medicare data.",
+      "journal": "Journal of managed care & specialty pharmacy",
+      "year": "2025",
+      "abstract": "Mild cognitive impairment (MCI) is a transitional stage before Alzheimer disease and related dementias (ADRD). The link between AD and increased health care resource utilization (HCRU) and costs is well established but not the economic burden of MCI. To estimate the incremental economic burden of individuals with MCI in the United States. This was a retrospective cohort study that derived data from the MarketScan Commercial and Medicare Supplemental Databases. The observation period was from January 1, 2014, through December 31, 2019. Included individuals were (1) aged at least 50\u00a0years, (2) had at least 2\u00a0years of pre-index (ie, date of their first MCI diagnosis) continuous health plan enrollment, and (3) had at least 1\u00a0year of post-index continuous health plan enrollment. Individuals were excluded if they had (1) at least 1 claim with a diagnosis of Parkinson disease at any time during the study period, (2) at least 1 claim with a diagnosis of ADRD at any time before the index date, or (3) at least 1 pharmacy claim for an ADRD medication (donepezil, memantine, memantine/donepezil, galantamine, or rivastigmine) at any time before the index date. Outcomes included all-cause HCRU and health care costs for incident MCI individuals (MCI cohort) and matched individuals without MCI or dementia (control cohort) during the 12-month follow-up period. Controls were matched at a 3:1 ratio by age, sex, region, and index year. In total, 5,185 individuals met the criteria for the MCI cohort and 15,555 for the control cohort. Mean age at baseline was 67\u00a0years and 57.7% were female in both cohorts. The MCI cohort had a higher comorbidity burden compared with the control cohort (1.5 vs 1.0 and 2.6 vs 1.8, respectively; <i>P</i>\u2009<\u20090.0001) All comorbidities assessed at baseline were more prevalent in the MCI cohort than in the control. Adjusted all-cause HCRU for all points of service and adjusted all-cause mean costs in total ($32,318 vs $13,894; mean ratio [MR]\u2009=\u20092.33, 95% CI\u2009=\u20092.23-2.43), for emergency department ($4,460 vs $3,849; MR\u2009=\u20091.16, 95% CI\u2009=\u20091.08-1.25), outpatient ($16,054 vs $7,265; MR\u2009=\u20092.21, 95% CI\u2009=\u20092.12-2.30), and pharmacy ($5,503 vs $2,933; MR\u2009=\u20091.88, 95% CI\u2009=\u20091.78-1.97) (all <i>P</i>\u2009<\u20090.0001) were significantly higher for the MCI cohort. The economic burden of MCI was more than double that for similar individuals without MCI or dementia. Timely diagnosis and intervention are key to delaying progression to AD and reducing associated costs.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40704847/"
+    },
+    {
+      "pmid": "15480840",
+      "title": "Cognitive dysfunction and dementia in Parkinson's disease.",
+      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+      "year": "2004",
+      "abstract": "Parkinson's disease (PD) is a slowly progressive neurodegenerative disorder mainly characterized by degeneration of dopaminergic neurons in the substantia nigra and the ventral tegmental area, in combination with a varying loss of central noradrenergic (locus coeruleus), cholinergic (nucleus basalis of Meynert) and serotonergic (dorsal raphe nuclei) integrity, leading to a multitude of motor and non-motor behavioral disturbances. Apart from the clinical motor hallmarks, in the early stages of disease, subtle cognitive dysfunction might be seen comprising mainly executive dysfunction, with secondary visuospatial and mnemonic disturbances. In about 20-40% of patients, these problems may eventually proceed to dementia, which constitutes an important risk factor for caregiver distress, decreased quality of life and nursing home placement. Dementia in PD is typically characterized by a progressive dysexecutive syndrome with attentional deficits and fluctuating cognition, often accompanied by psychotic symptoms. It is thought to be the result of a combination of both subcortical and cortical changes. PD-related dopaminergic deficiency in the nucleus caudatus and mesocortical areas (due to degeneration of projections from the substantia nigra and ventral tegmental area) and cholinergic deficiency in the cortex (due to degeneration of ascending projections from the nucleus basalis of Meynert), combined with additional Alzheimer-pathology and cortical Lewy bodies, may greatly contribute to dementia. Current treatment of dementia in PD is based on compensation of the profound cholinergic deficiency. Recent studies with the cholinesterase inhibitors galantamine, donepezil and rivastigmine show promising results in improving cognition and ameliorating psychotic symptoms, which must further be confirmed in randomized controlled trials.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15480840/"
+    }
+  ]
+}

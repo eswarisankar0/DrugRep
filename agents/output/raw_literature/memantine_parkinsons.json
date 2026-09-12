@@ -1,0 +1,188 @@
+{
+  "drug_name": "Memantine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "38436963",
+      "title": "Dementia Prevention and Treatment: A Narrative Review.",
+      "journal": "JAMA internal medicine",
+      "year": "2024",
+      "abstract": "Dementia affects 10% of those 65 years or older and 35% of those 90 years or older, often with profound cognitive, behavioral, and functional consequences. As the baby boomers and subsequent generations age, effective preventive and treatment strategies will assume increasing importance. Preventive measures are aimed at modifiable risk factors, many of which have been identified. To date, no randomized clinical trial data conclusively confirm that interventions of any kind can prevent dementia. Nevertheless, addressing risk factors may have other health benefits and should be considered. Alzheimer disease can be treated with cholinesterase inhibitors, memantine, and antiamyloid immunomodulators, with the last modestly slowing cognitive and functional decline in people with mild cognitive impairment or mild dementia due to Alzheimer disease. Cholinesterase inhibitors and memantine may benefit persons with other types of dementia, including dementia with Lewy bodies, Parkinson disease dementia, vascular dementia, and dementia due to traumatic brain injury. Behavioral and psychological symptoms of dementia are best treated with nonpharmacologic management, including identifying and mitigating the underlying causes and individually tailored behavioral approaches. Psychotropic medications have minimal evidence of efficacy for treating these symptoms and are associated with increased mortality and clinically meaningful risks of falls and cognitive decline. Several emerging prevention and treatment strategies hold promise to improve dementia care in the future. Although current prevention and treatment approaches to dementia have been less than optimally successful, substantial investments in dementia research will undoubtedly provide new answers to reducing the burden of dementia worldwide.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38436963/"
+    },
+    {
+      "pmid": "31638686",
+      "title": "Diagnosis and Management of Dementia: Review.",
+      "journal": "JAMA",
+      "year": "2019",
+      "abstract": "Worldwide, 47 million people live with dementia and, by 2050, the number is expected to increase to 131 million. Dementia is an acquired loss of cognition in multiple cognitive domains sufficiently severe to affect social or occupational function. In the United States, Alzheimer disease, one cause of dementia, affects 5.8 million people. Dementia is commonly associated with more than 1 neuropathology, usually Alzheimer disease with cerebrovascular pathology. Diagnosing dementia requires a history evaluating for cognitive decline and impairment in daily activities, with corroboration from a close friend or family member, in addition to a thorough mental status examination by a clinician to delineate impairments in memory, language, attention, visuospatial cognition such as spatial orientation, executive function, and mood. Brief cognitive impairment screening questionnaires can assist in initiating and organizing the cognitive assessment. However, if the assessment is inconclusive (eg, symptoms present, but normal examination findings), neuropsychological testing can help determine whether dementia is present. Physical examination may help identify the etiology of dementia. For example, focal neurologic abnormalities suggest stroke. Brain neuroimaging may demonstrate structural changes including, but not limited to, focal atrophy, infarcts, and tumor, that may not be identified on physical examination. Additional evaluation with cerebrospinal fluid assays or genetic testing may be considered in atypical dementia cases, such as age of onset younger than 65 years, rapid symptom onset, and/or impairment in multiple cognitive domains but not episodic memory. For treatment, patients may benefit from nonpharmacologic approaches, including cognitively engaging activities such as reading, physical exercise such as walking, and socialization such as family gatherings. Pharmacologic approaches can provide modest symptomatic relief. For Alzheimer disease, this includes an acetylcholinesterase inhibitor such as donepezil for mild to severe dementia, and memantine (used alone or as an add-on therapy) for moderate to severe dementia. Rivastigmine can be used to treat symptomatic Parkinson disease dementia. Alzheimer disease currently affects 5.8 million persons in the United States and is a common cause of dementia, which is usually accompanied by other neuropathology, often cerebrovascular disease such as brain infarcts. Causes of dementia can be diagnosed by medical history, cognitive and physical examination, laboratory testing, and brain imaging. Management should include both nonpharmacologic and pharmacologic approaches, although efficacy of available treatments remains limited.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31638686/"
+    },
+    {
+      "pmid": "30704681",
+      "title": "The Alzheimer's Disease Clinical Spectrum: Diagnosis and Management.",
+      "journal": "The Medical clinics of North America",
+      "year": "2019",
+      "abstract": "Alzheimer's disease (AD) care requires timely diagnosis and multidisciplinary management. Evaluation involves structured patient and caregiver history and symptom-function reviews, examination, and testing (laboratory and neuroimaging) to delineate impairment level, determine the cognitive-behavioral syndrome, and diagnose cause. Clinical biomarkers are available to aid high confidence in etiologic diagnosis. Management uses psychoeducation, shared goal setting, and patient-caregiver dyad decision making. When combined, pharmacologic and nonpharmacologic therapies mitigate symptoms and reduce clinical progression and care burden. AD biopathologic processes develop over decades before symptoms manifest; this period is increasingly targeted in research as an opportunity to best delay or prevent AD dementia.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30704681/"
+    },
+    {
+      "pmid": "30891742",
+      "title": "Memantine for dementia.",
+      "journal": "The Cochrane database of systematic reviews",
+      "year": "2019",
+      "abstract": "Memantine is a moderate affinity uncompetitive antagonist of glutamate NMDA receptors. It is licensed for use in moderate and severe Alzheimer's disease (AD); in the USA, it is also widely used off-label for mild AD. To determine efficacy and safety of memantine for people with dementia. To assess whether memantine adds benefit for people already taking cholinesterase inhibitors (ChEIs). We searched ALOIS, the Cochrane Dementia and Cognitive Improvement Group's register of trials (http://www.medicine.ox.ac.uk/alois/) up to 25 March 2018. We examined clinical trials registries, press releases and posters of memantine manufacturers; and the web sites of the FDA, EMEA and NICE. We contacted authors and companies for missing information. Double-blind, parallel group, placebo-controlled, randomised trials of memantine in people with dementia. We pooled and analysed data from four clinical domains across different aetiologies and severities of dementia and for AD with agitation. We assessed the impact of study duration, severity and concomitant use of ChEIs. Consequently, we restricted analyses to the licensed dose (20 mg/day or 28 mg extended release) and data at six to seven months duration of follow-up, and analysed separately results for mild and moderate-to-severe AD.We transformed results for efficacy outcomes into the difference in points on particular outcome scales. Across all types of dementia, data were available from almost 10,000 participants in 44 included trials, most of which were at low or unclear risk of bias. For nearly half the studies, relevant data were obtained from unpublished sources. The majority of trials (29 in 7885 participants) were conducted in people with AD.1. Moderate-to-severe AD (with or without concomitant ChEIs). High-certainty evidence from up to 14 studies in around 3700 participants consistently shows a small clinical benefit for memantine versus placebo: clinical global rating (CGR): 0.21 CIBIC+ points (95% confidence interval (CI) 0.14 to 0.30); cognitive function (CF): 3.11 Severe Impairment Battery (SIB) points (95% CI 2.42 to 3.92); performance on activities of daily living (ADL): 1.09 ADL19 points (95% CI 0.62 to 1.64); and behaviour and mood (BM): 1.84 Neuropsychiatric Inventory (NPI) points (95% CI 1.05 to 2.76). There may be no difference in the number of people discontinuing memantine compared to placebo: risk ratio (RR) 0.93 (95% CI 0.83 to 1.04) corresponding to 13 fewer people per 1000 (95% CI 31 fewer to 7 more). Although there is moderate-certainty evidence that fewer people taking memantine experience agitation as an adverse event: RR 0.81 (95% CI 0.66 to 0.99) (25 fewer people per 1000, 95% CI 1 to 44 fewer), there is also moderate-certainty evidence, from three additional studies, suggesting that memantine is not beneficial as a treatment for agitation (e.g. Cohen Mansfield Agitation Inventory: clinical benefit of 0.50 CMAI points, 95% CI -3.71 to 4.71) .The presence of concomitant ChEI does not impact on the difference between memantine and placebo, with the possible exceptions of the BM outcome (larger effect in people taking ChEIs) and the CF outcome (smaller effect).2. Mild AD (Mini Mental State Examination (MMSE) 20 to 23): mainly moderate-certainty evidence based on post-hoc subgroups from up to four studies in around 600 participants suggests there is probably no difference between memantine and placebo for CF: 0.21 ADAS-Cog points (95% CI -0.95 to 1.38); performance on ADL: -0.07 ADL 23 points (95% CI -1.80 to 1.66); and BM: -0.29 NPI points (95% CI -2.16 to 1.58). There is less certainty in the CGR evidence, which also suggests there may be no difference: 0.09 CIBIC+ points (95% CI -0.12 to 0.30). Memantine (compared with placebo) may increase the numbers of people discontinuing treatment because of adverse events (RR 2.12, 95% CI 1.03 to 4.39).3. Mild-to-moderate vascular dementia. Moderate- and low-certainty evidence from two studies in around 750 participants indicates there is probably a small clinical benefit for CF: 2.15 ADAS-Cog points (95% CI 1.05 to 3.25); there may be a small clinical benefit for BM: 0.47 NOSGER disturbing behaviour points (95% CI 0.07 to 0.87); there is probably no difference in CGR: 0.03 CIBIC+ points (95% CI -0.28 to 0.34); and there may be no difference in ADL: 0.11 NOSGER II self-care subscale points (95% CI -0.35 to 0.54) or in the numbers of people discontinuing treatment: RR 1.05 (95% CI 0.83 to 1.34).There is limited, mainly low- or very low-certainty efficacy evidence for other types of dementia (Parkinson's disease and dementia Lewy bodies (for which CGR may show a small clinical benefit; four studies in 319 people); frontotemporal dementia (two studies in 133 people); and AIDS-related Dementia Complex (one study in 140 people)).There is high-certainty evidence showing no difference between memantine and placebo in the proportion experiencing at least one adverse event: RR 1.03 (95% CI 1.00 to 1.06); the RR does not differ between aetiologies or severities of dementia. Combining available data from all trials, there is moderate-certainty evidence that memantine is 1.6 times more likely than placebo to result in dizziness (6.1% versus 3.9%), low-certainty evidence of a 1.3-fold increased risk of headache (5.5% versus 4.3%), but high-certainty evidence of no difference in falls. We found important differences in the efficacy of memantine in mild AD compared to that in moderate-to-severe AD. There is a small clinical benefit of memantine in people with moderate-to-severe AD, which occurs irrespective of whether they are also taking a ChEI, but no benefit in people with mild AD.Clinical heterogeneity in AD makes it unlikely that any single drug will have a large effect size, and means that the optimal drug treatment may involve multiple drugs, each having an effect size that may be less than the minimum clinically important difference.A definitive long-duration trial in mild AD is needed to establish whether starting memantine earlier would be beneficial over the long term and safe: at present the evidence is against this, despite it being common practice. A long-duration trial in moderate-to-severe AD is needed to establish whether the benefit persists beyond six months.",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30891742/"
+    },
+    {
+      "pmid": "41197936",
+      "title": "Memantine modulates neuroinflammation and motor coordination in a Parkinson's disease model.",
+      "journal": "Brain research",
+      "year": "2025",
+      "abstract": "Memantine, an NMDA receptor antagonist clinically approved for Alzheimer's disease, has been implicated in modulating neuroinflammatory responses beyond its anti-excitotoxic actions. To explore its potential relevance in Parkinson's disease, this study evaluated memantine's effects in both LPS-activated microglial cells and a synucleinopathy mouse model. In BV-2 cells, memantine elicited a modest but measurable attenuation of TNF-\u03b1 and IL-6 secretion, which was accompanied by downregulation of TLR4 and I\u03baB signaling. In vivo, 5-month oral administration of memantine to mThy1-\u03b1Syn transgenic mice led to moderate improvements in motor function as assessed by beam-walk performance. Immunohistochemical analyses revealed decreased microglial activation in the cerebral cortex; however, phosphorylated \u03b1-synuclein accumulation and tyrosine hydroxylase expression remained unaffected. Furthermore, spatial working memory was not improved by treatment. Taken together, these findings suggest that memantine may exert beneficial effects on neuroinflammatory processes and behavioral deficits in PD-relevant models. However, its impact on the hallmark neuropathology of PD appears limited.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41197936/"
+    },
+    {
+      "pmid": "30363483",
+      "title": "Memantine and Cognition in Parkinson's Disease Dementia/Dementia With Lewy Bodies: A Meta-Analysis.",
+      "journal": "Movement disorders clinical practice",
+      "year": "2016",
+      "abstract": "The aim of this work was to utilize meta-analysis in examining the effects of memantine on neuropsychological functioning in patients with Parkinson's disease dementia (PDD) and dementia with Lewy bodies (DLB). Included studies fulfilled these criteria: included objective cognitive measures, a comparison group of participants not taking memantine, and provided sufficient data for calculation of effect size. We examined effect sizes across global cognition and five specific neuropsychological domains. Moderator variables examined included neuropsychological domain, diagnostic cohort (PDD, DLB, or mixed PDD-DLB cohort), study design (open label or placebo-controlled), and trial length. Six publications met inclusion criteria totaling 57 effects. Homogeneity analysis across cognitive domains revealed a small overall effect size (<i>d</i> = 0.25) that was significantly heterogeneous (<i>P</i> < 0.001). Specific neuropsychological domains did not moderate effect size, though. Moderator analysis studies using a mix of DLB and PDD subjects showed larger effects than those that included DLB or PDD patients only. Additionally, open-label trials had significantly (<i>P</i> < 0.001) larger effect sizes (<i>d</i> = 1.32) than placebo-controlled trials (<i>d</i> = 0.12). The present study indicates that effect-size heterogeneity across studies of memantine in DLB and PDD patients is moderated by diagnostic makeup of the cohort and study design. The small overall effect size noted in placebo-controlled trials versus open-label trials indicates that memantine has minimal effects on cognition in PDD and DLB and is unlikely to demonstrate clinically significant improvements in cognition.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30363483/"
+    },
+    {
+      "pmid": "41874248",
+      "title": "Drugs for dementia.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2026",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41874248/"
+    },
+    {
+      "pmid": "26085043",
+      "title": "Pharmacological Management of Lewy Body Dementia: A Systematic Review and Meta-Analysis.",
+      "journal": "The American journal of psychiatry",
+      "year": "2015",
+      "abstract": "The authors examined research on effects, costs, and patient and caregiver views of pharmacological management strategies for Lewy body dementia. Studies were identified through bibliographic databases, trials registers, gray literature, reference lists, and experts. The authors used the search terms \"Lewy or parkinson\" and \"dementia\" through March 2015 and used the following inclusion criteria: participants with diagnoses of Lewy body dementia, dementia with Lewy bodies, or Parkinson's disease dementia (or participants' caregivers); investigation of pharmacological management strategies; outcome measures and test scores reported. Data extraction and quality assessment were conducted by at least two authors. Meta-analyses were conducted, and when studies could not be combined, summaries were provided. Forty-four studies examining 22 strategies were included in the review. Meta-analysis indicated beneficial effects of donepezil and rivastigmine for cognitive and psychiatric symptoms. Rivastigmine, but not donepezil, was associated with greater risk of adverse events. Meta-analysis of memantine suggested that it is well tolerated but with few benefits. Descriptive summaries provide some evidence of benefits for galantamine, modafinil, levodopa, rotigotine, clozapine, duloxetine, clonazepam, ramelteon, gabapentin, zonisamide, and yokukansan. Piracetam, amantadine, selegiline, olanzapine, quetiapine, risperidone, and citalopram do not appear to be effective. High-level evidence related to pharmacological strategies for managing Lewy body dementia is rare. Strategies for important areas of need in Lewy body dementia, such as autonomic symptoms and caregiver burden, have not been investigated, nor have the views of patients and caregivers about pharmacological strategies.",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26085043/"
+    },
+    {
+      "pmid": "21461668",
+      "title": "Dementia in Parkinson's disease.",
+      "journal": "Current treatment options in neurology",
+      "year": "2011",
+      "abstract": "Dementia in Parkinson's disease encompasses a spectrum relating to motor, psychiatric, and cognitive symptoms that are classified as either Dementia with Lewy Bodies (DLB) (initial cognitive symptoms) or Parkinson's Disease Dementia (PDD) (initial motor signs preceding cognitive symptoms by at least a year). Anticholinergic and antipsychotic drugs have a high risk of adverse cognitive and/or motor effects, so their use should be minimized or avoided. Neuroleptic sensitivity is a severe psychomotor adverse reaction that is particularly associated with potent dopamine-blocking agents such as haloperidol. It occurs in up to 50% of individuals with PDD or DLB. Mild psychotic symptoms should first be addressed by reducing anticholinergic and/or dopaminergic agents, if possible. Patients with psychotic symptoms that threaten the safety of the patient or caregiver may benefit from treatment with quetiapine or, in refractory cases, clozapine. Cholinesterase inhibitors as a drug class have been shown to have beneficial effects on cognition in DLB and PDD, and may help to alleviate some psychiatric symptoms, such as apathy, anxiety, hallucinations, and delusions. Memantine may help to moderate cognitive symptoms in DLB and PDD, although current data suggest a more variable response, particularly in PDD. Parkinsonian motor signs that are accompanied by clinically significant cognitive impairment should be treated with carbidopa/levodopa only, as dopamine agonists and other antiparkinsonian medications generally carry a higher risk of provoking or exacerbating psychotic symptoms. Excessive daytime sleepiness and REM sleep behavior disorder are common associated features of PDD and DLB. Minimizing sedating medications during the day and promoting nocturnal sleep may help the daytime sleepiness; melatonin, clonazepam, gabapentin, and possibly memantine may be useful in treating REM sleep behavior disorder. Orthostatic hypotension can be managed with various nonpharmacologic interventions, and if needed, fludrocortisone and pyridostigmine. Midodrine should be used cautiously, if at all.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/21461668/"
+    },
+    {
+      "pmid": "30783428",
+      "title": "Cholinesterase inhibitors and memantine for Parkinson's disease dementia and Lewy body dementia: A meta-analysis.",
+      "journal": "Experimental and therapeutic medicine",
+      "year": "2019",
+      "abstract": "Recently, several randomized controlled trials on the use of cholinesterase inhibitors or memantine as treatments for cognitive impairment in Parkinson's disease (CIND-PD), Parkinson's disease with dementia (PDD) and dementia with Lewy bodies (DLB) were completed. The present study provided a meta-analysis of these studies to evaluate the efficacy of cholinesterase inhibitors and memantine on CIND-PD, PDD and DLB. The Cochrane Library, Pubmed, Embase and Web of Science databases were searched to retrieve eligible studies. As primary efficacy outcomes, cognitive function, global impression, behavioral symptoms and motor function were selected, while falling and adverse events were regarded as safety outcomes. Of note, domain-specific cognitive function was assessed as a primary efficacy outcome and falling as a safety outcome, which, to the best of our knowledge, has not been studied previously in CIND-PD, PDD and DLB. A total of 15 trials were included in the present meta-analysis. The results revealed that treatment with cholinesterase inhibitors resulted in improvements in cognitive function, the clinician's global impression, behavioral symptoms and motor function, in accordance with the results of previous studies. Furthermore, it was revealed that cholinesterase inhibitors had a significant effect on attention, processing speed, executive functions, memory and language; however, they did not improve visuospatial cognition compared with placebos. Memantine had a significant effect on attention, processing speed and executive functions. In addition, cholinesterase inhibitors and memantine did not significantly reduce falling. It was demonstrated that an increased number of adverse events occurred in the pooled cholinesterase inhibitors and memantine group, compared with that in the placebo group (risk ratio (RR)=1.09; 95% confidence interval (CI): 1.04-1.16; P=0.001); however, in the subgroup analysis, only the rivastigmine group experienced significantly more adverse events than the placebo group (85 vs. 73%; RR=1.18; 95% CI: 1.08-1.29; P=0.0001), but donepezil and memantine did not produce any significant adverse events. In conclusion, cholinesterase inhibitors and memantine have an effect not only on global cognitive function and motor function, but also on attention, processing speed, executive functions, memory and language. However, careful monitoring of the side effects of rivastigmine may be required. Further clinical trials are required to verify these conclusions.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30783428/"
+    },
+    {
+      "pmid": "26234336",
+      "title": "Memantine and reduced time with dyskinesia in Parkinson's Disease.",
+      "journal": "Acta neurologica Scandinavica",
+      "year": "2016",
+      "abstract": "The partial glutamate antagonist amantadine is currently used in clinical practice, to reduce dyskinesia developing as a side-effect of levodopa treatment in patients suffering from Parkinson's disease (PD). This study was aimed at evaluating the antidyskinetic effect of another glutamate antagonist, memantine. We performed a randomized, double-blind and placebo-controlled crossover clinical trial of memantine (20 mg), with a 3-week treatment period, and 15 patients completed the study. The primary outcome measure, a change in observed dyskinesia ratings, did not reach significance. Seven of the 15 patients reduced the L-dopa-induced dyskinesias by 32%, whereas for three patients, they increased by 33%, and for five patients, they did not change. Data from the self-administered diaries, as a secondary outcome measure, did show a significant 35% reduction in the percentage of time of the day spent with dyskinesia, from 25% (placebo) to 16% (memantine). Memantine was well tolerated, without any serious adverse events, or worsening in the parkinsonian motor score. The results suggest that memantine may be a useful antidyskinetic drug, and a larger clinical study is warranted.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26234336/"
+    },
+    {
+      "pmid": "24464490",
+      "title": "Treatment of psychosis and dementia in Parkinson's disease.",
+      "journal": "Current treatment options in neurology",
+      "year": "2014",
+      "abstract": "Parkinson's disease (PD) has been increasingly recognized as having a multitude of nonmotor symptoms including psychosis, cognitive impairment and dementia, mood disturbances, fatigue, apathy, and sleep disorders. Psychosis and dementia, in particular, greatly affect quality of life for both patients and caregivers and are associated with poor outcomes. Safe and effective treatment options for psychosis and dementia in PD are much needed. Antipsychotics with dopamine-blocking properties can worsen parkinsonian motor features and have been associated with increased morbidity and mortality in elderly, dementia patients. For treating PD psychosis, a first step would be eliminating confounding variables, such as delirium, infections, or toxic-metabolic imbalances, followed by simplifying parkinsonian medications as tolerated. If additional treatment is warranted after such interventions, clozapine or quetiapine can be implemented at the low dose levels typically needed by PD patients. Although quetiapine is easy-to-use in clinical settings, does not require blood count monitoring like clozapine, and is anecdotally beneficial, it remains \"investigational\" in evidence-based medicine reviews. Though not currently available, the novel 5-HT2a inverse agonist, pimavanserin has shown promise in the treatment of PD psychosis. Current treatments for PD dementia are mostly derived from those utilized in Alzheimer's disease, focusing mainly on cholinesterase inhibitors and memantine, a NMDA receptor antagonist. Rivastigmine, the only Food and Drug Administration approved medication for PD dementia, is a reasonable first choice. Other cholinesterase inhibitors and memantine have not yet achieved recommendation status in evidence-based medicine reviews but are well tolerated in studies of PD dementia patients. At present, there are no approved treatments for mild cognitive impairment in PD, but rasagiline, a selective MAO-B inhibitor, and atomoxetine, a serotonin norepinephrine reuptake inhibitor, have been recently studied. Nonpharmacological interventions, including cognitive therapy, physical activity, music and art therapy, and noninvasive brain stimulation techniques, may be promising options for PD cognitive impairment but await rigorous study.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24464490/"
+    },
+    {
+      "pmid": "24737460",
+      "title": "Memantine improves attention and episodic memory in Parkinson's disease dementia and dementia with Lewy bodies.",
+      "journal": "International journal of geriatric psychiatry",
+      "year": "2015",
+      "abstract": "In both dementia with Lewy bodies (DLB) and Parkinson's disease dementia (PDD), attentional dysfunction is a core clinical feature together with disrupted episodic memory. This study evaluated the cognitive effects of memantine in DLB and PDD using automated tests of attention and episodic memory. A randomised double-blind, placebo-controlled, 24-week three centre trial of memantine (20\u2009mg/day) was conducted in which tests of attention (simple and choice reaction time) and word recognition (immediate and delayed) from the CDR System were administered prior to dosing and again at 12 and 24\u2009weeks. Although other results from this study have been published, the data from the CDR System tests were not included and are presented here for the first time. Data were available for 51 patients (21 DLB and 30 PDD). In both populations, memantine produced statistically significant medium to large effect sized improvements to choice reaction time, immediate and delayed word recognition. These are the first substantial improvements on cognitive tests of attention and episodic recognition memory identified with memantine in either DLB or PDD.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24737460/"
+    },
+    {
+      "pmid": "39944527",
+      "title": "Clinical Practice Guidelines for Dementia: Recommendations for Cholinesterase Inhibitors and Memantine.",
+      "journal": "Dementia and neurocognitive disorders",
+      "year": "2025",
+      "abstract": "This clinical practice guideline provides evidence-based recommendations for treatment of dementia, focusing on cholinesterase inhibitors and N-methyl-D-aspartate (NMDA) receptor antagonists for Alzheimer's disease (AD) and other types of dementia. Using the Population, Intervention, Comparison, Outcomes (PICO) framework, we developed key clinical questions and conducted systematic literature reviews. A multidisciplinary panel of experts, organized by the Korean Dementia Association, evaluated randomized controlled trials and observational studies. Recommendations were graded for evidence quality and strength using Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) methodology. Three main recommendations are presented: (1) For AD, cholinesterase inhibitors (donepezil, rivastigmine, galantamine) are strongly recommended for improving cognition and daily function based on moderate evidence; (2) Cholinesterase inhibitors are conditionally recommended for vascular dementia and Parkinson's disease dementia, with a strong recommendation for Lewy body dementia; (3) For moderate to severe AD, NMDA receptor antagonist (memantine) is strongly recommended, demonstrating significant cognitive and functional improvements. Both drug classes showed favorable safety profiles with manageable side effects. This guideline offers standardized, evidence-based pharmacologic recommendations for dementia management, with specific guidance on cholinesterase inhibitors and NMDA receptor antagonists. It aims to support clinical decision-making and improve patient outcomes in dementia care. Further updates will address emerging treatments, including amyloid-targeting therapies, to reflect advances in dementia management.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39944527/"
+    },
+    {
+      "pmid": "40761830",
+      "title": "Efficacy of cholinesterase inhibitors and memantine on symptoms not responsive to levodopa in patients affected by Parkinson's disease without dementia: a systematic review.",
+      "journal": "BMJ neurology open",
+      "year": "2025",
+      "abstract": "Parkinson's disease (PD) is primarily characterised by parkinsonism due to nigro-striatal dopaminergic denervation. While therapeutic strategies have traditionally focused on compensating for dopaminergic deficit, growing evidence reveals an involvement of cholinergic and glutamatergic pathways in the pathogenesis of the motor and non-motor manifestations of the disease. The purpose of this review is to provide an overview of the efficacy of cholinesterase inhibitors (ChIs) and memantine (glutamate receptor antagonist) in patients affected by PD without dementia on motor (gait, balance) and non-motor (cognitive, behavioural, sleep and autonomic) symptoms usually poorly responsive to levodopa. A systematic review of randomised controlled trials (RCTs) was conducted. The search was performed on PubMed, Cochrane Library and Embase databases for articles published between January 1996 and October 2024, using predefined inclusion and exclusion criteria. Risk of bias was assessed with the Cochrane Risk of Bias tool. Results are presented narratively. 12 RCTs were included in this review, with 10 (774 patients) focusing on ChIs and 2 (65 patients) on memantine. Some studies highlighted the beneficial effects of ChI on mild cognitive impairment and suggested potential improvements in apathy and gait disturbances. However, the findings regarding the impact of ChI and memantine on other non-motor symptoms were inconsistent. Available RCTs suggest that ChIs may have a valuable role in managing cognitive impairment, apathy and gait disorders in PD patients without dementia. However, due to the lack of strong evidence, a cautious and individualised approach is advisable when considering these treatments.Cite Now.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40761830/"
+    }
+  ]
+}

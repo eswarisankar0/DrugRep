@@ -1,0 +1,66 @@
+{
+  "drug_name": "Fenoldopam",
+  "disease_name": "Parkinson",
+  "n_abstracts": 5,
+  "abstracts": [
+    {
+      "pmid": "29281938",
+      "title": "Pharmacophore-based virtual screening of catechol-o-methyltransferase (COMT) inhibitors to combat Alzheimer's disease.",
+      "journal": "Journal of biomolecular structure & dynamics",
+      "year": "2018",
+      "abstract": "Alzheimer's disease (AD) is one of the most significant neurodegenerative disorders and its symptoms mostly appear in aged people. Catechol-o-methyltransferase (COMT) is one of the known target enzymes responsible for AD. With the use of 23 known inhibitors of COMT, a query has been generated and validated by screening against the database of 1500 decoys to obtain the GH score and enrichment value. The crucial features of the known inhibitors were evaluated by the online ZINC Pharmer to identify new leads from a ZINC database. Five hundred hits were retrieved from ZINC Pharmer and by ADMET (absorption, distribution, metabolism, excretion, and toxicity) filtering by using FAF-Drug-3 and 36 molecules were considered for molecular docking. From the COMT inhibitors, opicapone, fenoldopam, and quercetin were selected, while ZINC63625100_413 ZINC39411941_412, ZINC63234426_254, ZINC63637968_451, and ZINC64019452_303 were chosen for the molecular dynamics simulation analysis having high binding affinity and structural recognition. This study identified the potential COMT inhibitors through pharmacophore-based inhibitor screening leading to a more complete understanding of molecular-level interactions.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29281938/"
+    },
+    {
+      "pmid": "10099036",
+      "title": "Dopamine: pharmacologic and therapeutic aspects.",
+      "journal": "American journal of therapeutics",
+      "year": "1998",
+      "abstract": "Dopamine is a biogenic amine synthesized in the hypothalamus, in the arcuate nucleus, the caudad, and various areas of the central and peripheral nervous system. It has been widely established that dopamine and its agonists play an important role in cardiovascular, renal, hormonal, and central nervous system regulation through stimulation of alpha and beta adrenergic and dopaminergic receptors. There are several agonists of dopamine-2 (DA 2 ) dopaminergic receptors, such as bromocriptine, pergolide, lisuride, quinpirole, and carmoxirole, which inhibit norepinephrine release and produce a decrease in arterial blood pressure; in some cases, bromocriptine and pergolide also reduce heart rate. From a therapeutic point of view, the above-mentioned agonists are used for treating Parkinson's disease, acting over DA 2 dopaminergic receptors of the nigrostriatal system. Bromocriptine and the other dopaminergic agonists mentioned act over DA 2 receptors of the tuberoinfundibular system, inhibiting prolactin release and decreasing hyperprolactinemia and tumor size. Among DA 1 receptor agonists, we can mention fenoldopam, piribedil, ibopamine, SKF 3893, and apomorphine (nonspecific). Activation of these receptors decreases peripheral resistance, inducing lowering of arterial blood pressure and increases in heart rate, sympathetic tone, and activity of the renin aldosterone system. Among DA 2 receptor antagonists, we can mention metoclopramide, domperidone, sulpiride, and haloperidol. From a therapeutic point of view, metoclopramide and domperidone are used in gastric motility disorders, and haloperidol is used in psychotic alterations. Antagonists of DA 1 receptors are SCH23390 and clozapine. Clozapine is used for treating schizophrenia.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10099036/"
+    },
+    {
+      "pmid": "18210231",
+      "title": "Pharmacological analysis of human D1 AND D2 dopamine receptor missense variants.",
+      "journal": "Journal of molecular neuroscience : MN",
+      "year": "2008",
+      "abstract": "Drugs targeting dopamine receptors have been the focus of much research over the past 30 years, in large part because of their role in treating multiple pathological conditions including Parkinson's disease, schizophrenia, Tourette's syndrome, and hyperprolactinemia. Missense mutations in G protein-coupled receptors (GPCRs) can alter basal and/or ligand-induced signaling, which in turn can affect individuals' susceptibility to disease and/or response to therapeutics. To date, five coding variants in the human D1 receptor (hD1R; T37P, T37R, R50S, S199A, and A229T) and three in the human D2 receptor (hD2R; P310S, S311C, and T351A) have been reported in the NCBI single nucleotide polymorphism database. We utilized site-directed mutagenesis to generate cDNAs encoding these receptor isoforms. After expression in either HEK293 or neuronal GT1 cells, basal and ligand-induced signaling of each of these receptors was determined and compared to wild type. In addition, we investigated expression levels of each recombinant receptor and the effect of inverse agonist administration. Our data demonstrate that naturally occurring amino acid substitutions in the hD1R can lead to alterations in expression levels as well as in basal and ligand-induced signaling. The potency and efficacy of dopamine, synthetic agonists (i.e., fenoldopam, SKF-38393, SKF-82958, and SCH23390), and inverse agonists [i.e., flupenthixol and (+)butaclamol] were reduced at selected hD1R variants. Furthermore, inverse agonist induced effects on expression levels were sensitive to selected amino acid substitutions. In contrast to the hD1R variants, hD2R polymorphisms did not affect ligand function or receptor expression. The observation that the hD1R mutations induce significant alterations in pharmacologic properties may have implications both for disease susceptibility and/or therapeutic response to dopaminergic ligands.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/18210231/"
+    },
+    {
+      "pmid": "16575553",
+      "title": "Effects of dopamine D1 receptor agonists in rats trained to discriminate dihydrexidine.",
+      "journal": "Psychopharmacology",
+      "year": "2006",
+      "abstract": "The full D1 receptor agonist dihydrexidine (DHX) [(+/-)-trans-10,11-dihydroxy-5,6,6a,7,8,12b-hexahydrobenzo[a]phenanthridine hydrochloride] is under clinical development (DAR-100) for Parkinson's disease and schizophrenia. Despite the clinical development of DHX, very little is known about its discriminative stimulus properties in rats. To more fully characterize the discriminative stimulus properties of DHX, we trained rats to discriminate DHX (3 mg/kg, i.p.) from vehicle. Substitution tests in rats discriminating DHX (3 mg/kg, i.p.) from vehicle were performed with structurally distinct D1 receptor agonists with both partial and full intrinsic efficacy. In addition, the peripherally restricted D1 agonist, fenoldopam, was evaluated. SKF 75670A, ABT-431, dinapsoline, SKF 81297, and SKF 82958 all fully substituted in a dose-dependent manner. The rank order of potency for substitution was SKF 82958<ABT-431<SKF 75670A<or=dinapsoline<SKF 81297<DHX. Fenoldopam (10 and 30 mg/kg) did not substitute and was without effect on rates of responding. DHX produces prominent dopamine D1 receptor agonist effects in vivo and is likely to produce subjective effects in humans similar to other D1 receptor agonists.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/16575553/"
+    },
+    {
+      "pmid": "7825125",
+      "title": "Intracellularly recorded response of rat striatal neurons in vitro to fenoldopam and SKF 38393 following lesions of midbrain dopamine cells.",
+      "journal": "Synapse (New York, N.Y.)",
+      "year": "1994",
+      "abstract": "The effect of long-term (6-19 weeks) 6-hydroxydopamine-induced (6-OHDA) lesions of midbrain dopamine cells on dopamine D1-like agonist-induced changes in the excitability of rat striatal neurons was investigated in vitro using tissue slices and intracellular recording techniques. Fenoldopam and (+/-)-SKF 38393 predominantly decreased excitability in control preparations including striatal neurons located contralateral to 6-OHDA injection sites and neurons obtained from rats receiving sham injections or no treatment. Fenoldopam also inhibited neurons ipsilateral to lesions of midbrain dopamine cells. (+/-)-SKF 38393, unlike fenoldopam, produced predominantly increases in the excitability of ipsilateral striatal neurons. Superfusion of the D1 receptor antagonist, SCH 23390, blocked fenoldopam-induced decreases in excitability but not the (+/-)-SKF 38393-induced excitation of neurons ipsilateral to the lesion. Sequential application of fenoldopam and quinpirole, a D2/D3 receptor agonist, produced responses to both drugs in a majority of neurons. The results demonstrate that inhibitory responses to fenoldopam are mediated by D1 receptors, while excitatory effects of (+/-)-SKF 38393 in the striatum ipsilateral to the lesion are apparently not dependent on D1 receptor activation. These findings also suggest that dopamine D1 and D2/D3 receptors are able to concurrently influence the excitability of striatal neurons in the dopamine deafferentated striatum. Similar regulation of striatal neurons in vivo may contribute to dopaminergic regulation of basal ganglia output and the ability of dopaminomimetic agents to ameliorate symptoms of dopaminergic deficiency in Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/7825125/"
+    }
+  ]
+}

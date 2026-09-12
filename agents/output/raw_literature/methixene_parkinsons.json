@@ -1,0 +1,82 @@
+{
+  "drug_name": "Methixene",
+  "disease_name": "Parkinson",
+  "n_abstracts": 6,
+  "abstracts": [
+    {
+      "pmid": "3123600",
+      "title": "Therapeutic efficacy of R-(-)-deprenyl as adjuvant therapy in advanced parkinsonism.",
+      "journal": "Journal of neural transmission. Supplementum",
+      "year": "1987",
+      "abstract": "To quantify the clinical benefit of an additional deprenyl administration in L-dopa pretreated patients we have performed a study of 30 patients suffering from advanced parkinsonism. During the first phase of the study over three months under controlled conditions deprenyl showed in a cross-over design a similar therapeutic potential as the control-substance methixene, but it was markedly better tolerated. The therapeutic effect persisted over a follow-up observation period of 1 year with only a slight tendency to deterioration. There was no marked positive influence on fluctuations, only end-of-dose akinesia improved slightly. The substance was well tolerated by the patients, the frequency of side effects was less than under methixene. In contrast to the good clinical improvement there was only a slight reduction in depression score. Thus the therapeutic effect seems not only to be mediated by a nonspecific antidepressant effect. The most remarkable advantage of deprenyl compared to other substances in adjuvant therapy of advanced parkinsonism is probably the reduction of serious side effects.",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/3123600/"
+    },
+    {
+      "pmid": "5330346",
+      "title": "Therapeutic action of methixene hydrochloride on Parkinsonian tremor and a description of a new tremor-recording transducer.",
+      "journal": "British journal of pharmacology and chemotherapy",
+      "year": "1966",
+      "abstract": "",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/5330346/"
+    },
+    {
+      "pmid": "6888239",
+      "title": "[The treatment of Parkinson tremors and forms of extrapyramidal tremors with methixene. A multicenter study].",
+      "journal": "Die Medizinische Welt",
+      "year": "1983",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/6888239/"
+    },
+    {
+      "pmid": "5340692",
+      "title": "A clinical evaluation of chlorphenoxamine with caffeine in the treatment of Parkinson's disease, including a comparison with methixene.",
+      "journal": "The Journal of clinical pharmacology and the journal of new drugs",
+      "year": "1967",
+      "abstract": "",
+      "publication_types": [
+        "Clinical Trial",
+        "Comparative Study",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/5340692/"
+    },
+    {
+      "pmid": "5570695",
+      "title": "Neutralization of extrapyramidal side-effects with Methixene.",
+      "journal": "Diseases of the nervous system",
+      "year": "1971",
+      "abstract": "",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/5570695/"
+    },
+    {
+      "pmid": "5394922",
+      "title": "[Treatment of disturbances of extrapyramidal system with methixene hydrochloride].",
+      "journal": "No to shinkei = Brain and nerve",
+      "year": "1969",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/5394922/"
+    }
+  ]
+}

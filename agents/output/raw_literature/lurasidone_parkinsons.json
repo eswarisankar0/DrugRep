@@ -1,0 +1,99 @@
+{
+  "drug_name": "Lurasidone",
+  "disease_name": "Parkinson",
+  "n_abstracts": 8,
+  "abstracts": [
+    {
+      "pmid": "32099480",
+      "title": "Use of Atypical Antipsychotics in Long-Term Care Residents with Parkinson's Disease and Comorbid Depression.",
+      "journal": "Drug, healthcare and patient safety",
+      "year": "2020",
+      "abstract": "According to the 2015 American Geriatrics Society (AGS) Beers criteria, most antipsychotics are inappropriate in Parkinson's disease (PD) patients due to the risk of worsening Parkinsonian symptoms. This study examined the incidence and predictors of inappropriate antipsychotic use among long-term care residents with PD and comorbid depression. This retrospective cohort study utilized 2007-2009 Minimum Data Set (MDS) linked to Chronic Condition Warehouse (CCW) Medicare data files involving patients with PD and comorbid depression. Using a 12-month baseline and a 24-month follow-up, the study examined incidence of inappropriate atypical antipsychotics, namely asenapine, brexpiprazole, iloperidone, lurasidone, olanzapine, paliperidone, risperidone, or ziprasidone as specified in the 2015 AGS Beers criteria. Appropriate atypical antipsychotic included aripiprazole, clozapine, or quetiapine. Multivariable logistic regression was used to examine various sociodemographic and clinical factors associated with inappropriate antipsychotic use in PD based on the Andersen Behavioral Model. The incidence of atypical antipsychotic use was 17.50% (13,352/76,294) among PD patients over a 2-year follow-up. The percentage of inappropriate use among atypical antipsychotic users was 36.32%. The likelihood of inappropriate antipsychotic use was higher for patients who had dementia (OR=1.22, 95% CI: 1.12-1.33) or Chronic Obstructive Pulmonary Disease ((OR=1.13, 95% CI: 1.03-1.24). However, patients who were taking levodopa (OR=0.62, 95% CI: 0.57-0.67), dopamine agonists (OR=0.90, 95% CI: 0.82-0.98), Catechol-O-methyltransferase (COMT) inhibitors (OR=0.77, 95% CI: 0.68-0.86), Monoamine Oxidase (MAO) inhibitors type B (OR=0.72, 95% CI: 0.60-0.86), or amantadine (OR=0.84, 95% CI: 0.71-0.98) were less likely to receive inappropriate antipsychotics. More than one-third of PD patients used inappropriate antipsychotics among those who were treated with atypical antipsychotic medications. Various socio-demographics and clinical factors were associated with inappropriate antipsychotic use in older patients with PD. Concerted efforts are needed to reduce inappropriate atypical antipsychotic use among PD patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32099480/"
+    },
+    {
+      "pmid": "40419159",
+      "title": "Investigation into neuroleptic malignant syndrome triggered by atypical antipsychotics: Insights from FDA adverse event reporting system database.",
+      "journal": "Journal of affective disorders",
+      "year": "2025",
+      "abstract": "Neuroleptic malignant syndrome (NMS) is a rare but potentially life-threatening reaction associated with dopamine antagonists, particularly typical antipsychotics. Despite the relatively low incidence of NMS linked to atypical antipsychotics (AAPs), there is a notable lack of extensive real-world studies investigating this condition. This study utilizes data from the FDA Adverse Event Reporting System (FAERS) from 2004 to 2024, employing disproportionality analysis to explore the association between fourteen commonly prescribed AAPs and NMS. Multivariate logistic regression was conducted to identify risk factors for mortality related to NMS. We analyzed 79,980 primary suspected adverse drug event (ADE) reports for NMS, revealing a slight male predominance and a median age of 48\u00a0years (Interquartile Range [IQR]: 31-64). Patients were primarily located in Europe and the United States. Ziprasidone exhibited the strongest pharmacovigilance signal (Reporting Odds Ratio [ROR]\u00a0=\u00a03.09; 95\u00a0% confidence interval [CI]: 2.97-3.21), while lurasidone showed the lowest signal strength (ROR\u00a0=\u00a01.58; 95\u00a0% CI: 1.52-1.65). The median time to onset of NMS was 42\u00a0days (IQR: 9-328.25). Significant mortality risk factors included age\u00a0\u2265\u00a065\u00a0years (Odds Ratio [OR]\u00a0=\u00a04.45; 95\u00a0% CI: 3.33-5.95), Parkinson's disease (OR\u00a0=\u00a032.69; 95\u00a0% CI: 14.75-72.46), and malignant hyperthermia (OR\u00a0=\u00a025.23; 95\u00a0% CI: 8.62-73.83), with an area under the curve (AUC) of 0.877. This study provides vital pharmacovigilance insights regarding NMS related to AAPs, enhancing the understanding of its clinical implications.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40419159/"
+    },
+    {
+      "pmid": "38312440",
+      "title": "Serotonin syndrome and neuroleptic malignant syndrome: A case report of intersecting symptomatology.",
+      "journal": "The mental health clinician",
+      "year": "2024",
+      "abstract": "Serotonin syndrome and neuroleptic malignant syndrome are caused by 2 distinct pathologies; however, the clinical presentation associated with both syndromes share many features. We describe a 56-year-old male patient who presented to our facility with seizures, leukocytosis, fevers, extremity hyperreflexia, and signs of autonomic dysfunction as evidenced by cardiovascular instability. The patient was noted to be taking vortioxetine, trazodone, lamotrigine, lurasidone, and carbidopa-levodopa as outpatient medications for his depression, an unspecified mood disorder, and Parkinson disease. Following a robust workup and failure of other therapies, all serotonergic and dopaminergic medications were held, and the patient was tried on cyproheptadine for serotonin syndrome, which led to the cessation of fevers. Bromocriptine was added to the regimen, which led to the resolution of the remainder of the patient's symptoms. The overlapping symptomatology of several key diagnostic criteria for both serotonin syndrome and neuroleptic malignant syndrome as well as their nature as diagnoses of exclusion require an evaluation of the patient's aggregate improvement following targeted pharmacologic strategies for both syndromes. The efficacy of both cyproheptadine and bromocriptine when administered concomitantly support the concurrent pathologies. Clinicians at the bedside must be cognizant of the potential for clinically relevant drug-drug interactions that may present with overlapping pathologies.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38312440/"
+    },
+    {
+      "pmid": "31377483",
+      "title": "Risk of pneumonia associated with atypical antipsychotic use in nursing home residents with Parkinson's disease.",
+      "journal": "Journal of psychiatric research",
+      "year": "2019",
+      "abstract": "According to the American Geriatrics Society (AGS) Beers criteria, most atypical antipsychotic (AAPs) are inappropriate in patients with Parkinson's disease (PD) due to the risk of worsening Parkinsonian symptoms. This study evaluated the risk of pneumonia associated with inappropriate AAP use in elderly nursing home residents with PD. The study population encompassed older adults aged 65 years or older with a diagnosis of PD and with comorbid depression who started the AAP medication. Appropriate AAPs were defined as aripiprazole, clozapine or quetiapine according to 2015 Beers criteria, and inappropriate AAPs included olanzapine, asenapine, brexpiprazole, iloperidone, lurasidone, paliperidone, risperidone, or ziprasidone. Cox regression analyses involved propensity score-matched users of inappropriate and appropriate AAPs to examine the association between AAP use and risk of pneumonia. The mean age of patients in propensity-matched cohort (n\u202f=\u202f12,076) was 82.15 years (SD\u202f=\u202f6.97). The pneumonia incidence rates were 37.19 and 45.92 per person-year in appropriate and inappropriate AAP groups, respectively. Multivariable Cox regression analyses revealed increased risk of pneumonia [Hazard Ratio (HR) 1.20 (1.08-1.34)] for nursing home residents who were taking inappropriate compared to those taking appropriate AAP. In sensitivity analyses, the pneumonia risk was 1.28 (1.12-1.47) for risperidone vs. quetiapine and 1.29 (1.06-1.57) for olanzapine vs. quetiapine. The risk of pneumonia was significantly higher for patients with PD who used inappropriate AAP in comparison to appropriate AAP group in all analyses. This investigation warrants further attention regarding safety of atypical antipsychotics in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31377483/"
+    },
+    {
+      "pmid": "32147383",
+      "title": "Risk of Mortality Associated With Atypical Antipsychotic use: A National Cohort Study of Older Adults With Depression and Parkinson's Disease.",
+      "journal": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry",
+      "year": "2020",
+      "abstract": "This study examined the risk of all-cause-mortality in patients with Parkinson's Disease (PD) and comorbid depression using inappropriate atypical antipsychotics (AAPs), based on the 2015 American Geriatrics Society Beers criteria. A retrospective analysis of 2007-2010 Minimum Data Set linked Medicare data was conducted using a propensity-matched approach. The cohort included PD patients aged 65 years or older without schizophrenia or bipolar disorder who started AAPs. All patients had a diagnosis of comorbid depression. Risk of 6-month all-cause-mortality was compared across appropriate AAPs (aripiprazole, clozapine, or quetiapine) and inappropriate AAPs (olanzapine, asenapine, brexpiprazole, iloperidone, lurasidone, paliperidone, risperidone, or ziprasidone) using robust Cox regression models involving the matched cohort. All-cause mortality rate was 15.65% in appropriate AAP group (n\u202f=\u202f6,038) and 16.91% in inappropriate AAP group (n\u202f=\u202f6,038) over 6-month follow-up in the matched cohort. The robust Cox proportional hazards models revealed increased risk of all-cause mortality (hazard ratio [HR] 1.13 [95% confidence interval {CI}: 1.01-1.28)] for patients who used inappropriate compared to appropriate AAPs. Risk of death was also higher for risperidone compared to quetiapine (HR: 1.20 [95% CI: 1.03-1.40]) in sensitivity analysis. However, there was a significant relationship between pneumonia and death in all analyses. The impact of inappropriate AAP use on mortality was not significant when pneumonia was modeled as a mediator. Inappropriate AAP use is associated with a higher risk of all-cause-mortality in older patients with PD which is mainly mediated by pneumonia. Therefore, inappropriate AAP use should be avoided to improve quality of care in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32147383/"
+    },
+    {
+      "pmid": "38682215",
+      "title": "Clearing the Fog: A Review of Antipsychotics for Parkinson's-Related Hallucinations: A Focus on Pimavanserin, Quetiapine and Clozapine.",
+      "journal": "Journal of integrative neuroscience",
+      "year": "2024",
+      "abstract": "Parkinson's disease is a progressive neurodegenerative disorder characterized by motor and non-motor symptoms, including hallucinations. The use of antipsychotic medications is a common strategy to manage hallucinations associated with Parkinson's disease psychosis (PDP). However, careful consideration is necessary when selecting the most appropriate drug due to the potential risks associated with the available treatment options. Atypical antipsychotics (AAPs), such as Pimavanserin and Clozapine, have effectively controlled PDP symptoms. On the contrary, the support for utilizing quetiapine is not as substantial as other antipsychotics because research studies specifically investigating its application are still emerging and relatively recent. The broad mechanisms of action of AAPs, involving dopamine and serotonin receptors, provide improved outcomes and fewer side effects than typical antipsychotics. Conversely, other antipsychotics, including risperidone, olanzapine, aripiprazole, ziprasidone, and lurasidone, have been found to worsen motor symptoms and are generally not recommended for PDP. While AAPs offer favorable benefits, they are associated with specific adverse effects. Extrapyramidal symptoms, somnolence, hypotension, constipation, and cognitive impairment are commonly observed with AAP use. Clozapine, in particular, carries a risk of agranulocytosis, necessitating close monitoring of blood counts. Pimavanserin, a selective serotonin inverse agonist, avoids receptor-related side effects but has been linked to corrected QT (QTc) interval prolongation, while quetiapine has been reported to be associated with an increased risk of mortality. This review aims to analyze the benefits, risks, and mechanisms of action of antipsychotic medications to assist clinicians in making informed decisions and enhance patient care.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38682215/"
+    },
+    {
+      "pmid": "22507762",
+      "title": "Psychotropic drug effects on gene transcriptomics relevant to Parkinson's disease.",
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "year": "2012",
+      "abstract": "Psychotropic drugs are widely prescribed in Parkinson's disease (PD) without regard to their pathobiological effects, and these drugs affect the transcription of a large number of genes. Effects of these drugs on PD risk gene transcription were therefore surveyed. Results summarize a comprehensive survey of psychotropic effects on messenger ribonucleic acid (mRNA) expression evident in published data for 70 genes linked to PD risk. Psychotropic drugs can meaningfully affect PD risk gene mRNA transcription, including antipsychotics (upregulate dopamine receptors D2 and D3 (DRD2, DRD3); downregulate low-density lipoprotein receptor-related protein 8 (LRP8), ubiquitin carboxyl-terminal esterase L1 (UCHL1, also known as PARK5)), haloperidol (upregulates DRD3, parkin (PRKN, also known as PARK2), DRD2; downregulates brain-derived neurotrophic factor (BDNF)), risperidone (upregulates monoamine oxidase B (MAOB), DRD2), olanzapine (upregulates transmembrane protein 163 (TMEM163), BDNF, glutathione S-transferase mu 1 (GSTM1), MAOB, DRD2, solute carrier organic anion transporter family, member 3A1 (SLCO3A1)), aripiprazole (upregulates DRD2), quetiapine, paliperidone, lurasidone, carbamazepine, and many antidepressants (upregulate BDNF), lithium and bupropion (downregulate BDNF), amitriptyline (upregulates DRD3, DRD2), imipramine (upregulates BDNF, DRD3, DRD2), desipramine (upregulates BDNF, DRD3), and fluoxetine (upregulates acid beta-glucosidase (GBA), coiled-coil domain containing 62 (CCDC62), BDNF, DRD3, UCHL1, unc-13 homolog B (UNC13B), and perhaps huntingtin interacting protein 1 related (HIP1R); downregulates microtubule-associated protein tau (MAPT), methylcrotonoyl-coenzyme A carboxylase I (MCCC1), GSTM1, 28kDa calbindin 1 (CALB1)). Fluoxetine effects on BDNF and UCHL1 in GEO Profiles were statistically robust. This report provides an initial summary and framework to understand the potential impact of psychotropic drugs on PD-relevant genes. Antipsychotics and serotoninergic antidepressants may potentially attenuate PD risk, and lithium and bupropion may augment risk, through MAPT, GBA, CCDC62, HIP1R, BDNF, and DRD2 transcription, with MAPT, GBA, and CCDC62 being strongly associated with PD risk in recent meta-analyses. Limitations of these findings and a research agenda to better relate them to the nigrostriatum and PD are discussed.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22507762/"
+    },
+    {
+      "pmid": "29670547",
+      "title": "Medications Used for Cognitive Enhancement in Patients With Schizophrenia, Bipolar Disorder, Alzheimer's Disease, and Parkinson's Disease.",
+      "journal": "Frontiers in psychiatry",
+      "year": "2018",
+      "abstract": "Cognitive impairment, which frequently occurs in patients with schizophrenia, bipolar disorder, Alzheimer's disease, and Parkinson's disease, has a significant impact on the daily lives of both patients and their family. Furthermore, since the medications used for cognitive enhancement have limited efficacy, the issue of cognitive enhancement still remains a clinically unsolved challenge. We reviewed the clinical studies (published between 2007 and 2017) that focused on the efficacy of medications used for enhancing cognition in patients with schizophrenia, bipolar disorder, Alzheimer's disease, and Parkinson's disease. Acetylcholinesterase inhibitors and memantine are the standard treatments for Alzheimer's disease and Parkinson's disease. Some studies have reported selective cognitive improvement in patients with schizophrenia following galantamine treatment. Newer antipsychotics, including paliperidone, lurasidone, aripiprazole, ziprasidone, and BL-1020, have also been reported to exert cognitive benefits in patients with schizophrenia. Dopaminergic medications were found to improve language function in patients with Parkinson's disease. However, no beneficial effects on cognitive function were observed with dopamine agonists in patients with schizophrenia. The efficacies of nicotine and its receptor modulators in cognitive improvement remain controversial, with the majority of studies showing that varenicline significantly improved the cognitive function in schizophrenic patients. Several studies have reported that <i>N</i>-methyl-d-aspartate glutamate receptor (NMDAR) enhancers improved the cognitive function in patients with chronic schizophrenia. NMDAR enhancers might also have cognitive benefits in patients with Alzheimer's disease or Parkinson's disease. Raloxifene, a selective estrogen receptor modulator, has also been demonstrated to have beneficial effects on attention, processing speed, and memory in female patients with schizophrenia. Clinical trials with larger sample sizes evaluating comprehensive cognitive domains are warranted to examine the efficacy of medications in cognitive enhancement in patients with schizophrenia, bipolar disorder, Alzheimer's disease, and Parkinson's disease.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29670547/"
+    }
+  ]
+}

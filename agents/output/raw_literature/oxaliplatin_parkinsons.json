@@ -1,0 +1,63 @@
+{
+  "drug_name": "Oxaliplatin",
+  "disease_name": "Parkinson",
+  "n_abstracts": 5,
+  "abstracts": [
+    {
+      "pmid": "35563213",
+      "title": "New Panx-1 Blockers: Synthesis, Biological Evaluation and Molecular Dynamic Studies.",
+      "journal": "International journal of molecular sciences",
+      "year": "2022",
+      "abstract": "The channel protein Panx-1 is involved in some pathologies, such as epilepsy, ischemic stroke, cancer and Parkinson's disease, as well as in neuropathic pain. These observations make Panx-1 an interesting biological target. We previously published some potent indole derivatives as Panx-1 blockers, and as continuation of the research in this field we report here the studies on additional chemical scaffolds, naphthalene and pyrazole, appropriately substituted with those functions that gave the best results as in our indole series (sulphonamide functions and one/two carboxylic groups) and in Panx-1 blockers reported in the literature (sulphonic acid). Compounds <b>4</b> and <b>13</b>, the latter being an analogue of the drug Probenecid, are the most potent Panx-1 blockers obtained in this study, with I = 97% and I = 93.7% at 50 \u00b5M, respectively. Both compounds, tested in a mouse model of oxaliplatin-induced neuropathic pain, showed a similar anti-hypersensitivity profile and are able to significantly increase the mouse pain threshold 45 min after the injection of the doses of 1 nmol and 3 nmol. Finally, the molecular dynamic studies and the PCA analysis have made it possible to identify a discriminating factor able to separate active compounds from inactive ones.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35563213/"
+    },
+    {
+      "pmid": "30657060",
+      "title": "Preventive action of benztropine on platinum-induced peripheral neuropathies and tumor growth.",
+      "journal": "Acta neuropathologica communications",
+      "year": "2019",
+      "abstract": "The endogenous cholinergic system plays a key role in neuronal cells, by suppressing neurite outgrowth and myelination and, in some cancer cells, favoring tumor growth. Platinum compounds are widely used as part of first line conventional cancer chemotherapy; their efficacy is however limited by peripheral neuropathy as a major side-effect. In a multiple sclerosis mouse model, benztropine, that also acts as an anti-histamine and a dopamine re-uptake inhibitor, induced the differentiation of oligodendrocytes through M1 and M3 muscarinic receptors and enhanced re-myelination. We have evaluated whether benztropine can increase anti-tumoral efficacy of oxaliplatin, while preventing its neurotoxicity.We showed that benztropine improves acute and chronic clinical symptoms of oxaliplatin-induced peripheral neuropathies in mice. Sensory alterations detected by electrophysiology in oxaliplatin-treated mice were consistent with a decreased nerve conduction velocity and membrane hyperexcitability due to alterations in the density and/or functioning of both sodium and potassium channels, confirmed by action potential analysis from ex-vivo cultures of mouse dorsal root ganglion sensory neurons using whole-cell patch-clamp. These alterations were all prevented by benztropine. In oxaliplatin-treated mice, MBP expression, confocal and electronic microscopy of the sciatic nerves revealed a demyelination and confirmed the alteration of the myelinated axons morphology when compared to animals injected with oxaliplatin plus benztropine. Benztropine also prevented the decrease in neuronal density in the paws of mice injected with oxaliplatin. The neuroprotection conferred by benztropine against chemotherapeutic drugs was associated with a lower expression of inflammatory cytokines and extended to diabetic-induced peripheral neuropathy in mice.Mice receiving benztropine alone presented a lower tumor growth when compared to untreated animals and synergized the anti-tumoral effect of oxaliplatin, a phenomenon explained at least in part by benztropine-induced ROS imbalance in tumor cells.This report shows that blocking muscarinic receptors with benztropine prevents peripheral neuropathies and increases the therapeutic index of oxaliplatin. These results can be rapidly transposable to patients as benztropine is currently indicated in Parkinson's disease in the United States.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30657060/"
+    },
+    {
+      "pmid": "31080743",
+      "title": "Role of nanostructures in improvising oral medicine.",
+      "journal": "Toxicology reports",
+      "year": "2019",
+      "abstract": "The most preferable mode of drugs administration is via the oral route but physiological barriers such as pH, enzymatic degradation etc. limit the absolute use of this route. Herein lies the importance of nanotechnology having a wide range of applications in the field of nano-medicine, particularly in drug delivery systems. The exclusive properties particularly small size and high surface area (which can be modified as required), exhibited by these nanoparticlesrender these structures more suitable for the purpose of drug delivery. Various nanostructures, like liposomes, dendrimers, mesoporous silica nanoparticles, etc. have been designed for the said purpose. These nanostructures have several advantages over traditional administration of medicine. Apart from overcoming the pharmacokinetic and pharmacodynamics limitations of many potential therapeutic molecules, they may also be useful for advanced drug delivery purposes like targeted drug delivery, controlled release, enhanced permeability and retention (EPR) effect. In this review, we attempt to describe an up-to-date knowledge on various strategically devised nanostructures to overcome the problems related to oral drug administration.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31080743/"
+    },
+    {
+      "pmid": "39052137",
+      "title": "Dropped head syndrome suspected due to oxaliplatin used in adjuvant chemotherapy for gastric cancer: a case report.",
+      "journal": "Surgical case reports",
+      "year": "2024",
+      "abstract": "Dropped head syndrome (DHS) is caused by dysfunction of the cervical musculature. It is classified into two groups according to the cause: one is weakness of the neck extensors and the other is hypercontraction of the cervical flexors associated with Parkinson's disease and other disorders. Although some drugs have previously been reported as suspected causes of DHS, we are unaware of any reports in which oxaliplatin was suspected. In this report, we describe a case of DHS during adjuvant chemotherapy for gastric cancer, along with a review of the relevant literature. A 72-year-old man was diagnosed with gastric cancer, cT3N0M0 cStage IIB, and underwent laparoscopic total gastrectomy with D2 lymphnode dissection and Roux-en-Y reconstruction. The operative time was 311\u00a0min, intraoperative blood loss was 40\u00a0g, and he was discharged without any post-operative complications. The histopathological diagnosis was pT4aN2M0 pStage IIIA, and S-1\u2009+\u2009oxaliplatin (SOX) therapy was started as adjuvant chemotherapy. On the 4th course of SOX, he complained of neck heaviness and a blood test revealed that his creatine kinase (CK) level was elevated to 2464\u00a0IU/L. After consultation with an orthopedic surgeon and a neurologist, DHS due to localized cervical extensor myositis was suspected. Therefore, the 6th course of SOX was postponed, and 30\u00a0mg of oral steroids were initiated. His symptoms improved, and his CK level decreased within 2\u00a0weeks. After resuming S-1 monotherapy and tapering off oral steroids, no recurrence of symptoms has been observed. We experienced one case of DHS during adjuvant chemotherapy for gastric cancer. If DHS develops after starting oxaliplatin, involvement of the drug should be suspected, and discontinuation of chemotherapy and introduction of oral steroids should be considered.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39052137/"
+    },
+    {
+      "pmid": "36411637",
+      "title": "Epimedin B exerts neuroprotective effect against MPTP-induced mouse model of Parkinson's disease: GPER as a potential target.",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2022",
+      "abstract": "Mitochondrial dysfunction and oxidative stress play important roles in the neuropathogenesis of Parkinson's disease (PD). Epimedin B, the second highest active ingredient in the flavonoids of Herba Epimedii, has been proven effective in treating osteoporosis and oxaliplatin-induced peripheral neuropathy. The present study aims to investigate the neuroprotective effects of Epimedin B in a 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridin (MPTP)-induced mouse model of PD, and the involvement of G protein-coupled estrogen receptor (GPER)-mediated anti-apoptosis as well as anti-endoplasmic reticulum stress. Molecular docking revealed that Epimedin B could directly bind to GPER at the same site as GPER agonist G1 and the binding energy was -\u00a07.3\u00a0kcal/mol. Epimedin B treatment ameliorated MPTP-induced motor dysfunction and alleviated the decreased contents of DA with its metabolites in the striatum and the loss of tyrosine hydroxylase-immunoreactive (TH-IR) neurons in the substantial nigra pars compacta (SNpc). Epimedin B treatment markedly prevented MPTP-induced changes in apoptosis-related protein Bcl-2 and Bax as well as endoplasmic reticulum stress-related protein glucose-regulated protein 78 (GRP78) and C/EBP homologous protein (CHOP). Pharmacological blockade with GPER antagonist G15 could antagonize these neuroprotective effects of Epimedin B on the nigrostriatal system. Moreover, the anti-apoptosis and anti-endoplasmic reticulum stress effects of Epimedin B against MPTP toxicity were significantly reduced in GPER knockout (GPER<sup>-/-</sup>) mice. The present study provides the first evidence that Epimedin B can protect against MPTP-induced PD mice model. GPER may be a potential target for the neuroprotective effect of Epimedin B against PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36411637/"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "drug_name": "Radiprodil",
+  "disease_name": "Parkinson",
+  "n_abstracts": 4,
+  "abstracts": [
+    {
+      "pmid": "38794209",
+      "title": "NMDA Receptor Antagonists: Emerging Insights into Molecular Mechanisms and Clinical Applications in Neurological Disorders.",
+      "journal": "Pharmaceuticals (Basel, Switzerland)",
+      "year": "2024",
+      "abstract": "Neurodegenerative disorders (NDs) include a range of chronic conditions characterized by progressive neuronal loss, leading to cognitive, motor, and behavioral impairments. Common examples include Alzheimer's disease (AD) and Parkinson's disease (PD). The global prevalence of NDs is on the rise, imposing significant economic and social burdens. Despite extensive research, the mechanisms underlying NDs remain incompletely understood, hampering the development of effective treatments. Excitotoxicity, particularly glutamate-mediated excitotoxicity, is a key pathological process implicated in NDs. Targeting the N-methyl-D-aspartate (NMDA) receptor, which plays a central role in excitotoxicity, holds therapeutic promise. However, challenges, such as blood-brain barrier penetration and adverse effects, such as extrapyramidal effects, have hindered the success of many NMDA receptor antagonists in clinical trials. This review explores the molecular mechanisms of NMDA receptor antagonists, emphasizing their structure, function, types, challenges, and future prospects in treating NDs. Despite extensive research on competitive and noncompetitive NMDA receptor antagonists, the quest for effective treatments still faces significant hurdles. This is partly because the same NMDA receptor that necessitates blockage under pathological conditions is also responsible for the normal physiological function of NMDA receptors. Allosteric modulation of NMDA receptors presents a potential alternative, with the GluN2B subunit emerging as a particularly attractive target due to its enrichment in presynaptic and extrasynaptic NMDA receptors, which are major contributors to excitotoxic-induced neuronal cell death. Despite their low side-effect profiles, selective GluN2B antagonists like ifenprodil and radiprodil have encountered obstacles such as poor bioavailability in clinical trials. Moreover, the selectivity of these antagonists is often relative, as they have been shown to bind to other GluN2 subunits, albeit minimally. Recent advancements in developing phenanthroic and naphthoic acid derivatives offer promise for enhanced GluN2B, GluN2A or GluN2C/GluN2D selectivity and improved pharmacodynamic properties. Additional challenges in NMDA receptor antagonist development include conflicting preclinical and clinical results, as well as the complexity of neurodegenerative disorders and poorly defined NMDA receptor subtypes. Although multifunctional agents targeting multiple degenerative processes are also being explored, clinical data are limited. Designing and developing selective GluN2B antagonists/modulators with polycyclic moieties and multitarget properties would be significant in addressing neurodegenerative disorders. However, advancements in understanding NMDA receptor structure and function, coupled with collaborative efforts in drug design, are imperative for realizing the therapeutic potential of these NMDA receptor antagonists/modulators.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38794209/"
+    },
+    {
+      "pmid": "26322641",
+      "title": "Behavioural Assessment of the A2a/NR2B Combination in the Unilateral 6-OHDA-Lesioned Rat Model: A New Method to Examine the Therapeutic Potential of Non-Dopaminergic Drugs.",
+      "journal": "PloS one",
+      "year": "2015",
+      "abstract": "In Parkinson's disease (PD), dopaminergic therapies are often associated with the development of motor complications. Attention has therefore been focused on the use of non-dopaminergic drugs. This study developed a new behavioural method capable of demonstrating the added value of combining adenosinergic and glutamatergic receptor antagonists in unilateral 6-OHDA lesioned rats. Rats were dosed orally with Tozadenant, a selective A2A receptor antagonist, and three different doses of Radiprodil, an NR2B-selective NMDA receptor antagonist. The drugs were given alone or in combination and rats were placed in an open-field for behavioural monitoring. Video recordings were automatically analysed. Five different behaviours were scored: distance traveled, ipsi- and contraversive turns, body position, and space occupancy. The results show that A2A or NR2B receptor antagonists given alone or in combination did not produce enhanced turning as observed with an active dose of L-Dopa/benserazide. Instead the treated rats maintained a straight body position, were able to shift from one direction to the other and occupied a significantly larger space in the arena. The highest \"Tozadenant/Radiprodil\" dose combination significantly increased all five behavioural parameters recorded compared to rats treated with vehicle or the same doses of the drugs alone. Our data suggest that the A2A/NR2B antagonist combination may be able to stimulate motor activity to a similar level as that achieved by L-Dopa but in the absence of the side-effects that are associated with dopaminergic hyperstimulation. If these results translate into the clinic, this combination could represent an alternative symptomatic treatment option for PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26322641/"
+    },
+    {
+      "pmid": "28854243",
+      "title": "Antiparkinsonian effects of the \"Radiprodil and Tozadenant\" combination in MPTP-treated marmosets.",
+      "journal": "PloS one",
+      "year": "2017",
+      "abstract": "Investigate a combination of two clinically tested drugs, the NR2B antagonist Radiprodil and the A2A antagonist Tozadenant in the MPTP-treated marmoset model of Parkinson's Disease (PD). In PD, there remains a need for the development of non-dopaminergic drugs to effectively treat the motor symptoms without the induction of L-Dopa-induced motor complications. Clinically relevant doses of Radiprodil and Tozadenant were given both alone and in combination without the addition of L-Dopa, and the antiparkinsonian efficacy of the treatments was assessed in a primate model of PD. When compared to the drugs tested alone, the drug combination led to a significant increase of motor activity and an improvement of motor disability in MPTP-treated marmosets. In addition, the motor restoration brought about by the combination was almost completely devoid of dyskinesia. Interestingly, treated primates were not overstimulated, but were able to move normally when motivated by the exploration of novel objects. We have demonstrated in a primate model that, the \"Radiprodil/Tozadenant\" combination significantly improves motor activity, extending previous results obtained in unilaterally lesioned 6-OHDA-rats. The strength of the preclinical data accumulated so far suggests that the use of such an A2A and NR2B antagonist combination could bring significant motor improvement to PD patients, without inducing the motor complications induced by L-Dopa therapy. Although encouraging, these preclinical data need to be confirmed in the clinic.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28854243/"
+    },
+    {
+      "pmid": "25513815",
+      "title": "Unprecedented therapeutic potential with a combination of A2A/NR2B receptor antagonists as observed in the 6-OHDA lesioned rat model of Parkinson's disease.",
+      "journal": "PloS one",
+      "year": "2014",
+      "abstract": "In Parkinson's disease, the long-term use of dopamine replacing agents is associated with the development of motor complications; therefore, there is a need for non-dopaminergic drugs. This study evaluated the potential therapeutic impact of six different NR2B and A2A receptor antagonists given either alone or in combination in unilateral 6-OHDA-lesioned rats without (monotherapy) or with (add-on therapy) the co-administration of L-Dopa: Sch-58261+ Merck 22; Sch-58261+Co-101244; Preladenant + Merck 22; Preladenant + Radiprodil; Tozadenant + Radiprodil; Istradefylline + Co-101244. Animals given monotherapy were assessed on distance traveled and rearing, whereas those given add-on therapy were assessed on contralateral rotations. Three-way mixed ANOVA were conducted to assess the main effect of each drug separately and to determine whether any interaction between two drugs was additive or synergistic. Additional post hoc analyses were conducted to compare the effect of the combination with the effect of the drugs alone. Motor activity improved significantly and was sustained for longer when the drugs were given in combination than when administered separately at the same dose. Similarly, when tested as add-on treatment to L-Dopa, the combinations resulted in higher levels of contralateral rotation in comparison to the single drugs. Of special interest, the activity observed with some combinations could not be described by a simplistic additive effect and involved more subtle synergistic pharmacological interactions. The combined administration of A2A/NR2B-receptor antagonists improved motor behaviour in 6-OHDA rats. Given the proven translatability of this model such a combination may be expected to be effective in improving motor symptoms in patients.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/25513815/"
+    }
+  ]
+}

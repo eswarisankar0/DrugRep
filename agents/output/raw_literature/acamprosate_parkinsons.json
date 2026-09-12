@@ -1,0 +1,43 @@
+{
+  "drug_name": "Acamprosate",
+  "disease_name": "Parkinson",
+  "n_abstracts": 3,
+  "abstracts": [
+    {
+      "pmid": "26542636",
+      "title": "Combination of acamprosate and baclofen as a promising therapeutic approach for Parkinson's disease.",
+      "journal": "Scientific reports",
+      "year": "2015",
+      "abstract": "Parkinson's disease (PD) is a progressive neurodegenerative disorder characterised by the loss of dopaminergic nigrostriatal neurons but which involves the loss of additional neurotransmitter pathways. Mono- or polytherapeutic interventions in PD patients have declining efficacy long-term and no influence on disease progression. The systematic analysis of available genetic and functional data as well as the substantial overlap between Alzheimer's disease (AD) and PD features led us to repurpose and explore the effectiveness of a combination therapy (ABC) with two drugs - acamprosate and baclofen - that was already effective in AD animal models, for the treatment of PD. We showed in vitro that ABC strongly and synergistically protected neuronal cells from oxidative stress in the oxygen and glucose deprivation model, as well as dopaminergic neurons from cell death in the 6-hydroxydopamine (6-OHDA) rat model. Furthermore, we showed that ABC normalised altered motor symptoms in vivo in 6-OHDA-treated rats, acting by protecting dopaminergic cell bodies and their striatal terminals. Interestingly, ABC also restored a normal behaviour pattern in lesioned rats suggesting a symptomatic effect, and did not negatively interact with L-dopa. Our results demonstrate the potential value of combining repurposed drugs as a promising new strategy to treat this debilitating disease.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26542636/"
+    },
+    {
+      "pmid": "38412888",
+      "title": "Using artificial intelligence to identify drugs for repurposing to treat l-DOPA-induced dyskinesia.",
+      "journal": "Neuropharmacology",
+      "year": "2024",
+      "abstract": "Repurposing regulatory agency-approved molecules, with proven safety in humans, is an attractive option for developing new treatments for disease. We identified and assessed the efficacy of 3 drugs predicted by an in silico screen as having the potential to treat l-DOPA-induced dyskinesia (LID) in Parkinson's disease. We analysed \u223c1.3 million Medline abstracts using natural language processing and ranked 3539 existing drugs based on predicted ability to reduce LID. 3 drugs from the top 5% of the 3539 candidates; lorcaserin, acamprosate and ganaxolone, were prioritized for preclinical testing based on i) having a novel mechanism of action, ii) having not been previously validated for the treatment of LID, iii) being blood-brain-barrier penetrant and orally bioavailable and iv) being clinical trial ready. We assessed the efficacy of acamprosate, ganaxolone and lorcaserin in a rodent model of l-DOPA-induced hyperactivity, with lorcaserin affording a 58% reduction in rotational asymmetry (P\u00a0<\u00a00.05) compared to vehicle. Acamprosate and ganaxolone failed to demonstrate efficacy. Lorcaserin, a 5HT2C agonist, was then further tested in MPTP lesioned dyskinetic macaques where it afforded an 82% reduction in LID (P\u00a0<\u00a00.05), unfortunately accompanied by a significant increase in parkinsonian disability. In conclusion, although our data do not support the repurposing of lorcaserin, acamprosate or ganaxolone per se for LID, we demonstrate value of an in silico approach to identify candidate molecules which, in combination with an in vivo screen, can facilitate clinical development decisions. The present study adds to a growing literature in support of this paradigm shifting approach in the repurposing pipeline.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38412888/"
+    },
+    {
+      "pmid": "32815196",
+      "title": "Combination of acamprosate and baclofen (PXT864) as a potential new therapy for amyotrophic lateral sclerosis.",
+      "journal": "Journal of neuroscience research",
+      "year": "2020",
+      "abstract": "There is currently no therapy impacting the course of amyotrophic lateral sclerosis (ALS). The only approved treatments are riluzole and edaravone, but their efficacy is modest and short-lasting, highlighting the need for innovative therapies. We previously demonstrated the ability of PXT864, a combination of low doses of acamprosate and baclofen, to synergistically restore cellular and behavioral activity in Alzheimer's and Parkinson's disease models. The overlapping genetic, molecular, and cellular characteristics of these neurodegenerative diseases supported investigating the effectiveness of PXT864 in ALS. As neuromuscular junction (NMJ) alterations is a key feature of ALS, the effects of PXT864 in primary neuron-muscle cocultures injured by glutamate were studied. PXT864 significantly and synergistically preserved NMJ and motoneuron integrity following glutamate excitotoxicity. PXT864 added to riluzole significantly improved such protection. PXT864 activity was then assessed in primary cultures of motoneurons derived from SOD1<sup>G93A</sup> rat embryos. These motoneurons presented severe maturation defects that were significantly improved by PXT864. In this model, glutamate application induced an accumulation of TDP-43 protein in the cytoplasm, a hallmark that was completely prevented by PXT864. The anti-TDP-43 aggregation effect was also confirmed in a cell line expressing TDP-43 fused to GFP. These results demonstrate the value of PXT864 as a promising therapeutic strategy for the treatment of ALS.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32815196/"
+    }
+  ]
+}

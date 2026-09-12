@@ -1,0 +1,20 @@
+{
+  "drug_name": "Molindone",
+  "disease_name": "Parkinson",
+  "n_abstracts": 1,
+  "abstracts": [
+    {
+      "pmid": "7651449",
+      "title": "Antiparkinsonian therapies and brain mitochondrial complex I activity.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "1995",
+      "abstract": "Alterations in complex I activity, one of the enzymatic units of the mitochondrial respiratory chain, have been demonstrated in different tissues from patients with Parkinson's disease (PD). Subsequently, we showed that the chronic administration of levodopa can cause alterations in mitochondrial respiratory chain activity in rats, which suggests that the observed deficit in complex I activity in PD might be, at least in part, related to chronic levodopa therapy. Our study assessed the in vitro effects of different antiparkinsonian agents on complex I activity in rat brain. As previously reported, both levodopa and dopamine inhibit complex I activity in a dose-dependent manner. In contrast, the two major metabolites of dopamine, homovanillic acid and 3,4-dihydroxyphenylacetic acid as well as 3-O-methyl-dopa, had little or no effect on complex I activities. Bromocriptine, pergolide, trihexyphenidyl, molindone, and clozapine were all without significant inhibitory effects on mitochondrial function. Although vitamin C and deprenyl did not alter complex I activity, they did prevent the inhibitory effect of both levodopa and dopamine on complex I activity. This work indicates that among the different and usual antiparkinsonian agents, only levodopa and dopamine induced reductions in complex I activity. It also indicates that vitamin C and deprenyl are both effective in preventing the levodopa-induced complex I inhibition. This latter finding provides further support to the use of antioxidants and monoamine oxidase inhibitors as therapeutic strategies in attempts to slow the progression of PD.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/7651449/"
+    }
+  ]
+}

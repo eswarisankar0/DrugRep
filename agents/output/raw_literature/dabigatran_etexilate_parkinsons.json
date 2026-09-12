@@ -1,0 +1,18 @@
+{
+  "drug_name": "Dabigatran Etexilate",
+  "disease_name": "Parkinson",
+  "n_abstracts": 1,
+  "abstracts": [
+    {
+      "pmid": "28585189",
+      "title": "Modulatory Role of Nurr1 Activation and Thrombin Inhibition in the Neuroprotective Effects of Dabigatran Etexilate in Rotenone-Induced Parkinson's Disease in Rats.",
+      "journal": "Molecular neurobiology",
+      "year": "2018",
+      "abstract": "Recently, it has been shown that both decreased nuclear receptor-related 1 (Nurr1) expression and thrombin accumulation are involved in the degeneration of dopaminergic neurons in Parkinson's disease (PD). The new anticoagulant dabigatran etexilate (DE) is a direct thrombin inhibitor that owns benzimidazole group, which has been proposed to activate Nurr1. In the present study, we examined the neuroprotective effects of DE in rotenone model of PD. Rotenone was injected subcutaneously at a dose of 1.5\u00a0mg/kg every other day for 21\u00a0days. An oral regimen of DE (15\u00a0mg/kg) was started after the 5th rotenone injection following the manifestations of PD. Treatment of PD rats with DE mitigated rotenone-induced neuronal degeneration and restored striatal dopamine level with motor recovery. As well, DE enhanced Nurr1 expression in substantia nigra along with increasing transcriptional activation of Nurr1-controlled genes namely tyrosine hydroxylase, vascular monoamine transporter, glial cell line-derived neurotrophic factor, and its receptor gene c-Ret, which are critical for development and maintenance of dopaminergic neurons. DE also suppressed thrombin accumulation in substantia nigra. Both effects probably contributed to repressing neurotoxic proinflammatory cytokines, which was manifested by decreased level of nuclear factor kappa beta and tumor necrosis factor alpha. In conclusion, the present results suggest that DE could possess significant neuroprotective and regenerative effects in a rotenone-induced PD animal model as consequence of Nurr1 activation and thrombin inhibition.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28585189/"
+    }
+  ]
+}

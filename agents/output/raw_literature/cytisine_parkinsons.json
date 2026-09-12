@@ -1,0 +1,188 @@
+{
+  "drug_name": "Cytisine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "30885113",
+      "title": "Cytisine - From the Past to the Future.",
+      "journal": "Current pharmaceutical design",
+      "year": "2018",
+      "abstract": "Neuronal nicotinic acetylcholine receptors are ligand-gated ion channel receptors, distributed throughout central nervous system, as well as in peripheral ganglia and some non-neuronal cells. Cytisine, a qulinolizidine alkaloid, could be considered a high affinity ligand of those receptors. It is a partial agonist of \u03b22*-containing receptors and a full agonist of \u03b17 and \u03b24*-containing receptors. At present, pharmacodynamic properties of cytisine are leveraged only in a few European countries where it is available as medicinal product (Desmoxan and Tabex) indicated in the pharmacotherapy of nicotine addiction. Cytisine mimics the influence of nicotine on \u03b14\u03b22* receptors, but with higher affinity and lower activity. It lowers rewarding and reinforcing effects of nicotine in smoking persons and reduces withdrawal symptoms and craving in quitting ones. The results of non-clinical studies suggest that cytisine could affect ethanol consumption, has an antidepressant and neuroprotective effect and could be useful in reducing body mass and preventing weight gain. Although there is a lack of research on cytisine in the treatment of areca nuts usage, the preliminary data suggest its usefulness. The combination of cytisine and Trolox C was selected as a possible effective treatment for type 2 diabetes. Though these drugs alone are not effective, their theoretical usefulness was confirmed in animal models. Treatment with cytisine is an effective, cost-efficient, affordable and well tolerated nicotine addiction therapy. Potential new indications for cytisine include the treatment of alcoholism, areca nuts usage, Parkinson's disease, an autonomic-system failure. Further studies are necessary.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30885113/"
+    },
+    {
+      "pmid": "36611142",
+      "title": "<i>Sophora alopecuroides</i> Alleviates Neuroinflammation and Oxidative Damage of Parkinson's Disease <i>In Vitro</i> and <i>In Vivo</i>.",
+      "journal": "The American journal of Chinese medicine",
+      "year": "2023",
+      "abstract": "For centuries, <i>Sophora alopecuroides</i> L. has been used both as a food and an herbal medicine in northern China. A new cytisine-type alkaloid, N-methylene-(5,7,4[Formula: see text]-trihydroxy)-isoflavone (LY01),\u00a0was found in the fruits of <i>Sophora alopecuroides</i> L. and shows neuroprotective effects against Parkinson's disease (PD). PD is a frequently occurring, irreversible neurodegenerative disease that seriously threatens the health of the elderly population. There is no cure for PD. The available treatments help manage the symptoms, but their use is limited by multiple side effects. Therefore, more pharmacological treatments addressing this pathology are urgently required. This study aimed to evaluate the neuroprotective effects of LY01 against PD, as well as their underlying mechanisms, using both <i>in vitro</i> and <i>in vivo</i> experimental models. A 1-methyl-4-phenyl-1, 2, 3, 6-tetrahydropyridine hydrochloride (MPTP)-induced mouse model of PD was used to assess the effects of LY01 on the motor coordination deficit, progression of the pathology, and molecular characteristics. 1-Methyl-4-phenylpyridinium (MPP[Formula: see text])-activated SH-SY5Y cells and lipopolysaccharide (LPS)-activated BV-2 cells were used to evaluate LY01 effects on oxidative damage and neuroinflammation. In the rotarod test, LY01 alleviated the impaired motor coordination in PD mice. Furthermore, LY01 treatment prevented the loss of dopaminergic neurons in the substantia nigra and striatum of the PD mice, reduced neuroinflammation in the mice with MPTP-induced PD and the LPS-activated BV-2 cells, and diminished oxidative stress in the PD mice and the MPP[Formula: see text]-induced SH-SY5Y cells. In conclusion, these results suggest the potential of LY01 as a therapeutic agent for treating PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36611142/"
+    },
+    {
+      "pmid": "40667319",
+      "title": "Genetically encoded nAChR upregulation is neuroprotective in female parkinsonian mice.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2025",
+      "abstract": "Parkinson's disease is projected to rise to pandemic proportions by 2050, which has resulted in an urgent need for disease-modifying treatments. In this regard, we previously showed that in a mouse model of parkinsonism with unilateral 6-hydroxydopamine (6-OHDA) injection into the dorsolateral striatum (DLS), low doses of the neuronal nicotinic acetylcholine receptor (nAChR) partial agonist and smoking cessation drug, cytisine exerts sex-specific neuroprotection in substantia nigra pars compacta (SNc) dopaminergic (DA) neurons of only female mice by reducing apoptotic endoplasmic reticulum (ER) stress. Although these data suggest that neuroprotection might occur via cytisine-mediated upregulation of \u03b22 subunit-containing (\u03b22*) nAChRs in SNc DA neurons, there is no direct evidence to support this idea. Therefore, this study asks the critical question of whether upregulation of \u03b22* nAChRs in SNc DA neurons alone is sufficient to reduce apoptotic ER stress and exert neuroprotection in a preclinical unilateral DLS mouse model of 6-OHDA-induced parkinsonism. To address this question, we generate and characterize a novel \u03b22-upregulated transgenic mouse line. These transgenic mice possess mutations in the M3-M4 intracytoplasmic loop of \u03b22 subunits that cause constitutive upregulation of \u03b22* nAChRs without nicotinic ligands. Surprisingly, when compared to wild-type littermates, only female \u03b22-upregulated transgenic mice demonstrate upregulation of \u03b22* nAChRs in SNc DA neurons as assessed by significant increases in Sec24D-containing ER exit sites (Sec24D-ERES). Using the optogenetic calcium and dopamine sensors, GCaMP6f and GRABDA respectively, we found significant increases in dihydro-beta-erythroidine (Dh\u03b2E)-sensitive \u03b22* nAChR-mediated calcium influx in SNc DA neuron dendrites and Dh\u03b2E-sensitive acetylcholine (ACh)-evoked dopamine release at SNc DA neuron terminals of the DLS in female transgenic mice. We then used four independent readouts to assess neuroprotection of SNc DA neurons following unilateral 6-OHDA injection into the DLS, <i>viz</i> ., contralateral apomorphine-induced rotations, preservation of SNc DA neurons, inhibition of a major proapoptotic ER stress protein, C/EBP homologous protein (CHOP) and glial fibrillary acid protein (GFAP) expression in SNc astrocytes. In all four readouts, female \u03b22-upregulated transgenic mice showed significant neuroprotection. From a clinical perspective, this study shows that upregulation without nicotinic ligand-mediated activation of \u03b22* nAChRs in SNc DA neurons can be a translationally viable disease-modifying strategy for Parkinson's disease. In addition, we envision that the novel transgenic \u03b22-upregulated mice created in this study will provide a valuable tool for understanding the role of nAChR upregulation in major neurological disorders such as addiction, anxiety, depression and dementia.",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40667319/"
+    },
+    {
+      "pmid": "34205249",
+      "title": "Natural Alkaloid Compounds as Inhibitors for Alpha-Synuclein Seeded Fibril Formation and Toxicity.",
+      "journal": "Molecules (Basel, Switzerland)",
+      "year": "2021",
+      "abstract": "The accumulation and aggregation of \u03b1-synuclein (\u03b1-syn) is the main pathologic event in Parkinson's disease (PD), dementia with Lewy bodies, and multiple system atrophy. \u03b1-Syn-seeded fibril formation and its induced toxicity occupy a major role in PD pathogenesis. Thus, assessing compounds that inhibit this seeding process is considered a key towards the therapeutics of synucleinopathies. Using biophysical and biochemical techniques and seeding-dependent cell viability assays, we screened a total of nine natural compounds of alkaloid origin extracted from Chinese medicinal herbs. Of these compounds, synephrine, trigonelline, cytisine, harmine, koumine, peimisine, and hupehenine exhibited in vitro inhibition of \u03b1-syn-seeded fibril formation. Furthermore, using cell viability assays, six of these compounds inhibited \u03b1-syn-seeding-dependent toxicity. These six potent inhibitors of amyloid fibril formation and toxicity caused by the seeding process represent a promising therapeutic strategy for the treatment of PD and other synucleinopathies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34205249/"
+    },
+    {
+      "pmid": "33354763",
+      "title": "Cytisine is neuroprotective in female but not male 6-hydroxydopamine lesioned parkinsonian mice and acts in combination with 17-\u03b2-estradiol to inhibit apoptotic endoplasmic reticulum stress in dopaminergic neurons.",
+      "journal": "Journal of neurochemistry",
+      "year": "2021",
+      "abstract": "Apoptotic endoplasmic reticulum (ER) stress is a major mechanism for dopaminergic (DA) loss in Parkinson's disease (PD). We assessed if low doses of the partial \u03b14\u03b22 nicotinic acetylcholine receptor agonist, cytisine attenuates apoptotic ER stress and exerts neuroprotection in substantia nigra pars compacta (SNc) DA neurons. Alternate day intraperitoneal injections of 0.2\u00a0mg/kg cytisine were administered to female and male mice with 6-hydroxydopamine (6-OHDA) lesions in the dorsolateral striatum, which caused unilateral degeneration of SNc DA neurons. Cytisine attenuated 6-OHDA-induced PD-related behaviors in female, but not in male mice. We also found significant reductions in tyrosine hydroxylase (TH) loss within the lesioned SNc of female, but not male mice. In contrast to female mice, DA neurons within the lesioned SNc of male mice showed a cytisine-induced pathological increase in the nuclear translocation of the pro-apoptotic ER stress protein, C/EBP homologous protein (CHOP). To assess the role of estrogen in cytisine neuroprotection in female mice, we exposed primary mouse DA cultures to either 10\u00a0nM 17-\u03b2-estradiol and 200\u00a0nM cytisine or 10\u00a0nM 17-\u03b2-estradiol alone. 17-\u03b2-estradiol reduced expression of CHOP, whereas cytisine exposure reduced 6-OHDA-mediated nuclear translocation of two other ER stress proteins, activating transcription factor 6 and x-box-binding protein 1, but not CHOP. Taken together, these data show that cytisine and 17-\u03b2-estradiol work in combination to inhibit all three arms (activating transcription factor 6, x-box-binding protein 1, and CHOP) of apoptotic ER stress signaling in DA neurons, which can explain the neuroprotective effect of low-dose cytisine in female mice.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33354763/"
+    },
+    {
+      "pmid": "18589414",
+      "title": "In vivo modulation of dopaminergic nigrostriatal pathways by cytisine derivatives: implications for Parkinson's Disease.",
+      "journal": "European journal of pharmacology",
+      "year": "2008",
+      "abstract": "Nicotinic acetylcholine receptor agonists are considered potential pharmacological agents for Parkinson's disease treatment, due to their ability to improve experimental Parkinson symptomatology, reduce 3,4-dihydroxy-L-phenylalanine-induced dyskinesias and stop the neurodegenerative process at an experimental level. In the present work, the ability of the nicotinic agonist cytisine and two halogenated derivatives (3-bromocytisine and 5-bromocytisine) to induce striatal dopamine release was characterized in vivo by microdialysis. Cytisine, 5-bromocytisine and nicotine were much more efficacious than 3-bromocytisine in eliciting dopamine release in response to their local application through the microdialysis probe. Moreover, the agonists were intermittently administered before and after an intranigral injection of 6-hydroxydopamine (6-OHDA), and striatal dopamine tissue levels were assessed 8 days after the lesion. Both cytisine and its 5-bromo derivative (but not the 3-bromo derivative) significantly prevented the decrease of striatal dopamine tissue levels induced by 6-OHDA. These results suggest that the efficacy of nicotinic agonists to stimulate dopamine release in vivo through presynaptic nicotinic receptors could be related to their potential to induce striatal protection.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/18589414/"
+    },
+    {
+      "pmid": "9851582",
+      "title": "Effects of cytisine on hydroxyl radicals in vitro and MPTP-induced dopamine depletion in vivo.",
+      "journal": "European journal of pharmacology",
+      "year": "1998",
+      "abstract": "The potential new iron-chelator cytisine and the radical scavenger N-tert-butyl-alpha-(2-sulfophenyl) nitrone (S-PBN) were incubated in a Fenton system and hydroxyl radical formation was measured with the salicylate trapping assay. Both cytisine and S-PBN reduced hydroxyl radical formation in a concentration-dependent manner. For in vivo studies, C57BL/6 mice were injected repeatedly with cytisine (0.5 mg/kg or 2.0 mg/kg s.c.) or saline seven days before and after a single 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) injection (30 mg/kg s.c.). Seven days after MPTP treatment alone dopamine levels were significantly reduced to 12% of the control values (p < 0.001), whereas MPTP + cytisine treatment (2 mg/kg) led to more than twofold higher dopamine levels (p < 0.01) compared with MPTP alone. We have shown for the first time that cytisine attenuates hydroxyl radical formation in vitro and reduces MPTP-induced dopamine depletion. Thus, cytisine may be useful for the treatment of Parkinson's Disease where the chelation of iron ions could prevent neuronal cell death.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/9851582/"
+    },
+    {
+      "pmid": "10942042",
+      "title": "Nicotinic acetylcholine receptors during prenatal development and brain pathology in human aging.",
+      "journal": "Behavioural brain research",
+      "year": "2000",
+      "abstract": "Nicotinic acetylcholine receptor (nAChRs) proteins and gene transcripts are already present in human prenatal brain and spinal cord at 4-6 weeks gestation, and a clear age-related increase in number of nAChRs was apparent during first trimester. In pons, there was also a parallel increase in the alpha7 mRNA level with age. The highest specific binding of [3H]epibatidine and [3H]cytisine was detected in spinal cord, pons and medulla oblongata, and binding of [125I]alpha-bungarotoxin was highest in spinal cord, medulla oblongata and mesencephalon. From the late fetal stage brain nAChRs have been shown to fall with increasing age. During aging (between 40 and 100 years) high affinity nicotine binding in the frontal cortex decreases in parallel with glutamate NMDA receptor binding ([3H]MK801). In the hippocampal formation and entorhinal cortex nicotine binding also declines with age, in common with [125I]alpha-bungarotoxin in the entorhinal cortex, but NMDA receptor binding remains unchanged. These reductions in nicotine binding with age may predispose the neo- and archicortex to the loss of nAChRs observed in age-associated neurodegenerative conditions. By contrast no loss in nAChR binding with aging is observed in the thalamus and only after the 70th decade in the striatum, although in Alzheimer's disease, Parkinson's disease and Lewy body dementia deficits in nAChRs are observed in these areas and may be associated with specific disease-related processes.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10942042/"
+    },
+    {
+      "pmid": "20184877",
+      "title": "Increase in locomotor activity after acute administration of the nicotinic receptor agonist 3-bromocytisine in rats.",
+      "journal": "European journal of pharmacology",
+      "year": "2010",
+      "abstract": "Nicotinic acetylcholine receptors influence striatal dopaminergic activity and its outcome on motor behavior. For these reasons, nicotinic receptors have been considered as therapeutically relevant targets for Parkinson's disease, in which a dramatic loss of dopamine affects motor functions. The aim of the present work was to compare the effects on locomotor activity induced by the nicotinic agonist cytisine and two brominated derivatives, 5- and 3-bromocytisine (5-BrCy and 3-BrCy) using nicotine for comparison. After acute systemic administration of the agonists only 3-BrCy induced an increase in locomotor activity. To study the mechanism of action involved in this increase we co-administered 3-BrCy with the nicotinic antagonist mecamylamine and also examined 3-BrCy's effects in rats pre-treated with the long acting nicotinic antagonist chlorisondamine, administered directly in the dorsal and ventral striatum. We studied the role of the dopaminergic system by co-administration of the D2 dopamine receptor antagonist, haloperidol. The results indicate that the increase in motor activity elicited by 3-BrCy was mediated by nicotinic receptors in the dorsal and ventral striatum and depends on the interaction of nicotinic receptors with the dopaminergic system. We conclude that 3-BrCy might be a new tool to study the modulation of the dopaminergic system by nicotinic receptors and their behavioral implications.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/20184877/"
+    },
+    {
+      "pmid": "22379121",
+      "title": "Pharmacological chaperoning of nicotinic acetylcholine receptors reduces the endoplasmic reticulum stress response.",
+      "journal": "Molecular pharmacology",
+      "year": "2012",
+      "abstract": "We report the first observation that endoplasmic reticulum (ER) stress and the unfolded protein response (UPR) can decrease when a central nervous system drug acts as an intracellular pharmacological chaperone for its classic receptor. Transient expression of \u03b14\u03b22 nicotinic receptors (nAChRs) in Neuro-2a cells induced the nuclear translocation of activating transcription factor 6 (ATF6), which is part of the UPR. Cells were exposed for 48 h to the full agonist nicotine, the partial agonist cytisine, or the competitive antagonist dihydro-\u03b2-erythroidine; we also tested mutant nAChRs that readily exit the ER. Each of these four manipulations increased Sec24D-enhanced green fluorescent protein fluorescence of condensed ER exit sites and attenuated translocation of ATF6-enhanced green fluorescent protein to the nucleus. However, we found no correlation among the manipulations regarding other tested parameters [i.e., changes in nAChR stoichiometry (\u03b14(2)\u03b22(3) versus \u03b14(3)\u03b22(2)), changes in ER and trans-Golgi structures, or the degree of nAChR up-regulation at the plasma membrane]. The four manipulations activated 0 to 0.4% of nAChRs, which shows that activation of the nAChR channel did not underlie the reduced ER stress. Nicotine also attenuated endogenously expressed ATF6 translocation and phosphorylation of eukaryotic initiation factor 2\u03b1 in mouse cortical neurons transfected with \u03b14\u03b22 nAChRs. We conclude that, when nicotine accelerates ER export of \u03b14\u03b22 nAChRs, this suppresses ER stress and the UPR. Suppression of a sustained UPR may explain the apparent neuroprotective effect that causes the inverse correlation between a person's history of tobacco use and susceptibility to developing Parkinson's disease. This suggests a novel mechanism for neuroprotection by nicotine.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22379121/"
+    },
+    {
+      "pmid": "39167688",
+      "title": "Identification of Cytisine Derivatives as Agonists of the Human Delta Opioid Receptor by Supercomputer-Based Virtual Drug Screening and Transcriptomics.",
+      "journal": "ACS chemical biology",
+      "year": "2024",
+      "abstract": "Delta opioid receptors (DORs) are rising as therapeutic targets, not only for the treatment of pain but also other neurological disorders (e.g., Parkinson's disease). The advantage of DOR agonists compared to \u03bc-opioid receptor agonists is that they have fewer side effects and a lower potential to induce tolerance. However, although multiple candidates have been tested in the past few decades, none have been approved for clinical use. The current study focused on searching for new DOR agonists by screening a chemical library containing 40,000 natural and natural-derived products. The functional activity of the top molecules was evaluated in vitro through the cyclic adenosine monophosphate accumulation assay. Compound <b>3</b> showed promising results, and its activity was further investigated through transcriptomic methods. Compound <b>3</b> inhibited the expression of <i>TNF</i>-\u03b1, prevented NF-\u03baB translocation to the nucleus, and activated the G-protein-mediated ERK1/2 pathway. Additionally, compound <b>3</b> is structurally different from known DOR agonists, making it a valuable candidate for further investigation for its anti-inflammatory and analgesic potential.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39167688/"
+    },
+    {
+      "pmid": "42049511",
+      "title": "Genetically Encoded Constitutive Upregulation of \u03b22 Subunit-Containing Neuronal Nicotinic Acetylcholine Receptors Is Neuroprotective in Female Parkinsonian Mice.",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "year": "2026",
+      "abstract": "Parkinson's disease is projected to rise to pandemic proportions by 2050, which has resulted in an urgent need for disease-modifying treatments. We previously showed that in a mouse model of parkinsonism with unilateral 6-hydroxydopamine (6-OHDA) injection into the dorsolateral striatum, low doses of the neuronal nicotinic acetylcholine receptor (nAChR) partial agonist and smoking cessation drug, cytisine, exert neuroprotection in substantia nigra pars compacta (SNc) dopaminergic (DA) neurons of only female mice by reducing endoplasmic reticulum (ER) stress and that cytisine-mediated neuroprotection requires 17\u03b2-estradiol. Although these data suggest that neuroprotection might occur via cytisine-mediated upregulation of \u03b22 subunit-containing (\u03b22*) nAChRs in SNc DA neurons and upregulation of ER exit sites (ERES), there is no direct evidence to support this idea. Therefore, this study asks the question of whether \u03b22* nAChR upregulation without nicotinic ligands can exert neuroprotection in a preclinical mouse model of 6-OHDA-induced parkinsonism. To address this, we generate a novel \u03b22-upregulated transgenic mouse line with constitutive upregulation of \u03b22* nAChRs, without the need for nicotinic ligands. Surprisingly, only female \u03b22-upregulated mice demonstrate ERES upregulation in SNc DA neurons and showed significant neuroprotection against 6-OHDA-induced parkinsonism using four independent readouts, viz., contralateral apomorphine-induced rotations, preservation of SNc DA neurons, inhibition of the proapoptotic ER stress protein, C/EBP homologous protein, and glial fibrillary acidic protein expression in SNc astrocytes. The novel transgenic \u03b22-upregulated mice characterized in this study will provide a valuable tool for understanding the role of nAChR upregulation in major neurological disorders such as addiction, anxiety, depression, and dementia.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42049511/"
+    },
+    {
+      "pmid": "10450691",
+      "title": "Imaging central nicotinic acetylcholine receptors in baboons with [18F]fluoro-A-85380.",
+      "journal": "Journal of nuclear medicine : official publication, Society of Nuclear Medicine",
+      "year": "1999",
+      "abstract": "Central nicotinic acetylcholine receptors (nAChRs) have been implicated in learning-memory processes. Postmortem brain tissue of patients who suffered senile dementia or Parkinson's disease shows low density of nAChRs. In this study, we used PET to evaluate the distribution and kinetics of the fluoro derivative of the high-affinity and alpha4beta2-subtype-selective, nicotinic ligand 3-[2(S)-2-azetidinylmethoxy]pyridine (A-85380) in baboons. After intravenous injection of 37 MBq (1 mCi, 1-1.5 nmol) [18F]fluoro-A-85380 into isoflurane-anesthetized baboons, dynamic PET data were acquired for 180 min. Time-activity curves were generated from regions of interest. Displacement experiments (80 min after injection of the radiotracer) were performed using cytisine (1 mg/kg subcutaneously) and unlabeled fluoro-A-85380 (0.1 and 0.3 mg/kg intravenously). Toxicological studies were performed in mice. Brain radioactivity reached a plateau within 40-50 min of injection of the tracer. In the thalamic area, radioactivity remained constant for 180 min, while clearance from the cerebellum was slow (t1/2 = 145-190 min). Cytisine and unlabeled fluoro-A-85380 reduced brain radioactivity at 180 min by 50%-60%, 30%-35% and 20%-35% of control values in the thalamus, cerebellum and frontal cortex, respectively. A slight, transient increase (20 mm Hg) in blood pressure was observed with the highest displacing dose of unlabeled fluoro-A-85380. Lethal dose in mice was found to be 2.2 mg/kg intravenously. These results demonstrate the feasibility and the safety of imaging nAChRs in vivo using labeled or unlabeled fluoro-A-85380.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10450691/"
+    },
+    {
+      "pmid": "11752225",
+      "title": "Loss of nicotinic receptors in monkey striatum after 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine treatment is due to a decline in alpha-conotoxin MII sites.",
+      "journal": "Molecular pharmacology",
+      "year": "2002",
+      "abstract": "Nicotinic acetylcholine receptors (nAChRs) in the basal ganglia are a potential target for new therapeutics for Parkinson's disease. As an approach to detect expression of nAChRs in monkeys, we used 125I-epibatidine, an agonist at nAChRs containing alpha2 to alpha6 subunits. 125I-Epibatidine binding sites are expressed throughout the control monkey brain, including the basal ganglia. The alpha3/alpha6-selective antagonist alpha-conotoxin MII maximally inhibited 50% of binding in the caudate-putamen and had no effect on 125I-epibatidine binding in the frontal cortex or thalamus. In contrast, inhibition experiments with nicotine, cytisine, and 3-(2(S)-azetidinylmethoxy)pyridine-2HCl (A85380) showed a complete block of 125I-epibatidine binding in all regions investigated and did not discriminate between the alpha-conotoxin MII-sensitive and -insensitive populations in the striatum. To assess the effects of nigrostriatal damage, monkeys were rendered parkinsonian with the dopaminergic neurotoxin 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP). Animals with moderate striatal damage (dopamine transporter levels approximately 30% of control) had a 40 to 50% decrease in 125I-epibatidine binding. Inhibition studies showed that the decrease in epibatidine binding was due to loss of alpha-conotoxin MII-sensitive nAChRs. Monkeys with severe nigrostriatal damage (dopamine transporter levels < or = 5% of control) exhibited a 55 to 60% decrease in 125I-epibatidine binding, which seemed to be due to a complete loss of alpha-conotoxin MII nAChRs and a partial loss of other nAChR subtypes. These results show that nAChRs expressed in the primate striatum have similar affinities for nicotine, cytisine, and A85380, that alpha-conotoxin MII discriminates between nAChR populations in the caudate and putamen, and that alpha-conotoxin MII-sensitive nAChRs are selectively decreased after MPTP-induced nigrostriatal damage.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11752225/"
+    },
+    {
+      "pmid": "20923852",
+      "title": "Expression of functional human \u03b16\u03b22\u03b23* acetylcholine receptors in Xenopus laevis oocytes achieved through subunit chimeras and concatamers.",
+      "journal": "Molecular pharmacology",
+      "year": "2011",
+      "abstract": "\u03b16\u03b22\u03b23* acetylcholine receptors (AChRs) on dopaminergic neurons are important targets for drugs to treat nicotine addiction and Parkinson's disease. However, it has not been possible to efficiently express functional \u03b16\u03b22\u03b23* AChRs in oocytes or transfected cells. \u03b16/\u03b13 subunit chimeras permit expression of functional AChRs and reveal that parts of the \u03b16 M1 transmembrane domain and large cytoplasmic domain impair assembly. Concatameric subunits permit assembly of functional \u03b16\u03b22\u03b23* AChRs with defined subunit compositions and subunit orders. Assembly of accessory subunits is limiting in formation of mature AChRs. A single linker between the \u03b23 accessory subunit and an \u03b14 or \u03b16 subunit is sufficient to permit assembly of complex \u03b23-(\u03b14\u03b22)(\u03b16\u03b22) or \u03b23-(\u03b16\u03b22)(\u03b14\u03b22) AChRs. Concatameric pentamers such as \u03b23-\u03b16-\u03b22-\u03b14-\u03b22 have been functionally characterized. \u03b16\u03b22\u03b23* AChRs are sensitive to activation by drugs used for smoking cessation therapy (nicotine, varenicline, and cytisine) and by sazetidine. All these are partial agonists. (\u03b16\u03b22)(\u03b14\u03b22)\u03b23 AChRs are most sensitive to agonists. (\u03b16\u03b22)\u2082\u03b23 AChRs have the greatest Ca\u00b2+ permeability. (\u03b14\u03b22)(\u03b16\u03b22)\u03b23 AChRs are most efficiently transported to the cell surface, whereas (\u03b16\u03b22)\u2082\u03b23 AChRs are the least efficiently transported. Dopaminergic neurons may have special chaperones for assembling accessory subunits with \u03b16 subunits and for transporting (\u03b16\u03b22)\u2082\u03b23 AChRs to the cell surface. Concatameric pentamers and pentamers formed from combinations of trimers, dimers, and monomers exhibit similar properties, indicating that the linkers between subunits do not alter their functional properties. For the first time, these concatamers allow analysis of functional properties of \u03b16\u03b22\u03b23* AChRs. These concatamers should enable selection of drugs specific for \u03b16\u03b22\u03b23* AChRs.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/20923852/"
+    }
+  ]
+}

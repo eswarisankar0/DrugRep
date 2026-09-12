@@ -1,0 +1,190 @@
+{
+  "drug_name": "Cinpanemab",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "39666171",
+      "title": "An update on immune-based alpha-synuclein trials in Parkinson's disease.",
+      "journal": "Journal of neurology",
+      "year": "2024",
+      "abstract": "Parkinson's disease (PD) is a prevalent, chronic neurodegenerative disorder characterised by the progressive loss of dopaminergic neurons in the substantia nigra and other brain regions. The aggregation of alpha-synuclein (\u03b1-syn) into Lewy bodies and neurites is a key pathological feature associated with PD and its progression. Many therapeutic studies aim to target these aggregated forms of \u03b1-syn to potentially slow down or stop disease progression in PD. This review provides a comprehensive analysis of recent clinical trials involving vaccines and monoclonal antibodies targeting \u03b1-syn. Specifically, UB-312, AFFITOPE PD01A, PD03A and ACI-7104.056 are designed to provoke an immune response against \u03b1-syn (active immunisation), while Prasinezumab and Cinpanemab, MEDI1341 and Lu AF82422 focus on directly targeting \u03b1-syn aggregates (passive immunisation). Despite some promising results, challenges such as variable efficacy and trial discontinuations persist. Future research must address these challenges to advance disease-modifying therapies for PD around this therapeutic target.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39666171/"
+    },
+    {
+      "pmid": "38139032",
+      "title": "The Construction and Validation of a Novel Ferroptosis-Related Gene Signature in Parkinson's Disease.",
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "abstract": "As a newly discovered regulated cell death mode, ferroptosis is associated with the development of Parkinson's disease (PD) and has attracted much attention. Nonetheless, the relationship between ferroptosis and PD pathogenesis remains unclear. The GSE8397 dataset includes GPL96 and GPL97 platforms. The differential genes were analyzed by immune infiltration and Gene Set Enrichment Analysis (GSEA) (<i>p</i> < 0.05), and differential multiple |logFC| > 1 and weighted gene coexpression network analysis (WGCNA) were used to screen differential expression genes (DEGs). The intersection with 368 ferroptosis-related genes (FRGs) was conducted for gene ontology/Kyoto encyclopedia of gene and genome (GO/KEGG) enrichment analysis, gene expression analysis, correlation analysis, single-cell sequencing analysis, and prognosis analysis (area under the curve, AUC) and to predict relevant miRNAs and construct network diagrams using Cytoscape. The intersection genes of differentially expressed ferroptosis-related genes (DEFRGs) and mitochondrial dysfunction genes were validated in the substantia nigra of MPTP-induced PD mice models by Western blotting and immunohistochemistry, and the protein-binding pocket was predicted using the DoGSiteScorer database. According to the results, the estimated scores were positively correlated with the stromal scores or immune scores in the GPL96 and GPL97 platforms. In the GPL96 platform, the GSEA showed that differential genes were mainly involved in the GnRH signaling pathway, B cell receptor signaling pathway, inositol phosphate metabolism, etc. In the GPL97 platform, the GSEA showed that differential genes were mainly involved in the ubiquitin-mediated proteolysis, axon guidance, Wnt signaling pathway, MAPK signaling pathway, etc. We obtained 26 DEFRGs, including 12 up-regulated genes and 14 down-regulated genes, with good correlation. The area under the prognostic analysis curve (AUC > 0.700) showed a good prognostic ability. We found that they were enriched in different neuronal cells, oligodendrocytes, astrocytes, oligodendrocyte precursor cells, and microglial cells, and their expression scores were positively correlated, and selected genes with an AUC curve \u22650.9 were used to predict miRNA, including miR-214/761/3619-5p, miR-203, miR-204/204b/211, miR-128/128ab, miR-199ab-5p, etc. For the differentially expressed ferroptosis-mitochondrial dysfunction-related genes (DEF-MDRGs) (<i>AR</i>, <i>ISCU</i>, <i>SNCA</i>, and <i>PDK4</i>), in the substantia nigra of mice, compared with the Saline group, the expression of AR and ISCU was decreased (<i>p</i> < 0.05), and the expression of \u03b1-Syn and PDK4 was increased (<i>p</i> < 0.05) in the MPTP group. Therapeutic drugs that target SNCA include ABBV-0805, Prasinezumab, Cinpanemab, and Gardenin A. The results of this study suggest that cellular DEF-MDRGs might play an important role in PD. <i>AR</i>, <i>ISCU</i>, <i>SNCA</i>, and <i>PDK4</i> have the potential to be specific biomarkers for the early diagnosis of PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38139032/"
+    },
+    {
+      "pmid": "35921450",
+      "title": "Trial of Cinpanemab in Early Parkinson's Disease.",
+      "journal": "The New England journal of medicine",
+      "year": "2022",
+      "abstract": "Aggregated \u03b1-synuclein plays an important role in Parkinson's disease pathogenesis. Cinpanemab, a human-derived monoclonal antibody that binds to \u03b1-synuclein, is being evaluated as a disease-modifying treatment for Parkinson's disease. In a 52-week, multicenter, double-blind, phase 2 trial, we randomly assigned, in a 2:1:2:2 ratio, participants with early Parkinson's disease to receive intravenous infusions of placebo (control) or cinpanemab at a dose of 250 mg, 1250 mg, or 3500 mg every 4 weeks, followed by an active-treatment dose-blinded extension period for up to 112 weeks. The primary end points were the changes from baseline in the Movement Disorder Society-sponsored revision of the Unified Parkinson's Disease Rating Scale (MDS-UPDRS) total score (range, 0 to 236, with higher scores indicating worse performance) at weeks 52 and 72. Secondary end points included MDS-UPDRS subscale scores and striatal binding as assessed on dopamine transporter single-photon-emission computed tomography (DaT-SPECT). Of the 357 enrolled participants, 100 were assigned to the control group, 55 to the 250-mg cinpanemab group, 102 to the 1250-mg group, and 100 to the 3500-mg group. The trial was stopped after the week 72 interim analysis owing to lack of efficacy. The change to week 52 in the MDS-UPDRS score was 10.8 points in the control group, 10.5 points in the 250-mg group, 11.3 points in the 1250-mg group, and 10.9 points in the 3500-mg group (adjusted mean difference vs. control, -0.3 points [95% confidence interval {CI}, -4.9 to 4.3], P\u2009=\u20090.90; 0.5 points [95% CI, -3.3 to 4.3], P\u2009=\u20090.80; and 0.1 point [95% CI, -3.8 to 4.0], P\u2009=\u20090.97, respectively). The adjusted mean difference at 72 weeks between participants who received cinpanemab through 72 weeks and the pooled group of those who started cinpanemab at 52 weeks was -0.9 points (95% CI, -5.6 to 3.8) for the 250-mg dose, 0.6 points (95% CI, -3.3 to 4.4) for the 1250-mg dose, and -0.8 points (95% CI, -4.6 to 3.0) for the 3500-mg dose. Results for secondary end points were similar to those for the primary end points. DaT-SPECT imaging at week 52 showed no differences between the control group and any cinpanemab group. The most common adverse events with cinpanemab were headache, nasopharyngitis, and falls. In participants with early Parkinson's disease, the effects of cinpanemab on clinical measures of disease progression and changes in DaT-SPECT imaging did not differ from those of placebo over a 52-week period. (Funded by Biogen; SPARK ClinicalTrials.gov number, NCT03318523.).",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35921450/"
+    },
+    {
+      "pmid": "40301692",
+      "title": "Facile generation of drug-like conformational antibodies specific for amyloid fibrils.",
+      "journal": "Nature chemical biology",
+      "year": "2025",
+      "abstract": "Antibodies that recognize insoluble antigens, such as amyloid fibrils associated with neurodegenerative disorders, are important for research, diagnostic and therapeutic applications. However, these types of antibodies are difficult to generate, typically require animal immunization and also commonly require humanization in the case of therapeutic applications. Here we report a methodology for generating high-quality, fully human, conformation-specific antibodies against amyloid fibrils using a published human nonimmune library, yeast-surface display and quantitative fluorescence-activated cell sorting. Notably, this approach enables the isolation of conformation-specific antibodies against tau fibrils (Alzheimer's disease) and \u03b1-synuclein fibrils (Parkinson's disease) with combinations of high affinity, high conformational specificity and, in some cases, low off-target binding that rival or exceed those of clinical-stage antibodies specific for tau (zagotenemab) and \u03b1-synuclein (cinpanemab). This approach is expected to simplify the generation of conformation-specific antibodies against diverse protein aggregates and other insoluble antigens.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40301692/"
+    },
+    {
+      "pmid": "34042040",
+      "title": "Immunotherapies for Parkinson's Disease: Progression of Clinical Development.",
+      "journal": "CNS & neurological disorders drug targets",
+      "year": "2021",
+      "abstract": "Parkinson's disease is a common neurodegenerative disease affecting the movement and well-being of most elderly. The manifestations of Parkinson's disease often include resting tremor, stiffness, bradykinesia, and muscular rigidity. The typical hallmark of Parkinson's disease is the destruction of neurons in the substantia nigra and the presence of Lewy bodies in different compartments of the central nervous system. Due to various limitations to the currently available treatments, immunotherapies have emerged to be the new approach to Parkinson's disease treatment. This approach shows some positive outcomes on the efficacy by removing the aggregated species of alpha-synuclein, which is believed to be one of the causes of Parkinson's disease. In this review, an overview of how alpha-synuclein contributes to Parkinson's disease and the effects of a few new immunotherapeutic treatments, including BIIB054 (cinpanemab), MEDI1341, AFFITOPE, and PRX002 (prasinezumab) that are currently under clinical development, will be discussed.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34042040/"
+    },
+    {
+      "pmid": "36373296",
+      "title": "Prasinezumab and Cinpanemab - The Perspective of a Person with Parkinson's.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2022",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36373296/"
+    },
+    {
+      "pmid": "34814867",
+      "title": "Evaluating dopamine transporter imaging as an enrichment biomarker in a phase 2 Parkinson's disease trial.",
+      "journal": "BMC neurology",
+      "year": "2021",
+      "abstract": "Dopamine transporter single-photon emission computed tomography (DaT-SPECT) can quantify the functional integrity of the dopaminergic nerve terminals and has been suggested as an imaging modality to verify the clinical diagnosis of Parkinson's disease (PD). Depending on the stage of progression, approximately 5-15% of participants clinically diagnosed with idiopathic PD have been observed in previous studies to have normal DaT-SPECT patterns. However, the utility of DaT-SPECT in enhancing early PD participant selection in a global, multicenter clinical trial of a potentially disease-modifying therapy is not well understood. The SPARK clinical trial was a phase 2 trial of cinpanemab, a monoclonal antibody against alpha-synuclein, in participants with early PD. DaT-SPECT was performed at screening to select participants with DaT-SPECT patterns consistent with degenerative parkinsonism. Acquisition was harmonised across 82 sites. Images were reconstructed and qualitatively read at a central laboratory by blinded neuroradiologists for inclusion prior to automated quantitative analysis. In total, 482 unique participants were screened between January 2018 and May 2019; 3.8% (15/398) of imaged participants were excluded owing to negative DaT-SPECT findings (i.e., scans without evidence of dopaminergic deficit [SWEDD]). A smaller proportion of SPARK participants were excluded owing to SWEDD status upon DaT-SPECT screening than has been reported in prior studies. Further research is needed to understand the reasons for the low SWEDD rate in this study and whether these results are generalisable to future studies. If supported, the radiation risks, imaging costs, and operational burden of DaT-SPECT for enrichment may be mitigated by clinical assessment and other study design aspects. ClinicalTrials.gov identifier: NCT03318523 . Date submitted: October 19, 2017. First Posted: October 24, 2017.",
+      "publication_types": [
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Multicenter Study"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34814867/"
+    },
+    {
+      "pmid": "42227981",
+      "title": "Progress of Immunotherapies in Parkinson's Disease.",
+      "journal": "CNS neuroscience & therapeutics",
+      "year": "2026",
+      "abstract": "Immune dysregulation plays a pivotal role in the pathogenesis and progression of Parkinson's disease (PD). Increasing evidence suggests that immunotherapies targeting \u03b1-synuclein (\u03b1-syn) pathology may offer potential disease-modifying strategies for PD. This review aims to systematically summarize recent advances in \u03b1-syn-targeted immunotherapies for PD and to evaluate the translational challenges and future directions of precision immunotherapy. We critically reviewed the preclinical evidence and clinical trial outcomes of both active immunization strategies, including PD01A and UB-312, and passive monoclonal antibody therapies, such as prasinezumab and cinpanemab. Early-phase studies demonstrated favorable safety profiles and robust peripheral target engagement for several immunotherapeutic candidates. However, recent Phase II clinical trials, including PASADENA and SPARK, failed to achieve their primary clinical endpoints, highlighting a substantial gap between biological target engagement and meaningful clinical benefit. Emerging strategies aimed at overcoming these limitations include stage-specific interventions, optimized patient stratification, and differentiated therapeutic approaches. Although current \u03b1-syn-targeted immunotherapies have shown limited clinical efficacy, ongoing advances in precision immunotherapy and individualized intervention strategies may help overcome existing therapeutic bottlenecks. This review provides a strategic framework for the future development of disease-modifying therapies for PD.",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42227981/"
+    },
+    {
+      "pmid": "38315945",
+      "title": "Cinpanemab in Early Parkinson Disease: Evaluation of Biomarker Results From the Phase 2 SPARK Clinical Trial.",
+      "journal": "Neurology",
+      "year": "2024",
+      "abstract": "Sensitive, reliable, and scalable biomarkers are needed to accelerate the development of therapies for Parkinson disease (PD). In this study, we evaluate the biomarkers of early PD diagnosis, disease progression, and treatment effect collected in the SPARK. Cinpanemab is a human-derived monoclonal antibody binding preferentially to aggregated forms of extracellular \u03b1-synuclein. SPARK was a randomized, double-blind, placebo-controlled, phase 2 multicenter trial evaluating 3 cinpanemab doses administered intravenously every 4 weeks for 52 weeks with an active treatment dose-blind extension period for up to 112 weeks. SPARK enrolled 357 participants diagnosed with PD within 3 years, aged 40-80 years, \u22642.5 on the modified Hoehn and Yahr scale, and with evidence of striatal dopaminergic deficit. The primary outcome was change from baseline in the Movement Disorder Society-Sponsored Revision of the Unified Parkinson's Disease Rating Scale total score. Secondary and exploratory biomarker outcomes evaluated change from baseline at week 52 relative to placebo. Dopamine transporter SPECT and MRI were used to quantify changes in the nigrostriatal dopamine pathway and regional atrophy. CSF and plasma samples were used to assess change in total \u03b1-synuclein levels, \u03b1-synuclein seeding, and neurofilament light chain levels. SPARK was conducted from January 2018 to April 2021 and terminated due to lack of efficacy. Approximately 3.8% (15/398) of SPECT-imaged participants did not have evidence of dopaminergic deficit and were screen-failed. Binary classification of \u03b1-synuclein seeding designated 93% (110/118) of the enrolled CSF subgroup as positive for \u03b1-synuclein seeds at baseline. Clinical disease progression was observed, with no statistically significant difference in cinpanemab groups compared with that in placebo. Ninety-nine percent of participants with positive \u03b1-synuclein seeding remained positive through week 52. No statistically significant changes from baseline were observed between treatment groups and placebo across biomarker measures. Broadly, there was minimal annual change with high interindividual variability across biomarkers-with striatal binding ratios of the ipsilateral putamen showing the greatest mean change/SD over time. Biomarker results indicated enrollment of the intended population with early PD, but there was no significant correlation with disease progression or clear evidence of a cinpanemab treatment effect on biomarker measures. Suitable biomarkers for evaluating disease severity and progression in early PD trials are still needed. NCT03318523 (clinicaltrials.gov/ct2/show/NCT03318523); Submitted October 24, 2017; First patient enrolled January 2018.",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Multicenter Study",
+        "Clinical Trial, Phase II",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38315945/"
+    },
+    {
+      "pmid": "36442210",
+      "title": "Monoclonal Antibodies in Neurodegenerative Disease May Work, But They Don't Help: A Perspective from Physicians.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2022",
+      "abstract": "",
+      "publication_types": [
+        "Editorial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36442210/"
+    },
+    {
+      "pmid": "41195411",
+      "title": "Immunotherapy in Early Parkinson's Disease: A Biomarker-Driven Trial Framework for Secondary Prevention.",
+      "journal": "Cureus",
+      "year": "2025",
+      "abstract": "Parkinson's disease (PD) is characterized by \u03b1-synuclein aggregation and progressive dopaminergic neuron loss that begins years before motor symptoms appear. This prolonged premotor phase creates an opportunity for intervention before extensive neurodegeneration. Biomarkers, including \u03b1-synuclein seed amplification assays, standardized peripheral tissue biopsies (e.g., skin biopsies for phosphorylated \u03b1-syn), neuroimaging, fluid biomarkers, genetics, and digital measures, now detect prodromal PD biology in at-risk individuals and enable secondary-prevention-style trials. Immunotherapy targeting misfolded \u03b1-synuclein is a leading disease-modification strategy. Passive approaches (monoclonal antibodies) and active vaccines have shown target engagement in preclinical models and early trials. Phase 1/2 \u03b1-synuclein antibody trials have shown mainly mild-to-moderate infusion reactions and no reproducible CNS inflammatory toxicity. Although primary efficacy endpoints have not yet been achieved overall, prasinezumab has indicated exploratory slowing in faster progressors and digital measures. MEDI1341 has demonstrated Phase 1 target engagement with acceptable safety, and Lu AF82422 has shown Phase 1 target engagement, along with promising subgroup trends in MSA, and scheduled Phase 3. Meanwhile, cinpanemab was negative. However, signals of slowed progression in subgroups underscore the importance of treating earlier and selecting patients with biomarker-confirmed pathology. This review synthesizes evidence supporting early, biomarker-anchored intervention and the status of \u03b1-synuclein immunotherapies. Treating PD at the prodromal stage aims to preserve vulnerable neurons and alter the disease course; continued advances in biomarkers and trial design are essential to realize this potential. We emphasize biomarkers that verify \u03b1-synuclein pathology during the asymptomatic phase and argue for a secondary-prevention model that treats the underlying biology before symptoms to maximize disease-modifying potential. We also propose a practical, biomarker-guided trial blueprint for secondary prevention, with explicit screening funnels and endpoint hierarchies.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41195411/"
+    },
+    {
+      "pmid": "37721280",
+      "title": "Single-neuron neurodegeneration as a degenerative model for Parkinson's disease.",
+      "journal": "Neural regeneration research",
+      "year": "2024",
+      "abstract": "The positive effect of levodopa in the treatment of Parkinson's disease, although it is limited in time and has severe side effects, has encouraged the scientific community to look for new drugs that can stop the neurodegenerative process or even regenerate the neuromelanin-containing dopaminergic nigrostriatal neurons. Successful preclinical studies with coenzyme Q10, mitoquinone, isradipine, nilotinib, TCH346, neurturin, zonisamide, deferiprone, prasinezumab, and cinpanemab prompted clinical trials. However, these failed and after more than 50 years levodopa continues to be the key drug in the treatment of the disease, despite its severe side effects after 4-6 years of chronic treatment. The lack of translated successful results obtained in preclinical investigations based on the use of neurotoxins that do not exist in the human body as new drugs for Parkinson's disease treatment is a big problem. In our opinion, the cause of these failures lies in the experimental animal models involving neurotoxins that do not exist in the human body, such as 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine and 6-hydroxydopamine, that induce a very fast, massive and expansive neurodegenerative process, which contrasts with the extremely slow one of neuromelanin-containing dopaminergic neurons. The exceedingly slow progress of the neurodegenerative process of the nigrostriatal neurons in idiopathic Parkinson's patients is due to (i) a degenerative model in which the neurotoxic effect of an endogenous neurotoxin affects a single neuron, (ii) a neurotoxic event that is not expansive and (iii) the fact that the neurotoxin that triggers the neurodegenerative process is produced inside the neuromelanin-containing dopaminergic neurons. The endogenous neurotoxin that fits this degenerative model involving one single neuron at a time is aminochrome, since it (i) is generated within neuromelanin-containing dopaminergic neurons, (ii) does not cause an expansive neurotoxic effect and (iii) triggers all the mechanisms involved in the neurodegenerative process of the nigrostriatal neurons in idiopathic Parkinson's disease. In conclusion, based on the hypothesis that the neurodegenerative process of idiopathic Parkinson's disease corresponds to a single-neuron neurodegeneration model, we must search for molecules that increase the expression of the neuroprotective enzymes DT-diaphorase and glutathione transferase M2-2. It has been observed that the activation of the Kelch-like ECH-associated protein 1/nuclear factor (erythroid-derived 2)-like 2 pathway is associated with the transcriptional activation of the DT-diaphorase and glutathione transferase genes.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37721280/"
+    },
+    {
+      "pmid": "40554286",
+      "title": "Comparative assessment of binding and functional differences of clinical antibodies targeting \u03b1-synuclein in cellular models of Parkinson's disease.",
+      "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+      "year": "2025",
+      "abstract": "Parkinson's disease (PD) affects 10 million individuals worldwide with no available disease modifying therapies. The pathological hallmark of PD, Lewy bodies, are characterized by aggregated \u03b1-synuclein (\u03b1-syn) inclusions in disease lesions. In preclinical models, aggregation of \u03b1-syn leads to neuronal dysfunction, cell death, and propagation of Lewy pathology. Six clinical stage \u03b1-syn targeting monoclonal antibodies that were developed to treat or slow the progression of PD have advanced into efficacy trials, but none to date have achieved their primary endpoints. Except cinpanemab, which binds the N-terminus of \u03b1-syn, all other clinical \u03b1-syn antibodies bind C-terminal epitopes. To evaluate the impact of binding characteristics on functional activity, we affinity matured cinpanemab and benchmarked it against the clinical antibodies that vary in their affinity and selectivity for aggregated forms of \u03b1-syn. Our evaluation shows the impact of epitope, affinity, selectivity, and assay format on PFF uptake, and PFF-seed induced aggregation and S129 phosphorylation of endogenous \u03b1-syn in cellular models of PD. The comparative assessment provides new insights into the properties of \u03b1-syn antibodies and should aid in the design of next generation therapeutics for the treatment of PD and other synucleinopathies.",
+      "publication_types": [
+        "Journal Article",
+        "Comparative Study"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40554286/"
+    },
+    {
+      "pmid": "42495570",
+      "title": "The Efficacy and Safety of Monoclonal Antibodies That Target Alpha-Synuclein in Parkinson's Disease: A Systematic Review.",
+      "journal": "Parkinson's disease",
+      "year": "2026",
+      "abstract": "Parkinson's disease is a progressive neurodegenerative disorder with no currently approved disease-modifying therapies. Alpha-synuclein targeting monoclonal antibodies provide a potential therapeutic strategy. To evaluate published studies of the efficacy and/or safety of monoclonal antibodies that target alpha-synuclein in human subjects. A systematic review of peer-reviewed journal articles was conducted. PubMed, Embase and Scopus were searched up to March 2, 2025. Results were synthesised narratively. Risk of bias was assessed, and sensitivity analysis excluding studies with high risk was performed. After screening 1509 papers, 10 publications incorporating a total of 13 studies were included. These assessed Prasinezumab, Cinpanemab, Exidavnemab and Lu-AF82422 with heterogeneity amongst studies. Tolerability was generally favourable across all studies. Cinpanemab showed almost no efficacy, whilst Prasinezumab demonstrated mixed motor symptom improvements. Safety profiles for all monoclonal antibodies reflected mostly consistent rates of adverse events. Six studies were removed in the sensitivity analysis due to high risks of bias, which reduced Prasinezumab's apparent efficacy findings. The efficacy of monoclonal antibodies in Parkinson's disease remains uncertain with most positive results coming from the studies with high risks of bias. Prasinezumab demonstrated an efficacy profile with the potential of significance, warranting further research. This lack of efficacy reported with Cinpanemab is consistent with the manufacturer's decision to discontinue it. Safety data on Exidavnemab and Lu-AF82422 in healthy volunteers support further investigation in Parkinson's disease patients. Future trials may benefit from the inclusion of subjects at earlier disease stages, diagnosed before clinical features have emerged. <b>Trial Registration:</b> ClinicalTrials.gov identifier: NCT03100149.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42495570/"
+    },
+    {
+      "pmid": "41702332",
+      "title": "\u03b1-synuclein monoclonal antibodies in Parkinson's disease: A failed promise or unmet potential?",
+      "journal": "Journal of the neurological sciences",
+      "year": "2026",
+      "abstract": "Monoclonal antibodies (mAbs) have shown disappointing results in targeting \u03b1-synuclein (\u03b1-Syn) aggregates in PD, leading us to question whether this therapeutic approach is fundamentally flawed or unrealized potential awaiting better application. This review aims to assess the current evidence, identify key challenges hindering this therapeutic approach, and highlight priorities for future research. A narrative review of the literature was conducted focusing on available evidence with respect to safety, efficacy, pharmacokinetics, CNS exposure, peripheral and central target engagement, emerging biomarkers and PET scan imaging tracers, and lessons from immunotherapy development in Alzheimer's disease. Five RCTs, three phase-I and two phase-II trials, testing three different forms of mAb (n\u00a0=\u00a0786) were identified. All studies showed that mAbs were generally safe. They demonstrated low but measurable CSF mAb concentration (CSF:Serum\u00a0=\u00a00.2-0.5%) with limited evidence regarding central target engagement. Phase-II trials failed to meet their primary efficacy endpoints and showed no significant slowing of disease progression (Cinpanemab 250\u00a0mg P-value\u00a0=\u00a00.7, 1250\u00a0mg P-value\u00a0=\u00a00.78, 3500\u00a0mg P-value\u00a0=\u00a00.7; Prasinezumab 1500\u00a0mg P-value\u00a0=\u00a00.24, 4500\u00a0mg P-value\u00a0=\u00a00.72). These disappointing results are attributed to several factors, including late timing of intervention, poor BBB permeability, heterogeneity in \u03b1-Syn pathology, not using sensitive tools to detect central target engagement and Delayed PET scan tracers' development. Although there is strong preclinical evidence supporting the efficacy of mAb in PD, several limitations prevent this from translating into tangible clinical benefit. These limitations do not necessarily indicate a fundamental flaw in the therapeutic concept, but they do highlight the urgent need for future research to prioritize addressing these limitations.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41702332/"
+    }
+  ]
+}

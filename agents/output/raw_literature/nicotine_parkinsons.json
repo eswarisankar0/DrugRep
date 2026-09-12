@@ -1,0 +1,177 @@
+{
+  "drug_name": "Nicotine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 14,
+  "abstracts": [
+    {
+      "pmid": "27751556",
+      "title": "The epidemiology of Parkinson's disease: risk factors and prevention.",
+      "journal": "The Lancet. Neurology",
+      "year": "2016",
+      "abstract": "Since 2006, several longitudinal studies have assessed environmental or behavioural factors that seem to modify the risk of developing Parkinson's disease. Increased risk of Parkinson's disease has been associated with exposure to pesticides, consumption of dairy products, history of melanoma, and traumatic brain injury, whereas a reduced risk has been reported in association with smoking, caffeine consumption, higher serum urate concentrations, physical activity, and use of ibuprofen and other common medications. Randomised trials are investigating the possibility that some of the negative risk factors might be neuroprotective and thus beneficial in individuals with early Parkinson's disease, particularly with respect to smoking (nicotine), caffeine, and urate. In the future, it might be possible to identify Parkinson's disease in its prodromal phase and to promote neuroprotective interventions before the onset of motor symptoms. At this time, however, the only intervention that seems justifiable for the primary prevention of Parkinson's disease is the promotion of physical activity, which is likely to be beneficial for the prevention of several chronic diseases.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/27751556/"
+    },
+    {
+      "pmid": "35606622",
+      "title": "Life style and Parkinson's disease.",
+      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+      "year": "2022",
+      "abstract": "The question whether life style may impair the advent or course of the disease in patients with Parkinsonism is of great importance for patients and physicians alike. We present here comprehensive information on the influence of the environment, diet (especially caffeine, nicotine, alcohol, chocolate and dairy products), physical activity and sleep on risk and course of Parkinson's disease.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35606622/"
+    },
+    {
+      "pmid": "36736944",
+      "title": "Nicotine's effect on cognition, a friend or foe?",
+      "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+      "year": "2023",
+      "abstract": "Tobacco smoking is a preventable cause of morbidity and mortality throughout the world. Smoking comes in form of absorption of many compounds, among which nicotine is the main psychoactive component of tobacco and its positive and negative reinforcement effects are proposed to be the key mechanism for the initiation and maintenance of smoking. Growing evidence suggests that the cognitive enhancement effects of nicotine may also contribute to the difficulty of quitting smoking, especially in individuals with psychiatric disorders. In this review, we first introduce the beneficial effect of nicotine on cognition including attention, short-term memory and long-term memory. We next summarize the beneficial effect of nicotine on cognition under pathological conditions, including Alzheimer's disease, Parkinson's disease, Schizophrenia, Stress-induced Anxiety, Depression, and drug-induced memory impairment. The possible mechanism underlying nicotine's effect is also explored. Finally, nicotine's detrimental effect on cognition is discussed, including in the prenatal and adolescent periods, and high-dose nicotine- and withdrawal-induced memory impairment is emphasized. Therefore, nicotine serves as both a friend and foe. Nicotine-derived compounds could be a promising strategy to alleviate neurological disease-associated cognitive deficit, however, due to nicotine's detrimental effect, continued educational programs and public awareness campaigns are needed to reduce tobacco use among pregnant women and smoking should be quitted even if it is e-cigarette, especially for the adolescents.",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36736944/"
+    },
+    {
+      "pmid": "1859921",
+      "title": "Beneficial effects of nicotine.",
+      "journal": "British journal of addiction",
+      "year": "1991",
+      "abstract": "Nicotine in tobacco brings illness and death to millions of people. Yet nicotine in its pure form has the potential to be a valuable pharmaceutical agent. Nicotine fairly specifically binds to the cholinergic nicotinic gating site on cationic ion channels in receptors throughout the body. This action stimulates the release of a variety of neurotransmitters including especially catecholamines and serotonin. When chronically taken, nicotine may result in: (1) positive reinforcement, (2) negative reinforcement, (3) reduction of body weight, (4) enhancement of performance, and protection against; (5) Parkinson's disease (6) Tourette's disease (7) Alzheimers disease, (8) ulcerative colitis and (9) sleep apnea. The reliability of these effects varies greatly but justifies the search for more therapeutic applications for this interesting compound.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/1859921/"
+    },
+    {
+      "pmid": "33786606",
+      "title": "Molecular insights into the benefits of nicotine on memory and cognition (Review).",
+      "journal": "Molecular medicine reports",
+      "year": "2021",
+      "abstract": "The health risks of nicotine are well known, but there is some evidence of its beneficial effects on cognitive function. The present review focused on the reported benefits of nicotine in the brain and summarizes the associated underlying mechanisms. Nicotine administration can improve cognitive impairment in Alzheimer's disease\u00a0(AD), and dyskinesia and memory impairment in Parkinson's disease\u00a0(PD). In terms of its mechanism of action, nicotine slows the progression of PD by inhibiting Sirtuin\u00a06, a stress\u2011responsive protein deacetylase, thereby decreasing neuronal apoptosis and improving neuronal survival. In AD, nicotine improves cognitive impairment by enhancing protein kinase\u00a0B (also referred to as Akt) activity and stimulating phosphoinositide 3\u2011kinase/Akt signaling, which regulates learning and memory processes. Nicotine may also activate thyroid receptor signaling pathways to improve memory impairment caused by hypothyroidism. In healthy individuals, nicotine improves memory impairment caused by sleep deprivation by enhancing the phosphorylation of calmodulin\u2011dependent protein kinase\u00a0II, an essential regulator of cell proliferation and synaptic plasticity. Furthermore, nicotine may improve memory function through its effect on chromatin modification via the inhibition of histone deacetylases, which causes transcriptional changes in memory\u2011related genes. Finally, nicotine administration has been demonstrated to rescue long\u2011term potentiation in individuals with sleep deprivation, AD, chronic stress and hypothyroidism, primarily by desensitizing\u00a0\u03b17 nicotinic acetylcholine receptors. To conclude, nicotine has several cognitive benefits in healthy individuals, as well as in those with cognitive dysfunction associated with various diseases. However, further research is required to shed light on the effect of acute and chronic nicotine treatment on memory function.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33786606/"
+    },
+    {
+      "pmid": "40490660",
+      "title": "Nicotine Attenuates Pathogenesis of Parkinson's Disease via \u03b17-nAChR-Mediated Lipid Metabolic Reprogramming and Anti-inflammatory Signaling.",
+      "journal": "Molecular neurobiology",
+      "year": "2025",
+      "abstract": "Nicotine-an abundant tobacco alkaloid-has been epidemiologically linked to a lower incidence of Parkinson's disease (PD). In a 6\u2011hydroxydopamine (6\u2011OHDA) rat model, we found that chronic nicotine (1.5\u00a0mg\u00a0kg<sup>-1</sup>\u00a0day<sup>-1</sup>) was associated with better motor performance and a smaller drop in striatal brain\u2011derived neurotrophic factor (BDNF) (p\u2009<\u20090.05). Untargeted lipidomics indicated partial normalization of 6\u2011OHDA\u2011induced changes in sphingolipids, phospholipids, and neutral lipids, alongside reduced lipid\u2011peroxidation markers. In SH\u2011SY5Y cells, nicotine attenuated 6\u2011OHDA\u2011related cytotoxicity, mitochondrial stress, and \u03b1\u2011synuclein up\u2011regulation (p\u2009<\u20090.001); these benefits were lost when \u03b17\u2011nicotinic acetylcholine receptors (\u03b17\u2011nAChRs) were pharmacologically blocked. Nicotine also correlated with lower serum/striatal IL\u20111\u03b2 and higher IL\u201110, again in an \u03b17\u2011dependent manner. Because striatal cholesterol changes followed the same receptor requirement, lipid balance may be linked to the anti\u2011inflammatory profile. Taken together, the data support the idea that \u03b17\u2011nAChR signaling contributes to nicotine's metabolic and immunomodulatory effects in this acute toxin model, and they highlight \u03b17\u2011selective agonists as candidates for safer PD intervention; definitive causality, however, will require direct lipid and cytokine manipulation studies in progressive, \u03b1\u2011synuclein-based models.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40490660/"
+    },
+    {
+      "pmid": "8746297",
+      "title": "Beneficial effects of nicotine and cigarette smoking: the real, the possible and the spurious.",
+      "journal": "British medical bulletin",
+      "year": "1996",
+      "abstract": "Cigarette smoking is an established risk factor for cancer and cardiovascular disease, and is the leading cause of avoidable disease in most industrialized countries. Less well-known are possible beneficial effects, which are briefly considered in this survey. Preliminary data suggest that there may be inverse associations of smoking with uterine fibroids and endometriosis, and protective effects on hypertensive disorders and vomiting of pregnancy are likely. Smoking has consistently been found to be inversely related to the risk of endometrial cancer, but cancers of the breast and colon seem unrelated to smoking. Inverse associations with venous thrombosis and fatality after myocardial infarction are probably not causal, but indications of benefits with regard to recurrent aphthous ulcers, ulcerative colitis, and control of body weight may well reflect a genuine benefit. Evidence is growing that cigarette smoking and nicotine may prevent or ameliorate Parkinson's disease, and could do so in Alzheimer's dementia. A variety of mechanisms for potentially beneficial effects of smoking have been proposed, but three predominate: the 'anti-estrogenic effect' of smoking; alterations in prostaglandin production; and stimulation of nicotinic cholinergic receptors in the central nervous system. Even established inverse associations cannot be used as a rationale for cigarette smoking. These data can be used, however, to clarify mechanisms of disease, and point to productive treatment or preventive options with more narrowly-acting interventions.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/8746297/"
+    },
+    {
+      "pmid": "38320207",
+      "title": "Transdermal Nicotine Treatment and Progression of Early Parkinson's Disease.",
+      "journal": "NEJM evidence",
+      "year": "2023",
+      "abstract": "BACKGROUND: Epidemiologic studies show that smokers have a lower incidence of Parkinson\u2019s disease. Nicotine has been hypothesized to slow progression in early Parkinson\u2019s disease. METHODS: In a double-blind, placebo-controlled multicenter trial, we randomly assigned patients with Parkinson\u2019s disease, diagnosed within 18 months, who were in Hoehn and Yahr disease stage less than or equal to 2 (range from 0 to 5; higher scores indicate greater impairment), who were therapy na\u00efve (except for stable monoamine-oxidase-B inhibition), and not requiring dopaminergic therapy, to transdermal nicotine or placebo. The primary end point was change in Unified Parkinson\u2019s Disease Rating Scale parts I\u2013III (Total UPDRS) score (range from 0 to 172; higher scores indicate greater impairment) between baseline and 60 weeks (52 weeks of trial therapy, 8 weeks of washout). The first secondary end point was change in Total UPDRS from baseline to 52 weeks. Differences between groups were estimated using the Hodges\u2013Lehmann (HL) method and tested with the exact two-sided stratified Mann\u2013Whitney\u2013Wilcoxon test according to the intention-to-treat principle. RESULTS: Among 163 participants, 101 were assessed for the primary end point. Mean worsening of Total UPDRS was 3.5 in the placebo versus 6.0 in the nicotine group (HL-difference with 95% CI: \u20133 [\u20136 to 0], P=0.06). For the first secondary end point, analysis of 138 participants showed a mean worsening of 5.4 in the placebo versus 9.1 in the nicotine group (HL-difference with 95% CI: \u20134 [\u20137 to \u20131]).\u00a0Dropout was mainly because of early treatment discontinuation or adverse events. Cutaneous adverse effects at the patch application site were common. In all, 34.6% of participants initiated dopaminergic therapy during participation. CONCLUSIONS: One-year transdermal nicotine treatment did not slow progression in early Parkinson\u2019s disease. (Funded by the Michael J. Fox Foundation for Parkinson\u2019s Research and others; ClinicalTrials.gov number, NCT01560754; EudraCT number, 2010-020299-42.)",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38320207/"
+    },
+    {
+      "pmid": "10771017",
+      "title": "Nicotinic receptors and Parkinson's disease.",
+      "journal": "European journal of pharmacology",
+      "year": "2000",
+      "abstract": "Accumulating evidence indicates that nicotinic receptors play a role in basal ganglia function. Furthermore, nicotine administration may be neuroprotective in animal models of nigrostriatal degeneration, while cigarette smoking is inversely correlated with Parkinson's disease. Because nicotinic receptors are decreased in Parkinson's disease, these observations may suggest that nicotinic agonists are beneficial in this disorder. We used two model systems to investigate this possibility. One involved non-human primates, which represent a good model because their neuroanatomical organization resembles that of man and nigrostriatal degeneration leads to biochemical and behavioral deficits similar to Parkinson's disease. To identify the subunits that comprise basal ganglia nicotinic receptors, we investigated alpha4, alpha6, alpha7, beta2, beta3 and beta4 transcript distribution in monkey substantia nigra. All mRNAs were expressed with a selective alteration in some transcripts after 1-methyl-4-phenyl-1,2,3,6-tetrahydropteridine (MPTP) induced nigrostriatal degeneration. As an approach to evaluate neuroprotective effects of nicotine against nigral neuron damage, we used mesencephalic neurons in culture, treated with a selective dopaminergic neurotoxin. The results show that nicotine pretreatment protected against dopaminergic nigral neural degeneration. These data suggest that nicotinic receptor ligands may be useful in Parkinson's disease therapy.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10771017/"
+    },
+    {
+      "pmid": "7304554",
+      "title": "Nicotine exposure and Parkinson disease.",
+      "journal": "American journal of epidemiology",
+      "year": "1981",
+      "abstract": "The observed inverse relationship between smoking and Parkinson disease has prompted suggestions that nicotine, a centrally active agent, might protect against the disease. In this case-control study, cases were found to have ever regularly smoked cigarettes significantly less frequently than sex-, race-, and age-matched neighbors. This report analyzes the detailed smoking histories of cases and neighbors to see if these histories support the nicotine protection hypothesis. Estimated nicotine exposure before age at onset of symptoms for smoking cases was 186.1 g; for smoking controls it was 208.3 g (p = 0.34). Among the cases, severity of disease was not related to the extent of nicotine exposure before disease onset. Age at onset of symptoms for smoking cases (52.7 years) was not delayed (57.8 years for nonsmoking cases). Since the study was unable th find further support for the nicotine protection hypothesis, it is concluded that the observed inverse relationship between smoking and Parkinson disease is likely explainable by other factors, such as selective mortality or pre-morbid behavioral and/or constitutional changes.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/7304554/"
+    },
+    {
+      "pmid": "38430248",
+      "title": "Autophagy and UPS pathway contribute to nicotine-induced protection effect in Parkinson's disease.",
+      "journal": "Experimental brain research",
+      "year": "2024",
+      "abstract": "The gradual nature of age-related neurodegeneration causes Parkinson's disease (PD) and impairs movement, memory, intellectual ability, and social interaction. One of the most prevalent neurodegenerative conditions affecting the central nervous system (CNS) among the elderly is PD. PD affects both motor and cognitive functions. Degeneration of dopaminergic (DA) neurons and buildup of the protein \u03b1-synuclein (\u03b1-Syn) in the substantia nigra pars compacta (SNpc) are two major causes of this disorder. Both UPS and ALS systems serve to eliminate \u03b1-Syn. Autophagy and UPS deficits, shortened life duration, and lipofuscin buildup accelerate PD. This sickness has no cure. Innovative therapies are halting PD progression. Bioactive phytochemicals may provide older individuals with a natural substitute to help delay the onset of neurodegenerative illnesses. This study examines whether nicotine helps transgenic C. elegans PD models. According to numerous studies, nicotine enhances synaptic plasticity and dopaminergic neuronal survival. Upgrades UPS pathways, increases autophagy, and decreases oxidative stress and mitochondrial dysfunction. At 100, 150, and 200\u00a0\u00b5M nicotine levels, worms showed reduced \u03b1-Syn aggregation, repaired DA neurotoxicity after 6-OHDA intoxication, increased lifetime, and reduced lipofuscin accumulation. Furthermore, nicotine triggered autophagy and UPS. We revealed nicotine's potential as a UPS and autophagy activator to prevent PD and other neurodegenerative diseases.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38430248/"
+    },
+    {
+      "pmid": "36121634",
+      "title": "Study of the Effects of Nicotine and Caffeine for the Treatment of Parkinson's Disease.",
+      "journal": "Applied biochemistry and biotechnology",
+      "year": "2023",
+      "abstract": "Parkinson's disease (PD) is considered to be a highly severe neurological disorder. PD occurs due to a decrease in dopamine production by the degeneration of dopamine-secreting neurons. Genetic mutations, environmental toxins and lifestyle are some of the risk factors of the progressive neurodegenerative disorder PD. Parkin protein, which is encoded by the PARK gene, is one of the important proteins, which is one of the causative agents. The Parkin protein has several mutations which lead to the development of the disease. Apart from PD, the mutations in Parkin also showed to be responsible for the onset of diseases like cancers. It is reported that the E28K mutation in the Ubl domain of parkin is highly deleterious and responsible for the onset of melanoma. This necessitates the development of new therapeutics against PD. Molecules like levodopa, carbidopa, monoamine oxidase type B inhibitors (MBO inhibitors), dopamine agonists, anticholinergics and amantadine are some commonly used drugs used to treat PD. Recently, there have been increasing evidence which shows that cigarette smoking and consumptions of coffee and tea could have important roles in modulating the risk of PD. Therefore, we planned to analyse the molecular mechanism of the binding interactions of nicotine, caffeine and the polyphenol (\u2009-)-epigallocatechin-3-gallate (EGCG) from green tea with Parkin protein to predict their therapeutic potentials in PD targeting the E28K mutation. We focused on E28K mutant of Parkin as this mutant form of parkin has been shown to be the most pathogenic one. We could identify the potential therapeutic aspects of these natural products to prevent the onset of PD. This work may therefore be considered to be the first of its kind which would take into consideration the environmental toxicological approach in designing natural product inhibitors against the onset of PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36121634/"
+    },
+    {
+      "pmid": "30409187",
+      "title": "Nicotine promotes neuron survival and partially protects from Parkinson's disease by suppressing SIRT6.",
+      "journal": "Acta neuropathologica communications",
+      "year": "2018",
+      "abstract": "Parkinson's disease is characterized by progressive death of dopaminergic neurons, leading to motor and cognitive dysfunction. Epidemiological studies consistently show that the use of tobacco reduces the risk of Parkinson's. We report that nicotine reduces the abundance of SIRT6 in neuronal culture and brain tissue. We find that reduction of SIRT6 is partly responsible for neuroprotection afforded by nicotine. Additionally, SIRT6 abundance is greater in Parkinson's patient brains, and decreased in the brains of tobacco users. We also identify SNPs that promote SIRT6 expression and simultaneously associate with an increased risk of Parkinson's. Furthermore, brain-specific SIRT6 knockout mice are protected from MPTP-induced Parkinson's, while SIRT6 overexpressing mice develop more severe pathology. Our data suggest that SIRT6 plays a pathogenic and pro-inflammatory role in Parkinson's and that nicotine can provide neuroprotection by accelerating its degradation. Inhibition of SIRT6 may be a promising strategy to ameliorate Parkinson's and neurodegeneration.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30409187/"
+    },
+    {
+      "pmid": "15331239",
+      "title": "Smoking, nicotine and Parkinson's disease.",
+      "journal": "Trends in neurosciences",
+      "year": "2004",
+      "abstract": "Epidemiological studies show that smoking is associated with a lower incidence of Parkinson's disease (PD). This finding is important because it could provide clues about therapeutic strategies for protection against this debilitating movement disorder. Smoke contains numerous chemicals that could be responsible for the apparent protective effect. Here, a role for nicotine is considered, because this chemical stimulates brain dopaminergic systems and provides some symptomatic benefit in PD. Nicotine also has a neuroprotective action. Putative factors and signaling pathways involved in the actions of nicotine are discussed. An understanding of the molecular basis for the reduced occurrence of PD in tobacco users is crucial for the development of intervention strategies to reduce or halt disease progression.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, P.H.S.",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15331239/"
+    }
+  ]
+}

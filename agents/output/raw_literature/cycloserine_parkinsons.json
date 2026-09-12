@@ -1,0 +1,107 @@
+{
+  "drug_name": "Cycloserine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 8,
+  "abstracts": [
+    {
+      "pmid": "21262271",
+      "title": "Effects of D-cycloserine on MPTP-induced behavioral and neurological changes: potential for treatment of Parkinson's disease dementia.",
+      "journal": "Behavioural brain research",
+      "year": "2011",
+      "abstract": "Glutamatergic dysfunction has been implicated in the neurodegeneration seen in Parkinson's disease (PD). Sub-chronic intraperitoneal injection with D-cycloserine (DCS), a partial agonist at the glycine binding site of the N-methyl-D-aspartate (NMDA) receptor, at dosages of 30, 100, or 200 mg/kg/day, was used to evaluate the role of NMDA receptors in neuronal and behavioral changes in a 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD rat model. Starting one day after intra-nigral infusion of MPTP, transient disturbance of motor function in the rotarod test was observed. This impairment spontaneously recovered to control levels 6 days after MPTP lesioning and DCS treatment facilitated recovery. MPTP lesioning also caused deficits in working memory and anxiety-like behavior in the T-maze and elevated plus-maze tests, respectively. Further, object recognition was disrupted in MPTP-lesioned rats, and interleukin-2 levels in the striatum, amygdala, and non-prefrontal cortex were increased, both changes being restored by DCS treatment. Furthermore, MPTP lesion-induced dopaminergic degeneration, microglial activation, and cell loss in the hippocampal CA1 area were all improved by DCS treatment. These results suggest that NMDA receptors are involved in PD-related neuronal and behavioral dysfunctions and that DCS may have clinical potential in the treatment of dementia associated with PD.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/21262271/"
+    },
+    {
+      "pmid": "34785162",
+      "title": "Serotonin 1A receptor agonist modulation of motor deficits and cortical oscillations by NMDA receptor interaction in parkinsonian rats.",
+      "journal": "Neuropharmacology",
+      "year": "2022",
+      "abstract": "Although serotonin 1A (5-HT1A) receptor agonists are widely used as the additive compound to reduce l-dopa-induced dyskinesia in Parkinson's disease (PD), few studies focused on the effect and mechanism of 5-HT1A receptor agonist on the motor symptoms of PD. Unilateral 6-hydroxydopamine (6-OHDA)-lesioned rats were used and implantation of electrodes was performed in the motor cortex of these rats. So the effect of 5-HT1A receptor agonist 8-OH-DPAT on motor behaviors and oscillatory activities were evaluated. In addition, 8-OH-DPAT combined with D2 receptor antagonist raclopride, NMDA receptor antagonist MK-801, or its agonist d-cycloserine (DCS) were co-administrated. 8-OH-DPAT administration significantly improved spontaneous locomotor activity and asymmetric forepaw function in 6-OHDA-lesioned rats. Meanwhile, 8-OH-DPAT identified selective modulation of the abnormal high beta oscillations (25-40\u00a0Hz) in the motor cortex of 6-OHDA-lesioned rats, without inducing pathological finely tuned gamma around 80\u00a0Hz. Different from 8-OH-DPAT, l-dopa treatment produced a prolonged improvement on motor performances and differential regulation of high beta and gamma oscillations. However, dopamine D2 receptor antagonist had no influence on the 8-OH-DPAT-mediated-motor behaviors and beta oscillations in 6-OHDA-lesioned rats. In contrast, subthreshold NMDA receptor antagonist MK-801 obviously elevated the 8-OH-DPAT-mediated-motor behaviors, while NMDA receptor agonist DCS partially impaired the 8-OH-DPAT-mediated symptoms in 6-OHDA-lesioned rats. This study suggests that 5-HT1A receptor agonist 8-OH-DPAT improves motor activity and modulates the oscillations in the motor cortex of parkinsonian rats. Different from l-dopa, 8-OH-DPAT administration ameliorates motor symptoms of PD through glutamatergic rather than the dopaminergic pathway.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34785162/"
+    },
+    {
+      "pmid": "19900486",
+      "title": "Involvement of NMDA receptors in both MPTP-induced neuroinflammation and deficits in episodic-like memory in Wistar rats.",
+      "journal": "Behavioural brain research",
+      "year": "2010",
+      "abstract": "Hyper-activation of glutamatergic activity and deficits in episodic memory has been observed in Parkinson's disease (PD). This study was intended to clarify the effects of D-cycloserine (DCS), a partial agonist of N-methyl-D-aspartate (NMDA) receptors, on neuroinflammation and deficits in episodic-like memory in the 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-induced PD animal model. Male Wistar rats were stereotaxically administered with MPTP into the substantia nigra pars compacta. Starting 1 day after the lesion, animals were treated daily with DCS (0, 5, or 10mg/kg/day; i.p.). Thirteen days after the MPTP lesion, the rats received the episodic-like memory test. Sham-operated rats exhibited episodic-like memory, recognizing objects' location and objects' temporal order. MPTP-lesioned rats exhibited deterioration in spatial memory and failed to recognize the temporal order of objects. Further, MPTP lesions resulted in dopaminergic degeneration and microglial activation in the brain, as well as cell loss in the hippocampal CA1 area. DCS treatment (10mg/kg/day) reversed the above neurodegeneration, neuroinflammation, and behavioral deficits. Taken together, these results suggest that NMDA receptors may be involved in cognitive deficits in PD and that the application of DCS in the treatment for dementia in PD is warranted.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/19900486/"
+    },
+    {
+      "pmid": "29907742",
+      "title": "NMDA antagonists for treating the non-motor symptoms in Parkinson's disease.",
+      "journal": "Translational psychiatry",
+      "year": "2018",
+      "abstract": "Among patients with Parkinson's disease (PD), depression is prevalent and disabling, impacting both health outcomes and quality of life. There is a critical need for alternative pharmacological methods to treat PD depression, as mainstream antidepressant drugs are largely ineffective in this population. Currently, there are no recommendations for the optimal treatment of PD neuropsychiatric symptoms. Given the dual antidepressant and anti-dyskinetic effects of ketamine and other N-methyl-D-aspartate (NMDA) antagonists for PD, this review aims to examine the current evidence of NMDA antagonists for treating neuropsychiatric symptoms, including memantine, amantadine, ketamine, dizoclopine, and d-cycloserine. A comprehensive literature search was conducted using the PubMed database. We also searched the following databases up to March 1, 2018: Ovid MEDLINE, PsycINFO, CINAHL, Google Scholar, Cochrane Central Register of Controlled Trials, and Cochrane Database of Systematic Reviews. The following keywords were used: NMDA antagonist and Parkinson's disease. Two authors independently reviewed the articles identified from the search using specific selection criteria, focusing on studies of mood, psychiatric condition, depression, cognition, and quality of life, and the consensus was reached on the 20 studies included. There is a preliminary evidence that NMDA antagonists may modulate psychiatric symptoms in PD. However, current evidence of psychiatric symptom-modifying effects is inconclusive and requires that further trials be conducted in PD. The repurposing of old NMDA antagonists, such as ketamine for depression and newer therapies, such as rapastinel, suggests that there is an emerging place for modulating the glutamatergic system for treating non-motor symptoms in PD.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29907742/"
+    },
+    {
+      "pmid": "22861201",
+      "title": "Anti-dyskinetic mechanisms of amantadine and dextromethorphan in the 6-OHDA rat model of Parkinson's disease: role of NMDA vs. 5-HT1A receptors.",
+      "journal": "The European journal of neuroscience",
+      "year": "2012",
+      "abstract": "Amantadine and dextromethorphan suppress levodopa (L-DOPA)-induced dyskinesia (LID) in patients with Parkinson's disease (PD) and abnormal involuntary movements (AIMs) in the unilateral 6-hydroxydopamine (6-OHDA) rat model. These effects have been attributed to N-methyl-d-aspartate (NMDA) antagonism. However, amantadine and dextromethorphan are also thought to block serotonin (5-HT) uptake and cause 5-HT overflow, leading to stimulation of 5-HT(1A) receptors, which has been shown to reduce LID. We undertook a study in 6-OHDA rats to determine whether the anti-dyskinetic effects of these two compounds are mediated by NMDA antagonism and/or 5-HT(1A) agonism. In addition, we assessed the sensorimotor effects of these drugs using the Vibrissae-Stimulated Forelimb Placement and Cylinder tests. Our data show that the AIM-suppressing effect of amantadine was not affected by the 5-HT(1A) antagonist WAY-100635, but was partially reversed by the NMDA agonist d-cycloserine. Conversely, the AIM-suppressing effect of dextromethorphan was prevented by WAY-100635 but not by d-cycloserine. Neither amantadine nor dextromethorphan affected the therapeutic effects of L-DOPA in sensorimotor tests. We conclude that the anti-dyskinetic effect of amantadine is partially dependent on NMDA antagonism, while dextromethorphan suppresses AIMs via indirect 5-HT(1A) agonism. Combined with previous work from our group, our results support the investigation of 5-HT(1A) agonists as pharmacotherapies for LID in PD patients.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22861201/"
+    },
+    {
+      "pmid": "22892161",
+      "title": "Potential of D-cycloserine in the treatment of behavioral and neuroinflammatory disorders in Parkinson's disease and studies that need to be performed before clinical trials.",
+      "journal": "The Kaohsiung journal of medical sciences",
+      "year": "2012",
+      "abstract": "Hyperactivation of glutamatergic N-methyl-D-aspartate (NMDA) receptors has been implicated in the excitotoxicity and pathophysiology of Parkinson's disease (PD). NMDA receptor blockers have been used clinically to treat dementia, but their efficacy is controversial. Modulation of NMDA receptors might improve neuroinflammation and cognitive deficits in PD. D-cycloserine (DCS), a partial agonist binding to the glycine binding site of NMDA receptors, has been demonstrated to improve cognitive function in primates and rodents. Our previous study showed that DCS can reduce motor, emotional, and cognitive dysfunctions, as well as neuroinflammation and neurodegeneration in a PD animal model and may therefore have potential for the treatment of neuroinflammation and cognitive dysfunction in patients with PD. In addition, increased expression of cyclooxygenase type-2 (COX-2) has been observed in dopaminergic neurons and activated microglia in the brain of both PD patients and PD animal models. COX-2 inhibitors can suppress activation of microglia and protect dopaminergic neurons from degeneration. Thus, a combination of DCS and COX-2 inhibitors might prove useful in suppressing neuroinflammation and cognitive deficits in PD.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22892161/"
+    },
+    {
+      "pmid": "24194107",
+      "title": "Anticataleptic potencies of glutamate-antagonists.",
+      "journal": "Amino acids",
+      "year": "1991",
+      "abstract": "The anticataleptic effects of non-competitive and competitive NMDA antagonists as well as those of an agonist at the allosteric glycine binding site of the NMDA receptor were tested in the catalepsy model. Some of these drugs were further tested in a reaction time task demanding rapid locomotor initiation. The results show that the non-competitive NMDA antagonists dizocilpine and memantine as well as the competitive antagonists CGP 39551, CGP 37849 and CPPene antagonized dopamine D2 receptor mediated catalepsy induced by haloperidol. D-cycloserine, a partial glycine agonist per se had no effects, but it enhanced the anticataleptic effects of dizocilpine when coadministered. However, the effects of CGP 37849 were abolished. Dopamine D1 receptor mediated catalepsy induced by SCH 23390 was antagonized by dizocilpine, memantine, CPPene, but not by CGP 37849. In the reaction time task dizocilpine, memantine and CGP 37849 were tested for their anti-akinetic and anti-bradykinetic potencies. All these compounds improved haloperidolinduced slowing of reaction time. However, they acted differentially on haloperidol-induced slowing of movement execution and decreased initial acceleration. Thus, antagonists at the NMDA receptor may have a therapeutic potential in the treatment of Parkinson's disease. Their potency can be manipulated specifically at the glycine binding site.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24194107/"
+    },
+    {
+      "pmid": "33421565",
+      "title": "Facilitation of GluN2C-containing NMDA receptors in the external globus pallidus increases firing of fast spiking neurons and improves motor function in a hemiparkinsonian mouse model.",
+      "journal": "Neurobiology of disease",
+      "year": "2021",
+      "abstract": "Globus pallidus externa (GPe) is a nucleus in the basal ganglia circuitry involved in the control of movement. Recent studies have demonstrated a critical role of GPe cell types in Parkinsonism. Specifically increasing the function of parvalbumin (PV) neurons in the GPe has been found to facilitate motor function in a mouse model of Parkinson's disease (PD). The knowledge of contribution of NMDA receptors to GPe function is limited. Here, we demonstrate that fast spiking neurons in the GPe express NMDA receptor currents sensitive to GluN2C/GluN2D-selective inhibitors and glycine site agonist with higher efficacy at GluN2C-containing receptors. Furthermore, using a novel reporter model, we demonstrate the expression of GluN2C subunits in PV neurons in the GPe which project to subthalamic nuclei. GluN2D subunit was also found to localize to PV neurons in GPe. Ablation of GluN2C subunit does not affect spontaneous firing of fast spiking neurons. In contrast, facilitating the function of GluN2C-containing receptors using glycine-site NMDA receptor agonists, D-cycloserine (DCS) or AICP, increased the spontaneous firing frequency of PV neurons in a GluN2C-dependent manner. Finally, we demonstrate that local infusion of DCS or AICP into the GPe improved motor function in a mouse model of PD. Together, these results demonstrate that GluN2C-containing receptors and potentially GluN2D-containing receptors in the GPe may serve as a therapeutic target for alleviating motor dysfunction in PD and related disorders.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, U.S. Gov't, Non-P.H.S."
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33421565/"
+    }
+  ]
+}

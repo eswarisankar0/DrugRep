@@ -1,0 +1,185 @@
+{
+  "drug_name": "Paroxetine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "26739248",
+      "title": "Trajectories of recovery in depressed Parkinson's disease patients treated with paroxetine or venlafaxine.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2016",
+      "abstract": "Depression is considered a syndrome with a constellation of symptoms that are frequently categorized into 3 domains including affective, somatic and cognitive. There has been limited research into the domain specific magnitude or relative timing of treatment response in patients with Parkinson's disease (PD). In addition, antidepressant trials involving patients with PD have demonstrated a similar robust placebo response to that seen in other populations. However, the timing of the placebo response has not been carefully studied. We studied differential responses to antidepressant treatment in affective, somatic and cognitive domains of depression. Patients were treated for twelve weeks with placebo, venlafaxine or paroxetine as part of the Study of Antidepressants in Parkinson's Disease (SAD-PD) randomized controlled trial. Depressive symptoms were evaluated with three commonly used rating scales. All symptom domains improved during the study period, There was a significant placebo effect, especially in the first two weeks that had diminished by week 12. Compared to placebo, the affective symptoms significantly improved during treatment as early as week 4, followed by the somatic symptoms of depression in week 6 and cognitive symptoms in week 8. The largest response was seen in the affective domain. In depressed PD patients treated with venlafaxine or paroxetine, affective symptoms improved first, followed by somatic symptoms and cognitive symptoms. These findings could guide patient counselling and increase patient compliance by informing about the expected treatment responses. The substantial placebo effect underlines the importance of a sufficiently long study period in future studies.",
+      "publication_types": [
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26739248/"
+    },
+    {
+      "pmid": "24904757",
+      "title": "Treatment of Gambling Disorders.",
+      "journal": "Current treatment options in psychiatry",
+      "year": "2014",
+      "abstract": "Preclinical and clinical research implicate several neurotransmitter systems in the pathophysiology of gambling disorder (GD). In particular, neurobiological research suggests alterations in serotonergic, dopaminergic, glutamatergic and opioidergic functioning. The relative efficacy of medications targeting these systems remains a topic of ongoing research, and there is currently no Food and Drug Administration (FDA) approved medication with an indication for GD. Considering co-occurring disorders may be particularly important when devising a treatment plan for GD: extant data suggest that the opioid antagonist naltrexone may by the most effective form of current pharmacotherapy for GD, particularly for individuals with a co-occurring substance-use disorder (SUD) or with a family history of alcoholism. In contrast, lithium or other mood stabilizers may be most effective for GD for patients presenting with a co-occurring bipolar-spectrum disorder (BSD). Further, serotonin reuptake inhibitors (SRIs) may be efficacious in reducing GD symptoms for individuals also presenting with a (non-BSD) mood or anxiety disorder. Finally, elevated rates of GD (and other Impulse Control Disorders; ICDs) have been noted among individuals with Parkinson's Disease (PD), and clinicians should assess for vulnerability to GD when considering treatment options for PD. Reducing levodopa or dopamine agonist (DA) dosages may partially reduce GD symptoms among patients with co-occurring PD. For GD patients not willing to consider drug treatment, n-acetyl cysteine or behavioral therapies may be effective. Ongoing research into the effectiveness of combined behavioral and pharmacotherapies is being conducted; thus combined treatments should also be considered.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24904757/"
+    },
+    {
+      "pmid": "2938025",
+      "title": "Parkinson's disease: decreased density of 3H-imipramine and 3H-paroxetine binding sites in putamen.",
+      "journal": "Neurology",
+      "year": "1986",
+      "abstract": "The density of high-affinity 3H-imipramine and 3H-paroxetine binding sites (two serotonin-uptake blockers) was decreased in the putamen of parkinsonian patients. The correlation between serotonin levels and the number of 3H-imipramine and 3H-paroxetine binding sites suggests that they are located on serotoninergic nerve terminals and could be used to study serotoninergic innervation in the human brain. Since imipramine and paroxetine are powerful antidepressants, these results furthermore suggest that decreased serotoninergic transmission may be implicated in the pathophysiology of depression in Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/2938025/"
+    },
+    {
+      "pmid": "11096753",
+      "title": "Depression in Parkinson's Disease.",
+      "journal": "Current treatment options in neurology",
+      "year": "2000",
+      "abstract": "Depression is very common in Parkinson's disease (PD), but its severity and particular symptoms vary. It can often be difficult to diagnose because many of the symptoms typically associated with depression (eg, sleep difficulties, fatigue) can be seen in nondepressed patients with PD, and signs thought to represent depression (eg, lack of facial expression, slowness) can be produced by PD itself. Apathy, although a possible feature of depression, can exist apart from depression and is often associated with cognitive impairment. Therefore, when evaluating patients with PD for possible depression, one should concentrate on the psychological or ideational aspects of the illness. One must determine whether the patient feels sad or hopeless or has a marked inability to enjoy life. Once it has been determined that the patient has clinically significant depressive symptoms, it is important to let him or her know that depression is an aspect of PD requiring treatment, just like the motor manifestations of the disease. The idea of adding antidepressant medications and the possibility of psychotherapy should be introduced. A very reasonable first-choice antidepressant is either sertraline or paroxetine. Because of isolated case reports of worsening motor function associated with institution of a selective serotonin reuptake inhibitor (SSRI), one should keep track of when the medication was started so that the patient can be seen again within a month. It is important from a psychological perspective to have regular follow-up visits when treating depression. If the SSRIs are ineffective or not tolerated, nortriptyline is a good next choice. It has fewer anticholinergic effects and is less likely to cause or worsen orthostatic hypotension than other tricyclic antidepressants. Amitriptyline, although an old favorite of neurologists, is very sedating and has too much anticholinergic activity to be well tolerated in the higher doses needed to treat depression. If a patient could benefit from a dopamine agonist from a motor standpoint and his or her depressive symptoms are mild, consider using pramipexole, which may improve mood and motivation (although this has not yet been proven in a well-controlled trial). It is a good idea to keep patients on antidepressant therapy at least 6 months; many patients require long-term treatment. If a patient is severely depressed, he or she should be referred to a psychiatrist, who may consider admission to the hospital and possible electroconvulsive therapy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11096753/"
+    },
+    {
+      "pmid": "30146591",
+      "title": "Antidepressants for Depression, Apathy, and Gait Instability in Parkinson's Disease: A Multicenter Randomized Study.",
+      "journal": "Internal medicine (Tokyo, Japan)",
+      "year": "2019",
+      "abstract": "Objective Depression, apathy, and gait instability are cardinal symptoms in patients with Parkinson's disease (PD). Selective serotonin reuptake inhibitors (SSRIs) and serotonin and norepinephrine reuptake inhibitors (SNRIs) are used for treating the psychiatric symptoms of PD. This is the first prospective randomized study to compare the efficacy of an SNRI (duloxetine) with SSRIs (paroxetine, escitalopram) in improving depressive symptoms and apathy (primary) and freezing of gait (FOG; secondary) in patients with PD. Methods In this prospective, multicenter, open-label, randomized study, Japanese PD patients with a Quick Inventory of Depressive Symptomatology-Japanese (QIDS-J) score \u22656 were randomly assigned to receive an SSRI (27 enrolled, 25 analyzed) or duloxetine (28 enrolled, 27 analyzed) and were assessed at 6 and 10 weeks. Results The mean change (SD) in the QIDS J [SSRI -2.4 (3.6), p=0.015; SNRI -2.3 (3.9), p=0.029] and FOG-Questionnaire [SSRI -2.9 (4.2), p=0.012; SNRI -3.4 (4.7), p=0.010] scores (from baseline) at 10 weeks was statistically significant, while the mean change in the Apathy Scale scores was not [SSRI -2.7 (5.4), p=0.054; SNRI -1.5 (3.7), p=0.109]. No significant differences were observed between the SSRI and SNRI groups. The treatments were well-tolerated; however, gastrointestinal events were more common with SSRIs. Two SNRI-treated patients reported an exacerbation of tremor. Conclusion SSRIs and SNRIs improve the depressive symptoms and FOG in PD patients with mild to severe depressive symptoms. However, their effectiveness in treating apathy remains to be elucidated.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Multicenter Study",
+        "Randomized Controlled Trial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30146591/"
+    },
+    {
+      "pmid": "36433759",
+      "title": "Antidepressant and Neuroprotective Effects of 3-Hydroxy Paroxetine, an Analog of Paroxetine in Rats.",
+      "journal": "The international journal of neuropsychopharmacology",
+      "year": "2023",
+      "abstract": "Paroxetine (PX) is a widely used antidepressant with side effects such as weakness, dizziness, and trouble sleeping. In search of novel compounds with better efficacy and fewer side effects, we synthesized 3HPX, a hydroxylated analog of PX, and compared the 2 in silico for their pharmacokinetic and binding properties and in vivo for their antidepressant and potential neuroprotective effects. In silico studies compared pharmacological properties as well as interactions of PX and 3HPX with the serotonin transporter. In vivo studies utilized an animal model of comorbid depression-Parkinson disease. Adult male Wistar rats were injected (sterotaxically) with lipopolysaccharide in the striatum (unilaterally), followed by 14 days of once-daily injections (i.p.) of 10 mg/kg PX or 3HPX. Animals were tested for motor asymmetry and locomotor activity as well as indices of anhedonia and helplessness using sucrose preference and forced swim tests, respectively. Brains of these animals were collected after the last test, and tyrosine hydroxylase-positive neurons in substantia nigra pars compacta and Iba-1-positive stained microglia in ipsilateral striatum were measured. In silico findings indicated that 3HPX could bind stronger to serotonin transporter and also have a better clearance and hence less toxicity compared with PX. In vivo results revealed a more effective reversal of immobility in the swim test, substantial increase in tyrosine hydroxylase-positive cells in the substantia nigra pars compacta, and more ramified Iba-1+ cells by 3HPX compared with PX. The findings suggest superior effectiveness of 3HPX as an antidepressant and neuroprotectant compared with PX and hence potential utility in Parkinson disease depression co-morbidity.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36433759/"
+    },
+    {
+      "pmid": "34290929",
+      "title": "Vortioxetine Improved Depressive State In Parkinson's Disease.",
+      "journal": "Cureus",
+      "year": "2021",
+      "abstract": "We report the case of a\u00a067-year-old Japanese Parkinson's disease (PD) patient with depression who was successfully treated with vortioxetine. The patient's PD was being treated with levodopa (100 mg/day). As improvement was noted in PD symptoms, levodopa was continued. Subsequently, she was referred to our department due to worsening of her depressive symptoms, including depressed mood, anhedonia, decreased energy, decreased concentration, decreased motivation, insomnia, hopelessness, and worthlessness. The patient did not respond to paroxetine and escitalopram. Finally, vortioxetine improved her depressive state without worsening PD.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34290929/"
+    },
+    {
+      "pmid": "20808132",
+      "title": "Depression in Parkinson's disease: symptom improvement and residual symptoms after acute pharmacologic management.",
+      "journal": "The American journal of geriatric psychiatry : official journal of the American Association for Geriatric Psychiatry",
+      "year": "2011",
+      "abstract": "Parkinson's disease (PD) is frequently complicated by depression and there is a paucity of controlled research that can inform the management of this disabling nonmotor complaint. A randomized controlled trial of nortriptyline, paroxetine, and placebo for the treatment of depression in PD (dPD) was recently completed. The purpose of this article is to describe the baseline pattern of depressive symptom presentation in PD, the specific symptoms of dPD that improve with pharmacotherapy, and the residual symptoms that remain in patients who meet a priori criteria for response or remission after acute treatment (8 weeks). The Departments of Psychiatry and Neurology at Robert Wood Johnson Medical School, New Jersey. : Fifty-two depressed patients (major depression or dysthymia based on Diagnostic and Statistical Manual of Mental Disorders 4th edition criteria) with Parkinson's disease (by research criteria). A randomized controlled trial of nortriptyline, paroxetine, and placebo. The four subscales (core mood, anxiety, insomnia, and somatic) and individual items from the Hamilton Rating Scale for Depression-17 were the focus of this study. These measures were assessed at baseline and Week 8. Baseline depressive symptoms were unrelated to motor functioning. Treatment response was associated with significant improvements in the core mood, anxiety, insomnia, and somatic symptoms seen in dPD. Residual symptoms, such as sadness and loss of interest, persisted in treatment responders in a milder form than was initially present. Antidepressants may influence all symptoms of dPD, including those that share great overlap with the physical disease process. Additional research regarding adjunctive interventions is needed to help optimize the management of dPD.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/20808132/"
+    },
+    {
+      "pmid": "11009210",
+      "title": "Tolerability of paroxetine in Parkinson's disease: a prospective study.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2000",
+      "abstract": "Depression is a common finding in patients with Parkinson's disease (PD). Traditionally, depression has been treated with tricyclic antidepressants, which are often associated with undesirable side effects that may limit their use in PD. Few studies have been performed with selective serotonin reuptake inhibitors (SSRIs) in these patients. We assessed the tolerability of the SSRI antidepressant paroxetine (10-20 mg once per day) in 65 outpatients with PD and depression for a period of at least 3 months. Treatment was continued for 125.3+/-89.6 days (mean +/- standard deviation) in 52 patients. In these subjects the Hamilton Disease Rating Scale improved from 21.7+/-6.4 to 13.8+/-5.8 (p <0.001). Overall, 13 patients stopped paroxetine after 9.6+/-10.6 days because of adverse reactions. Two patients reported increased \"off\" time and tremor that reversed after treatment was stopped. No risk factors for intolerance were identified. Paroxetine is a safe and effective drug to treat depression in PD.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11009210/"
+    },
+    {
+      "pmid": "11071504",
+      "title": "Paroxetine in Parkinson's disease: effects on motor and depressive symptoms.",
+      "journal": "Neurology",
+      "year": "2000",
+      "abstract": "Selective serotonin reuptake inhibitors have been used in the treatment of depression in patients with PD. Conflicting data as to whether selective serotonin reuptake inhibitors worsen parkinsonian motor symptomatology have been reported. In this study, the additional 6 months therapy with paroxetine 20 mg/d in a group of depressed patients with PD did not modify parkinsonian motor function (Unified Parkinson's Disease Rating Scale scores); however, in one patient, fully reversible worsening of tremor was observed. Depression, as evaluated by Beck Depression Inventory and Hamilton Depression Rating Scale, improved from baseline to final visit (p < 0.05 by analysis of variance).",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11071504/"
+    },
+    {
+      "pmid": "35252227",
+      "title": "Antidepressants Usage and Risk of Pneumonia Among Elderly Patients With the Parkinson's Disease: A Population-Based Case-Control Study.",
+      "journal": "Frontiers in medicine",
+      "year": "2022",
+      "abstract": "The patients with Parkinson's disease (PD) are associated with a higher risk of pneumonia. Antidepressants exert an anticholinergic effect in varying degrees and various classes of antidepressants also can produce a different effect on immune function. The relationship between the risk of pneumonia and the use of antidepressants among elderly patients with PD is unknown. The study investigated the risk of pneumonia associated with the use of antidepressants in elderly patients with PD. This case-control study was based on data from the longitudinal health insurance database in Taiwan. We analyzed the data of 551,975 elderly patients with PD between 2002 and 2018. To reduce the potential confounding caused by unbalanced covariates in non-experimental settings, we used propensity score matching to include older patients without pneumonia to serve as the comparison. The antidepressants in the study included tricyclic antidepressants (TCAs), monoamine oxidase inhibitors (MAOIs), selective serotonin reuptake inhibitors (SSRIs), serotonin, and norepinephrine reuptake inhibitors (SNRIs). The conditional logistic regression was used to investigate the association between antidepressants and pneumonia. Control variables in the study included sex, age, income level, urbanization, Charlson comorbidity index score, and comorbidities related to pneumonia. In terms of TCAs users, compared with patients not receiving TCAs, current users had a lower risk of incident pneumonia (adjusted odds ratio [<i>aOR</i>] = 0.86, 95% <i>CI</i> = 0.82-0.90) and recent users (a<i>OR</i> = 0.83, 95% <i>CI</i> = 0.80-0.87). In terms of MAOIs users, current users had a lower risk of incident pneumonia (a<i>OR</i> = 0.88, 95% <i>CI</i> = 0.83-0.93), recent users (a<i>OR</i> = 0.89, 95% <i>CI</i> = 0.85-0.93). In terms of SSRIs users, current users had a higher risk of incident pneumonia (a <i>OR</i> = 1.13, 95% <i>CI</i> = 1.01-1.17), recent users (a<i>OR</i> = 1.01, 95% <i>CI</i> = 1.06-1.13), and past users (a<i>OR</i> = 1.19, 95% <i>CI</i> = 1.17-1.21). In terms of SNRIs users, past users had a higher risk of incident pneumonia (a<i>OR</i> = 1.07, 95% <i>CI</i> = 1.03-1.10). The incident pneumonia is associated with the use of individuals of different classes of antidepressants. The use of TCAs (such as, amitriptyline and imipramine) had a lower odds of incident pneumonia. The use of MAOIs (such as, selegiline and rasagiline) had a lower odds of pneumonia during recent use. The use of SSRIs (such as, fluoxetine, sertraline, escitalopram, paroxetine, and citalopram) and SNRIs (such as, milnacipran, and venlafaxine) had a higher odds of incident pneumonia.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35252227/"
+    },
+    {
+      "pmid": "32024542",
+      "title": "Paroxetine suppresses reactive microglia-mediated but not lipopolysaccharide-induced inflammatory responses in primary astrocytes.",
+      "journal": "Journal of neuroinflammation",
+      "year": "2020",
+      "abstract": "Astrocytes are the most abundant glial cells in a brain that mediate inflammatory responses and provide trophic support for neurons. We have previously disclosed that paroxetine, a common selective serotonin reuptake inhibitor, ameliorates LPS-induced microglia activation. However, it remains elusive for the role of paroxetine in astrocytic responses. Isolated primary astrocytes were pretreated with paroxetine and stimulated with different stimuli, lipopolysaccharide (LPS) or microglia conditioned medium pre-activated with LPS (M/Lps). Inflammatory and neurotrophic responses, underlying mechanisms and the impact on neuronal survival were assessed. Paroxetine had no impact on LPS-stimulated iNOS, TNF-\u03b1, and IL-1\u03b2 expression, but inhibited M/Lps-induced TNF-\u03b1 and IL-1\u03b2 expression in primary astrocytes. Paroxetine suppressed M/Lps- but not LPS-induced activation of NF-\u03baB and had no impact on the activation of MAPKs and STAT3. Incubation with the resulted astrocyte conditioned media caused no change in the viability of SH-SY5Y cells. BDNF and MANF mRNA expressions were upregulated by M/Lps and paroxetine, respectively. However, M/Lps- or LPS-induced extracellular releases of NO, TNF-\u03b1, and/or BDNF in astrocytes were in minor amount compared to those by microglia. Paroxetine ameliorates the reactive microglia-mediated inflammatory responses in astrocytes partially via inhibition of the NF-\u03baB pathway but has no impact on LPS-stimulated astrocyte activation. While the effects of paroxetine on secondary astrocytic responses are not robust compared to its effect on the innate immune responses of microglia, the results together may implicate a therapeutic potential of paroxetine against neuroinflammation-associated neurological disorders such as Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32024542/"
+    },
+    {
+      "pmid": "24679737",
+      "title": "Severity of depression and anxiety are predictors of response to antidepressant treatment in Parkinson's disease.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2014",
+      "abstract": "Antidepressants have appeared to be more effective than placebo treatment in treating depressive syndromes in patients with Parkinson's disease (PD). To identify factors that predict improvement in depressive symptoms during antidepressant treatment in depressed PD patients. A secondary analysis was performed on the dataset of the Randomized Placebo-controlled Study of Antidepressants in PD (SAD-PD), in which 76 patients received active treatment with either paroxetine or venlafaxine extended release (XR), and 39 patients received placebo treatment. Backward stepwise regression analyses were conducted with change in 24-item Hamilton Depression Rating Scale (HAMD-24) score between assessments at baseline and week 12 as the main outcome measure, and sex, age, baseline HAMD-24 score, Unified Parkinson's Disease Rating Scale section III (UPDRS-III) score, Mini-Mental State Examination (MMSE), and the Clinical Anxiety Scale (CAS) as independent variables. In both the active treatment and placebo groups, higher baseline HAMD-24 score and lower UPDRS-III score were associated with greater reduction in HAMD-24 score. Higher anxiety scores predicted less response in the active treatment group. Higher MMSE scores predicted greater response only in the placebo-treated group. Sex and age were no predictors of response. Higher pre-treatment depression scores and lower pre-treatment anxiety scores are the two most important predictors for improvement during antidepressant treatment in depressed PD patients, which is in line with those found in treatment studies of depressed non-PD patients. Furthermore, our results indicate the requirement for different or more intensive treatment for depressed PD patients with more severe anxiety symptoms.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24679737/"
+    },
+    {
+      "pmid": "27004670",
+      "title": "Antidepressants in Parkinson's disease. Recommendations by the movement disorder study group of the Neurological Association of Madrid.",
+      "journal": "Neurologia",
+      "year": "2016",
+      "abstract": "Although antidepressants are widely used in Parkinson's disease (PD), few well-designed studies to support their efficacy have been conducted. These clinical guidelines are based on a review of the literature and the results of an AMN movement disorder study group survey. Evidence suggests that nortriptyline, venlafaxine, paroxetine, and citalopram may be useful in treating depression in PD, although studies on paroxetine and citalopram yield conflicting results. In clinical practice, however, selective serotonin reuptake inhibitors are usually considered the treatment of choice. Duloxetine may be an alternative to venlafaxine, although the evidence for this is less, and venlafaxine plus mirtazapine may be useful in drug-resistant cases. Furthermore, citalopram may be indicated for the treatment of anxiety, atomoxetine for hypersomnia, trazodone and mirtazapine for insomnia and psychosis, and bupropion for apathy. In general, antidepressants are well tolerated in PD. However, clinicians should consider the anticholinergic effect of tricyclic antidepressants, the impact of serotonin-norepinephrine reuptake inhibitors on blood pressure, the extrapyramidal effects of antidepressants, and any potential interactions between monoamine oxidase B inhibitors and other antidepressants.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/27004670/"
+    },
+    {
+      "pmid": "19300592",
+      "title": "Potential cognitive enhancing and disease modification effects of SSRIs for Alzheimer's disease.",
+      "journal": "Neuropsychiatric disease and treatment",
+      "year": "2007",
+      "abstract": "Selective serotonin reuptake inhibitors (SSRIs) have increased cognitive performance in some clinical studies of Alzheimer's disease (AD), but it is has been difficult to dissociate whether this is due to direct effects on cognition (neurochemical or disease-modifying) or a secondary effect of mood stabilization. We performed a systematic review for preclinical and human clinical trial evidence to support the use of SSRIs specifically for the management of cognitive decline in AD. (1) PUBMED without language restrictions from 1950s until 2004 and updated August 2006, terms: \"serotonin uptake inhibitors\"[MeSH] AND (\"Alzheimer disease\"[MeSH] OR \"Cognition Disorders\"[MeSH]) NOT \"Parkinson disease\"[MeSH] AND (Clinical Trial[ptyp] OR Letter[ptyp] OR Meta-Analysis[ptyp] OR Randomized Controlled Trial[ptyp]) AND \"alzheimer disease\" [MESH] OR \"Alzheimer*\" combined with AND to \"ssri*\" OR \"serotonin reuptake inhibitors\" [MESH] NOT Review[ptyp]. (2) Cochrane Database of Systematic Reviews, keywords \"SSRI\" and \"Alzheimer's\". The PubMed search yielded 57 hits. Of these, 23 were included in this review for their specificity to SSRI use in AD or indications on efficacy beyond depressive symptoms. The other 34 citations were excluded because: (1) depression or other mood or behavioral disturbance severity was the reported outcome measure, (2) effects of SSRIs on cognition were confounded by concomitant use of other drugs, (3) subjects described were young adults, and/or (4) subjects had traumatic brain injury. The Cochrane Database of Systematic Reviews, 3rd Quarter 2006, yielded six citations related to SSRIs. Data extracted from clinical trials included name of SSRI tested, cognitive outcome measures, and adverse events reported, which could include cognitive worsening. Preclinical evidence for use of SSRIs to enhance cognition in AD includes an effect at the hippocampus through carbonic anhydrase activation or stimulation of hippocampal neurogenesis. The chemical structure of paroxetine, and not intrinsic SSRI activity, may also affect APP ectodomain expression to reduce amyloid plaque formation. Clinical trials in AD generally have not assessed cognitive outcomes independently from mood or behavior stabilization. Currently, clinical studies in AD only indirectly support the use of SSRIs for disease modification by confirming a serotonergic deficit during the course of illness. Lack of supportive evidence for SSRIs as cognition enhancers or disease modifiers in AD is the result of omissions in clinical trial design, as opposed to reporting of negative outcomes. The preclinical evidence warrants the study of SSRIs in AD using mood, behavior, cognition, neurochemistry, and possibly neuroimaging as outcome variables.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/19300592/"
+    }
+  ]
+}

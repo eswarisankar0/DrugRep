@@ -1,0 +1,40 @@
+{
+  "drug_name": "Neramexane",
+  "disease_name": "Parkinson",
+  "n_abstracts": 3,
+  "abstracts": [
+    {
+      "pmid": "37569714",
+      "title": "Literature-Based Discovery Predicts Antihistamines Are a Promising Repurposed Adjuvant Therapy for Parkinson's Disease.",
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "abstract": "Parkinson's disease (PD) is a movement disorder caused by a dopamine deficit in the brain. Current therapies primarily focus on dopamine modulators or replacements, such as levodopa. Although dopamine replacement can help alleviate PD symptoms, therapies targeting the underlying neurodegenerative process are limited. The study objective was to use artificial intelligence to rank the most promising repurposed drug candidates for PD. Natural language processing (NLP) techniques were used to extract text relationships from 33+ million biomedical journal articles from PubMed and map relationships between genes, proteins, drugs, diseases, etc., into a knowledge graph. Cross-domain text mining, hub network analysis, and unsupervised learning rank aggregation were performed in SemNet 2.0 to predict the most relevant drug candidates to levodopa and PD using relevance-based HeteSim scores. The top predicted adjuvant PD therapies included ebastine, an antihistamine for perennial allergic rhinitis; levocetirizine, another antihistamine; vancomycin, a powerful antibiotic; captopril, an angiotensin-converting enzyme (ACE) inhibitor; and neramexane, an N-methyl-D-aspartate (NMDA) receptor agonist. Cross-domain text mining predicted that antihistamines exhibit the capacity to synergistically alleviate Parkinsonian symptoms when used with dopamine modulators like levodopa or levodopa-carbidopa. The relationship patterns among the identified adjuvant candidates suggest that the likely therapeutic mechanism(s) of action of antihistamines for combatting the multi-factorial PD pathology include counteracting oxidative stress, amending the balance of neurotransmitters, and decreasing the proliferation of inflammatory mediators. Finally, cross-domain text mining interestingly predicted a strong relationship between PD and liver disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37569714/"
+    },
+    {
+      "pmid": "24410702",
+      "title": "Neramexane: a moderate-affinity NMDA receptor channel blocker: new prospects and indications.",
+      "journal": "Expert review of clinical pharmacology",
+      "year": "2009",
+      "abstract": "N-methyl-D-aspartate (NMDA) receptor antagonists have a potentially wide range of therapeutic applications. Unfortunately, potent NMDA receptor channel blockers produce phencyclidine-like psychotropic symptoms in humans and rodents, and thereby produce numerous side effects. However, recent data indicate that moderate-affinity, voltage-dependent, open-channel blockers, such as memantine and neramexane (MRZ 2/579) are useful therapeutics as they prevent the pathological activation of NMDA receptors but allow their physiological activity and should prove to be useful therapeutics in a wide range of CNS disorders. Indeed, memantine was recently registered in both Europe and the USA for the treatment of moderate-to-severe Alzheimer's disease (AD). Neramexane is under development as a potential neuroprotectant against various CNS disorders. Although the predicted therapeutic doses of neramexane were very well tolerated in male volunteers, unfortunately, recent Phase II/III clinical trials for moderate-to-severe AD delivered contradictory results. Neramexane also failed in a recent randomized controlled Phase II trial against drug abuse and depression. Although Phase Ib clinical trials for the indications of chronic pain showed positive results, Phase II results indicate no superiority to existing treatments. However, positive study results have been presented recently in a Phase IIb study on the treatment of tinnitus. A Phase III study for this indication is presently ongoing. Another promising application for neramexane as a neuroprotectant might be chronic neurodegeneration, such as Parkinson's disease, Huntington's disease, vascular dementia, frontal lobe dementia, Down's syndrome and AD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24410702/"
+    },
+    {
+      "pmid": "19616571",
+      "title": "Effects of glutamate and alpha2-noradrenergic receptor antagonists on the development of neurotoxicity produced by chronic rotenone in rats.",
+      "journal": "Toxicology and applied pharmacology",
+      "year": "2009",
+      "abstract": "Systemic inhibition of complex I by rotenone in rats represents a model of Parkinson's disease (PD). The aim of this study was to elucidate whether neramexane (NMDA, nicotinic alpha9/alpha10 and 5-HT3 receptor antagonist), idazoxan (alpha2-adrenoceptor antagonist) or 2-methyl-6-(phenyl-ethyl)-pyrimidine (MPEP, metabotropic glutamate receptor 5 antagonist) prevents rotenone-induced parkinsonian-like behaviours and neurochemical changes in rats. Rotenone (2.5 mg/kg i.p. daily) was administered over 60 days together with saline, neramexane (5 mg/kg i.p., b.i.d.), idazoxan (2.5 mg/kg i.p., b.i.d.) or MPEP (2.5 mg/kg i.p., b.i.d.). The same doses of neramexane, idazoxan and MPEP were administered to rats treated with vehicle instead of rotenone. Treatment-related effects on parkinsonian-like behaviours, such as hypokinesia/rigidity and locomotor activity, were evaluated. Moreover, concentrations of dopamine, serotonin and their metabolites were measured in rats from each experimental group. Over the 60-day treatment period, the rotenone+saline treated animals developed hypokinesia, expressed as an increase in the bar and grid descent latencies in the catalepsy test, and a decrease in locomotor activity. Neramexane and idazoxan partially prevented the development of catalepsy in rotenone-treated rats. Co-administration of MPEP with rotenone resulted only in a decrease in descent latency in the grid test on day 60. Chronic rotenone treatment reduced concentrations of dopamine and serotonin in the anterior striatum, which was blocked by co-treatment with neramexane or idazoxan but not with MPEP. Only neramexane treatment blocked the rotenone-induced decrease in dopamine levels in the substantia nigra pars compacta. In conclusion, neramexane and idazoxan counteracted to some extent the development of parkinsonian symptoms and neurochemical alterations in the rotenone model of Parkinson's disease.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/19616571/"
+    }
+  ]
+}

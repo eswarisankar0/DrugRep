@@ -1,0 +1,188 @@
+{
+  "drug_name": "Amantadine",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "40185525",
+      "title": "Treatment of Motor Symptoms of Parkinson's Disease.",
+      "journal": "Neurologic clinics",
+      "year": "2025",
+      "abstract": "The most effective pharmacologic intervention used to treat motor symptoms in Parkinson's disease is levodopa, which is available in various formulations, including newer continuous subcutaneous infusions. Dopamine agonists, monoamine oxidase-B enzyme inhibitors, catechol-O-methyltransferase enzyme inhibitors, amantadine, istradefylline, and anticholinergics can be used as adjuncts to levodopa. With disease progression, pharmacologic interventions alone may not suffice to manage motor symptoms, making it necessary to consider device-aided therapies (eg, levodopa-carbidopa intestinal gel infusion, continuous subcutaneous infusions of apomorphine, levodopa, or foslevodopa) or invasive surgical techniques (eg, deep brain stimulation or MRI-guided high-frequency focused ultrasound).",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40185525/"
+    },
+    {
+      "pmid": "40055961",
+      "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2025",
+      "abstract": "To update evidence-based medicine recommendations for treating motor fluctuations of Parkinson's disease (PD). The International Parkinson and Movement Disorder Society (MDS) Evidence Based Medicine in Movement Disorders Committee recommendations for the treatments of PD were first published in 2002 and regularly updated. The current review uses a new methodology, including the Cochrane Risk of Bias tool and a modified version of GRADE (Grading of Recommendations, Assessment, Development, and Evaluations). On January 1, 2023, a literature search was conducted without date limit in the MEDLINE, Embase, and Cochrane databases using the following search terms: Parkinson disease, levodopa and, for the Embase database, randomized controlled trial (RCT). The inclusion criteria for studies were: patients with PD, on oral levodopa therapy, experiencing motor fluctuations, investigating an intervention that was (commercially) available in at least one country, study design RCT, and with a follow-up duration of at least 3\u2009months. A total of 102\u00a0studies were included. Levodopa extended release, pramipexole immediate release and extended release, ropinirole immediate release, rotigotine, opicapone, safinamide, and bilateral subthalamic nucleus deep brain stimulation (DBS) were assessed as efficacious, and continuous intestinal levodopa infusion, continuous subcutaneous levodopa, continuous subcutaneous apomorphine, ropinirole prolonged release, ropinirole patch, entacapone, rasagiline, istradefylline, amantadine extended release, zonisamide, bilateral globus pallidus DBS, and pallidotomy were assessed as likely efficacious for the treatment of motor fluctuations in people with PD who are already being treated with levodopa. There are several treatment options that can improve motor fluctuations in PD. These recommendations will assist physicians and patients in determining which intervention to use. \u00a9 2025 The Author(s). Movement Disorders published by Wiley Periodicals LLC on behalf of International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40055961/"
+    },
+    {
+      "pmid": "34678171",
+      "title": "Amantadine in the treatment of Parkinson's disease and other movement disorders.",
+      "journal": "The Lancet. Neurology",
+      "year": "2021",
+      "abstract": "The efficacy of amantadine in the symptomatic treatment of patients with Parkinson's disease, discovered serendipitously more than 50 years ago, has stood the test of time and the drug is still commonly used by neurologists today. Its pharmacological actions are unique in combining dopaminergic and glutamatergic properties, which account for its dual effect on parkinsonian signs and symptoms and levodopa-induced dyskinesias. Furthermore, amantadine has additional and less well-defined pharmacological effects, including on anticholinergic and serotonergic activity. Evidence from randomised controlled trials over the past 5 years has confirmed the efficacy of amantadine to treat levodopa-induced dyskinesias in patients with Parkinson's disease, and clinical studies have also provided support for its potential to reduce motor fluctuations. Other uses of amantadine, such as in the treatment of drug-induced parkinsonism, atypical parkinsonism, Huntington's disease, or tardive dyskinesia, lack a strong evidence base. Future trials should examine its role in the management of motor and non-motor symptoms in patients with early Parkinson's disease and those with other movement disorders.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34678171/"
+    },
+    {
+      "pmid": "36496996",
+      "title": "Levodopa-Induced Dyskinesia in Parkinson's Disease: Pathogenesis and Emerging Treatment Strategies.",
+      "journal": "Cells",
+      "year": "2022",
+      "abstract": "The most commonly used treatment for Parkinson's disease (PD) is levodopa, prescribed in conjunction with carbidopa. Virtually all patients with PD undergo dopamine replacement therapy using levodopa during the course of the disease's progression. However, despite the fact that levodopa is the \"gold standard\" in PD treatments and has the ability to significantly alleviate PD symptoms, it comes with side effects in advanced PD. Levodopa replacement therapy remains the current clinical treatment of choice for Parkinson's patients, but approximately 80% of the treated PD patients develop levodopa-induced dyskinesia (LID) in the advanced stages of the disease. A better understanding of the pathological mechanisms of LID and possible means of improvement would significantly improve the outcome of PD patients, reduce the complexity of medication use, and lower adverse effects, thus, improving the quality of life of patients and prolonging their life cycle. This review assesses the recent advancements in understanding the underlying mechanisms of LID and the therapeutic management options available after the emergence of LID in patients. We summarized the pathogenesis and the new treatments for LID-related PD and concluded that targeting pathways other than the dopaminergic pathway to treat LID has become a new possibility, and, currently, amantadine, drugs targeting 5-hydroxytryptamine receptors, and surgery for PD can target the Parkinson's symptoms caused by LID.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36496996/"
+    },
+    {
+      "pmid": "36847017",
+      "title": "Pharmacological Treatment of Tremor in Parkinson's Disease Revisited.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2023",
+      "abstract": "The pathophysiology of Parkinson's disease (PD) tremor remains incompletely understood and there is a lack of clinical trials specifically addressing its pharmacological treatment. Levodopa is the most efficacious drug for most patients and should be used as primary approach to control troublesome tremor. While the efficacy of oral dopamine agonists on PD tremor has been demonstrated in controlled trials, there is no evidence of greater antitremor efficacy compared to levodopa. The magnitude of the antitremor effect of anticholinergics is generally lower than that of levodopa. Due to their adverse effects, anticholinergics have a limited role in selected young and cognitively intact patients. Propranolol may improve resting and action tremor and may be considered as an adjunct in patients with insufficient tremor response to levodopa and this also applies to clozapine, despite its unfavorable adverse effect profile. Treating motor fluctuations with MAO-B and COMT inhibitors, dopamine agonists, amantadine, or on-demand treatments such as subcutaneous or sublingual apomorphine and inhaled levodopa as well as with continuous infusions of levodopa or apomorphine will improve off period tremor episodes. For patients with drug-refractory PD tremor despite levodopa optimization deep brain stimulation and focused ultrasound are first-line considerations. Surgery can also be highly effective for the treatment medication-refractory tremor in selected patients without motor fluctuations. The present review highlights the clinical essentials of parkinsonian tremor, critically examines available trial data on the effects of medication and surgical approaches and provides guidance for the choice of treatments to control PD tremor in clinical practice.",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36847017/"
+    },
+    {
+      "pmid": "28273839",
+      "title": "Parkinson's Disease: From Pathogenesis to Pharmacogenomics.",
+      "journal": "International journal of molecular sciences",
+      "year": "2017",
+      "abstract": "Parkinson's disease (PD) is the second most important age-related neurodegenerative disorder in developed societies, after Alzheimer's disease, with a prevalence ranging from 41 per 100,000 in the fourth decade of life to over 1900 per 100,000 in people over 80 years of age. As a movement disorder, the PD phenotype is characterized by rigidity, resting tremor, and bradykinesia. Parkinson's disease -related neurodegeneration is likely to occur several decades before the onset of the motor symptoms. Potential risk factors include environmental toxins, drugs, pesticides, brain microtrauma, focal cerebrovascular damage, and genomic defects. Parkinson's disease neuropathology is characterized by a selective loss of dopaminergic neurons in the substantia nigra pars compacta, with widespread involvement of other central nervous system (CNS) structures and peripheral tissues. Pathogenic mechanisms associated with genomic, epigenetic and environmental factors lead to conformational changes and deposits of key proteins due to abnormalities in the ubiquitin-proteasome system together with dysregulation of mitochondrial function and oxidative stress. Conventional pharmacological treatments for PD are dopamine precursors (levodopa, l-DOPA, l-3,4 dihidroxifenilalanina), and other symptomatic treatments including dopamine agonists (amantadine, apomorphine, bromocriptine, cabergoline, lisuride, pergolide, pramipexole, ropinirole, rotigotine), monoamine oxidase (MAO) inhibitors (selegiline, rasagiline), and catechol-<i>O</i>-methyltransferase (COMT) inhibitors (entacapone, tolcapone). The chronic administration of antiparkinsonian drugs currently induces the \"wearing-off phenomenon\", with additional psychomotor and autonomic complications. In order to minimize these clinical complications, novel compounds have been developed. Novel drugs and bioproducts for the treatment of PD should address dopaminergic neuroprotection to reduce premature neurodegeneration in addition to enhancing dopaminergic neurotransmission. Since biochemical changes and therapeutic outcomes are highly dependent upon the genomic profiles of PD patients, personalized treatments should rely on pharmacogenetic procedures to optimize therapeutics.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28273839/"
+    },
+    {
+      "pmid": "40214767",
+      "title": "Levodopa treatment: impacts and mechanisms throughout Parkinson's disease progression.",
+      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+      "year": "2025",
+      "abstract": "Treatment with levodopa, a precursor of dopamine (DA), to compensate for the loss of endogenous DA in Parkinson's disease (PD), has been a success story for over 50\u00a0years. However, in late stages of PD, the progressive degeneration of dopaminergic neurons and the ongoing reduction in endogenous DA concentrations make it increasingly difficult to maintain normal-like DA function. Typically, in late PD, higher doses of levodopa are required, and the fluctuations in striatal DA concentrations-reflecting the timing pattern of levodopa administrations-become more pronounced. These DA fluctuations can include highs that induce involuntary movements (levodopa-induced dyskinesia, LID) or lows that result in insufficient suppression of PD symptoms (\"OFF\" phases). The enhanced fluctuations primarily arise from the loss of DA buffering capacity, resulting from the degeneration of DA neurons, and an increased reliance on levodopa-derived DA release as a \"false neurotransmitter\" by serotonergic neurons. In many patients, the LID and OFF-phases can be alleviated by modifying the levodopa therapy to provide a more continuous delivery or by using additional medications, such as monoamine oxidase-B (MAO-B) inhibitors, amantadine, or dopaminergic receptor agonists. Understanding the challenges faced by levodopa therapy also requires considering that the PD striatum is characterized not only by the loss of DA neurons but also by neuroplastic adaptations and PD-induced degenerations of other neural populations. This review provides a broad overview on the use of levodopa in treating PD, with a focus on the underlying science of the challenges encountered in late stages of the disease.",
+      "publication_types": [
+        "Journal Article",
+        "Review",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40214767/"
+    },
+    {
+      "pmid": "40274754",
+      "title": "Adamantine Amantadine.",
+      "journal": "Journal of general internal medicine",
+      "year": "2025",
+      "abstract": "Recognition of the serendipitous history of amantadine, first as a flu treatment and now as a Parkinson disease drug, and its adamantine persistence, and how small changes, like rearranging a few letters in a word or a DNA strand, can have a big impact.",
+      "publication_types": [
+        "Journal Article",
+        "Historical Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40274754/"
+    },
+    {
+      "pmid": "29570866",
+      "title": "International Parkinson and movement disorder society evidence-based medicine review: Update on treatments for the motor symptoms of Parkinson's disease.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2018",
+      "abstract": "The objective of this review was to update evidence-based medicine recommendations for treating motor symptoms of Parkinson's disease (PD). The Movement Disorder Society Evidence-Based Medicine Committee recommendations for treatments of PD were first published in 2002 and updated in 2011, and we continued the review to December 31, 2016. Level I studies of interventions for motor symptoms were reviewed. Criteria for inclusion and quality scoring were as previously reported. Five clinical indications were considered, and conclusions regarding the implications for clinical practice are reported. A total of 143 new studies qualified. There are no clinically useful interventions to prevent/delay disease progression. For monotherapy of early PD, nonergot dopamine agonists, oral levodopa preparations, selegiline, and rasagiline are clinically useful. For adjunct therapy in early/stable PD, nonergot dopamine agonists, rasagiline, and zonisamide are clinically useful. For adjunct therapy in optimized PD for general or specific motor symptoms including gait, rivastigmine is possibly useful and physiotherapy is clinically useful; exercise-based movement strategy training and formalized patterned exercises are possibly useful. There are no new studies and no changes in the conclusions for the prevention/delay of motor complications. For treating motor fluctuations, most nonergot dopamine agonists, pergolide, levodopa ER, levodopa intestinal infusion, entacapone, opicapone, rasagiline, zonisamide, safinamide, and bilateral STN and GPi DBS are clinically useful. For dyskinesia, amantadine, clozapine, and bilateral STN DBS and GPi DBS are clinically useful. The options for treating PD symptoms continues to expand. These recommendations allow the treating physician to determine which intervention to recommend to an individual patient. \u00a9 2018 International Parkinson and Movement Disorder Society.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29570866/"
+    },
+    {
+      "pmid": "38216170",
+      "title": "Amantadine-induced livedo racemosa.",
+      "journal": "BMJ case reports",
+      "year": "2024",
+      "abstract": "",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38216170/"
+    },
+    {
+      "pmid": "33248395",
+      "title": "Parkinson's disease and skin.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2021",
+      "abstract": "Parkinson's disease is associated with a variety of dermatologic disorders and the study of skin may provide insights into pathophysiological mechanisms underlying this common neurodegenerative disorder. Skin disorders in patients with Parkinson's disease can be divided into two major groups: 1) non-iatrogenic disorders, including melanoma, seborrheic dermatitis, sweating disorders, bullous pemphigoid, and rosacea, and 2) iatrogenic disorders related either to systemic side effects of antiparkinsonian medications or to the delivery system of antiparkinsonian therapy, including primarily carbidopa/levodopa, rotigotine and other dopamine agonists, amantadine, catechol-O-methyl transferase inhibitors, subcutaneous apomorphine, levodopa/carbidopa intestinal gel, and deep brain stimulation. Recent advances in our understanding of the role of \u03b1-synuclein in peripheral tissues, including the skin, and research based on induced pluripotent stem cells derived from skin fibroblasts have made skin an important target for the study of Parkinson's disease pathogenesis, drug discovery, novel stem cell therapies, and diagnostics.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33248395/"
+    },
+    {
+      "pmid": "34229870",
+      "title": "Extended amantadine-induced livedo reticularis.",
+      "journal": "Revue neurologique",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Letter"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34229870/"
+    },
+    {
+      "pmid": "3601093",
+      "title": "Parkinson's disease and pregnancy.",
+      "journal": "Neurology",
+      "year": "1987",
+      "abstract": "In an effort to study the interaction of pregnancy and Parkinson's disease (PD), I interviewed 18 women who had had a total of 24 pregnancies after onset of PD symptoms. Conception occurred at mean age 34.7 (SD 6.1) years. There were 3 miscarriages, 4 elective abortions, and 17 term pregnancies. Use of amantadine during the first trimester was associated with a heterogeneous group of obstetric complications including miscarriage. Ten of the 17 completed pregnancies were associated with permanent worsening of PD symptoms, which did not affect overall disability. Among the series as a whole there was no excess incidence of obstetric complications or fetal defects.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/3601093/"
+    },
+    {
+      "pmid": "5818720",
+      "title": "Parkinson's disease and amantadine hydrochloride.",
+      "journal": "JAMA",
+      "year": "1969",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/5818720/"
+    },
+    {
+      "pmid": "4115247",
+      "title": "Amantadine in migraine.",
+      "journal": "Lancet (London, England)",
+      "year": "1972",
+      "abstract": "",
+      "publication_types": [
+        "Clinical Trial",
+        "Controlled Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/4115247/"
+    }
+  ]
+}

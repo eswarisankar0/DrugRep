@@ -1,0 +1,56 @@
+{
+  "drug_name": "Carboplatin",
+  "disease_name": "Parkinson",
+  "n_abstracts": 4,
+  "abstracts": [
+    {
+      "pmid": "14712777",
+      "title": "[A case of ovarian cancer with Parkinson's disease treated by combined chemotherapy with paclitaxel and carboplatin followed by surgery].",
+      "journal": "Gan to kagaku ryoho. Cancer & chemotherapy",
+      "year": "2003",
+      "abstract": "It is well known that neuropathy, myelopathy, and arthropathy are specific adverse effects induced by paclitaxel administration. Parkinson's disease is neural degenerative disease, and the influence of paclitaxel administration on patients with Parkinson's disease is unknown. We have successfully treated an ovarian cancer patient with Parkinson's disease by paclitaxel/CBDCA combined chemotherapy after surgery. The patient was a 57-year-old woman with solid and cystic ovarian tumor. Among the tumor markers CA125, CA19-9, and SLX, only SLX was elevated. We operated and made a pathological diagnosis of the ovarian tumor as clear cell adenocarcinoma (FIGO stage Ic). After surgery, the patient was treated with paclitaxel (260 mg [175 mg/m2]) and CBDCA (600 mg [AUC = 5]) combined chemotherapy for 5 courses. Her status is complete remission. During chemotherapy, she had felt the decreased efficacy of her Parkinson's disease medication. We could continue chemotherapy by increasing the dose of the Parkinson's drug. There is only one case report on the influence of paclitaxel on Parkinson's disease, in which the course was similar to the present case.",
+      "publication_types": [
+        "Case Reports",
+        "English Abstract",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/14712777/"
+    },
+    {
+      "pmid": "26712075",
+      "title": "Drug-induced retroperitoneal fibrosis: short aetiopathogenetic note, from the past times of ergot-derivatives large use to currently applied bio-pharmacology.",
+      "journal": "Il Giornale di chirurgia",
+      "year": "2015",
+      "abstract": "Among the secondary forms of retroperitoneal fibrosis (RPF), that drug-induced shows very intriguing aspects given both the broad range of involved pharmaceuticals and the considerable interest arisen from the related pathogenetic mechanisms. The particular incidence, in the last four decades past century, of the RPF due to long-term use of ergot alkaloid derivatives (ergotamine, methysergide, pergolide, bromocriptine, cabergoline) and specific L-dopa derived agents, such as methyldopa, as well as to different analgesics, came progressively down given that their long-term use for either the prevention of migraine attacks or the therapy of chronic pathologies (Parkinson's disease, prolactinoma, pain management, etc) has been, year after year, supplanted or even made unavailable in many countries. More recently, instead, the occurrence of the RPF has been sometimes identified with the use of antitumoral chemotherapeutics, such as carboplatin and methotrexate, and, just lately, as an unusual side-effect of certain biological agents, about which it is timely to go into specific pathogenetic problems in more depth.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26712075/"
+    },
+    {
+      "pmid": "9523741",
+      "title": "Progression of Parkinson's disease with impairment of vision under carboplatin/cyclophosphamide therapy for ovarian cancer.",
+      "journal": "Cancer chemotherapy and pharmacology",
+      "year": "1998",
+      "abstract": "",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/9523741/"
+    },
+    {
+      "pmid": "21980675",
+      "title": "Acute psychosis after paclitaxel infusion.",
+      "journal": "Connecticut medicine",
+      "year": "2011",
+      "abstract": "Paclitaxel (PTX) is a widely used antineoplastic agent against a variety of cancers. The common side effects are myelosuppression and peripheral neurotoxicity. There have been occasional instances of central nervous system toxicity after PTX treatment though the syndrome is not well described. We report a patient undergoing treatment for laryngeal cancer who experienced mental status changes and psychosis after each cycle of PTX and carboplatin, lasting for less than a day. In a subsequent cycle excluding PTX, these symptoms did not recur.",
+      "publication_types": [
+        "Case Reports",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/21980675/"
+    }
+  ]
+}

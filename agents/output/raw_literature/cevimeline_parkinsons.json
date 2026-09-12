@@ -1,0 +1,44 @@
+{
+  "drug_name": "Cevimeline",
+  "disease_name": "Parkinson",
+  "n_abstracts": 3,
+  "abstracts": [
+    {
+      "pmid": "30946325",
+      "title": "Risk of Parkinson disease in Sj\u00f6gren syndrome administered ineffective immunosuppressant therapies: A nationwide population-based study.",
+      "journal": "Medicine",
+      "year": "2019",
+      "abstract": "To determine the incidence and risk of Parkinson disease (PD) in patients with Sj\u00f6gren syndrome (SS) according to a nationwide population-based database.In total, 12,640 patients in the SS cohort and 50,560 in the non-SS cohort were enrolled from Taiwan's National Health Insurance Research Database from 2000 to 2010. We used the Cox multivariable proportional hazards model to determine the risk factors for PD in the SS cohort.We observed an increased incidence of PD in patients with SS, with a crude hazard ratio (HR) of 1.40 and an adjusted HR (aHR) of 1.23. The cumulative incidence of PD was 1.95% higher in the SS cohort than in the non-SS cohort. The SS cohort had an elevated HR under medication use, namely cevimeline and pilocarpine (crude HR, 1.28), hydroxychloroquine (crude HR, 1.43; aHR, 1.46), and methylprednisolone (crude HR, 2.21; aHR, 1.49). Patients receiving other non-hydroxychloroquine immunosuppressant therapies had a lower risk (aHR, 0.86) of PD. Furthermore, patients with SS aged 20 to 49 years had a 1.93-fold higher risk of PD than did those without SS (aHR, 1.93). The risk of PD was higher (aHR, 2.20) in patients with SS without comorbidities than in those with comorbidities. The aHR of PD significantly increased when the follow-up period exceeded 9 years (aHR, 1.93).We determined an increased risk of PD in patients with SS. Further investigation is warranted to determine the possible underlying mechanisms and the potential role of non-hydroxychloroquine immunosuppressants in ameliorating PD.",
+      "publication_types": [
+        "Journal Article",
+        "Observational Study"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30946325/"
+    },
+    {
+      "pmid": "40340060",
+      "title": "CNS muscarinic receptors and muscarinic receptor agonists in Alzheimer disease treatment.",
+      "journal": "Handbook of clinical neurology",
+      "year": "2025",
+      "abstract": "This review explores the main aspects that form the basis of the cholinergic-oriented treatment of Alzheimer disease. Muscarinic acetylcholine receptor subtypes in the brain and periphery are discussed. It includes a new and updated overview of the involvement of muscarinic receptors in Alzheimer disease and the recent development of new and highly selective M1 muscarinic receptor agonists with disease-modifying potential. Activation of the M1 muscarinic receptor is a rational therapeutic strategy for the treatment of schizophrenia and Alzheimer disease, as this receptor plays a pivotal role in modulating cognitive deficits and the pathology of the disease. Such activation can be achieved through M1 allosteric and bitopic muscarinic agonists, M1 positive allosteric modulators (M1 PAMs), and direct-acting M1 muscarinic orthosteric agonists. The efficacy of M1 PAMs depends on acetylcholine, which declines in Alzheimer disease as postsynaptic neurons lose cholinergic input from the basal forebrain. On the other hand, the activity of M1 muscarinic orthosteric agonists is independent of the functional or anatomic integrity of presynaptic cholinergic terminals, and likely retain efficacy as the disease progresses, even after presynaptic degeneration of cholinergic fibers. Based on the acceptance criteria for a preferred M1 muscarinic agonist for the treatment of AD, aiming for efficacy, specificity, and safety in clinical use, few M1 muscarinic agonists fulfill these requirements, such as orthosteric M1 agonists-cevimeline (aka AF102B), the first FDA-approved M1 agonist, and NSC001 (aka AF267B). The pros and cons of various muscarinic agonists developed are critically discussed in comparison to these drugs. The review proposes new alternatives to cholinergic therapy, particularly selective M1 muscarinic drugs, that should be designed to amplify its clinical effect and supplement the disease-modifying effect of new treatments to slow down or arrest disease progression.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40340060/"
+    },
+    {
+      "pmid": "14501019",
+      "title": "M1 muscarinic agonists can modulate some of the hallmarks in Alzheimer's disease: implications in future therapy.",
+      "journal": "Journal of molecular neuroscience : MN",
+      "year": "2003",
+      "abstract": "M1 muscarinic receptors (M1 mAChRs) play a role in an apparent linkage of three major hallmarks of Alzheimer's disease (AD): beta-amyloid (Abeta) peptide; tau hyperphosphorylation and paired helical filaments (PHFs); and loss of cholinergic function conducive to cognitive impairments. We evaluated the M1 muscarinic agonists AF102B (Cevimeline, EVOXAC trade mark : prescribed for Sj\u00f8gren's syndrome), AF150(S), and AF267B on some of these hallmarks of AD. Activation of M1 mAChRs with these agonists leads, inter alia, to enhanced secretion of amyloid precursor protein (alpha-APP), (via alpha-secretase activation), to decreased Abeta (via gamma-secretase inhibition), and to inhibition of Abeta- and/or oxidative stress-induced cell death. In several animal models mimicking different aspects of AD, these drugs restored cognitive impairments, and in select cases induced a decrease in brain Abeta elevation, with a high safety margin, following po administration. Notably, in mice with small hippocampi, unlike rivastigmine and nicotine, AF150(S) and AF267B restored cognitive impairments also on escape latency in a Morris water maze paradigm, in reversal learning. Studies from other labs showed that AF102B and talsaclidine (another M1 agonist) decreased cerbrospinal fluid (CSF) Abeta in AD patients following chronic treatment, being the first reported drugs with such a profile. The clinical significance of these studies remains to be elucidated, yet based on in vivo (rabbits) and in vitro studies (cell cultures), our M1 agonists can decrease brain Abeta, owing to a novel and dual complementary effect (e.g., inhibition of gamma-secretase and activation of alpha-secretase). Remarkably, although M1 agonists can decrease CSF Abeta in AD patients, an increased AD-type pathology in Parkinson's disease was recently been associated with chronic antimuscarinic treatment. In another aspect, these agonists decreased tau hyperphosphorylation in vitro and in vivo. Notably, nicotinic agonists or cholinesterase inhibitors increased tau hyperphosphorylation. In summary, the M1 agonists tested are effective on cognition and behavior and show unique disease-modifying properties owing to beneficial effects on major hallmarks of AD. This may place such drugs in the first line of modern AD therapies (e.g., beta- or gamma-secretase inhibitors, vaccines against Abeta, statins, and inhibitors of tau hyperphosphorylation).",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/14501019/"
+    }
+  ]
+}

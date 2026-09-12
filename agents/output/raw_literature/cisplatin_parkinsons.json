@@ -1,0 +1,178 @@
+{
+  "drug_name": "Cisplatin",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "36823640",
+      "title": "PINK1 regulates apoptosis of osteosarcoma as the target gene of cisplatin.",
+      "journal": "Journal of orthopaedic surgery and research",
+      "year": "2023",
+      "abstract": "Osteosarcoma is a common primary bone malignancy prevalent among adolescents and young adults. PTEN-induced kinase 1 (PINK1) regulates Parkinson's disease, but its role in cancers is unknown. This study was designed to analyze the mechanism by which PINK1 affects osteosarcoma using bioinformatics and cell experiments. The gene expression profiles were downloaded from the TARGET database. Several online databases were used to analyze the expression and protein\u2012protein interaction networks. CCK-8 cell viability assays and cisplatin treatment were used to assess cell activity with or without cisplatin treatment. Acridine orange/ethidium bromide (AO/EB) fluorescence staining was used to calculate the percentage of apoptotic cells. Through bioinformatics analysis, we found that high expression of PINK1 was associated with poor prognosis in patients with osteosarcoma, and PINK1 inhibited apoptosis and promoted proliferation pathways. Next, we found that both PINK1 mRNA and protein levels were upregulated in osteosarcoma tissues. Additionally, we found that PTEN was reduced, while FOXO3a was markedly increased in osteosarcoma, suggesting that FOXO3a and not PTEN induced the overexpression of PINK1. CCK-8 and clonogenic assays showed that the knockdown of PINK1 decreased the growth of U2OS osteosarcoma cells. Ki67 immunofluorescence staining revealed that reduced cell proliferation in U2OS cells resulted in the depletion of PINK1. In addition, our AO/EB staining results indicated that the knockdown of PINK1 resulted in an increase in apoptotic cells and increased the levels of cleaved caspase-3. Furthermore, our experiments revealed that cisplatin promotes OS cell apoptosis by downregulating PINK1. Collectively, our findings demonstrate that PINK1 is crucially involved in osteosarcoma and suggests that it can promote the apoptosis of OS cells as the downstream target gene of cisplatin.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36823640/"
+    },
+    {
+      "pmid": "25948959",
+      "title": "Protective effect of curculigo orchioides extract on cyclophosphamide-induced neurotoxicity in murine model.",
+      "journal": "Toxicology international",
+      "year": "2014",
+      "abstract": "Free radicals are one of the frequent products of normal cellular metabolism. Disparity of metabolism and excessive generation of free radicals predisposes to disorders like Parkinson's disease, Alzheimer's disease, and aging phenomenon. Curculigo orchioides Gaertn. is known for \"adaptogen\" and \"aphrodisiac\" activity and has been proved for antiasthmatic, estrogenic, antiosteoporotic activity along with protection from cisplatin-induced cell damage. C. orchioides was powdered and subjected to soxhlet extraction using methanol. Phytochemical studies and estimation of polyphenols and flavonoids was performed. Acute toxicity studies were performed by Organization for Economic Cooperation and Development OECD guidelines. Animals were treated with cyclophosphamide to induce neurotoxicity. Curculigo orchioides was powdered and subjected to soxhlet extraction using methanol. Catalase, superoxide dismutase, glutathione peroxidase, and lipid peroxidation were estimated by reported methods. C. orchioides (400 mg/kg) significantly promoted restoration of catalase (P < 0.005), superoxide dismutase (P < 0.005), and glutathion (P < 0.05) levels. Similarly, a very significant decrease (P < 0.005) in the levels of malondialdehyde was observed. In all cases as mentioned previously, C. orchioides at dose 200 mg/kg promoted significant (P < 0.05) restoration of enzyme levels. C. orchioides (Kali Musli) is rich source of phytochemicals like flavonoids and polyphenols. Flavonoids and polyphenols are reputed to demonstrate neuroprotective effect. These phytochemicals in the present study might be responsible to demonstrate neuroprotective effect.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/25948959/"
+    },
+    {
+      "pmid": "30958607",
+      "title": "Coordination of Platinum to \u03b1-Synuclein Inhibits Filamentous Aggregation in Solution.",
+      "journal": "Chembiochem : a European journal of chemical biology",
+      "year": "2019",
+      "abstract": "Accumulation of filamentous aggregates of \u03b1-synuclein (AS) in Lewy bodies and neurites is characteristic of neurodegenerative diseases such as Parkinson's disease. Inhibition of AS fibrillation is helpful for understanding of AS aggregate structure and for developing chemical therapies. Herein, we report that the Pt<sup>II</sup> -containing antitumor drug cisplatin suppresses filamentous aggregation of AS in solution. Pt<sup>II</sup> thus contrasts strongly with reported transition-metal ions such as Mn<sup>II</sup> , Fe<sup>III</sup> , and Cu<sup>II</sup> , which accelerate AS aggregation. Interaction between Pt<sup>II</sup> and the side chains of methionine and histidine residues was essential for inhibition of AS fibrillation. Binding of Pt<sup>II</sup> to AS did not change the protein's overall random coil structure, as indicated by solution-state two-dimensional NMR and circular dichroism spectroscopy; and a solution of the AS\u22c5Pt<sup>II</sup> complex remained free of filamentous aggregates. Our results constitute interesting new information about the biological chemistry of metal ions in Parkinson's disease and might open new lines of research into the suppression of filamentous aggregation.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30958607/"
+    },
+    {
+      "pmid": "32649695",
+      "title": "Methylglyoxal and D-lactate in cisplatin-induced acute kidney injury: Investigation of the potential mechanism via fluorogenic derivatization liquid chromatography-tandem mass spectrometry (FD-LC-MS/MS) proteomic analysis.",
+      "journal": "PloS one",
+      "year": "2020",
+      "abstract": "Nephrotoxicity severely limits the chemotherapeutic efficacy of cisplatin (CDDP). Oxidative stress is associated with CDDP-induced acute kidney injury (AKI). Methylglyoxal (MG) forms advanced glycation end products that elevate oxidative stress. We aimed to explore the role of MG and its metabolite D-lactate and identify the proteins involved in CDDP-induced AKI. Six-week-old female BALB/c mice were intraperitoneally administered CDDP (5 mg/kg/day) for 3 or 5 days. Blood urea nitrogen (42.6 \u00b1 7.4 vs. 18.3 \u00b1 2.5; p < 0.05) and urinary N-acetyl-\u03b2-D-glucosaminide (NAG; 4.89 \u00b1 0.61 vs. 2.43 \u00b1 0.31 U/L; p < 0.05) were significantly elevated in the CDDP 5-day group compared to control mice. Histological analysis confirmed AKI was successfully induced. Confocal microscopy revealed TNF-\u03b1 was significantly increased in the CDDP 5-day group. Fluorogenic derivatized liquid chromatography-tandem mass spectrometry (FD-LC-MS/MS) showed the kidney MG (36.25 \u00b1 1.68 vs. 18.95 \u00b1 2.24 mg/g protein, p < 0.05) and D-lactate (1.78 \u00b1 0.29 vs. 1.12 \u00b1 0.06 mol/g protein, p < 0.05) contents were significantly higher in the CDDP 5-day group than control group. FD-LC-MS/MS proteomics identified 33 and nine altered peaks in the CDDP 3-day group and CDDP 5-day group (vs. control group); of the 35 proteins identified using the MOSCOT database, 11 were antioxidant-related. Western blotting confirmed that superoxide dismutase 1 (SOD-1) and parkinson disease protein 7 (DJ-1) are upregulated and may participate with MG in CDDP-induced AKI. This study demonstrates TNF-\u03b1, MG, SOD-1 and DJ-1 play crucial roles in CDDP-induced AKI.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32649695/"
+    },
+    {
+      "pmid": "37189423",
+      "title": "Phytoceramides from the Marine Sponge <i>Monanchora clathrata</i>: Structural Analysis and Cytoprotective Effects.",
+      "journal": "Biomolecules",
+      "year": "2023",
+      "abstract": "In our research on sphingolipids from marine invertebrates, a mixture of phytoceramides was isolated from the sponge <i>Monanchora clathrata</i> (Western Australia). Total ceramide, ceramide molecular species (obtained by RP-HPLC, high-performance liquid chromatography on reversed-phase column) and their sphingoid/fatty acid components were analyzed by NMR (nuclear magnetic resonance) spectroscopy and mass spectrometry. Sixteen new (<b>1b</b>, <b>3a</b>, <b>3c</b>, <b>3d</b>, <b>3f</b>, <b>3g</b>, <b>5c</b>, <b>5d</b>, <b>5f</b>, <b>5g</b>, <b>6b</b>-<b>g</b>) and twelve known (<b>2b</b>, <b>2e</b>, <b>2f</b>, <b>3b</b>, <b>3e</b>, <b>4a</b>-<b>c</b>, <b>4e</b>, <b>4f</b>, <b>5b</b>, <b>5e</b>) compounds were shown to contain phytosphingosine-type backbones <i>i</i>-t17:0 (<b>1</b>), <i>n</i>-t17:0 (<b>2</b>), <i>i</i>-t18:0 (<b>3</b>), <i>n</i>-t18:0 (<b>4</b>), <i>i</i>-t19:0 (<b>5</b>), or <i>ai</i>-t19:0 (<b>6</b>), <i>N</i>-acylated with saturated (2<i>R</i>)-2-hydroxy C<sub>21</sub> (<b>a</b>), C<sub>22</sub> (<b>b</b>), C<sub>23</sub> (<b>c</b>), <i>i-</i>C<sub>23</sub> (<b>d</b>), C<sub>24</sub> (<b>e</b>), C<sub>25</sub> (<b>f</b>), or C<sub>26</sub> (<b>g</b>) acids. The used combination of the instrumental and chemical methods permitted the more detailed investigation of the sponge ceramides than previously reported. It was found that the cytotoxic effect of crambescidin 359 (alkaloid from <i>M. clathrata</i>) and cisplatin decreased after pre-incubation of MDA-MB-231 and HL-60 cells with the investigated phytoceramides. In an in vitro paraquat model of Parkinson's disease, the phytoceramides decreased the neurodegenerative effect and ROS (reactive oxygen species) formation induced by paraquat in neuroblastoma cells. In general, the preliminary treatment (for 24 or 48 h) of the cells with the phytoceramides of <i>M. clathrata</i> was necessary for their cytoprotective functions, otherwise the additive damaging effect of these sphingolipids and cytotoxic compounds (crambescidin 359, cisplatin or paraquat) was observed.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37189423/"
+    },
+    {
+      "pmid": "37130999",
+      "title": "Potent carotenoid astaxanthin expands the anti-cancer activity of cisplatin in human prostate cancer cells.",
+      "journal": "Journal of natural medicines",
+      "year": "2023",
+      "abstract": "Prostate cancer (PCa) is the second most common type of cancer and the sixth cause of death in men worldwide. Radiotherapy and immunotherapy are commonly used in treating PCa, but understanding the crosstalk mechanisms of carcinogenesis and new therapeutic approaches is essential for supporting poor diagnosis and existing therapies. Astaxanthin (ASX) is a member of the xanthophyll family that is an oxygenated derivative of carotenoids whose synthesis is in plant extracts from lycopene. ASX has protective effects on various diseases, such as Parkinson's disease and cancer by showing potent antioxidant and anti-inflammatory properties. However, there is an ongoing need for a detailed investigation of the molecular mechanism of action to expand its therapeutic use. In the present study, we showed the new regulatory role of ASX in PCa cells by affecting the unfolded protein response (UPR) signaling, autophagic activity, epithelial-mesenchymal transition (EMT) and regulating the expression level of\u00a0angiogenesis-related protein vascular endothelial growth factor A (VEGF-A), proto-oncogene c-Myc and prostate-specific antigen (PSA). Additionally, we determined that it exhibited synergistic action with cisplatin and significantly enhanced apoptotic cell death in PCa cells. Present findings suggest that ASX may be a potent adjuvant therapeutic option in PCa treatment when used alone or combined with chemotherapeutics. Schematic illustration of the biochemical activity of astaxanthin and its combination with cisplatin.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37130999/"
+    },
+    {
+      "pmid": "29300342",
+      "title": "SNCA Is a Functionally Low-Expressed Gene in Lung Adenocarcinoma.",
+      "journal": "Genes",
+      "year": "2018",
+      "abstract": "There is increasing evidence for the contribution of synuclein alpha (<i>SNCA</i>) to the etiology of neurological disorders, such as Parkinson's disease (PD). However, little is known about the detailed role of <i>SNCA</i> in human cancers, especially lung cancers. Here, we evaluated the effects of <i>SNCA</i> on the occurrence and prognosis of lung adenocarcinoma (ADC). Comprehensive bioinformatics analyses of data obtained from the Oncomine platform, the human protein atlas (HPA) project and the cancer cell line encyclopedia (CCLE) demonstrated that <i>SNCA</i> expression was significantly reduced in both ADC tissues and cancer cells. The results of relevant clinical studies indicated that down-regulation of <i>SNCA</i> was statistically correlated with shorter overall survival time and post-progression survival time. Through analysis of datasets obtained from the Gene Expression Omnibus database, significant low levels of <i>SNCA</i> were identified in cisplatin-resistant ADC cells. Moreover, small interfering RNA (siRNA)-mediated knockdown of protein tyrosine kinase 7 (PTK7) elevated the expression of <i>SNCA</i> in the ADC cell lines H1299 and H2009. Our work demonstrates that low levels of <i>SNCA</i> are specifically found in ADC and that this gene may be a potential therapeutic target for this subset of lung cancers. Determination of the role of <i>SNCA</i> in ADC biology would give us some insightful information for further investigations.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29300342/"
+    },
+    {
+      "pmid": "37175433",
+      "title": "Chemical and Biological Evaluation of Novel 1<i>H</i>-Chromeno[3,2-<i>c</i>]pyridine Derivatives as MAO Inhibitors Endowed with Potential Anticancer Activity.",
+      "journal": "International journal of molecular sciences",
+      "year": "2023",
+      "abstract": "About twenty molecules sharing 1<i>H</i>-chromeno[3,2-<i>c</i>]pyridine as the scaffold and differing in the degree of saturation of the pyridine ring, oxidation at C10, 1-phenylethynyl at C1 and 1<i>H</i>-indol-3-yl fragments at C10, as well as a few small substituents at C6 and C8, were synthesized starting from 1,2,3,4-tetrahydro-2-methylchromeno[3,2-<i>c</i>]pyridin-10-ones (1,2,3,4-THCP-10-ones, <b>1</b>) or 2,3-dihydro-2-methyl-1<i>H</i>-chromeno[3,2-<i>c</i>]pyridines (2,3-DHPCs, <b>2</b>). The newly synthesized compounds were tested as inhibitors of the human isoforms of monoamine oxidase (MAO A and B) and cholinesterase (AChE and BChE), and the following main SARs were inferred: (i) The 2,3-DHCP derivatives <b>2</b> inhibit MAO A (IC<sub>50</sub> about 1 \u03bcM) preferentially; (ii) the 1,2,3,4-THCP-10-one <b>3a</b>, bearing the phenylethynyl fragment at C1, returned as a potent MAO B inhibitor (IC<sub>50</sub> 0.51 \u03bcM) and moderate inhibitor of both ChEs (IC<sub>50</sub>s 7-8 \u03bcM); (iii) the 1<i>H</i>-indol-3-yl fragment at C10 slightly increases the MAO B inhibition potency, with the analog <b>6c</b> achieving MAO B IC<sub>50</sub> of 3.51 \u03bcM. The MAO B inhibitor <b>3a</b> deserves further pharmacological studies as a remedy in the symptomatic treatment of Parkinson's disease and neuroprotectant for Alzheimer's disease. Besides the established neuroprotective effects of MAO inhibitors, the role of MAOs in tumor insurgence and progression has been recently reported. Herein, antiproliferative assays with breast (MCF-7), colon (HCT116) and cisplatin-resistant ovarian (SK-OV-3) tumor cells revealed that the 10-indolyl-bearing 2,3,4,10-THCP analog <b>6c</b> exerts anti-tumor activity with IC<sub>50</sub>s in the range 4.83-11.3 \u03bcM.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37175433/"
+    },
+    {
+      "pmid": "29427634",
+      "title": "Mucuna pruriens (L.) DC chemo sensitize human breast cancer cells via downregulation of prolactin-mediated JAK2/STAT5A signaling.",
+      "journal": "Journal of ethnopharmacology",
+      "year": "2018",
+      "abstract": "Mucuna pruriens (L.) DC (MP) is an ancient Indian medicinal plant traditionally used to treat Parkinson's disease. L-Dopa (LD), precursor of dopamine is abundantly found in the seeds of MP. L-dopa is a natural inhibitor of prolactin (PRL) hormone which is required to maintain lactation in women but it's over production (hyperprolactinemia) plays critical role in advancement of breast cancer. We aim to examine the pharmacological effect of LD and MP on this hyperprolactinemia associated breast cancer and related signaling for effective management of the disease. We also investigated chemo-sensitizing effect of MP on hyperprolactinemia-mediated cisplatin resistance. Methanolic seed extract of MP were prepared and analysed using HPLC. Effect of LD and MP on the cellular viability of breast cancer cells (T47D, MCF-7, MDA-MB-468 and MDA-MB-231) were evaluated using MTT assay. Further, effect of LD and MP on colony forming potential, DNA damage, cell cycle distribution and apoptosis was determined using agar/agarose method, comet assay and annexin and PI method followed by FACS analysis. To reveal the molecular mechanism involved in the anti-cancer activity of MP, transcriptional and translational level analysis of the key proteins involved in the PRL-mediated signaling, was performed using RT-PCR and western blot analysis. The effect of MP extract on PRL-mediated signaling was validated using dopaminergic agonist bromocriptine. MP extract and cisplatin was given in different combination with appropriate controls to check their effect on chemo-resistivity of breast cancer cells. Our results demonstrated that MP seed extract has the potential to inhibit cellular proliferation of PRL expressing T47D and MCF-7 breast cancer cells via induction of DNA damage, G1 phase of cell cycle arrest and apoptosis more effectively as compare to LD. Further, MP-mediated anti-cancerous effect was associated with the downregulation of PRL expression, further suppressing the JAK2/STAT5A/Cyclin D1 signaling pathway which has been validated using dopaminergic agonist bromocriptine. Cancer-related hyperprolactinemia confers cisplatin resistance, we observed that MP via PRL inhibition, enhances cisplatin efficacy after their combinatorial treatment in breast cancer cells. Collectively, our study suggests that MP could be recommended as dietary supplement along with the chemotherapeutic agents against breast cancer.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29427634/"
+    },
+    {
+      "pmid": "35886997",
+      "title": "Anticancer Activity of Amantadine and Evaluation of Its Interactions with Selected Cytostatics in Relation to Human Melanoma Cells.",
+      "journal": "International journal of molecular sciences",
+      "year": "2022",
+      "abstract": "Patients with Parkinson\u2019s disease are prone to a higher incidence of melanoma. Amantadine (an anti-Parkinson drug) possesses the antiproliferative potential that can be favorable when combined with other chemotherapeutics. Cisplatin (CDDP) and mitoxantrone (MTO) are drugs used in melanoma chemotherapy, but they have many side effects. (1) Clinical observations revealed a high incidence of malignant melanoma in patients with Parkinson\u2019s disease. Amantadine as an anti-Parkinson drug alleviates symptoms of Parkinson\u2019s disease and theoretically, it should have anti-melanoma properties. (2) To characterize the interaction profile for combinations of amantadine with CDDP and MTO in four human melanoma cell lines (A375, SK-MEL 28, FM55P and FM55M2), type I isobolographic analysis was used in the MTT test. (3) Amantadine produces the anti-proliferative effects in various melanoma cell lines. Flow cytometry analysis indicated that amantadine induced apoptosis and G1/S phase cell cycle arrest. Western blotting analysis showed that amantadine markedly decreased cyclin-D1 protein levels and increased p21 levels. Additionally, amantadine significantly increased the Bax/Bcl-2 ratio. The combined application of amantadine with CDDP at the fixed-ratio of 1:1 exerted an additive interaction in the four studied cell lines in the MTT test. In contrast, the combination of amantadine with MTO (ratio of 1:1) produced synergistic interaction in the FM55M2 cell line in the MTT (* p < 0.05). The combination of amantadine with MTO was also additive in the remaining tested cell lines (A375, FM55P and SK-MEL28) in the MTT test. (4) Amantadine combined with MTO exerted the most desirable synergistic interaction, as assessed isobolographically. Additionally, the exposure of melanoma cell lines to amantadine in combination with CDDP or MTO augmented the induction of apoptosis mediated by amantadine alone.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35886997/"
+    },
+    {
+      "pmid": "40805258",
+      "title": "Rasagiline Inhibits Human Melanoma Cell Viability and Interacts Synergistically with Mitoxantrone and Antagonistically with Cisplatin-In Vitro Isobolographic Studies.",
+      "journal": "Cancers",
+      "year": "2025",
+      "abstract": "<b>Background:</b> The increased incidence of malignant melanoma is observed in patients with Parkinson's disease. <b>Methods:</b> The anti-proliferative effects of carbidopa and rasagiline on four human malignant melanoma cell lines (A375, SK-MEL28, FM55P and FM55M2) were determined in MTT assay. The interaction profiles of rasagiline in combinations with cisplatin (CDDP) and mitoxantrone (MTX) in four human melanoma cell lines (A375, SK-MEL28, FM55P and FM55M2) were assessed by means of the isobolographic analysis in the MTT test; <b>Results:</b> Rasagiline, but not carbidopa, produced clear-cut anti-proliferative effects on various melanoma cell lines. The median inhibitory concentrations (IC<sub>50</sub> values) of rasagiline in the MTT were 280.69 \u00b5M for A375, 402.89 \u00b5M for SK-MEL28, 349.44 \u00b5M for FM55P, and 117.45 \u00b5M for FM55M2, respectively. The experimentally-derived selectivity index for rasagiline ranged from 8.22 to 28.18. Flow cytometry assay revealed, in two melanoma cell lines (FM55P and A375), a significant increase in the number of cells in the G0/G1 (up to 76.48% and 75.46% for cell lines, respectively), accompanied by a decrease in the percentage of cells in the S phase (decrease to 9.91% and 10.83% for cell lines, respectively), which may indicate potential cytostatic properties of rasagiline. The combinations of rasagiline with CDDP (at the fixed-ratio of 1:1) exerted either antagonistic interactions (<i>p</i> < 0.05) in the A375 and SK-MEL28, or additive interactions, with a tendency toward antagonism in the FM55P and FM55M2 cell lines in the MTT test. In contrast, the combinations of rasagiline with MTX (ratio of 1:1) produced either synergistic interaction (<i>p</i> < 0.05) in the FM55P cell line or additive interactions with a tendency toward synergy in the FM55M2, SK-MEL28, and A375 cell lines in the MTT test. <b>Conclusions:</b> Rasagiline combined with MTX exerted the most desirable synergistic interactions in relation to the anti-proliferative effects in four malignant melanoma cell lines, as assessed isobolographically. In contrast, rasagiline should not be combined with CDDP during the treatment of malignant melanoma due to the antagonistic interactions in the MTT assay.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40805258/"
+    },
+    {
+      "pmid": "15480843",
+      "title": "Antiapoptotic effects of budipine.",
+      "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
+      "year": "2004",
+      "abstract": "Apoptosis is one essential step for neuronal death in the nigrostriatal region in patients with Parkinson's disease. Cytotoxic tumor necrosis factor-alpha (TNF-alpha) and the proinflammatory cytokine interleukin-6 (Il-6) provide a proapoptotic environment. We investigated the influence of the antiparkinsonian compound budipine on the release of TNF-alpha and Il-6 in peripheral blood mononuclear cells (PBMC) and on the degree of cisplatin induced apoptotic cell death in SH-SY 5Y human neuroblastoma cells. 10(-7), 10(-8), 10(-9) mol/l of budipine significantly reduced release of TNF-alpha and Il-6 in PBMC and decreased apoptotic cell death after 50 hours and 74 hours in the SH-SY 5Y cells. Our results suggest, that budipine administration provides an antiapoptotic environment and slows neuronal apoptotic and inflammatory mediated loss of neurons.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15480843/"
+    },
+    {
+      "pmid": "16386719",
+      "title": "Low molecular weight thiol amides attenuate MAPK activity and protect primary neurons from Abeta(1-42) toxicity.",
+      "journal": "Brain research",
+      "year": "2006",
+      "abstract": "Oxidative stress caused by various stimuli lead to oxidation of glutathione (GSH), the major redox power of the cell. Amyloid beta [Abeta(1-42)] is one of the key components of senile plaques and is involved in the progress initiation and triggers of Alzheimer's disease (AD). Lower GSH levels correlated with the activation of mitogen-activated proteins kinases (MAPK) have been demonstrated in AD, Parkinson's disease (PD) and other neurodegenerative disorders and have been proposed to play a central role in the deterioration of the aging and neurodegenerative brain. In this study, we evaluated the ability of low molecular weight thiol amides, N-acetyl cysteine amide (AD4) that replenishes GSH levels, N-acetyl glycine cysteine amide (AD7) and N-acetyl-Cys-Gly-Pro-Cys-amide (CB4) to protect primary neuronal culture against the oxidative and neurotoxic effects of Abeta(1-42) and to inhibit cisplatin- and hydrogen-peroxide-induced phosphorylation of two MAP kinases (MAPK), p38 and ERK1/2, in NIH3T3 cells. Cell death induced by Abeta(1-42) in primary neuronal cells was reversed by the thiol amides. Likewise, protein oxidation, loss of mitochondrial function and DNA fragmentation all returned to control levels by pretreatment with the three thiol amides. Elevated phosphorylation of ERK1/2 and p38 induced by cisplatin or H2O2 in NIH3T3 cells was lowered by AD4, AD7 and CB4 in a dose-dependent manner. Taken together, these results suggest that the thiol amides AD4, AD7 and CB4 protect neuronal cells against Abeta(1-42) toxicity by attenuating oxidative stress in correlation with inhibiting the MAPK phosphorylation cascade. These results are consistent with the notion that these small molecular thiol amides may play a viable protective role in the oxidative and neurotoxicity induced by Abeta(1-42) in AD brain.",
+      "publication_types": [
+        "Comparative Study",
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/16386719/"
+    },
+    {
+      "pmid": "29260495",
+      "title": "Caffeic Acid Phenethyl Ester (CAPE) Protects PC12 Cells from Cisplatin-Induced Neurotoxicity by Activating the NGF-Signaling Pathway.",
+      "journal": "Neurotoxicity research",
+      "year": "2018",
+      "abstract": "Cisplatin is a highly effective chemotherapeutic drug that is toxic to the peripheral nervous system. Findings suggest that axons are early targets of the neurotoxicity of cisplatin. Although many compounds have been reported as neuroprotective, there is no effective treatment against the neurotoxicity of cisplatin. Caffeic acid phenethyl ester (CAPE) is a propolis component with neuroprotective potential mainly attributed to antioxidant and anti-inflammatory mechanisms. We have recently demonstrated the neurotrophic potential of CAPE in a cellular model of neurotoxicity related to Parkinson's disease. Now, we have assessed the neurotrophic and neuroprotective effects of CAPE against cisplatin-induced neurotoxicity in PC12 cells. CAPE (10\u00a0\u03bcM) attenuated the inhibition of neuritogenesis and the downregulation of markers of neuroplasticity (GAP-43, synapsin I, synaptophysin, and 200-kD neurofilament) induced by cisplatin (5\u00a0\u03bcM). This concentration of cisplatin does not affect cell viability, and it was used in order to assess the early neurotoxic events triggered by cisplatin. When a lethal dose of cisplatin was used (IC50\u2009=\u200932\u00a0\u03bcM), CAPE (10\u00a0\u03bcM) increased cell viability. The neurotrophic effect of CAPE is not dependent on NGF nor is it additive to the effect of NGF, but it might involve the activation of the NGF-high-affinity receptors (trkA). The involvement of other neurotrophin receptors such as trkB and trkC is unlikely. This is the first study to demonstrate the protective potential of CAPE against the neurotoxicity of cisplatin and to suggest the involvement of trkA receptors in the neuroprotective mechanism of CAPE. Based on these findings, the beneficial effect of CAPE on cisplatin-induced peripheral neuropathy should be further investigated.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29260495/"
+    },
+    {
+      "pmid": "1374316",
+      "title": "Pharmacological agents affecting emesis. A review (Part I).",
+      "journal": "Drugs",
+      "year": "1992",
+      "abstract": "The availability of radiolabelled ligands selective for various putative neurotransmitter receptor sites and the development of quantitative autoradiography has led to a greater understanding of the neuronal pathway and receptor subtypes involved in the vomiting reflex induced by various mechanisms both within the central nervous system and the periphery. Receptors for acetylcholine, dopamine, histamine and serotonin have been detected in a number of brain regions associated with the vomiting reflex, and provide a rational basis for the antiemetic action of drugs that inhibit receptor subtypes for these neurotransmitters. The basis of the antiemetic action of other drugs such as dexamethasone and the cannabinoids is still obscure. Some drugs act on more than 1 receptor subtype. Metoclopramide may inhibit both dopamine D2- and 5-HT3 receptors in producing its antiemetic effect. Both metoclopramide and domperidone appear to have additional peripheral actions that contribute to their effectiveness. The cannabinoids are effective in cytotoxic-induced vomiting, perhaps acting via endorphin receptors or by inhibiting prostaglandin synthesis. The effectiveness of 5-HT3 receptor antagonists may depend on the block of both central and peripheral neuronal 5-HT3 receptors. Vomiting constitutes a major disadvantage to the use of many drugs; vomiting induced by aminoglycoside antibiotics appears to be due to ototoxicity and is relieved by histamine H1-receptor antagonists. The protracted vomiting associated with the use of some cytotoxics in cancer chemotherapy may involve psychic components, the chemoreceptor trigger zone and peripheral sensory neurons. Both 5-HT3 and dopamine D2-receptor antagonists exert some control, the former being more effective with cytotoxics of high emetogenic potential, such as cisplatin. Serotonin 5-HT3 receptor antagonists or high doses of metoclopramide in combination with anxiolytics and steroids as well as greater attention to pharmacokinetic profiles of the drugs involved would appear to offer improved control. The use of dopamine receptor antagonists in controlling emesis induced by dopamine agonists used in Parkinson's disease poses theoretical problems which can be overcome by using drugs with selectivity for the chemoreceptor trigger zone, such as domperidone or metoclopramide. However, higher doses of these drugs may produce some impairment of therapeutic responses to the agonists. Muscarinic and nicotinic agonists currently under investigation in Alzheimer's disease pose another therapeutic dilemma as emesis is due to a central action of these compounds. Several sites may be involved including the chemoreceptor trigger zone and frontal lobes. Opiates may act through dopamine receptors or mu-receptors on dopaminergic nerves, but serotonergic mechanisms may also be involved in the action of some opiates.(ABSTRACT TRUNCATED AT 400 WORDS)",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/1374316/"
+    }
+  ]
+}

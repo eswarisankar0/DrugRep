@@ -1,0 +1,176 @@
+{
+  "drug_name": "Riboflavin",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "38773112",
+      "title": "Meta-analysis of shotgun sequencing of gut microbiota in Parkinson's disease.",
+      "journal": "NPJ Parkinson's disease",
+      "year": "2024",
+      "abstract": "We aimed to identify gut microbial features in Parkinson's disease (PD) across countries by meta-analyzing our fecal shotgun sequencing dataset of 94 PD patients and 73 controls in Japan with five previously reported datasets from USA, Germany, China1, China2, and Taiwan. GC-MS and LC-MS/MS assays were established to quantify fecal short-chain fatty acids (SCFAs) and fecal polyamines, respectively. \u03b1-Diversity was increased in PD across six datasets. Taxonomic analysis showed that species Akkermansia muciniphila was increased in PD, while species Roseburia intestinalis and Faecalibacterium prausnitzii were decreased in PD. Pathway analysis showed that genes in the biosyntheses of riboflavin and biotin were markedly decreased in PD after adjusting for confounding factors. Five out of six categories in carbohydrate-active enzymes (CAZymes) were decreased in PD. Metabolomic analysis of our fecal samples revealed that fecal SCFAs and polyamines were significantly decreased in PD. Genes in the riboflavin and biotin biosyntheses were positively correlated with the fecal concentrations of SCFAs and polyamines. Bacteria that accounted for the decreased riboflavin biosynthesis in Japan, the USA, and Germany were different from those in China1, China2, and Taiwan. Similarly, different bacteria accounted for decreased biotin biosynthesis in the two country groups. We postulate that decreased SCFAs and polyamines reduce the intestinal mucus layer, which subsequently facilitates the formation of abnormal \u03b1-synuclein fibrils in the intestinal neural plexus in PD, and also cause neuroinflammation in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38773112/"
+    },
+    {
+      "pmid": "37509049",
+      "title": "What Dietary Vitamins and Minerals Might Be Protective against Parkinson's Disease?",
+      "journal": "Brain sciences",
+      "year": "2023",
+      "abstract": "Dietary constituents may affect the progression of Parkinson's disease (PD). This study aimed to assess the contribution of dietary intake of vitamins and minerals to the severity, motor and non-motor symptoms, and risk of PD. In this case-control study, 120 patients with PD and 50 healthy participants participated. Dietary intake of vitamins and minerals was determined using a 147-item food frequency questionnaire. The severity of PD was determined by the Unified Parkinson's Disease Rating Scale (UPDRS). Patients with PD had lower intake of several vitamins and minerals including lycopene, thiamine, vitamin B6, vitamin B12, pantothenic acid, magnesium, zinc, manganese, selenium, chromium, and phosphorus, but had higher intake of \u03b1-tocopherol. High dietary intake of vitamin A, \u03b1-carotene, \u03b2-cryptoxanthin, vitamin C, and \u03b1-tocopherol were correlated with increased odds of PD. High intake of lycopene, thiamin, vitamin B6, pantothenic acid, magnesium, zinc, manganese, chromium, and phosphorous correlated with reduced odds of PD. The predictive power of \u03b1-tocopherol concerning the risk of PD was stronger relative to other vitamins. Dietary intake of pantothenic acid was negatively correlated with PD severity and symptoms of motor examination and complication. The severity and motor symptoms of PD were also negatively correlated with \u03b2-carotene, vitamin C, riboflavin, vitamin B6, and biotin intake. The UPDRS total score and motor symptoms in PD patients were negatively correlated with phosphorus, magnesium, zinc, manganese, and chromium, and strongly with potassium intake. The findings indicate that adequate dietary intake of vitamins and minerals may have a preventive effect on developing PD and progression of motor decline.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37509049/"
+    },
+    {
+      "pmid": "28775706",
+      "title": "Riboflavin Has Neuroprotective Potential: Focus on Parkinson's Disease and Migraine.",
+      "journal": "Frontiers in neurology",
+      "year": "2017",
+      "abstract": "With the huge negative impact of neurological disorders on patient's life and society resources, the discovery of neuroprotective agents is critical and cost-effective. Neuroprotective agents can prevent and/or modify the course of neurological disorders. Despite being underestimated, riboflavin offers neuroprotective mechanisms. Significant pathogenesis-related mechanisms are shared by, but not restricted to, Parkinson's disease (PD) and migraine headache. Those pathogenesis-related mechanisms can be tackled through riboflavin proposed neuroprotective mechanisms. In fact, it has been found that riboflavin ameliorates oxidative stress, mitochondrial dysfunction, neuroinflammation, and glutamate excitotoxicity; all of which take part in the pathogenesis of PD, migraine headache, and other neurological disorders. In addition, riboflavin-dependent enzymes have essential roles in pyridoxine activation, tryptophan-kynurenine pathway, and homocysteine metabolism. Indeed, pyridoxal phosphate, the active form of pyridoxine, has been found to have independent neuroprotective potential. Also, the produced kynurenines influence glutamate receptors and its consequent excitotoxicity. In addition, methylenetetrahydrofolate reductase requires riboflavin to ensure normal folate cycle influencing the methylation cycle and consequently homocysteine levels which have its own negative neurovascular consequences if accumulated. In conclusion, riboflavin is a potential neuroprotective agent affecting a wide range of neurological disorders exemplified by PD, a disorder of neurodegeneration, and migraine headache, a disorder of pain. In this article, we will emphasize the role of riboflavin in neuroprotection elaborating on its proposed neuroprotective mechanisms in opposite to the pathogenesis-related mechanisms involved in two common neurological disorders, PD and migraine headache, as well as, we encourage the clinical evaluation of riboflavin in PD and migraine headache patients in the future.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28775706/"
+    },
+    {
+      "pmid": "40078640",
+      "title": "Parkin characteristics and blood biomarkers of Parkinson's disease in WPBLC study.",
+      "journal": "Frontiers in aging neuroscience",
+      "year": "2025",
+      "abstract": "The exact mechanisms of PD are unclear, but Parkin-mediated mitophagy dysfunction is believed to play a key role. We investigated whether blood levels of Parkin and other biomarkers are linked to the risk of developing PD. Baseline blood measures of Parkin and other biomarkers, including Homocysteine, carcinoembryonic antigen, Urea, total proteins, total cholesterol, creatine kinase, and albumin, were collected from 197 clinically diagnosed Parkinson's disease participants and 107 age-matched healthy controls in Wenzhou Parkinson's Biomarkers and Living Characteristics study. We conducted bioinformatics analysis using three datasets from the GEO database: GSE90514 (Cohort 1: PD\u202f=\u202f4, HC\u202f=\u202f4), GSE7621 (Cohort 2: PD\u202f=\u202f16, HC\u202f=\u202f9), and GSE205450 (Cohort 3: PD\u202f=\u202f69, HC\u202f=\u202f81). Using a bioinformatic approach, we identified dysregulated biological processes in PD patients with PRKN mutations. Compared to controls, significant abnormalities were observed in blood levels of Parkin, Hcy, total proteins, urea, albumin, and CEA in PD patients. A model incorporating Parkin, Hcy, total proteins, and urea effectively distinguished PD from healthy controls, achieving a higher accuracy (AUC 0.841) than other biomarker combinations. Gene set enrichment analysis suggested that pathways such as PINK1-Parkin-mediated mitophagy, urea cycle, cysteine degradation, and riboflavin metabolism may be involved in PRKN mutation. Additionally, the link between Parkin and PD was partially mediated by CEA and albumin, not by Hcy, total proteins, or urea. Our findings indicate that blood Parkin levels may be a minimally invasive biomarker for PD diagnosis. The model, which included Parkin, Hcy, total proteins, and urea, effectively distinguished PD from HC with greater accuracy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40078640/"
+    },
+    {
+      "pmid": "28367977",
+      "title": "Riboflavin deficiency induces a significant change in proteomic profiles in HepG2 cells.",
+      "journal": "Scientific reports",
+      "year": "2017",
+      "abstract": "Riboflavin deficiency is widespread in many regions over the world, especially in underdeveloped countries. In this study, we investigated the effects of riboflavin deficiency on protein expression profiles in HepG2 cells in order to provide molecular information for the abnormalities induced by riboflavin deficiency. HepG2 cells were cultured in media containing different concentrations of riboflavin. Changes of cell viability and apoptosis were assessed. A comparative proteomic analysis was performed using a label-free shotgun method with LC-MS/MS to investigate the global changes of proteomic profiles in response to riboflavin deficiency. Immunoblotting test was used to validate the results of proteomic approach. The cell viability and apoptosis tests showed that riboflavin was vital in maintaining the cytoactivity of HepG2 cells. The label-free proteomic analysis revealed that a total of 37 proteins showing differential expression (\u00b12 fold, p\u2009<\u20090.05) were identified after riboflavin deficiency. Bioinformatics analysis indicated that the riboflavin deficiency caused an up-regulation of Parkinson's disease pathway, steroid catabolism, endoplasmic reticulum stress and apoptotic process, while the fatty acid metabolism, tricarboxylic citrate cycle, oxidative phosphorylation and iron metabolism were down-regulated. These findings provide a molecular basis for the elucidation of the effects caused by riboflavin deficiency.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28367977/"
+    },
+    {
+      "pmid": "34332078",
+      "title": "4,4'-Dimethoxychalcone regulates redox homeostasis by targeting riboflavin metabolism in Parkinson's disease therapy.",
+      "journal": "Free radical biology & medicine",
+      "year": "2021",
+      "abstract": "Oxidative stress damage plays a pivotal role in Parkinson's disease (PD) pathogenesis. Previously, we developed a blood brain barrier-penetrating peptide-based \"Trojan Horse\" strategy to deliver 4,4'-dimethoxychalcone (DMC) for PD therapy and revealed neuroprotective properties of DMC in a PD model; however, the underlying mechanisms remained unclear. Here, we report that DMC attenuated motor impairment, degeneration of DA neurons and \u03b1-synuclein aggregation in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) and exogenous human \u03b1-synuclein-induced PD mouse models. Mechanistically, DMC increased the expression of two critical intermediates in riboflavin metabolism: riboflavin kinase (RFK) and its metabolic product, flavin mononucleotide (FMN). We provide the first direct evidence that FMN ameliorated oxidative stress damage and dopaminergic neuron degeneration both in vitro and in vivo and that riboflavin metabolism was required for DMC-mediated neuroprotection. DMC-induced restoration of redox homeostasis was mediated via the activation of protein kinase C\u03b8 (PKC\u03b8) signaling. Together, our findings reveal that DMC may serve as a novel antioxidant in PD intervention and also define a novel mechanism that underlies its therapeutic activity.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34332078/"
+    },
+    {
+      "pmid": "35113305",
+      "title": "Neuroprotective Effect of Riboflavin Producing Lactic Acid Bacteria in Parkinsonian Models.",
+      "journal": "Neurochemical research",
+      "year": "2022",
+      "abstract": "Oxidative stress and inflammatory processes might contribute to the cascade of events leading Parkinson disease (PD); and vitamins such as riboflavin can exert protection on vulnerable neurons in neurodegenerative conditions. Previously, it was demonstrated that a mixture of lactic acid bacteria (including a riboflavin-producing strain) improved motor skills in a parkinsonian model. The aim of the present work was to investigate the neuroprotective potential of Lactiplantibacillus (L.) plantarum CRL2130, a riboflavin-producing strain in PD models. In vitro, N2a differentiated neurons were exposed the neurotoxin 1-methyl-4-phenylpyridinium (MPP+) and treated with intracellular bacterial extracts or commercial riboflavin. In vivo, adult male C57BL/6 mice were injected with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) and probenecid, and received orally L. plantarum CRL2130, L. plantarum CRL725 (parent strain that produces low levels of riboflavin) or commercial vitamin. Results showed that when N2a cells were incubated with intracellular extract from L. plantarum CRL2130 maintained the viability, and significantly decreased the release of IL-6 and the formation of reactive oxygen species (ROS), all affected by MPP+. In vivo, the administration of L. plantarum CRL2130 attenuated motor deficits and prevented dopaminergic neuronal death. Decrease of pro-inflammatory cytokines and increase of IL-10 in both serum and brain were observed in samples from mice that received L. plantarum CRL2130 compared to MPTP control group (without treatment). In addition, these beneficial effects were similar or improved when compared with animals that received commercial riboflavin. In conclusion, L. plantarum CRL2130 showed a neuroprotective effect in both PD models through anti-oxidant/anti-inflammatory mechanisms.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35113305/"
+    },
+    {
+      "pmid": "41306676",
+      "title": "Riboflavin-sensitized photoinduced degradation of donepezil hydrochloride: kinetic and computational insights for pharmaceutical formulation.",
+      "journal": "RSC advances",
+      "year": "2025",
+      "abstract": "Donepezil (DPZ) photosensitized degradation by riboflavin (RF) at pH 2.0-12.0 has been carried out in aerobic and anaerobic conditions under UV and visible irradiation to give an idea to pharmaceutical formulators to develop a stable co-formulation to administer to elderly patients with neurodegenerative diseases (Alzheimer's disease, Parkinson's disease). The photolysis rate constants (<i>k</i> <sub>obs</sub>) in aerobic and anaerobic conditions in the presence of RF (0.1-0.5 \u00d7 10<sup>-4</sup> M) range from 0.25-11.5 and 0.025-1.120 \u00d7 10<sup>-2</sup> min<sup>-1</sup>, respectively. RF catalyzes the photodegradation of DPZ, and the second-order (<i>k</i> <sub>2</sub>) constants in aerobic and anaerobic conditions range from 0.32 to 8.22 and 0.032 to 0.805 \u00d7 10<sup>-2</sup> M<sup>-1</sup> min<sup>-1</sup>, respectively, indicating that with an increase in the concentrations of RF, the rate of photolysis of DPZ also increases. The <i>k</i>-pH profile shows a bell-shaped curve from pH 2.0 to 4.0 and from pH 5.0 to 12.0, forming a sigmoid curve. The two-component spectrometric and HPLC green methods have been developed and validated for estimating DPZ and RF in pure and degraded solutions. Additionally, computational studies have been conducted to assess the formation of the ground-state complex, binding affinity, and molecular interactions between DPZ and RF.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41306676/"
+    },
+    {
+      "pmid": "14579122",
+      "title": "Environmental, life-style, and physical precursors of clinical Parkinson's disease: recent findings from the Honolulu-Asia Aging Study.",
+      "journal": "Journal of neurology",
+      "year": "2003",
+      "abstract": "Increased westernization with Japanese migration to the U. S. in the early 20(th) century is thought to have altered the risk of cardiovascular disease. Whether similar effects include changes in the risk of Parkinson's disease (PD) is not clear. This report describes the relations between environmental, life-style, and physical attributes and the incidence of PD that have been observed in the Honolulu-Asia Aging Study. Beginning in 1965, environmental, life-style, and physical attributes were recorded at selected examinations in a cohort of 8,006 Japanese-American men. Subjects were followed for clinical PD. During 30 years of follow- up, PD was observed in 137 men. Overall incidence (7.1/10,000 person-years) was generally higher than in Asia and similar to rates observed in Europe and the U. S. Precursors of PD included constipation, adiposity, years worked on a sugar or pineapple plantation, years of exposure to pesticides, and exposure to sugar cane processing. Factors showing an inverse association with PD included coffee intake and cigarette smoking. Among dietary factors, carbohydrates increased the risk of PD while the intake of polyunsaturated fats appeared protective. Total caloric intake, saturated and monounsaturated fats, protein, niacin, riboflavin, beta-carotene, vitamins A, B, and C, dietary cholesterol, cobalamin, alpha-tocopherol, and pantothenic acid showed no clear relation with clinical PD. Findings suggest that several environmental, life-style, and physical attributes appear to be precursors of PD. Whether patterns of precursors can be used to identify individuals at high risk of future PD or can broaden the scope of early interventions or recruitment into neuroprotective trials warrants further study.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/14579122/"
+    },
+    {
+      "pmid": "20338075",
+      "title": "Dietary intake of folate, vitamin B6, vitamin B12 and riboflavin and risk of Parkinson's disease: a case-control study in Japan.",
+      "journal": "The British journal of nutrition",
+      "year": "2010",
+      "abstract": "Increased homocysteine levels might accelerate dopaminergic cell death in Parkinson's disease (PD) through neurotoxic effects; thus, increasing intake of B vitamins involved in the regulation of homocysteine metabolism might decrease the risk of PD through decreasing plasma homocysteine. However, epidemiological evidence for the association of dietary B vitamins with PD is sparse, particularly in non-Western populations. We conducted a hospital-based case-control study in Japan to examine associations between dietary intake of folate, vitamin B6, vitamin B12 and riboflavin and the risk of PD. Patients with PD diagnosed using the UK PD Society Brain Bank criteria (n 249) and controls without neurodegenerative diseases (n 368) were recruited. Dietary intake during the preceding month was assessed at the time of study recruitment using a validated, self-administered, semi-quantitative, comprehensive diet history questionnaire. After adjustment for potential dietary and non-dietary confounding factors, intake of folate, vitamin B12 and riboflavin was not associated with the risk of PD (P for trend = 0.87, 0.70 and 0.11, respectively). However, low intake of vitamin B6 was associated with an increased risk of PD, independent of potential dietary and non-dietary confounders. Multivariate OR (95 % CI) for PD in the first, second, third and fourth quartiles of vitamin B6 were 1 (reference), 0.56 (0.33, 0.94), 0.69 (0.38, 1.25) and 0.48 (0.23, 0.99), respectively (P for trend = 0.10). In conclusion, in the present case-control study in Japan, low intake of vitamin B6, but not of folate, vitamin B12 or riboflavin, was independently associated with an increased risk of PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/20338075/"
+    },
+    {
+      "pmid": "12671304",
+      "title": "Metallothionein, neurotrophins and selegiline in providing neuroprotection in Parkinson's disease.",
+      "journal": "Restorative neurology and neuroscience",
+      "year": "1998",
+      "abstract": "The finding that 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) elicits parkinsonism in human beings suggests that endogenous or xenobiotic neurotoxic compounds may be involved in the etiology of Parkinson's disease (PD). We have shown that cerebrospinal fluid (CSF) of newly diagnosed and drug untreated patients with PD contains a low molecular weight substance(s) which inhibits the growth and function of dopaminergic neurons in culture. In addition, selegiline in a dosage below the level that inhibits monoamine oxidase B (MAO-B), protects dopaminergic neurons in culture against toxic factor(s) present in the CSF of patients with PD, and the said effect is mediated via elaboration of brain-derived neurotrophic factor (BDNF). In view of the fact that 6-hydroxydopamine (6-OHDA) or MPTP causes parkinsonism by generating free radicals, and inducers of metallothionein (MT) isoforms avert the said neurotoxicity, we intended to learn whether MT isoforms were capable of scavenging free radicals. By employing electron spin resonance spectroscopy (ESR), we examined for the first time the free radical scavenging effects of MT-I and MT-II isoforms on four types of free radicals. Solutions of 0.15 mM of MT-I and 0.3 mM of MT-II scavenged the 1,1-diphenyl-2-picrylhydrazyl radicals completely. Furthermore, they were able to scavenge hydroxyl radicals generated in a Fenton reaction. Moreover, MT-I scavenged almost 90% of the superoxide generated by the hypoxanthine and xanthine oxidase system, while MT-II could only scavenge 40%. By using 2,2,6,6-tetramethyl-4-piperidone as a \"spin-trap\" for the reactive oxygen species (containing singlet oxygen, superoxide and hydroxyl radicals) generated by photosensitized oxidation of riboflavin, and measuring the relative signal intensities of the resulting stable nitroxide adduct, 2,2,6,6-tetramethyl-4-piperidone-1-oxyl, we observed that MT-II could scavenge 92%, while MT-I could completely scavenge all the reactive species generated. The results of this investigation are interpreted to suggest that selegiline by preventing the generation of free radicals, MT isoforms by scavenging free radicals, and neurotrophins by rescuing dopaminergic neurons are capable of attenuating oxidative stress and of providing neuro-protection in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/12671304/"
+    },
+    {
+      "pmid": "14502375",
+      "title": "High doses of riboflavin and the elimination of dietary red meat promote the recovery of some motor functions in Parkinson's disease patients.",
+      "journal": "Brazilian journal of medical and biological research = Revista brasileira de pesquisas medicas e biologicas",
+      "year": "2003",
+      "abstract": "Abnormal riboflavin status in the absence of a dietary deficiency was detected in 31 consecutive outpatients with Parkinson's disease (PD), while the classical determinants of homocysteine levels (B6, folic acid, and B12) were usually within normal limits. In contrast, only 3 of 10 consecutive outpatients with dementia without previous stroke had abnormal riboflavin status. The data for 12 patients who did not complete 6 months of therapy or did not comply with the proposed treatment paradigm were excluded from analysis. Nineteen PD patients (8 males and 11 females, mean age +/- SD = 66.2+/-8.6 years; 3, 3, 2, 5, and 6 patients in Hoehn and Yahr stages I to V) received riboflavin orally (30 mg every 8 h) plus their usual symptomatic medications and all red meat was eliminated from their diet. After 1 month the riboflavin status of the patients was normalized from 106.4+/-34.9 to 179.2+/-23 ng/ml (N = 9). Motor capacity was measured by a modification of the scoring system of Hoehn and Yahr, which reports motor capacity as percent. All 19 patients who completed 6 months of treatment showed improved motor capacity during the first three months and most reached a plateau while 5/19 continued to improve in the 3- to 6-month interval. Their average motor capacity increased from 44 to 71% after 6 months, increasing significantly every month compared with their own pretreatment status (P < 0.001, Wilcoxon signed rank test). Discontinuation of riboflavin for several days did not impair motor capacity and yellowish urine was the only side effect observed. The data show that the proposed treatment improves the clinical condition of PD patients. Riboflavin-sensitive mechanisms involved in PD may include glutathione depletion, cumulative mitochondrial DNA mutations, disturbed mitochondrial protein complexes, and abnormal iron metabolism. More studies are required to identify the mechanisms involved.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/14502375/"
+    },
+    {
+      "pmid": "27504063",
+      "title": "Pharmaceutical Approval Update.",
+      "journal": "P & T : a peer-reviewed journal for formulary management",
+      "year": "2016",
+      "abstract": "Venetoclax (Venclexta) for chronic lymphocytic leukemia; riboflavin 5'-phosphate solutions (Photrexa Viscous and Photrexa) for progressive keratoconus; and pimavanserin (Nuplazid) for Parkinson's disease psychosis.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/27504063/"
+    },
+    {
+      "pmid": "39045051",
+      "title": "Integrative transcriptome-proteome approach reveals key hypoxia-related features involved in the neuroprotective effects of Yang Xue oral liquid on Alzheimer's and Parkinson's disease.",
+      "journal": "Frontiers in pharmacology",
+      "year": "2024",
+      "abstract": "<b>Introduction:</b> This study investigates the role of hypoxia-related genes in the neuroprotective efficacy of Yang Xue oral liquid (YXKFY) in Alzheimer's disease (AD) and Parkinson's disease (PD). <b>Methods and results:</b> Using differential expression and weighted gene co-expression network analysis (WGCNA), we identified 106 and 9 hypoxia-associated genes in AD and PD, respectively, that are implicated in the transcriptomic and proteomic profiles. An artificial intelligence-driven hypoxia signature (AIDHS), comprising 17 and 3 genes for AD and PD, was developed and validated across nine independent cohorts (<i>n</i> = 1713), integrating 10 machine learning algorithms and 113 algorithmic combinations. Significant associations were observed between AIDHS markers and immune cells in AD and PD, including naive CD4<sup>+</sup> T cells, macrophages, and neutrophils. Interactions with miRNAs (hsa-miR-1, hsa-miR-124) and transcription factors (USF1) were also identified. Single-cell RNA sequencing (scRNA-seq) data highlighted distinct expression patterns of AIDHS genes in various cell types, such as high expression of TGM2 in endothelial cells, PDGFRB in endothelial and mesenchymal cells, and SYK in microglia. YXKFY treatment was shown to repair cellular damage and decrease reactive oxygen species (ROS) levels. Notably, genes with previously dysfunctional expression, including FKBPL, TGM2, PPIL1, BLVRB, and PDGFRB, exhibited significant recovery after YXKFY treatment, associated with riboflavin and lysicamine. <b>Conclusion:</b> The above genes are suggested to be central to hypoxia and neuroinflammation responses in AD and PD, and are potential key mediators of YXKFY's neuroprotective action.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39045051/"
+    },
+    {
+      "pmid": "39088165",
+      "title": "Neuroprotective Effects Exerted by a Combination of Selected Lactic Acid Bacteria in a Mouse Parkinsonism Model under Levodopa-Benserazide Treatment.",
+      "journal": "Neurochemical research",
+      "year": "2024",
+      "abstract": "Alterations of the microbiota-gut-brain axis has been associated with intestinal and neuronal inflammation in Parkinson's disease (PD). The aim of this work was to study some mechanisms associated with the neuroprotective effect of a combination (MIX) of lactic acid bacteria (LAB) composed by Lactiplantibacillus plantarum CRL2130 (riboflavin overproducing strain), Streptococcus thermophilus CRL808 (folate producer strain), and CRL807 (immunomodulatory strain) in cell cultures and in a chronic model of parkinsonism induced with 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) in aged mice, and under levodopa-benserazide treatment. In vitro, N2a differentiated neurons were exposed to the neurotoxin 1-methyl-4-phenylpyridinium (MPP+) and treated with intracellular bacterial extracts or with conditioned media from BV-2 cells exposed to the bacterial extracts. In vivo, motor skills, tyrosine hydrolase (TH) in brain and cytokine concentrations in serum and in brain were evaluated. The study of the faecal microbiota and the histology of the small intestine was also performed. The results showed that the neuroprotective effect associated with LAB MIX administration did not interfere with levodopa-benserazide treatment. This effect could be associated with the antioxidant and immunomodulatory potential of the LAB selected in the MIX, and was associated with the significant improvement in the motor tests and a higher number of TH\u2009+\u2009cells in the brain. In addition, LAB MIX administration was associated with modulation of the immune response. LAB administration decreased intestinal damage with an increase in the villus length /crypt depth ratio. Finally, the administration of the LAB MIX in combination with levodopa-benserazide treatment was able to partially revert the intestinal dysbiosis observed in the model, showing greater similarity to the profiles of healthy controls, and highlighting the increase in the Lactobacillaceae family. Different mechanisms of action would be related to the protective effect of the selected LAB combination which has the potential to be evaluated as an adjuvant for conventional PD therapies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39088165/"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "drug_name": "Afegostat",
+  "disease_name": "Parkinson",
+  "n_abstracts": 1,
+  "abstracts": [
+    {
+      "pmid": "25037721",
+      "title": "A GCase chaperone improves motor function in a mouse model of synucleinopathy.",
+      "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+      "year": "2014",
+      "abstract": "Mutation of the lysosomal hydrolase acid-\u03b2-glucosidase (GCase), which leads to reduced GCase activity, is one of the most frequent genetic risk factors for Parkinson's disease (PD) and promotes \u03b1-synuclein accumulation in the brain, a hallmark of PD and other synucleinopathies. Whether targeting GCase pharmacologically is a valid therapeutic strategy for sporadic PD in the absence of GCase mutation is unknown. We have investigated whether increasing the stability, trafficking, and activity of wild-type GCase could be beneficial in synucleinopathies by administering the pharmacological chaperone AT2101 (afegostat-tartrate, isofagomine) to mice that overexpress human wild-type \u03b1-synuclein (Thy1-aSyn mice). AT2101 administered orally for 4 months to Thy1-aSyn mice improved motor and nonmotor function, abolished microglial inflammatory response in the substantia nigra, reduced \u03b1-synuclein immunoreactivity in nigral dopaminergic neurons, and reduced the number of small \u03b1-synuclein aggregates, while increasing the number of large \u03b1-synuclein aggregates. These data support the further investigation of pharmacological chaperones that target GCase as a therapeutic approach for sporadic PD and other synucleinopathies, even in the absence of glucocerebrosidase mutations.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/25037721/"
+    }
+  ]
+}

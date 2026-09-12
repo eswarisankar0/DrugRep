@@ -1,0 +1,76 @@
+{
+  "drug_name": "Ioflupane I 123",
+  "disease_name": "Parkinson",
+  "n_abstracts": 6,
+  "abstracts": [
+    {
+      "pmid": "36658411",
+      "title": "Dopamine transporter SPECT imaging in Parkinson's disease and atypical Parkinsonism: a study of 137 patients.",
+      "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+      "year": "2023",
+      "abstract": "Differential diagnosis between Parkinson's disease (PD) and multiple system atrophy-parkinsonian type (MSA-P), corticobasal degeneration (CBD), and progressive supranuclear palsy (PSP), collectively termed atypical Parkinsonism (AP), is challenging. Dopamine transporter density imaging with Ioflupane I<sup>123</sup> (DaTscan) is a marker of presynaptic nigrostriatal dysfunction. The primary aim of this study was to investigate the utility of DaTscan in the differential diagnosis of MSA-P, CBD, and PSP. Patients examined at Eginition Hospital (2011-2021), with available DaTscan data and a diagnosis of probable AP, clinically established PD, as well as a neurological control (NC) group were included. Mean binding specific index (BSI), BSI of the most affected side, asymmetry index, laterality, and caudate/putamen ratio were recorded. Analyses were performed by Kruskal-Wallis and ANCOVA. 137 patients were included (CBD: [Formula: see text]; MSA-P: [Formula: see text]; PSP: [Formula: see text]; PD: [Formula: see text]; NC: [Formula: see text]). There were significant differences when comparing CBS, PSP, and NC vs. all other groups combined. Pairwise between-group comparisons revealed significant differences between PSP and CBD (mean striatum BSI>1.95; sensitivity 74.1%; specificity 85.0%), CBD and MSA-P (mean striatum BSI>2.04; sensitivity 70.4%; specificity 86.7%), and CBD and PD (mean striatum BSI>2.11; sensitivity 66.7%; specificity 100.0%). There were no differences between PSP, MSA-P, and PD. PSP, MSA-P, and PD differed from NC subjects, with 100% specificity and high sensitivity. Differentiation of NC from CBD was suboptimal. CBD patients exhibit relatively mild DaTscan abnormalities. DaTscan may assist in the differentiation of CBD from PSP. DaTscan does not differentiate among PD, MSA-P, and PSP.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36658411/"
+    },
+    {
+      "pmid": "31848771",
+      "title": "Prevalence and factors related to orthostatic syndromes in recently diagnosed, drug-na\u00efve patients with Parkinson disease.",
+      "journal": "Clinical autonomic research : official journal of the Clinical Autonomic Research Society",
+      "year": "2020",
+      "abstract": "The aim of this study was to explore the prevalence of and factors related to orthostatic syndromes in recently diagnosed drug-na\u00efve patients with Parkinson disease (PD). This was a cross-sectional study that included 217 drug-na\u00efve patients with PD and 108 sex- and age-matched non-parkinsonian controls from the Parkinson's Progression Markers Initiative (PPMI) prospective cohort study who were devoid of diabetes, alcoholism, polyneuropathy, amyloidosis, and hypotension-inducing drugs. Orthostatic symptoms were evaluated using the Scales for Outcomes in PD-Autonomic Dysfunction (SCOPA-AUT). Ioflupane-I<sup>123</sup> single-photon emission computerized tomography was used to evaluate striatal dopamine active transporter (DaT) levels. Blood pressure was assessed both in the supine position and 1-3\u00a0min after the switch to a standing position. Orthostatic hypotension (OH) was defined by international consensus, and orthostatic intolerance (OI) was defined as the presence of orthostatic symptoms in the absence of OH. Compared with non-parkinsonian controls, patients with PD experienced a mild fall in systolic blood pressure upon standing (p\u2009=\u20090.082). The prevalence of OH was 11.1% in PD patients and 5.6% in controls (p\u2009=\u20090.109). The prevalence of OI was higher in patients with PD than in controls (31.3 vs. 13.3%; p\u2009=\u20090.003). Logistic regression revealed that OH and OI were related to a lower striatal DaT level and higher SCOPA-AUT gastrointestinal score. Orthostatic syndromes were common in the recently diagnosed drug-na\u00efve patients with PD enrolled in the study, but only the prevalence of OI was higher in PD patients than in the non-parkinsonian controls. Unlike motor or functional disability indicators, markers of dopaminergic striatal deficit and gastrointestinal dysfunction were associated with OH and OI.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31848771/"
+    },
+    {
+      "pmid": "34082747",
+      "title": "Differences in cause and 12-month follow-up outcome of parkinsonian symptoms in depressed older adults treated with antipsychotics: a case series.",
+      "journal": "BMC psychiatry",
+      "year": "2021",
+      "abstract": "Parkinsonian symptoms are common adverse effects of antipsychotics. Older adults are particularly vulnerable to drug-induced parkinsonism. Nonetheless, parkinsonian symptoms in seniors treated with antipsychotics cannot be straightforwardly attributed to antipsychotic medication. A comprehensive diagnostic workup is necessary in many cases in order to shed light on the cause of such symptoms in this patient population. Eight cases of hospitalized depressed older adults with parkinsonian symptoms, who were treated for at least one year with antipsychotics, are reported. Based on neurological consultation, structural brain imaging and Ioflupane (I-123) dopamine transporter (DAT) single photon emission computerized tomography (SPECT), Parkinson's disease was diagnosed in one case, idiopathic tremor in another, vascular parkinsonism in another one, while in another individual parkinsonian symptoms persisted at 12-month post-discharge follow-up even though his/her symptoms were classified as drug-induced on discharge. In four patients, parkinsonian symptoms were definitely drug-induced and no movement disturbances were reported at follow-up. Differences in the cause and outcome of parkinsonian symptoms in seniors treated with antipsychotics merit systematic and in-depth study considering the therapeutic and prognostic implications of an accurate detection of the cause of such symptoms. Familiarizing clinical psychiatrists with these differences could pave the way towards approaching seniors with severe, atypical and/or persistent parkinsonian symptoms in a more individualized diagnostic and therapeutic manner, and towards more cautious prescribing of antipsychotics in this age group.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34082747/"
+    },
+    {
+      "pmid": "29131690",
+      "title": "Investigating ioflupane I<sup>123</sup> injection and single photon emission tomography as an imaging biomarker for long-term sequelae following mild traumatic brain injury.",
+      "journal": "Brain injury",
+      "year": "2018",
+      "abstract": "To determine whether there were differences in clinical outcomes for ioflupane I<sup>123</sup> injection (DaTscan) and single photon emission tomography consistent with early Parkinson's disease (PD) among individuals with a history of mild traumatic brain injury (mTBI). We performed a case-control study among patients presenting to the Emergency Room (ER) during 2006-2013 with mTBI (cases, n\u00a0=\u00a034) or without mTBI (controls, n\u00a0=\u00a033). We performed clinical and imaging measurements in cases and controls at least 1-year post-presentation to the ER (average three years four months). All DaTscans obtained were qualitatively normal. There were no qualitative DaTscan differences between cases and controls. There was, however, a significant increase in caudate asymmetry in controls versus cases (p\u00a0=\u00a00.02), but this finding was no longer significant after correction for multiple comparisons. There was a suggestion of a trend of poorer clinical score test measures among those with mTBI, although the overall mean score difference between cases and controls was not clinically significant. Our small study does not provide support for DaTscan changes suggestive of PD in the one to seven years following mTBI. A trend towards poorer clinical measures was seen but was not clinically relevant in our small sample. Further work in a large population is necessary to support these findings.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29131690/"
+    },
+    {
+      "pmid": "15207208",
+      "title": "[Utility of dopamine transporter imaging (123-I Ioflupane SPECT) in the assessment of movement disorders].",
+      "journal": "Revista espanola de medicina nuclear",
+      "year": "2004",
+      "abstract": "The aim of our work was to assess the diagnostic impact of 123-I Ioflupane SPECT in patients with tremor and some other sign of Parkinsonisms in regards to its categorization in Parkinsonisms with involvement/indemnity of presynaptic dopaminergic neurons as well as to establish a differential diagnosis between essential tremor (ET) and degenerative Parkinsonism. 105 patients were included, 45 for differential diagnosis between Parkinsonism and ET, 52 to determine the origin of their Parkinsonism (degenerative vs secondary) and 8 with an established diagnosis, 5 Parkinson's disease and 3 ET. A dose of 185 MBq of Ioflupane 1-123 was administered and tomographic study acquired at 5 hours. After reconstruction, transaxial views were assessed by three observers. In all the patients, the diagnosis was established by a neurologist specialized in movement disorders, according to the symptoms, course, response to treatment and result of Ioflupane I-123. 42 patients were diagnosed of degenerative Parkinsonism (PD or Parkinsonism plus) and 63 of ET or secondary Parkinsonism. We obtained a values of sensitivity, specificity, PPV, NPV and accuracy of 93 %, 100 %, 100 %, 97 % and 97 % respectively. 123-I Ioflupane SPECT changed the treatment in 18 % of our patients. 123-I Ioflupane SPECT is a test of great value to establish the differential diagnosis between Parkinsonism vs ET and secondary vs degenerative Parkinsonism.",
+      "publication_types": [
+        "Clinical Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15207208/"
+    },
+    {
+      "pmid": "24773455",
+      "title": "Effective and efficient diagnosis of parkinsonism: the role of dopamine transporter SPECT imaging with ioflupane I-123 injection (DaTscan\u2122).",
+      "journal": "The American journal of managed care",
+      "year": "2014",
+      "abstract": "Parkinson's disease (PD), the second-most common neurodegenerative disease, is characterized by motor and nonmotor symptoms. PD is often misdiagnosed; inappropriate treatment due to misdiagnosis has undesired consequences, as does delayed diagnosis. Unfortunately, most people with PD receive a diagnosis only after motor symptoms have emerged, by which time 40% to 60% of dopamine neurons have already been lost. Advances in imaging techniques have provided clinicians with increasingly sophisticated tools. In 2011, the US Food and Drug Administration approved ioflupane I-123 injection (DaTscanTM) for striatal dopamine transporter visualization using single-photon emission computed tomography (SPECT) imaging, which provides an effective tool for assessing striatal dopaminergic deficiency. Among patients with suspected parkinsonian syndromes, of which PD is one, the diagnostic sensitivity and specificity of DaTscan SPECT imaging are high. In clinical studies that were part of the DaTscan new drug application, no serious drug-related adverse events reported by the 1236 participants were attributed to DaTscan. The introduction of DaTscan imaging and its utility necessitate the development of clinical recommendations for appropriate use; thus, a multidisciplinary panel of experts was convened to develop clinical criteria and algorithms to help guide clinicians and managed care organizations in the application of DaTscan SPECT imaging. Based on the consensus of this expert panel, appropriate use of DaTscan SPECT imaging includes cases where: (1) PD diagnosis is uncertain; (2) tremor of uncertain etiology is present; and (3) nonmotor and/ or supportive symptoms and features associated with PD are present but the classical motor syndrome is absent or atypical.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24773455/"
+    }
+  ]
+}

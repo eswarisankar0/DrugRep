@@ -1,122 +1,157 @@
 """
-agents/score_literature.py
+agents/score_literature_hybrid.py  (FINAL — priority-tier wired in)
 
-Reads raw abstracts fetched by literature_agent.py and scores each one,
-producing structured EvidenceRecord entries (schema.py).
+Cost-optimized hybrid scorer, three layers of cost control:
 
-TWO MODES, controlled by USE_MOCK below:
+  1. EVERY abstract gets a free, instant evidence_type + confidence_score
+     from PubMed's own PublicationType tags (classify_publication_types,
+     imported from score_literature_rulebased.py).
 
-  USE_MOCK = True   -> no API key needed. Uses a fake scorer so you can verify
-                       the file I/O, schema validation, and error handling all
-                       work correctly. Scores are NOT real evidence judgments.
+  2. The LLM is only called to generate finding_summary, and only when:
+       - evidence_type is clinically strong (rct / observational_study /
+         case_report) for ANY candidate, OR
+       - the drug is in the priority set (dual-source hits, or top-N by
+         score within each source — derived automatically from
+         combined_candidates.csv via priority_candidates.py)
+     Everything else gets a free templated summary instead.
 
-  USE_MOCK = False  -> real scoring via the Anthropic API.
-                       Requires: pip install anthropic
-                       Requires: $env:ANTHROPIC_API_KEY="sk-ant-..." set in your terminal
+  3. A local on-disk cache keyed by PMID means the same paper is NEVER
+     summarized twice, even across multiple drugs or repeated runs.
 
-Switch USE_MOCK to False the moment you have a real API key — nothing else
-in this file needs to change.
+Requires: pip install anthropic pandas
+Requires: ANTHROPIC_API_KEY set in your terminal session before running,
+          e.g. (PowerShell) $env:ANTHROPIC_API_KEY="sk-ant-..."
 """
 
 import os
 import json
 import time
 import glob
-import random
 
 from schema import EvidenceRecord
-
-# ---- TOGGLE THIS ----
-USE_MOCK = True
+from score_literature_rulebased import (
+    classify_publication_types,
+    adjust_confidence_for_relevance,
+)
+from priority_candidates import get_priority_candidates
 
 MODEL = "claude-sonnet-4-6"
 
 RAW_LITERATURE_DIR = "output/raw_literature"
 OUTPUT_PATH = "output/literature_evidence.json"
+CACHE_PATH = "output/finding_summary_cache.json"
 
+DISEASE_ID = "DOID:14330"  # Parkinson's disease
+
+# Drug-name -> ChEMBL/DrugBank id lookup for records we know; falls back
+# to the plain drug name if not listed here. Extend as you go.
 DRUG_ID_LOOKUP = {
     "amantadine": "CHEMBL1569",
     "ketamine": "CHEMBL1714",
 }
-DISEASE_ID = "DOID:14330"  # Parkinson's disease
+
+# Evidence types worth an LLM's nuanced read REGARDLESS of which drug
+# they're about — clinical evidence is high-value everywhere.
+ALWAYS_LLM_TYPES = {"rct", "observational_study", "case_report"}
+
+# Loaded once at import time from combined_candidates.csv — dual-source
+# hits and top-N-per-source candidates. See priority_candidates.py.
+try:
+    PRIORITY_CANDIDATES = get_priority_candidates()
+except FileNotFoundError:
+    print("WARNING: combined_candidates.csv not found — priority tier "
+          "disabled, only ALWAYS_LLM_TYPES will trigger real LLM calls.")
+    PRIORITY_CANDIDATES = set()
+
+SUMMARY_PROMPT_TEMPLATE = """You are assisting a drug repurposing research pipeline.
+Given this PubMed abstract about {drug_name} and {disease_name}, write ONE plain-language
+sentence (under 30 words) summarizing what this specific study actually found.
+
+Title: {title}
+Abstract: {abstract}
+
+Respond with ONLY the sentence. No JSON, no quotes, no preamble."""
 
 
-SCORING_PROMPT_TEMPLATE = """You are assisting a drug repurposing research pipeline. \
-You will be given one PubMed abstract and a drug-disease pair. Assess how strongly \
-this abstract supports the drug as a treatment for the disease.
-
-Drug: {drug_name}
-Disease: {disease_name}
-
-Abstract title: {title}
-Abstract text: {abstract}
-
-Respond with ONLY a JSON object (no markdown fences, no preamble, no extra text) \
-with exactly these fields:
-
-{{
-  "evidence_type": one of ["rct", "observational_study", "case_report", "preclinical", \
-"review", "not_relevant"],
-  "confidence_score": a number from 0.0 to 1.0, where 0.0 means the abstract provides \
-no real support for this drug treating this disease, and 1.0 means strong, direct, \
-well-controlled clinical evidence that it does,
-  "finding_summary": one plain-language sentence (under 30 words) summarizing what this \
-abstract actually found regarding this drug and this disease
-}}
-
-If the abstract is not actually about this drug-disease relationship, use \
-evidence_type "not_relevant" and confidence_score 0.0.
-"""
+def normalize(name: str) -> str:
+    return name.strip().lower()
 
 
-def mock_score_abstract(drug_name: str, disease_name: str, abstract_record: dict) -> dict:
-    """Fake scorer — deterministic-ish, just enough variety to test the pipeline."""
-    evidence_types = ["rct", "observational_study", "case_report", "preclinical", "review"]
-    chosen_type = random.choice(evidence_types)
-    return {
-        "evidence_type": chosen_type,
-        "confidence_score": round(random.uniform(0.1, 0.9), 2),
-        "finding_summary": (
-            f"[MOCK] Placeholder summary for {drug_name} and {disease_name} "
-            f"based on PMID {abstract_record.get('pmid', 'unknown')}."
-        ),
-    }
+def should_call_llm(evidence_type: str, drug_name: str) -> bool:
+    """Decide whether this abstract earns a real LLM call, or gets the
+    free templated summary instead."""
+    if evidence_type in ALWAYS_LLM_TYPES:
+        return True
+    return normalize(drug_name) in PRIORITY_CANDIDATES
 
 
-def real_score_abstract(drug_name: str, disease_name: str, abstract_record: dict) -> dict:
-    from anthropic import Anthropic  # imported here so USE_MOCK=True never needs this installed
+def load_cache() -> dict:
+    if os.path.exists(CACHE_PATH):
+        with open(CACHE_PATH, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
+
+
+def save_cache(cache: dict):
+    os.makedirs(os.path.dirname(CACHE_PATH), exist_ok=True)
+    with open(CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(cache, f, indent=2)
+
+
+def get_llm_finding_summary(drug_name: str, disease_name: str, abstract_record: dict) -> str:
+    from anthropic import Anthropic  # imported here so a missing key/package
+                                      # never blocks the free rule-based path
 
     client = Anthropic()
-
-    prompt = SCORING_PROMPT_TEMPLATE.format(
+    prompt = SUMMARY_PROMPT_TEMPLATE.format(
         drug_name=drug_name,
         disease_name=disease_name,
         title=abstract_record.get("title", ""),
         abstract=abstract_record.get("abstract", "")[:4000],
     )
-
     response = client.messages.create(
         model=MODEL,
-        max_tokens=300,
+        max_tokens=80,
         messages=[{"role": "user", "content": prompt}],
     )
-
-    raw_text = response.content[0].text.strip()
-    if raw_text.startswith("```"):
-        raw_text = raw_text.strip("`")
-        if raw_text.lower().startswith("json"):
-            raw_text = raw_text[4:].strip()
-
-    return json.loads(raw_text)
+    return response.content[0].text.strip()
 
 
-def score_abstract(drug_name: str, disease_name: str, abstract_record: dict) -> dict:
-    if USE_MOCK:
-        return mock_score_abstract(drug_name, disease_name, abstract_record)
-    return real_score_abstract(drug_name, disease_name, abstract_record)
+def templated_summary(evidence_type: str, drug_name: str, disease_name: str, pub_types: list) -> str:
+    label = ", ".join(pub_types) if pub_types else evidence_type
+    return (
+        f"{label} evidence mentioning {drug_name} and {disease_name} "
+        f"(not sent for LLM summarization — see abstract for details)."
+    )
 
 
-def process_file(filepath: str) -> list[EvidenceRecord]:
+def score_abstract_hybrid(drug_name: str, disease_name: str, abstract_record: dict, cache: dict) -> dict:
+    pub_types = abstract_record.get("publication_types", [])
+    evidence_type, base_confidence = classify_publication_types(pub_types)
+    confidence = adjust_confidence_for_relevance(
+        base_confidence, drug_name, disease_name,
+        abstract_record.get("title", ""), abstract_record.get("abstract", "")
+    )
+
+    pmid = abstract_record.get("pmid", "unknown")
+
+    if not should_call_llm(evidence_type, drug_name):
+        finding_summary = templated_summary(evidence_type, drug_name, disease_name, pub_types)
+        return {"evidence_type": evidence_type, "confidence_score": confidence,
+                "finding_summary": finding_summary, "llm_called": False}
+
+    if pmid in cache:
+        finding_summary = cache[pmid]
+        return {"evidence_type": evidence_type, "confidence_score": confidence,
+                "finding_summary": finding_summary, "llm_called": False}
+
+    finding_summary = get_llm_finding_summary(drug_name, disease_name, abstract_record)
+    cache[pmid] = finding_summary
+    return {"evidence_type": evidence_type, "confidence_score": confidence,
+            "finding_summary": finding_summary, "llm_called": True}
+
+
+def process_file(filepath: str, cache: dict) -> tuple[list, int]:
     with open(filepath, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -125,71 +160,64 @@ def process_file(filepath: str) -> list[EvidenceRecord]:
     drug_id = DRUG_ID_LOOKUP.get(drug_name.lower(), drug_name)
 
     records = []
+    llm_calls_made = 0
 
     for abstract_record in data.get("abstracts", []):
         pmid = abstract_record.get("pmid", "unknown")
-
         if not abstract_record.get("abstract"):
-            print(f"  Skipping PMID {pmid} — no abstract text")
             continue
 
-        print(f"  Scoring PMID {pmid}...")
+        scored = score_abstract_hybrid(drug_name, disease_name, abstract_record, cache)
+        if scored["llm_called"]:
+            llm_calls_made += 1
+            time.sleep(0.3)
 
-        try:
-            scored = score_abstract(drug_name, disease_name, abstract_record)
+        record = EvidenceRecord(
+            drug_id=drug_id,
+            drug_name=drug_name,
+            disease_id=DISEASE_ID,
+            disease_name=disease_name,
+            evidence_type=scored["evidence_type"],
+            source="pubmed",
+            source_id=f"PMID:{pmid}",
+            finding_summary=scored["finding_summary"],
+            confidence_score=float(scored["confidence_score"]),
+            date=abstract_record.get("year"),
+            raw_data_ref=abstract_record.get("raw_data_ref"),
+            agent_name="literature_agent_hybrid",
+        )
+        records.append(record)
 
-            record = EvidenceRecord(
-                drug_id=drug_id,
-                drug_name=drug_name,
-                disease_id=DISEASE_ID,
-                disease_name=disease_name,
-                evidence_type=scored["evidence_type"],
-                source="pubmed",
-                source_id=f"PMID:{pmid}",
-                finding_summary=scored["finding_summary"],
-                confidence_score=float(scored["confidence_score"]),
-                date=abstract_record.get("year"),
-                raw_data_ref=abstract_record.get("raw_data_ref"),
-                agent_name="literature_agent" + ("_mock" if USE_MOCK else ""),
-            )
-            records.append(record)
-
-        except (json.JSONDecodeError, KeyError, ValueError) as e:
-            print(f"  FAILED to score PMID {pmid}: {type(e).__name__}: {e}")
-            continue
-
-        if not USE_MOCK:
-            time.sleep(0.3)  # only need pacing for real API calls
-
-    return records
+    return records, llm_calls_made
 
 
 def main():
-    mode_label = "MOCK (no API key used)" if USE_MOCK else "REAL (Anthropic API)"
-    print(f"Running in {mode_label} mode.\n")
-
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
+    cache = load_cache()
 
-    all_records: list[EvidenceRecord] = []
+    print(f"Priority candidates loaded: {len(PRIORITY_CANDIDATES)}")
+    print(f"({', '.join(sorted(PRIORITY_CANDIDATES)) if PRIORITY_CANDIDATES else 'none'})\n")
 
-    input_files = glob.glob(os.path.join(RAW_LITERATURE_DIR, "*.json"))
-    print(f"Found {len(input_files)} raw literature file(s) to score.\n")
+    all_records = []
+    total_llm_calls = 0
+    total_abstracts = 0
 
-    for filepath in input_files:
+    for filepath in glob.glob(os.path.join(RAW_LITERATURE_DIR, "*.json")):
         print(f"Processing {filepath}")
-        records = process_file(filepath)
-        print(f"  -> {len(records)} evidence records produced\n")
+        records, llm_calls = process_file(filepath, cache)
+        total_llm_calls += llm_calls
+        total_abstracts += len(records)
+        print(f"  -> {len(records)} records, {llm_calls} required a real LLM call")
         all_records.extend(records)
 
+    save_cache(cache)
     EvidenceRecord.to_json_file(all_records, OUTPUT_PATH)
-    print(f"Saved {len(all_records)} total evidence records to {OUTPUT_PATH}")
 
-    if USE_MOCK:
-        print(
-            "\nNOTE: these are MOCK scores for pipeline testing only — "
-            "not real evidence assessments. Set USE_MOCK = False once you "
-            "have an Anthropic API key to get real scores."
-        )
+    print(f"\nSaved {len(all_records)} total evidence records to {OUTPUT_PATH}")
+    print(f"LLM calls made this run: {total_llm_calls} / {total_abstracts} abstracts "
+          f"({100 * total_llm_calls / max(total_abstracts,1):.0f}%)")
+    print(f"Cache now holds {len(cache)} previously-summarized PMIDs — "
+          f"re-running this script will reuse them at zero cost.")
 
 
 if __name__ == "__main__":

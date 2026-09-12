@@ -1,0 +1,112 @@
+{
+  "drug_name": "Clenbuterol",
+  "disease_name": "Parkinson",
+  "n_abstracts": 9,
+  "abstracts": [
+    {
+      "pmid": "39213090",
+      "title": "Cognitive Effects of Three \u03b2-Adrenoceptor Acting Drugs in Healthy Volunteers and Patients with Parkinson's Disease.",
+      "journal": "Journal of Parkinson's disease",
+      "year": "2024",
+      "abstract": "Noradrenergic signaling declines in Parkinson's disease (PD) following locus coeruleus neurodegeneration. Epidemiologic studies demonstrate that \u03b2-acting drugs slow PD progression. The primary objective was to compare the safety and effects of 3 \u03b2-adrenoceptor (\u03b2-AR) acting drugs on central nervous system (CNS) function after a single dose in healthy volunteers (HVs) and evaluate the effects of multiple doses of \u03b2-AR acting drugs in HVs and PD-patients. In Part A, HVs received single doses of 32\u200amg salbutamol, 160\u03bcg clenbuterol, 60\u200amg pindolol and placebo administered in a randomized, 4-way cross-over study. In Part B (randomized cross-over) and Part C (parallel, 2:1 randomized), placebo and/or clenbuterol (20\u03bcg on Day 1, 40\u03bcg on Day 2, 80\u03bcg on Days 3-7) were administered. CNS functions were assessed using the NeuroCart test battery, including pupillometry, adaptive tracking and recall tests. Twenty-seven HVs and 12 PD-patients completed the study. Clenbuterol improved and pindolol reduced the adaptive tracking and immediate verbal recall performance. Clenbuterol and salbutamol increased and pindolol decreased pupil-to-iris ratios. Clenbuterol was selected for Parts B and C. In Part B, clenbuterol significantly increased performance in adaptive tracking with a tendency toward improved performance in immediate and delayed verbal recall. In Part C trends toward improved performance in immediate and delayed verbal recall were observed in PD-patients. Typical cardiovascular peripheral \u03b22-AR effects were observed with clenbuterol. This study demonstrates the pro-cognitive effects of clenbuterol in HVs with similar trends in PD-patients. The mechanism of action is likely activation of \u03b22-ARs in the CNS.",
+      "publication_types": [
+        "Journal Article",
+        "Randomized Controlled Trial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39213090/"
+    },
+    {
+      "pmid": "38953404",
+      "title": "Effects on cerebral blood flow after single doses of the \u03b2<sub>2</sub> agonist, clenbuterol, in healthy volunteers and patients with mild cognitive impairment or Parkinson's disease.",
+      "journal": "British journal of clinical pharmacology",
+      "year": "2024",
+      "abstract": "Cerebral hypometabolism occurs years prior to a diagnosis of neurodegenerative diseases and coincides with reduced cerebral perfusion and declining noradrenergic transmission from the locus coeruleus. In pre-clinical models, \u03b2-adrenoceptor (\u03b2-AR) agonists increase cerebrocortical glucose metabolism, and may have therapeutic potential for neurodegenerative diseases. This study investigated the safety and effects on regional cerebral blood flow (rCBF) of the oral, brain-penetrant \u03b2<sub>2</sub>-AR agonist, clenbuterol, in healthy volunteers (HV) and patients with mild cognitive impairment (MCI) or Parkinson's disease (PD). This study evaluated the safety and effects on cerebral activity of the oral, brain-penetrant, \u03b2<sub>2</sub>-AR agonist clenbuterol (20-160\u2009\u03bcg) in healthy volunteers and patients with MCI or PD. Regional CBF, which is tightly coupled to glucose metabolism, was measured by arterial spin labelling MRI in 32 subjects (25\u2009HV and 8 MCI or PD) across five cohorts. In some cohorts, low doses of nadolol (1-5\u00a0mg), a \u03b2-AR antagonist with minimal brain penetration, were administered with clenbuterol to control peripheral \u03b2<sub>2</sub>-AR responses. Significant, dose-dependent increases in rCBF were seen in multiple brain regions, including hippocampus, amygdala and thalamus, following the administration of clenbuterol to HVs (mean changes from baseline in hippocampal rCBF of -1.7%, 7.3%, 22.9%, 28.4% 3\u00a0h after 20, 40, 80 and 160\u2009\u03bcg clenbuterol, respectively). In patients with MCI or PD, increases in rCBF following 80\u2009\u03bcg clenbuterol were observed both without and with 5\u00a0mg nadolol (in hippocampus, 18.6%/13.7% without/with nadolol). Clenbuterol was safe and well-tolerated in all subjects; known side effects of \u03b2<sub>2</sub>-agonists, including increased heart rate and tremor, were mild in intensity and were blocked by low-dose nadolol. The effects of clenbuterol on rCBF were evident both in the absence and presence of low-dose nadolol, suggesting central nervous system (CNS) involvement. Concomitant inhibition of the peripheral effects of clenbuterol by nadolol confirms that meaningful \u03b2<sub>2</sub>-AR antagonism in the periphery was achieved without interrupting the central effects of clenbuterol on rCBF.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38953404/"
+    },
+    {
+      "pmid": "35610264",
+      "title": "Beta2-adrenoreceptor agonist clenbuterol produces transient decreases in alpha-synuclein mRNA but no long-term reduction in protein.",
+      "journal": "NPJ Parkinson's disease",
+      "year": "2022",
+      "abstract": "\u03b22-adrenoreceptor (\u03b22AR) agonists have been associated with a decreased risk of developing Parkinson's disease (PD) and are hypothesized to decrease expression of both alpha-synuclein mRNA (Snca) and protein (\u03b1-syn). Effects of \u03b22AR agonist clenbuterol on the levels of Snca mRNA and \u03b1-syn protein were evaluated in vivo (rats and mice) and in rat primary cortical neurons by two independent laboratories. A modest decrease in Snca mRNA in the substantia nigra was observed after a single acute dose of clenbuterol in rats, however, this decrease was not maintained after multiple doses. In contrast, \u03b1-syn protein levels remained unchanged in both single and multiple dosing paradigms. Furthermore, clenbuterol did not decrease Snca in cultured rat primary cortical neurons, or decrease Snca or \u03b1-syn in mice. Additionally, compared to the single-dose paradigm, repeat dosing resulted in substantially lower levels of clenbuterol in plasma and brain tissue in rodents. Based on our observations of a transient decrease in Snca and no effect on \u03b1-syn protein in this preclinical study, these data support the conclusion that clenbuterol is not likely a viable disease-modifying strategy for PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35610264/"
+    },
+    {
+      "pmid": "34967757",
+      "title": "Detection of Clenbuterol-Induced Changes in Heart Rate Using At-Home Recorded Smartwatch Data: Randomized Controlled Trial.",
+      "journal": "JMIR formative research",
+      "year": "2021",
+      "abstract": "Although electrocardiography is the gold standard for heart rate (HR) recording in clinical trials, the increasing availability of smartwatch-based HR monitors opens up possibilities for drug development studies. Smartwatches allow for inexpensive, unobtrusive, and continuous HR estimation for potential detection of treatment effects outside the clinic, during daily life. The aim of this study is to evaluate the repeatability and sensitivity of smartwatch-based HR estimates collected during a randomized clinical trial. The data were collected as part of a multiple-dose, investigator-blinded, randomized, placebo-controlled, parallel-group study of 12 patients with Parkinson disease. After a 6-day baseline period, 4 and 8 patients were treated for 7 days with an ascending dose of placebo and clenbuterol, respectively. Throughout the study, the smartwatch provided HR and sleep state estimates. The HR estimates were quantified as the 2.5th, 50th, and 97.5th percentiles within awake and asleep segments. Linear mixed models were used to calculate the following: (1) the intraclass correlation coefficient (ICC) of estimated sleep durations, (2) the ICC and minimum detectable effect (MDE) of the HR estimates, and (3) the effect sizes of the HR estimates. Sleep duration was moderately repeatable (ICC=0.64) and was not significantly affected by study day (P=.83), clenbuterol (P=.43), and study day by clenbuterol (P=.73). Clenbuterol-induced changes were detected in the asleep HR as of the first night (+3.79 beats per minute [bpm], P=.04) and in the awake HR as of the third day (+8.79 bpm, P=.001). The median HR while asleep had the highest repeatability (ICC=0.70). The MDE (N=12) was found to be smaller when patients were asleep (6.8 bpm to 11.7 bpm) than while awake (10.7 bpm to 22.1 bpm). Overall, the effect sizes for clenbuterol-induced changes were higher while asleep (0.49 to 2.75) than while awake (0.08 to 1.94). We demonstrated the feasibility of using smartwatch-based HR estimates to detect clenbuterol-induced changes during clinical trials. The asleep HR estimates were most repeatable and sensitive to treatment effects. We conclude that smartwatch-based HR estimates obtained during daily living in a clinical trial can be used to detect and track treatment effects. Netherlands Trials Register NL8002; https://www.trialregister.nl/trial/8002.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34967757/"
+    },
+    {
+      "pmid": "11835439",
+      "title": "\u03b2-Adrenergics enhance brain extraction of levodopa.",
+      "journal": "Movement disorders : official journal of the Movement Disorder Society",
+      "year": "2002",
+      "abstract": "We sought to determine whether beta-adrenergic agonists enhance the brain extraction of L-dopa and L-leucine. Systemic administration of beta-adrenergic agonists increase brain concentrations of L-dopa and other large neutral amino acids (LNAA) in rats and monkeys and may improve symptoms and reduce daily L-dopa requirement in patients with Parkinson's disease. Cerebral blood flow (CBF) using [3H]nicotine and the extraction fraction of 14C-labeled L-dopa or L-leucine were measured simultaneously in various brain regions of conscious rats using the dual-isotope indicator fractionation technique after intraperitoneal administration of isoproterenol (a peripheral nonselective beta-adrenergic agonist), or clenbuterol (a beta2-adrenergic agonist that crosses the blood-brain barrier), or beta-adrenergic agonist preceded by nadolol (a peripheral nonselective beta-adrenergic antagonist), or saline vehicle. Both beta-adrenergic agonists increased regional brain extraction fraction of L-dopa and L-leucine tracers by 35-45%, without altering regional CBF. These changes were accompanied by about a 30% decrease in plasma branched chain LNAA concentrations. Nadolol blocked all these effects. beta-Adrenergic agonists increase the brain extraction of L-dopa and leucine, mainly by peripheral mechanisms that reduce the levels of other competing plasma LNAAs for transport. Thus, beta-adrenergic agonists might be useful in the treatment of patients with Parkinson's disease by enhancing delivery of L-dopa to the brain.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/11835439/"
+    },
+    {
+      "pmid": "37572228",
+      "title": "Lewy Body Dementia: An Overview of Promising Therapeutics.",
+      "journal": "Current neurology and neuroscience reports",
+      "year": "2023",
+      "abstract": "Lewy body dementia (LBD) encompasses dementia with Lewy bodies (DLB) and Parkinson's disease dementia (PDD). This article will emphasize potential disease-modifying therapies as well as investigative symptomatic treatments for non-motor symptoms including cognitive impairment and psychosis that can present a tremendous burden to patients with LBD and their caregivers. We review 11 prospective disease-modifying therapies (DMT) including four with phase 2 data (neflamapimod, nilotinib, bosutinib, and E2027); four with some limited data in symptomatic populations including phase 1, open-label, registry, or cohort data (vodabatinib, ambroxol, clenbuterol, and terazosin); and three with phase 1 data in healthy populations (Anle138b, fosgonimeton, and CT1812). We also appraise four symptomatic therapies for cognitive impairment, but due to safety and efficacy concerns, only NYX-458 remains under active investigation. Of symptomatic therapies for psychosis recently investigated, pimavanserin shows promise in LBD, but studies of nelotanserin have been suspended. Although the discovery of novel symptomatic and disease-modifying therapeutics remains a significant challenge, recently published and upcoming trials signify promising strides toward that aim.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37572228/"
+    },
+    {
+      "pmid": "36864439",
+      "title": "Opposing effects of \u03b2-2 and \u03b2-1 adrenergic receptor signaling on neuroinflammation and dopaminergic neuron survival in \u03b1-synuclein-mediated neurotoxicity.",
+      "journal": "Journal of neuroinflammation",
+      "year": "2023",
+      "abstract": "Noradrenergic neurons in the locus coeruleus (LC) are the primary source of norepinephrine (NE) in the brain and degeneration of these neurons is reported in the early stages of Parkinson's disease (PD), even prior to dopaminergic neuron degeneration in the substantia nigra (SN), which is a hallmark of PD pathology. NE depletion is generally associated with increased PD pathology in neurotoxin-based PD models. The effect of NE depletion in other models of PD-like \u03b1-synuclein-based models is largely unexplored. In PD models and in human patients, \u03b2-adrenergic receptors' (AR) signaling is associated with a reduction of neuroinflammation and PD pathology. However, the effect of NE depletion in the brain and the extent of NE and \u03b2-ARs signaling involvement in neuroinflammation, and dopaminergic neuron survival is poorly understood. Two mouse models of PD, a 6OHDA neurotoxin-based model and a human \u03b1-synuclein (h\u03b1-SYN) virus-based model of PD, were used. DSP-4 was used to deplete NE levels in the brain and its effect was confirmed by HPLC with electrochemical detection. A pharmacological approach was used to mechanistically understand the impact of DSP-4 in the h\u03b1-SYN model of PD using a norepinephrine transporter (NET) and a \u03b2-AR blocker. Epifluorescence and confocal imaging were used to study changes in microglia activation and T-cell infiltration after \u03b21-AR and \u03b22-AR agonist treatment in the h\u03b1-SYN virus-based model of PD. Consistent with previous studies, we found that DSP-4 pretreatment increased dopaminergic neuron loss after 6OHDA injection. In contrast, DSP-4 pretreatment protected dopaminergic neurons after h\u03b1-SYN overexpression. DSP-4-mediated protection of dopaminergic neurons after h\u03b1-SYN overexpression was dependent on \u03b2-AR signaling since using a \u03b2-AR blocker prevented DSP-4-mediated dopaminergic neuron protection in this model of PD. Finally, we found that the \u03b2-2AR agonist, clenbuterol, reduced microglia activation, T-cell infiltration, and dopaminergic neuron degeneration, whereas xamoterol a \u03b2-1AR agonist showed increased neuroinflammation, blood brain barrier permeability (BBB), and dopaminergic neuron degeneration in the context of h\u03b1-SYN-mediated neurotoxicity. Our data demonstrate that the effects of DSP-4 on dopaminergic neuron degeneration are model specific, and suggest that in the context of \u03b1-SYN-driven neuropathology, \u03b22-AR specific agonists may have therapeutic benefit in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36864439/"
+    },
+    {
+      "pmid": "31506926",
+      "title": "Pharmacological targeting of \u03b2<sub>2</sub> -adrenoceptors is neuroprotective in the LPS inflammatory rat model of Parkinson's disease.",
+      "journal": "British journal of pharmacology",
+      "year": "2020",
+      "abstract": "Chronic inflammation may play a role in the pathogenesis of Parkinson's disease (PD). Noradrenaline is an endogenous neurotransmitter with anti-inflammatory properties. In the present investigation, we assessed the immunomodulatory and neuroprotective efficacy of pharmacologically targeting the CNS noradrenergic system in a rat model of PD. The impact of treatment with the \u03b2<sub>2</sub> -adrenoceptor agonists clenbuterol and formoterol was assessed in the intranigral LPS rat model of PD. The immunomodulatory potential of formoterol to influence the CNS response to systemic inflammation was also assessed. LPS-induced deficits in motor function (akinesia and forelimb-use asymmetry) and nigrostriatal dopamine loss were rescued by both agents. Treatment with the noradrenaline reuptake inhibitor atomoxetine reduced striatal dopamine loss and motor deficits following intranigral LPS injection. Co-treatment with the \u03b2<sub>2</sub> -adrenoceptor antagonist ICI 118,551 attenuated the protective effects of atomoxetine. Systemic LPS challenge exacerbated reactive microgliosis, IL-1\u03b2 production, dopamine cell loss in the substantia nigra, nerve terminal degeneration in the striatum, and associated motor impairments in animals that previously received intranigral LPS. This exacerbation was attenuated by formoterol treatment. The results indicate that pharmacologically targeting \u03b2<sub>2</sub> -adrenoceptors has the propensity to regulate the neuroinflammatory phenotype in vivo and may be a potential neuroprotective strategy where inflammation contributes to the progression of dopaminergic neurodegeneration. In accordance with this, clinical agents such as \u03b2<sub>2</sub> -adrenoceptor agonists may prove useful as immunomodulatory agents in the treatment of neurodegenerative conditions associated with brain inflammation.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31506926/"
+    },
+    {
+      "pmid": "38333295",
+      "title": "Insights into the management of Lewy body dementia: a scoping review.",
+      "journal": "Annals of medicine and surgery (2012)",
+      "year": "2024",
+      "abstract": "Lewy body dementia (LBD) is situated at the convergence of neurodegenerative disorders, posing an intricate and diverse clinical dilemma. The accumulation of abnormal protein in the brain, namely, the Lewy body causes disturbances in typical neural functioning, leading to a range of cognitive, motor, and mental symptoms that have a substantial influence on the overall well-being and quality of life of affected individuals. There is no definitive cure for the disease; however, several nonpharmacological and pharmacological modalities have been tried with questionable efficacies. The aim of this study is to figure out the role of different interventional strategies in the disease. Donepezil, rivastigmine, memantine, and galantamine were the commonly used drugs for LBD. Together with that, levodopa, antipsychotics, armodafinil, piracetam, and traditional medications like yokukansan were also used, when indicated. Talking about nonpharmacological measures, exercise, physical therapy, multicomponent therapy, occupational therapy, psychobehavioral modification, transcranial stimulation, and deep brain stimulation have been used with variable efficacies. Talking about recent advances in the treatment of LBD, various disease-modifying therapies like ambroxol, neflamapimod, irsenontrine, nilotinib, bosutinib, vodobatinib, clenbuterol, terazosin, elayta, fosgonimeton, and anle138b are emerging out. However, there drugs are still in the different phases of clinical trials and are not commonly used in clinical practice. With the different pharmacological and nonpharmacological modalities we have for treatment of LBD, all of them offer symptomatic relief only. Being a degenerative disease, definite cure of the disease can only be possible with regenerative measures.",
+      "publication_types": [
+        "Journal Article",
+        "Scoping Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38333295/"
+    }
+  ]
+}

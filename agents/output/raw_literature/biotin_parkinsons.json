@@ -1,0 +1,180 @@
+{
+  "drug_name": "Biotin",
+  "disease_name": "Parkinson",
+  "n_abstracts": 15,
+  "abstracts": [
+    {
+      "pmid": "25747476",
+      "title": "Protein sulfhydration.",
+      "journal": "Methods in enzymology",
+      "year": "2015",
+      "abstract": "Hydrogen sulfide (H2S) is one of the gasotransmitters that modulates various biological processes and participates in multiple signaling pathways. H2S signals by a process termed sulfhydration. Sulfhydration has recently been recognized as a posttranslational modification similar to nitrosylation. Sulfhydration occurs at reactive cysteine residues in proteins and results in the conversion of an -SH group of cysteine to an -SSH or a persulfide group. Sulfhydration is highly prevalent in vivo, and aberrant sulfhydration patterns have been observed under several pathological conditions ranging from heart disease to neurodegenerative diseases such as Parkinson's disease. The biotin switch assay, originally developed to detect nitrosylation, has been modified to detect sulfhydration. In this chapter, we discuss the physiological roles of sulfhydration and the methodologies used to detect this modification.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/25747476/"
+    },
+    {
+      "pmid": "38045419",
+      "title": "Biotin rescues manganese-induced Parkinson's disease phenotypes and neurotoxicity.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2023",
+      "abstract": "Occupational exposure to manganese (Mn) induces manganism and has been widely linked as a contributing environmental factor to Parkinson's disease (PD), featuring dramatic signature overlaps between the two in motor symptoms and clinical hallmarks. However, the molecular mechanism underlying such link remains elusive, and for combating PD, effective mechanism-based therapies are lacking. Here, we developed an adult <i>Drosophila</i> model of Mn toxicity to recapitulate key parkinsonian features, spanning behavioral deficits, neuronal loss, and dysfunctions in lysosome and mitochondria. We performed global metabolomics on flies at an early stage of toxicity and identified metabolism of the B vitamin, biotin (vitamin B <sub>7</sub> ), as a master pathway underpinning Mn toxicity with systemic, body-brain increases in Mn-treated groups compared to the controls. Using Btnd <sup>RNAi</sup> mutant flies, we show that biotin depletion exacerbates Mn-induced neurotoxicity, parkinsonism, and mitochondrial dysfunction; while in Mn-exposed wild-type flies, biotin feeding dramatically ameliorates these pathophenotypes. We further show in human induced stem cells (iPSCs)- differentiated midbrain dopaminergic neurons that the supplemented biotin protects against Mn-induced neuronal loss, cytotoxicity, and mitochondrial dysregulation. Finally, human data profiling biotin-related proteins show for PD cases elevated circulating levels of biotin transporters but not of metabolic enzymes compared to healthy controls, suggesting humoral biotin transport as a key event involved in PD. Taken together, our findings identified compensatory biotin pathway as a convergent, systemic driver of Mn toxicity and parkinsonian pathology, providing new basis for devising effective countermeasures against manganism and PD. Environmental exposure to manganese (Mn) may increase the risk for Parkinson's disease (PD); however, the mechanistic basis linking the two remains unclear. Our adult fruit fly ( <i>Drosophila</i> ) model of Mn toxicity recapitulated key Parkinson's hallmarks <i>in vivo</i> spanning behavioral deficits, neuronal loss, and mitochondrial dysfunction. Metabolomics identified the biotin (vitamin B <sub>7</sub> ) pathway as a key mediator, featuring systemic biotin increases in the flies. Rescue trials leveraging biotin-deficient flies, wild-type flies, and human iPSC-derived dopaminergic neurons determined biotin as a driver of manganism, with the parkinsonian phenotypes dramatically reversed through biotin supplementation. Our findings, in line with overexpressed circulating biotin transporters observed in PD patients, suggest compensatory biotin pathway as a key to untangle the Mn-PD link for combating neurodegenerative disease.",
+      "publication_types": [
+        "Preprint",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38045419/"
+    },
+    {
+      "pmid": "38773112",
+      "title": "Meta-analysis of shotgun sequencing of gut microbiota in Parkinson's disease.",
+      "journal": "NPJ Parkinson's disease",
+      "year": "2024",
+      "abstract": "We aimed to identify gut microbial features in Parkinson's disease (PD) across countries by meta-analyzing our fecal shotgun sequencing dataset of 94 PD patients and 73 controls in Japan with five previously reported datasets from USA, Germany, China1, China2, and Taiwan. GC-MS and LC-MS/MS assays were established to quantify fecal short-chain fatty acids (SCFAs) and fecal polyamines, respectively. \u03b1-Diversity was increased in PD across six datasets. Taxonomic analysis showed that species Akkermansia muciniphila was increased in PD, while species Roseburia intestinalis and Faecalibacterium prausnitzii were decreased in PD. Pathway analysis showed that genes in the biosyntheses of riboflavin and biotin were markedly decreased in PD after adjusting for confounding factors. Five out of six categories in carbohydrate-active enzymes (CAZymes) were decreased in PD. Metabolomic analysis of our fecal samples revealed that fecal SCFAs and polyamines were significantly decreased in PD. Genes in the riboflavin and biotin biosyntheses were positively correlated with the fecal concentrations of SCFAs and polyamines. Bacteria that accounted for the decreased riboflavin biosynthesis in Japan, the USA, and Germany were different from those in China1, China2, and Taiwan. Similarly, different bacteria accounted for decreased biotin biosynthesis in the two country groups. We postulate that decreased SCFAs and polyamines reduce the intestinal mucus layer, which subsequently facilitates the formation of abnormal \u03b1-synuclein fibrils in the intestinal neural plexus in PD, and also cause neuroinflammation in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38773112/"
+    },
+    {
+      "pmid": "27708076",
+      "title": "Pathological \u03b1-synuclein transmission initiated by binding lymphocyte-activation gene 3.",
+      "journal": "Science (New York, N.Y.)",
+      "year": "2016",
+      "abstract": "Emerging evidence indicates that the pathogenesis of Parkinson's disease (PD) may be due to cell-to-cell transmission of misfolded preformed fibrils (PFF) of \u03b1-synuclein (\u03b1-syn). The mechanism by which \u03b1-syn PFF spreads from neuron to neuron is not known. Here, we show that LAG3 (lymphocyte-activation gene 3) binds \u03b1-syn PFF with high affinity (dissociation constant = 77 nanomolar), whereas the \u03b1-syn monomer exhibited minimal binding. \u03b1-Syn-biotin PFF binding to LAG3 initiated \u03b1-syn PFF endocytosis, transmission, and toxicity. Lack of LAG3 substantially delayed \u03b1-syn PFF-induced loss of dopamine neurons, as well as biochemical and behavioral deficits in vivo. The identification of LAG3 as a receptor that binds \u03b1-syn PFF provides a target for developing therapeutics designed to slow the progression of PD and related \u03b1-synucleinopathies.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, N.I.H., Extramural",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/27708076/"
+    },
+    {
+      "pmid": "37509049",
+      "title": "What Dietary Vitamins and Minerals Might Be Protective against Parkinson's Disease?",
+      "journal": "Brain sciences",
+      "year": "2023",
+      "abstract": "Dietary constituents may affect the progression of Parkinson's disease (PD). This study aimed to assess the contribution of dietary intake of vitamins and minerals to the severity, motor and non-motor symptoms, and risk of PD. In this case-control study, 120 patients with PD and 50 healthy participants participated. Dietary intake of vitamins and minerals was determined using a 147-item food frequency questionnaire. The severity of PD was determined by the Unified Parkinson's Disease Rating Scale (UPDRS). Patients with PD had lower intake of several vitamins and minerals including lycopene, thiamine, vitamin B6, vitamin B12, pantothenic acid, magnesium, zinc, manganese, selenium, chromium, and phosphorus, but had higher intake of \u03b1-tocopherol. High dietary intake of vitamin A, \u03b1-carotene, \u03b2-cryptoxanthin, vitamin C, and \u03b1-tocopherol were correlated with increased odds of PD. High intake of lycopene, thiamin, vitamin B6, pantothenic acid, magnesium, zinc, manganese, chromium, and phosphorous correlated with reduced odds of PD. The predictive power of \u03b1-tocopherol concerning the risk of PD was stronger relative to other vitamins. Dietary intake of pantothenic acid was negatively correlated with PD severity and symptoms of motor examination and complication. The severity and motor symptoms of PD were also negatively correlated with \u03b2-carotene, vitamin C, riboflavin, vitamin B6, and biotin intake. The UPDRS total score and motor symptoms in PD patients were negatively correlated with phosphorus, magnesium, zinc, manganese, and chromium, and strongly with potassium intake. The findings indicate that adequate dietary intake of vitamins and minerals may have a preventive effect on developing PD and progression of motor decline.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37509049/"
+    },
+    {
+      "pmid": "39836750",
+      "title": "Biotin mitigates the development of manganese-induced, Parkinson's disease-related neurotoxicity in <i>Drosophila</i> and human neurons.",
+      "journal": "Science signaling",
+      "year": "2025",
+      "abstract": "Chronic exposure to manganese (Mn) induces manganism and has been widely implicated as a contributing environmental factor to Parkinson's disease (PD), featuring notable overlaps between the two in motor symptoms and clinical hallmarks. Here, we developed an adult <i>Drosophila</i> model of Mn toxicity that recapitulated key parkinsonian features, spanning behavioral deficits, neuronal loss, and dysfunctions in lysosomes and mitochondria. Metabolomics analysis of the brain and body tissues of these flies at an early stage of toxicity identified systemic changes in the metabolism of biotin (also known as vitamin B<sub>7</sub>) in Mn-treated groups. Biotinidase-deficient flies showed exacerbated Mn-induced neurotoxicity, parkinsonism, and mitochondrial dysfunction. Supplementing the diet of wild-type flies with biotin ameliorated the pathological phenotypes of concurrent exposure to Mn. Biotin supplementation also ameliorated the pathological phenotypes of three standard fly models of PD. Furthermore, supplementing the culture media of human induced stem cells (iPSCs) differentiated midbrain dopaminergic neurons with biotin protected against Mn-induced mitochondrial dysregulation, cytotoxicity, and neuronal loss. Last, analysis of the expression of genes encoding biotin-related proteins in patients with PD revealed increased amounts of biotin transporters in the substantia nigra compared with healthy controls, suggesting a potential role of altered biotin metabolism in PD. Together, our findings identified changes in biotin metabolism as underlying Mn neurotoxicity and parkinsonian pathology in flies, for which dietary biotin supplementation was preventative.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39836750/"
+    },
+    {
+      "pmid": "40612512",
+      "title": "Combining light-induced aggregation and biotin proximity labeling implicates endolysosomal proteins in early \u03b1-synuclein oligomerization.",
+      "journal": "iScience",
+      "year": "2025",
+      "abstract": "Alpha-synuclein (\u03b1-syn) aggregation is a defining feature of Parkinson's disease (PD) and related synucleinopathies. Despite significant research efforts focused on understanding \u03b1-syn aggregation mechanisms, the early stages of this process remain elusive, largely due to limitations in experimental tools that lack the temporal resolution to capture these dynamic events. Here, we introduce UltraID-LIPA, an innovative platform that combines the light-inducible protein aggregation (LIPA) system with the UltraID proximity-dependent biotinylation assay to identify \u03b1-syn-interacting proteins and uncover key mechanisms driving its oligomerization. UltraID-LIPA successfully identified 38 \u03b1-syn-interacting proteins, including both established and previously unreported candidates, highlighting the accuracy and robustness of the approach. Notably, a strong interaction with endolysosomal and membrane-associated proteins was observed, supporting the hypothesis that interactions with membrane-bound organelles are pivotal in the early stages of \u03b1-syn aggregation. This powerful platform provides new insights into dynamic protein aggregation events, enhancing our understanding of synucleinopathies and other proteinopathies.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40612512/"
+    },
+    {
+      "pmid": "36138991",
+      "title": "Itaconate Attenuates Neuroinflammation and Exerts Dopamine Neuroprotection in Parkinson's Disease through Inhibiting NLRP3 Inflammasome.",
+      "journal": "Brain sciences",
+      "year": "2022",
+      "abstract": "Parkinson's disease (PD) is a common age-associated neurodegenerative motor disorder, which is mainly caused by dopaminergic neuron loss in the substantia nigra. This study aimed to evaluate the function and the underlying molecular mechanism of itaconate in PD. PD models were established in vivo and in vitro using 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP) and 1-methyl-4-phenylpyridinium (MPP<sup>+</sup>), respectively. Pole and rotarod tests were applied to evaluate the motor coordination of mice. The expression of tyrosine hydroxylase (TH) in MPTP-induced mice and the MPP<sup>+</sup> revulsive PD cell model were detected using Western blotting and immunofluorescence. The inflammatory factors level was detected by quantitative real-time polymerase chain reaction. The content of superoxide dismutase (SOD), malondialdehyde (MDA), glutathione (GSH), and reactive oxygen species (ROS) in substantia nigra, striatum, and SH-SY5Y cells were analyzed. Moreover, the apoptosis of MPP<sup>+</sup> revulsive SH-SY5Y cells was determined using terminal deoxynucleotidyl transferase-mediated dUTP-biotin nick-end labeling (TUNEL) staining and flow cytometry. The expression of apoptosis- and Nod-like receptor family protein 3 (NLRP3) inflammasome-associated proteins was measured using Western blotting and immunofluorescence. Itaconate attenuated motor deficits of MPTP-induced PD mice. Itaconate inhibited dopamine neuronal damage, inflammatory response, oxidative stress, and neuronal apoptosis in MPTP-caused PD mice and the MPP<sup>+</sup> revulsive PD cell model. Additionally, itaconate notably repressed the activation of NLRP3 inflammasome. This research demonstrated that itaconate could attenuate neuroinflammation and exert dopamine neuroprotection in PD through inhibiting NLRP3 inflammasome.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36138991/"
+    },
+    {
+      "pmid": "24144623",
+      "title": "Inhibition of mitochondrial fission attenuates A\u03b2-induced microglia apoptosis.",
+      "journal": "Neuroscience",
+      "year": "2014",
+      "abstract": "Mitochondrial division inhibitor 1 (mdivi-1), a selective inhibitor of mitochondrial fission protein dynamin-related protein 1 (Drp1), has been reported to display neuroprotective properties in different animal models. In the present study, we investigated the protective effect of mdivi-1 on \u03b2-amyloid protein (A\u03b2)-induced cytotoxicity and its potential mechanisms in BV-2 and primary microglial cells. We found that mitochondrial fission was increased in A\u03b2 treatment and inhibition of mitochondrial fission by mdivi-1 significantly reduced A\u03b2-induced expression of CD11b (a marker of microglial activation), viability loss and apoptotic rate increase in BV-2 and primary microglial cells. Moreover, we also found that mdivi-1 treatment markedly reversed mitochondrial membrane potential loss, cytochrome c (CytC) release and caspase-3 activation. Altogether, our data suggested that mdivi-1 exerts neuroprotective effects against A\u03b2-induced microglial apoptosis, and the underlying mechanism may be through inhibiting mitochondrial membrane potential loss, CytC release and suppression of the mitochondrial apoptosis pathway.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24144623/"
+    },
+    {
+      "pmid": "35447224",
+      "title": "Circular RNA circTLK1 regulates dopaminergic neuron injury during Parkinson's disease by targeting miR-26a-5p/DAPK1.",
+      "journal": "Neuroscience letters",
+      "year": "2022",
+      "abstract": "Parkinson's disease (PD) is a neurodegenerative disorder that is featured by the elevated loss of substantia nigra pars compacta dopaminergic neurons and the disruption of motor functions. Aberrant expression of circular RNAs (circRNAs) is correlated with neurodegenerative diseases. This study aimed to explore the role of circTLK1 in PD pathology. MPTP-stimulated in vivo PD mouse model and MPP\u202f+\u202fand rotenone-induced in vitro PD model were established to investigate the function of circTLK1/miR-26a-5p/DAPK1 axis during dopaminergic neuron injury. The motor function of mice was evaluated by using the Rotarod test. Brain tissue damage was checked by hematoxylin and eosin, TdT-mediated dUTP-biotin nick end labeling. Cell viability, apoptosis, and cytotoxicity were evaluated by cell counting kit 8 (CCK-8), flow cytometry, and LDH activity. The interaction between circTLK1 and miR-26a-5p as well as miR-26a-5p and DAPK1 was detected by luciferase reporter assay. The expression of circTLK1 was notably elevated in in vitro and in vivo PD models. Knockdown of circTLK1 significantly improved cell viability, suppressed apoptosis and cytotoxicity, whereas inhibition of miR-16a-5p and overexpression of DAPK1 abolished these effects. MiR-26a-5p acts as a sponge of DAPK1 to mediate circTLK1 functions. Luciferase reporter gene assay confirmed the interaction between circTLK1 and miR-26a-5p as well as miR-26a-5p and DAPK1. Depletion of circTLK1 mitigates dopaminergic neuron injury in vitro and in vivo, via releasing miR-26a-5p to target DAPK1 expression. Targeting circTLK1 may contribute to improving PD therapy.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35447224/"
+    },
+    {
+      "pmid": "29683090",
+      "title": "Effects of Aging in the Striatum and Substantia Nigra of a Parkinson's Disease Animal Model.",
+      "journal": "Toxicologic pathology",
+      "year": "2018",
+      "abstract": "Aging is a multifactorial process associated with functional deficits, and the brain is more prone to developing chronic degenerative diseases such as Parkinson's disease. Several groups have tried to correlate the age-related ultrastructural alterations to the neurodegeneration process using in vivo pharmacological models, but due to the limitations of the animal models, particularly in aged animals, the results are difficult to interpret. In this work, we investigated neurodegeneration induced by rotenone, as a pharmacological model of Parkinson's disease, in both young and aged Wistar rats. We assessed animal mobility, tyrosine hydroxylase staining in the substantia nigra pars compacta (SNpc), and TdT-mediated dUTP-biotin nick end labeling-positive nuclei and reactive oxygen species production in the striatum. Interestingly, the mobility impairment, dopaminergic neuron loss, and elevated number of apoptotic nuclei in the striatum of aged control rats were similar to young rotenone-treated animals. Moreover, we observed many ultrastructural alterations, such as swollen mitochondria in the striatum, and massive lipofuscin deposits in the SNpc of the aged rotenone-treated animals. We conclude that the rotenone model can be employed to explore age-related alterations in the ontogeny that can increase vulnerability in the striatum and SNpc, which may contribute to Parkinson's disease pathogenesis.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29683090/"
+    },
+    {
+      "pmid": "42079267",
+      "title": "Brain B Vitamin Status and One-Carbon Metabolism Gene Polymorphisms are Associated with Cognitive Impairment in Alzheimer's and Parkinson's Disease.",
+      "journal": "bioRxiv : the preprint server for biology",
+      "year": "2026",
+      "abstract": "Disturbances in one-carbon metabolism and homocysteine (Hcy) regulation have been implicated in Alzheimer's disease (AD) and Parkinson's disease (PD), yet direct evidence from human brain tissue and the contribution of genetic variation remain limited. We investigated whether B-vitamin-related metabolic deficits and polymorphisms in one-carbon metabolism pathways contribute to cognitive impairment in AD and PD. We quantitated metabolites related to B vitamins and one-carbon metabolism in post-mortem frontal cortex (n=136) and putamen (n=68) from clinically and neuropathologically characterized healthy controls, AD dementia (AD-D), PD with dementia (PD-D), PD with mild cognitive impairment (PD-MCI), and cognitively normal PD (PD-CN). Genotyping targeted variants related to one-carbon metabolism and B vitamins. Multivariable regression models controlled for demographic, clinical, metabolic, and tissue-handling covariates. AD-D and PD-D shared a convergent cortical signature of reduced biotin, pyridoxal-5'-phosphate, thiamine monophosphate, pantothenic acid, and betaine. Elevated Hcy and reduced tetrahydrofolate were specific to AD-D and to PD-D during acute levodopa exposure. PD-MCI exhibited deficits in putamen resembling cortical dementia-associated changes. Self-reported B-vitamin supplementation attenuated several abnormalities, including complete normalization of levodopa-associated Hcy and folate disturbances in PD-D. Across subjects, multiple B vitamins showed strong associations with Hcy and betaine, indicating coordinated impairment of all three Hcy-metabolizing pathways. Genotyping analysis identified polymorphisms in MTRR, TYMS, MTR, NFE2L2, BHMT, and MTHFR that were differentially distributed across cognitive subgroups or associated with AD-related pathology scores. Composite genetic and metabolic burden scores were elevated in cognitively impaired groups but not in cognitively normal groups. Dementia in AD and PD is characterized by convergent B-vitamin deficiencies and genetic susceptibilities that disrupt Hcy metabolism. These findings provide a mechanistic explanation for levodopa-related Hcy accumulation in vulnerable PD subjects and identify B-vitamin supplementation as a potentially modifiable factor relevant to cognitive decline.",
+      "publication_types": [
+        "Journal Article",
+        "Preprint"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42079267/"
+    },
+    {
+      "pmid": "37294931",
+      "title": "<i>S</i>-Palmitoylation during Retinoic Acid-Induced Neuronal Differentiation of SH-SY5Y Neuroblastoma Cells.",
+      "journal": "Journal of proteome research",
+      "year": "2023",
+      "abstract": "<i>S</i>-Palmitoylation is the covalent attachment of C14:0-C22:0 fatty acids (mainly C16:0 palmitate) to cysteines via thioester bonds. This lipid modification is highly abundant in neurons, where it plays a role in neuronal development and is implicated in neurodegenerative diseases, such as Alzheimer's disease, Parkinson's disease, and Huntington's disease. The knowledge of <i>S</i>-palmitoylation in neurodevelopment is limited due to technological challenges in analyzing this highly hydrophobic protein modification. Here, we used two orthogonal methods, acyl-biotin exchange (ABE) and lipid metabolic labeling (LML), to identify <i>S</i>-palmitoylated proteins and sites during retinoic acid-induced neuronal differentiation of SH-SY5Y cells. We identified 2002 putative <i>S</i>-palmitoylated proteins in total, of which 650 were found with both methods. Significant changes in the abundance of <i>S</i>-palmitoylated proteins were detected, in particular for several processes and protein classes that are known to be important for neuronal differentiation, which include proto-oncogene tyrosine-protein kinase receptor (RET) signal transduction, SNARE protein-mediated exocytosis, and neural cell adhesion molecules. Overall, <i>S</i>-palmitoylation profiling by employing ABE and LML in parallel during RA-induced differentiation of SH-SY5Y cells revealed a subset of high confidence bona fide <i>S</i>-palmitoylated proteins and suggested an important role for <i>S</i>-palmitoylation in neuronal differentiation.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37294931/"
+    },
+    {
+      "pmid": "33659419",
+      "title": "<i>In vitro</i> AMPylation/Adenylylation of Alpha-synuclein by HYPE/FICD.",
+      "journal": "Bio-protocol",
+      "year": "2020",
+      "abstract": "One of the major histopathological hallmarks of Parkinson's disease are Lewy bodies (LBs) -cytoplasmic inclusions, enriched with fibrillar forms of the presynaptic protein alpha-synuclein (\u03b1-syn). Progressive deposition of \u03b1-syn into LBs is enabled by its propensity to fibrillize into insoluble aggregates. We recently described a marked reduction in \u03b1-syn fibrillation <i>in vitro</i> upon posttranslational modification (PTM) by the Fic (Filamentation induced by cAMP) family adenylyltransferase HYPE/FICD (Huntingtin yeast-interacting protein E/FICD). Specifically, HYPE utilizes ATP to covalently decorate key threonine residues in \u03b1-syn's N-terminal and NAC (non-amyloid-\u03b2 component) regions with AMP (adenosine monophosphate), in a PTM termed AMPylation or adenylylation. Status quo <i>in vitro</i> AMPylation reactions of HYPE substrates, such as \u03b1-syn, use a variety of ATP analogs, including radiolabeled \u03b1-<sup>32</sup>P-ATP or \u03b1-<sup>33</sup>P-ATP, fluorescent ATP analogs, biotinylated-ATP analogs (N6-[6-hexamethyl]-ATP-Biotin), as well as click-chemistry-based alkyl-ATP methods for gel-based detection of AMPylation. Current literature describing a step-by-step protocol of HYPE-mediated AMPylation relies on an \u03b1-<sup>33</sup>P-ATP nucleotide instead of the more commonly available \u03b1-<sup>32</sup>P-ATP. Though effective, this former procedure requires a lengthy and hazardous DMSO-PPO (dimethyl sulfoxide-polyphenyloxazole) precipitation. Thus, we provide a streamlined alternative to the \u03b1-<sup>33</sup>P-ATP-based method, which obviates the DMSO-PPO precipitation step. Described here is a detailed procedure for HYPE mediated AMPylation of \u03b1-syn using \u03b1-<sup>32</sup>P-ATP as a nucleotide source. Moreover, our use of a reusable Phosphor screen for AMPylation detection, in lieu of the standard, single-use autoradiography film, provides a faster, more sensitive and cost-effective alternative.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33659419/"
+    },
+    {
+      "pmid": "39587650",
+      "title": "Time-series metabolomic analysis revealed altered metabolism of cynomolgus monkeys after injecting exosomes.",
+      "journal": "Journal of nanobiotechnology",
+      "year": "2024",
+      "abstract": "Recent years, exosomes have been increasing used to treat diseases, but there is little research on how exosomes affect the metabolism of the body after entering. Therefore, in this study, we discussed the changes of metabolic spectrum and determined the differentially expressed metabolites in the serum of cynomolgus monkeys after injecting exosomes. Six cynomolgus monkeys were divided into control group and exosomes group. After intravenous injection of exosomes, the peripheral blood serum of cynomolgus monkeys was collected at baseline, day 1, day 7 and day 14 respectively. An ultra-high performance liquid chromatography-quadrupole time-of-flight mass spectrometry-based non-targeted metabolomics platform was used to detect the metabolites. The metabolic spectra of two groups of cynomolgus monkeys were identified and compared, and the time series changes of metabolites in exosomes were described. The results showed that there was significant difference in metabolic spectrum between the two groups. 45, 114, 49, 39 differentially expressed metabolites were identified in baseline, day 1, day 7, and day 14, respectively. 6-hydroxydopamine, a metabolite related to the regulation of nerve function, was also found. Tryptophan metabolism, choline metabolism in cancer, porphyrin and chlorophyll metabolism were involved in day 1. Sphingolipid metabolism and histidine metabolism were involved in day 7. Three pathways, including choline metabolism, sphingolipid metabolism and biotin metabolism in cancer were involved in day 14. Through time series analysis, it was found that the level of propionylcarnitine and biliverdin increased on day 1 after inoculation with exosomes, while the level of hippuric acid decreased. These changes of immune-related metabolites suggested that exosomes might participate in the immunoregulation reaction after entering the body of cynomolgus monkeys. In our current study, we found that exosomes injected intravenously affect the changes of metabolites and metabolic pathways in cynomolgus monkeys. Intravenous injection of exosomes may affect the metabolite 6-hydroxydopamine, sphingolipid metabolic pathway, and choline metabolic in cancer pathway, which is of some significance for the treatment of Parkinson's disease. In addition, exosomes may also affect the immune-related metabolites in vivo, such as propionylcarnitine, biliverdin, hippuric acid metabolites, as well as tryptophan metabolism pathway, sphingolipid metabolism pathway involved in immune regulation, which is of great significance for the future study of immune-regulatory mechanisms of exosomes.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39587650/"
+    }
+  ]
+}

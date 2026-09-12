@@ -1,0 +1,42 @@
+{
+  "drug_name": "Av-101",
+  "disease_name": "Parkinson",
+  "n_abstracts": 3,
+  "abstracts": [
+    {
+      "pmid": "38116733",
+      "title": "Levodopa-induced dyskinesia: do current clinical trials hold hope for future treatment?",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2024",
+      "abstract": "",
+      "publication_types": [
+        "Editorial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38116733/"
+    },
+    {
+      "pmid": "36428960",
+      "title": "AV-101, a Pro-Drug Antagonist at the NMDA Receptor Glycine Site, Reduces L-Dopa Induced Dyskinesias in MPTP Monkeys.",
+      "journal": "Cells",
+      "year": "2022",
+      "abstract": "N-methyl-D-aspartate (NMDA) receptors have been implicated in L-Dopa-induced dyskinesias (LID) in Parkinson's disease patients, but the use of antagonists that directly inhibit this receptor is associated with severe side effects. L-4-chlorokynurenine (4-Cl-KYN or AV-101) is a pro-drug of 7-chlorokynurenic acid (7-Cl-KYNA), a potent and specific antagonist of the glycine (GlyB) co-agonist site of NMDA receptors. The 7-Cl-KYNA has limited ability to cross the blood-brain barrier, whereas AV-101 readily accesses the brain. We investigated if AV-101 reduces LID in 1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine (MPTP)-lesioned monkeys while maintaining the antiparkinsonian activity of L-Dopa. A first pilot study using three dyskinetic MPTP monkeys showed that acute AV-101 treatment (250 and 450 mg/kg) reduced LID and maintained the antiparkinsonian activity of L-Dopa. The main study using six additional dyskinetic MPTP monkeys showed that repeated AV-101 treatment (250 mg/kg, b.i.d. for 4 consecutive days) maintained their L-Dopa antiparkinsonian response. We measured significantly less LID when AV-101 was combined with L-Dopa treatment. AV-101 alone or with L-Dopa had no non-motor adverse effects in MPTP monkeys. Our study showed antidyskinetic activity of AV-101 in MPTP monkeys was comparable to amantadine tested previously in our laboratory in this model. We observed no adverse effects with AV-101, which is an improvement over amantadine, with its known side effects.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36428960/"
+    },
+    {
+      "pmid": "34939425",
+      "title": "Levodopa-induced dyskinesia: a brief review of the ongoing clinical trials.",
+      "journal": "Neurodegenerative disease management",
+      "year": "2022",
+      "abstract": "",
+      "publication_types": [
+        "Editorial",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34939425/"
+    }
+  ]
+}
