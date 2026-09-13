@@ -137,17 +137,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39167688/"
     },
     {
-      "pmid": "42049511",
-      "title": "Genetically Encoded Constitutive Upregulation of \u03b22 Subunit-Containing Neuronal Nicotinic Acetylcholine Receptors Is Neuroprotective in Female Parkinsonian Mice.",
-      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
-      "year": "2026",
-      "abstract": "Parkinson's disease is projected to rise to pandemic proportions by 2050, which has resulted in an urgent need for disease-modifying treatments. We previously showed that in a mouse model of parkinsonism with unilateral 6-hydroxydopamine (6-OHDA) injection into the dorsolateral striatum, low doses of the neuronal nicotinic acetylcholine receptor (nAChR) partial agonist and smoking cessation drug, cytisine, exert neuroprotection in substantia nigra pars compacta (SNc) dopaminergic (DA) neurons of only female mice by reducing endoplasmic reticulum (ER) stress and that cytisine-mediated neuroprotection requires 17\u03b2-estradiol. Although these data suggest that neuroprotection might occur via cytisine-mediated upregulation of \u03b22 subunit-containing (\u03b22*) nAChRs in SNc DA neurons and upregulation of ER exit sites (ERES), there is no direct evidence to support this idea. Therefore, this study asks the question of whether \u03b22* nAChR upregulation without nicotinic ligands can exert neuroprotection in a preclinical mouse model of 6-OHDA-induced parkinsonism. To address this, we generate a novel \u03b22-upregulated transgenic mouse line with constitutive upregulation of \u03b22* nAChRs, without the need for nicotinic ligands. Surprisingly, only female \u03b22-upregulated mice demonstrate ERES upregulation in SNc DA neurons and showed significant neuroprotection against 6-OHDA-induced parkinsonism using four independent readouts, viz., contralateral apomorphine-induced rotations, preservation of SNc DA neurons, inhibition of the proapoptotic ER stress protein, C/EBP homologous protein, and glial fibrillary acidic protein expression in SNc astrocytes. The novel transgenic \u03b22-upregulated mice characterized in this study will provide a valuable tool for understanding the role of nAChR upregulation in major neurological disorders such as addiction, anxiety, depression, and dementia.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42049511/"
-    },
-    {
       "pmid": "10450691",
       "title": "Imaging central nicotinic acetylcholine receptors in baboons with [18F]fluoro-A-85380.",
       "journal": "Journal of nuclear medicine : official publication, Society of Nuclear Medicine",
@@ -183,6 +172,17 @@
         "Research Support, N.I.H., Extramural"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/20923852/"
+    },
+    {
+      "pmid": "42049511",
+      "title": "Genetically Encoded Constitutive Upregulation of \u03b22 Subunit-Containing Neuronal Nicotinic Acetylcholine Receptors Is Neuroprotective in Female Parkinsonian Mice.",
+      "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+      "year": "2026",
+      "abstract": "Parkinson's disease is projected to rise to pandemic proportions by 2050, which has resulted in an urgent need for disease-modifying treatments. We previously showed that in a mouse model of parkinsonism with unilateral 6-hydroxydopamine (6-OHDA) injection into the dorsolateral striatum, low doses of the neuronal nicotinic acetylcholine receptor (nAChR) partial agonist and smoking cessation drug, cytisine, exert neuroprotection in substantia nigra pars compacta (SNc) dopaminergic (DA) neurons of only female mice by reducing endoplasmic reticulum (ER) stress and that cytisine-mediated neuroprotection requires 17\u03b2-estradiol. Although these data suggest that neuroprotection might occur via cytisine-mediated upregulation of \u03b22 subunit-containing (\u03b22*) nAChRs in SNc DA neurons and upregulation of ER exit sites (ERES), there is no direct evidence to support this idea. Therefore, this study asks the question of whether \u03b22* nAChR upregulation without nicotinic ligands can exert neuroprotection in a preclinical mouse model of 6-OHDA-induced parkinsonism. To address this, we generate a novel \u03b22-upregulated transgenic mouse line with constitutive upregulation of \u03b22* nAChRs, without the need for nicotinic ligands. Surprisingly, only female \u03b22-upregulated mice demonstrate ERES upregulation in SNc DA neurons and showed significant neuroprotection against 6-OHDA-induced parkinsonism using four independent readouts, viz., contralateral apomorphine-induced rotations, preservation of SNc DA neurons, inhibition of the proapoptotic ER stress protein, C/EBP homologous protein, and glial fibrillary acidic protein expression in SNc astrocytes. The novel transgenic \u03b22-upregulated mice characterized in this study will provide a valuable tool for understanding the role of nAChR upregulation in major neurological disorders such as addiction, anxiety, depression, and dementia.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/42049511/"
     }
   ]
 }

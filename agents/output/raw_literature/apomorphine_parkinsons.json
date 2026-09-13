@@ -147,6 +147,18 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28017228/"
     },
     {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
       "pmid": "34415465",
       "title": "Apomorphine Reduces A53T \u03b1-Synuclein-Induced Microglial Reactivity Through Activation of NRF2 Signalling Pathway.",
       "journal": "Cellular and molecular neurobiology",
@@ -167,18 +179,6 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30922043/"
-    },
-    {
-      "pmid": "37275945",
-      "title": "Task Specific Tremor in Parkinson's Disease Responds to Apomorphine.",
-      "journal": "Tremor and other hyperkinetic movements (New York, N.Y.)",
-      "year": "2023",
-      "abstract": "Task specific tremor (TST) is a poorly understood entity without any standard treatments, that may subsequently develop tremor during additional tasks, later develop postural/kinetic tremor (essential tremor criteria), and later develop Parkinson's disease. The pathophysiology is not understood as it has features of tremor, dystonia, and parkinsonism. To assess response of TST to apomorphine and thus infer pathophysiology. We administered sublingual apomorphine to 8 patients diagnosed with Parkinson's disease based on clinical criteria and dopamine imaging, who all initially presented with TST and later presented other parkinsonian signs and dopamine imaging deficits. Apomorphine improved TST, which was refractory to oral levodopa and other tremor therapies, in 6/8 subjects. These results offer a treatment option for TST, which is usually refractory to other pharmacologic treatments, in patients with other parkinsonian features, and infers a dopaminergic pathophysiology of TST.",
-      "publication_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37275945/"
     }
   ]
 }

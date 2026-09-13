@@ -27,18 +27,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40760081/"
     },
     {
-      "pmid": "36638693",
-      "title": "Benztropine and suicide attempts and intentional self-harm.",
-      "journal": "Psychiatry research",
-      "year": "2023",
-      "abstract": "This large-scale pharmacoepidemiologic study was conducted to confirm a previous signal for decreased risk of suicide attempt following prescription fills for benztropine. We used a within-person exposure-only cohort design to study the dynamic association between benztropine prescription fills over a 12-month period and suicidal events (suicide attempts and intentional self-harm) in 62,493 patients with private health insurance (MarketScan - MS) who filled a new benztropine prescription between 2011 and 2019. A discrete-time survival analysis was used to analyze the data, adjusting for age, sex, diagnoses related to suicidal behavior, Parkinson's disease, medical comorbidities, history of suicide attempts, concomitant CNS medications, and time-varying antipsychotic use. Overall, there were 486 suicidal events (0.8%) following the index end-date of the one-year baseline period. Benztropine use was associated with fewer suicidal events (HR=0.63, 95% CI\u00a0=\u00a00.50, 0.80). Patients treated with antipsychotics and benztropine had a similar reduction in suicidal events as patients treated with benztropine alone in both within-subject and between-subject analyses. Similar associations were found for patients with bipolar disorder or schizophrenia, and those treated with newer versus older generation antipsychotics. Dose-response and duration response relationships were found, with an overall 6% reduction in suicidal events per 1\u00a0mg equivalent dosage per month, that was similar in those treated and those not treated with antipsychotics. Benztropine was found to lower suicidal event rates, comparably in those receiving or not receiving antipsychotic medications, regardless of the presence of major psychiatric disorders. This observation warrants testing in a randomized clinical trial. No funding sources were utilized for this manuscript.",
-      "publication_types": [
-        "Randomized Controlled Trial",
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36638693/"
-    },
-    {
       "pmid": "33647001",
       "title": "Drugs for Parkinson's disease.",
       "journal": "The Medical letter on drugs and therapeutics",
@@ -49,6 +37,18 @@
         "Review"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
+      "pmid": "36638693",
+      "title": "Benztropine and suicide attempts and intentional self-harm.",
+      "journal": "Psychiatry research",
+      "year": "2023",
+      "abstract": "This large-scale pharmacoepidemiologic study was conducted to confirm a previous signal for decreased risk of suicide attempt following prescription fills for benztropine. We used a within-person exposure-only cohort design to study the dynamic association between benztropine prescription fills over a 12-month period and suicidal events (suicide attempts and intentional self-harm) in 62,493 patients with private health insurance (MarketScan - MS) who filled a new benztropine prescription between 2011 and 2019. A discrete-time survival analysis was used to analyze the data, adjusting for age, sex, diagnoses related to suicidal behavior, Parkinson's disease, medical comorbidities, history of suicide attempts, concomitant CNS medications, and time-varying antipsychotic use. Overall, there were 486 suicidal events (0.8%) following the index end-date of the one-year baseline period. Benztropine use was associated with fewer suicidal events (HR=0.63, 95% CI\u00a0=\u00a00.50, 0.80). Patients treated with antipsychotics and benztropine had a similar reduction in suicidal events as patients treated with benztropine alone in both within-subject and between-subject analyses. Similar associations were found for patients with bipolar disorder or schizophrenia, and those treated with newer versus older generation antipsychotics. Dose-response and duration response relationships were found, with an overall 6% reduction in suicidal events per 1\u00a0mg equivalent dosage per month, that was similar in those treated and those not treated with antipsychotics. Benztropine was found to lower suicidal event rates, comparably in those receiving or not receiving antipsychotic medications, regardless of the presence of major psychiatric disorders. This observation warrants testing in a randomized clinical trial. No funding sources were utilized for this manuscript.",
+      "publication_types": [
+        "Randomized Controlled Trial",
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36638693/"
     },
     {
       "pmid": "37141483",

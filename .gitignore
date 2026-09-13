@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .env
-
+agents/output/raw_literature/
+agents/output/raw_molecular/
+agents/output/*cache*.json

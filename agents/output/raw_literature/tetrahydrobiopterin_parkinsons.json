@@ -88,6 +88,17 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/3546599/"
     },
     {
+      "pmid": "40908481",
+      "title": "Artemisinin alleviates Parkinson's disease by targeting Adcy5-Gch1 axis to trigger a cascade generation of BH4 and dopamine in rats.",
+      "journal": "Genome biology",
+      "year": "2025",
+      "abstract": "Parkinson's disease is a highly prevalent neurodegenerative disorder. Hyposecretion of dopamine (DA) is the end result in the pathology of Parkinson's disease. Unfortunately, safe and efficient therapeutic drugs are deficient. Tyrosine hydroxylase is the rate-limiting enzyme for DA synthesis, could hydroxylate tyrosine and generate levodopa with tetrahydrobiopterin (BH4) as an indispensable coenzyme. Furthermore, BH4 was confirmed to confer neuroprotection against Parkinson's disease. Thus, regulation of BH4 synthesis was verified to become a promising therapeutic strategy for Parkinson's disease. We demonstrate that artemisinin effectively produced neuroprotection against Parkinson's disease in rats. Integrated analysis of midbrain proteomics and non-targeted metabolomics suggests that artemisinin might target adenylate cyclase 5 (Adcy5) to increase GTP cyclohydrolase 1 (Gch1, BH4 synthetase) expression to further boost BH4 synthesis. To verify this hypothesis, molecular docking experiments demonstrate that ART could directly bind to Adcy5. Artemisinin increases Adcy5 and Gch1 expressions and BH4 production both in vivo and in vitro. Further rescue experiments demonstrate that artemisinin-generated DA neuroprotection and hypersecretion of DA and BH4 disappears after inhibition of Adcy5 or Gch1 in vitro. Additionally, suppression of Adcy5 aggravates Parkinson's disease manifestation, decreases midbrain DA and BH4 production and down-regulated Gch1 expression in vivo. Artemisinin mediates neuroprotection against Parkinson's disease via regulation of Adcy5-Gch1-BH4 axis in rats. These findings present a beneficial potential for future application of artemisinin on Parkinson's disease treatment.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40908481/"
+    },
+    {
       "pmid": "34026550",
       "title": "Reduced macular thickness and macular vessel density in early-treated adult patients with PKU.",
       "journal": "Molecular genetics and metabolism reports",
@@ -166,18 +177,6 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34423297/"
-    },
-    {
-      "pmid": "39026821",
-      "title": "Characterization of Dnajc12 knockout mice, a model of hypodopaminergia.",
-      "journal": "bioRxiv : the preprint server for biology",
-      "year": "2024",
-      "abstract": "Homozygous DNAJC12 c.79-2A>G (p. V27Wfs*14) loss-of-function mutations were first reported as a cause of young-onset Parkinson's disease. However, bi-allelic autosomal recessive pathogenic variants in DNAJC12 may lead to an alternative constellation of neurological features, including infantile dystonia, developmental delay, intellectual disability and neuropsychiatric disorders. DNAJC12 is understood to co-chaperone aromatic amino acid hydroxylases to foster the synthesis of biogenic amines. In vitro, we discover overexpressed DNAJC12 forms a complex with guanine triphosphate cyclohydrolase 1 (GCH1), the rate-limiting enzyme in the synthesis of tetrahydrobiopterin, a cofactor paramount for biogenic amines synthesis. We also confirm DNAJC12's interaction with tyrosine (TH) and tryptophan hydroxylase (TPH), which are rate-limiting enzymes for synthesis of biogenic amines dopamine (DA) and serotonin (5-HT). In-vitro knock-down of DNAJC12 with a siRNA destabilizes the DNAJC12-TH-GCH1 complex, reducing GCH1 levels, whereas reciprocal overexpression of both TH and GCH1 increases endogenous DNAJC12, alluding to the significance of modulating the DNAJC12-TH-GCH1 complex as a therapy for DNAJC12 and other biogenic amine disorders. We extend these investigations to a Cre-conditional knock-out mice (cDKO) in which loxP sites flanking Dnajc12 exon 2 enable its excision by cre-recombinase. With germline Cre expression, we have created a constitutive Dnajc12 knock-out (DKO). DKO mice exhibit reduced locomotion/ exploratory behavior at 3 months in automated open-field testing, accompanied by increased plasma phenylalanine which is a cardinal feature of patients with pathogenic DNAJC12 variants. In striatal tissue, total DA and 5-HT, their metabolites, and electrically-evoked DA release are all reduced. Biochemical alterations in synaptic proteins are also apparent, with enhanced phosphorylation of Th pSer31 and pSer40 reflecting biological compensation. Most immediately, cDKO and DKO mice present models to develop and refine therapeutic approaches for biogenic amines disorders, including dystonia and parkinsonism. They will also enable the pleiotropic functions of biogenic amines (including DA), usually synthesized in the brain or periphery, to be separated.",
-      "publication_types": [
-        "Journal Article",
-        "Preprint"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39026821/"
     }
   ]
 }

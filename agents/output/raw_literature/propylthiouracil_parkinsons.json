@@ -16,29 +16,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29575306/"
     },
     {
-      "pmid": "32161534",
-      "title": "\"Smelling and Tasting\" Parkinson's Disease: Using Senses to Improve the Knowledge of the Disease.",
-      "journal": "Frontiers in aging neuroscience",
-      "year": "2020",
-      "abstract": "Among non-motor manifestations of Parkinson's Disease (PD), peripheral, sensory symptoms are particularly relevant. Smell dysfunction starts very early and frequently precedes the PD motor symptoms by years (being often a cue to the diagnosis). Moreover, olfactory system could be, together with gut, one of those peripheral sites where PD pathology first develops. Unlike smell loss, the relationship between PD and taste impairment is far less established. It can start early in the course of the disease but more frequently appears in advanced stages, in parallel with the advent of MCI, likely reflecting cortical involvement. Among PD patients has been demonstrated an increase in the frequency of the non-tasters for PROP (prototypical gustatory stimulus, 6- n-propylthiouracil), a genetically determined bitter taste which is mediated by TAS2RS38 receptor, and a significant increase of the recessive non-testing variant of this receptor. TAS2R38 receptors are expressed also in other tissues, such as in the epithelia of the gut and nasal cavities, where they can influence epithelial immunity ad its interaction with microbiota. Those pieces of evidence suggest that not only systematic assessment of taste and smell can be of a remarkable help for clinicians in the early diagnosis, but also that understanding the mechanisms of sensory involvement in PD could increase the knowledge of the pathophysiology of the disease.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32161534/"
-    },
-    {
-      "pmid": "37542020",
-      "title": "Repositioning the existing drugs for neuroinflammation: a fusion of computational approach and biological validation to counter the Parkinson's disease progression.",
-      "journal": "Molecular diversity",
-      "year": "2024",
-      "abstract": "Parkinson's disease is caused by the deficiency of striatal dopamine and the accumulation of aggregated \u03b1-synuclein in the substantia nigra pars compacta (SNpc). Neuroinflammation associated with oxidative stress is a key factor contributing to the death of dopaminergic neurons in SNpc and advancement of Parkinson's disease. Two molecular targets, i.e., nuclear factor kappa-light-chain-enhancer (NF-kB) and \u03b1-synuclein play a substantial role in neuroinflammation progression. Therefore, the compounds targeting these neuroinflammatory targets hold a great potential to combat Parkinson's disease. Thereby, in this study, molecular docking and Connectivity Map (CMap) based gene expression profiling was utilized to reposition the approved drugs as neuroprotective agents for Parkinson's disease. With in silico screening, two drugs namely theophylline and propylthiouracil were selected for anti-neuroinflammatory activity evaluation in in vivo models of chronic neuroinflammation. The neuroinflammatory effect of the identified compounds was confirmed by quantifying the expression of three important neuroinflammatory mediators, i.e. IL-6, TNF-alpha, and IL-1 beta on brain tissue using ELISA assay. The ELISA experiment demonstrated that both compounds significantly decreased the expression of neuroinflammatory mediators, highlighting the compounds' potential in neuroinflammation management. Furthermore, the drug and disease interaction network of the two identified drugs and diseases (neuroinflammation and Parkinson's disease) suggested that the two drugs might interact with various targets namely adenosine receptors, Poly [ADP-ribose] polymerase-1, myeloperoxidase (MPO) and thyroid peroxidase through multiple pathways associated with neuroinflammation and Parkinson's disease. Computational studies suggest that a particular drug may be effective in managing Parkinson's disease associated with neuroinflammation. However, further research is needed to confirm this in biological experiments.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37542020/"
-    },
-    {
       "pmid": "36934313",
       "title": "Gustatory dysfunction is related to Parkinson's disease: A systematic review and meta-analysis.",
       "journal": "International forum of allergy & rhinology",
@@ -51,6 +28,17 @@
         "Research Support, Non-U.S. Gov't"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36934313/"
+    },
+    {
+      "pmid": "37542020",
+      "title": "Repositioning the existing drugs for neuroinflammation: a fusion of computational approach and biological validation to counter the Parkinson's disease progression.",
+      "journal": "Molecular diversity",
+      "year": "2024",
+      "abstract": "Parkinson's disease is caused by the deficiency of striatal dopamine and the accumulation of aggregated \u03b1-synuclein in the substantia nigra pars compacta (SNpc). Neuroinflammation associated with oxidative stress is a key factor contributing to the death of dopaminergic neurons in SNpc and advancement of Parkinson's disease. Two molecular targets, i.e., nuclear factor kappa-light-chain-enhancer (NF-kB) and \u03b1-synuclein play a substantial role in neuroinflammation progression. Therefore, the compounds targeting these neuroinflammatory targets hold a great potential to combat Parkinson's disease. Thereby, in this study, molecular docking and Connectivity Map (CMap) based gene expression profiling was utilized to reposition the approved drugs as neuroprotective agents for Parkinson's disease. With in silico screening, two drugs namely theophylline and propylthiouracil were selected for anti-neuroinflammatory activity evaluation in in vivo models of chronic neuroinflammation. The neuroinflammatory effect of the identified compounds was confirmed by quantifying the expression of three important neuroinflammatory mediators, i.e. IL-6, TNF-alpha, and IL-1 beta on brain tissue using ELISA assay. The ELISA experiment demonstrated that both compounds significantly decreased the expression of neuroinflammatory mediators, highlighting the compounds' potential in neuroinflammation management. Furthermore, the drug and disease interaction network of the two identified drugs and diseases (neuroinflammation and Parkinson's disease) suggested that the two drugs might interact with various targets namely adenosine receptors, Poly [ADP-ribose] polymerase-1, myeloperoxidase (MPO) and thyroid peroxidase through multiple pathways associated with neuroinflammation and Parkinson's disease. Computational studies suggest that a particular drug may be effective in managing Parkinson's disease associated with neuroinflammation. However, further research is needed to confirm this in biological experiments.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37542020/"
     },
     {
       "pmid": "32946938",
@@ -75,6 +63,18 @@
         "Research Support, U.S. Gov't, Non-P.H.S."
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/805160/"
+    },
+    {
+      "pmid": "32161534",
+      "title": "\"Smelling and Tasting\" Parkinson's Disease: Using Senses to Improve the Knowledge of the Disease.",
+      "journal": "Frontiers in aging neuroscience",
+      "year": "2020",
+      "abstract": "Among non-motor manifestations of Parkinson's Disease (PD), peripheral, sensory symptoms are particularly relevant. Smell dysfunction starts very early and frequently precedes the PD motor symptoms by years (being often a cue to the diagnosis). Moreover, olfactory system could be, together with gut, one of those peripheral sites where PD pathology first develops. Unlike smell loss, the relationship between PD and taste impairment is far less established. It can start early in the course of the disease but more frequently appears in advanced stages, in parallel with the advent of MCI, likely reflecting cortical involvement. Among PD patients has been demonstrated an increase in the frequency of the non-tasters for PROP (prototypical gustatory stimulus, 6- n-propylthiouracil), a genetically determined bitter taste which is mediated by TAS2RS38 receptor, and a significant increase of the recessive non-testing variant of this receptor. TAS2R38 receptors are expressed also in other tissues, such as in the epithelia of the gut and nasal cavities, where they can influence epithelial immunity ad its interaction with microbiota. Those pieces of evidence suggest that not only systematic assessment of taste and smell can be of a remarkable help for clinicians in the early diagnosis, but also that understanding the mechanisms of sensory involvement in PD could increase the knowledge of the pathophysiology of the disease.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/32161534/"
     }
   ]
 }

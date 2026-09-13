@@ -51,6 +51,18 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34784871/"
     },
     {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
       "pmid": "35341012",
       "title": "Clinical Observation of Ropinirole Hydrochloride in the Treatment of Parkinson's Disease.",
       "journal": "Computational and mathematical methods in medicine",
@@ -108,18 +120,6 @@
         "Randomized Controlled Trial"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/10190658/"
-    },
-    {
-      "pmid": "33647001",
-      "title": "Drugs for Parkinson's disease.",
-      "journal": "The Medical letter on drugs and therapeutics",
-      "year": "2021",
-      "abstract": "",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
     },
     {
       "pmid": "15675721",

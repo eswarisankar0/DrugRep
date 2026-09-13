@@ -96,6 +96,18 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28096656/"
     },
     {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
       "pmid": "35463692",
       "title": "Pramipexole Inhibits Neuronal Apoptosis in Rats with Parkinson's Disease.",
       "journal": "Journal of healthcare engineering",
@@ -164,17 +176,6 @@
         "Research Support, Non-U.S. Gov't"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35076270/"
-    },
-    {
-      "pmid": "28193849",
-      "title": "<i>Toxoplasma gondii</i> exposure and Parkinson's disease: a case-control study.",
-      "journal": "BMJ open",
-      "year": "2017",
-      "abstract": "To determine the association between <i>Toxoplasma gondii</i> infection and Parkinson's disease and to investigate whether <i>T. gondii</i> seropositivity is associated with the general characteristics of patients with Parkinson's disease. Case-control study. Cases and controls were enrolled in Durango City, Mexico. 65 patients with Parkinson's disease and 195 age- and gender-matched control subjects without Parkinson's disease. Serum samples of participants were analysed for anti-<i>T. gondii</i> IgG and IgM antibodies by commercially available enzyme-linked immunoassays. Prevalence of <i>T. gondii</i> DNA was determined in seropositive subjects using PCR. The association between clinical data and infection was examined by bivariate analysis. Anti-<i>T. gondii</i> IgG antibodies were found in 6/65 cases (9.2%) and in 21/195 controls (10.8%) (OR 0.84; 95% CI 0.32 to 2.18; p=0.81). The frequency of high (>150\u2005IU/mL) antibody levels was similar among cases and controls (p=0.34). None of the anti-<i>T. gondii</i> IgG positive cases and four of the anti-<i>T. gondii</i> IgG positive controls had anti-<i>T. gondii</i> IgM antibodies (p=0.54). The prevalence of <i>T. gondii</i> DNA was comparable in seropositive cases and controls (16.7% and 25%, respectively; p=1.0). Seroprevalence of <i>T. gondii</i> infection was associated with a young age onset of disease (p=0.03), high Unified Parkinson Disease Rating Scale scores (p=0.04) and depression (p=0.02). Seropositivity to <i>T. gondii</i> infection was lower in patients treated with pramipexole than in patients without this treatment (p=0.01). However, none of the associations remained significant after Bonferroni correction. The results do not support an association between <i>T. gondii</i> infection and Parkinson's disease. However, <i>T. gondii</i> infection might have an influence on certain symptoms of Parkinson's disease. Further research to elucidate the role of <i>T. gondii</i> exposure on Parkinson's disease is warranted.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28193849/"
     }
   ]
 }

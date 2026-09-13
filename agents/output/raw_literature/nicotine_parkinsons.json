@@ -89,6 +89,17 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/8746297/"
     },
     {
+      "pmid": "40868069",
+      "title": "Nicotine Therapy for Parkinson's Disease: A Meta-Analysis of Randomized Controlled Trials.",
+      "journal": "Biomedicines",
+      "year": "2025",
+      "abstract": "<b>Background:</b> Epidemiological studies have reported an inverse association between smoking and Parkinson's disease (PD) risk, prompting interest in nicotine as a potential therapeutic agent. The present meta-analysis evaluated the efficacy of nicotine therapy in improving motor symptoms and activities of daily living in patients with PD. <b>Methods:</b> PubMed, Embase, and Cochrane Library were systematically searched to identify randomized controlled trials (RCTs) assessing nicotine therapy in PD. Clinical RCTs administering interventions extending beyond 1 week and reporting motor or nonmotor outcomes were included. Random-effects models were used to analyze short-term (<6 months) and long-term (\u22656 months) outcomes by using standardized mean differences (SMDs). <b>Results:</b> This meta-analysis included five RCTs (346 participants). Nicotine therapy led to no significant improvement in motor outcomes in the short term (pooled SMD: -0.452, 95% confidence interval: -1.612 to 0.708) or long term (pooled SMD: 0.174, 95% confidence interval: -0.438 to 0.787). Considerable interstudy heterogeneity was noted. Furthermore, short-term nicotine therapy resulted in no significant improvement in daily functioning, cognition, or quality of life. <b>Conclusions:</b> This meta-analysis revealed a lack of compelling evidence suggesting that nicotine-based therapies improve motor or nonmotor outcomes in PD. The findings highlight a disconnect between epidemiological associations and clinical efficacy. Given the prodromal nature of PD pathology and the challenges of early diagnosis, future preventive strategies should be implemented before symptom onset in high-risk individuals identified using advanced biomarker panels.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40868069/"
+    },
+    {
       "pmid": "38320207",
       "title": "Transdermal Nicotine Treatment and Progression of Early Parkinson's Disease.",
       "journal": "NEJM evidence",
@@ -158,20 +169,6 @@
         "Research Support, Non-U.S. Gov't"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30409187/"
-    },
-    {
-      "pmid": "15331239",
-      "title": "Smoking, nicotine and Parkinson's disease.",
-      "journal": "Trends in neurosciences",
-      "year": "2004",
-      "abstract": "Epidemiological studies show that smoking is associated with a lower incidence of Parkinson's disease (PD). This finding is important because it could provide clues about therapeutic strategies for protection against this debilitating movement disorder. Smoke contains numerous chemicals that could be responsible for the apparent protective effect. Here, a role for nicotine is considered, because this chemical stimulates brain dopaminergic systems and provides some symptomatic benefit in PD. Nicotine also has a neuroprotective action. Putative factors and signaling pathways involved in the actions of nicotine are discussed. An understanding of the molecular basis for the reduced occurrence of PD in tobacco users is crucial for the development of intervention strategies to reduce or halt disease progression.",
-      "publication_types": [
-        "Journal Article",
-        "Research Support, Non-U.S. Gov't",
-        "Research Support, U.S. Gov't, P.H.S.",
-        "Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15331239/"
     }
   ]
 }

@@ -51,17 +51,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24904757/"
     },
     {
-      "pmid": "29945769",
-      "title": "Pharmacological characterization of nicotine-induced tremor: Responses to anti-tremor and anti-epileptic agents.",
-      "journal": "Journal of pharmacological sciences",
-      "year": "2018",
-      "abstract": "We previously showed that nicotine evoked kinetic tremor by activating the inferior olive, which is implicated in the pathogenesis of essential tremor, via \u03b17 nicotinic acetylcholine receptors. Here, we evaluated the effects of various anti-tremor and anti-epileptic agents on nicotine-induced tremor in mice to clarify the pharmacological characteristics of nicotine tremor. Drugs effective for essential tremor, propranolol, diazepam and phenobarbital, all significantly inhibited kinetic tremor induced by an intraperitoneal (i.p.) injection of nicotine (1\u00a0mg/kg). In contrast, none of the medications for Parkinson's disease, l-DOPA, bromocriptine or trihexyphenidyl, affected the nicotine tremor. Among the anti-epileptic agents examined, valproate, carbamazepine and ethosuximide, significantly inhibited nicotine-induced tremor. In addition, a selective T-type Ca<sup>2+</sup> channel blocker, TTA-A2, also suppressed the nicotine tremor. However, neither gabapentin, topiramate, zonisamide nor levetiracetam significantly affected nicotine-induced tremor. The present results show that nicotine-induced tremor resembles essential tremor not only on the neural basis, but also in terms of the pharmacological responses to anti-tremor agents, implying that nicotine-induced tremor can serve as a model for essential tremor. In addition, it is suggested that anti-epileptic agents, which have stimulant actions on the GABAergic system or blocking actions on voltage-gated Na<sup>+</sup> channels and T-type Ca<sup>2+</sup> channels, can alleviate essential tremor.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29945769/"
-    },
-    {
       "pmid": "21953539",
       "title": "Synergistic antidyskinetic effects of topiramate and amantadine in animal models of Parkinson's disease.",
       "journal": "Movement disorders : official journal of the Movement Disorder Society",
@@ -123,6 +112,17 @@
         "Research Support, Non-U.S. Gov't"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/19130899/"
+    },
+    {
+      "pmid": "29945769",
+      "title": "Pharmacological characterization of nicotine-induced tremor: Responses to anti-tremor and anti-epileptic agents.",
+      "journal": "Journal of pharmacological sciences",
+      "year": "2018",
+      "abstract": "We previously showed that nicotine evoked kinetic tremor by activating the inferior olive, which is implicated in the pathogenesis of essential tremor, via \u03b17 nicotinic acetylcholine receptors. Here, we evaluated the effects of various anti-tremor and anti-epileptic agents on nicotine-induced tremor in mice to clarify the pharmacological characteristics of nicotine tremor. Drugs effective for essential tremor, propranolol, diazepam and phenobarbital, all significantly inhibited kinetic tremor induced by an intraperitoneal (i.p.) injection of nicotine (1\u00a0mg/kg). In contrast, none of the medications for Parkinson's disease, l-DOPA, bromocriptine or trihexyphenidyl, affected the nicotine tremor. Among the anti-epileptic agents examined, valproate, carbamazepine and ethosuximide, significantly inhibited nicotine-induced tremor. In addition, a selective T-type Ca<sup>2+</sup> channel blocker, TTA-A2, also suppressed the nicotine tremor. However, neither gabapentin, topiramate, zonisamide nor levetiracetam significantly affected nicotine-induced tremor. The present results show that nicotine-induced tremor resembles essential tremor not only on the neural basis, but also in terms of the pharmacological responses to anti-tremor agents, implying that nicotine-induced tremor can serve as a model for essential tremor. In addition, it is suggested that anti-epileptic agents, which have stimulant actions on the GABAergic system or blocking actions on voltage-gated Na<sup>+</sup> channels and T-type Ca<sup>2+</sup> channels, can alleviate essential tremor.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29945769/"
     },
     {
       "pmid": "19067999",

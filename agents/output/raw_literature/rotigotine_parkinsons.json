@@ -4,18 +4,6 @@
   "n_abstracts": 13,
   "abstracts": [
     {
-      "pmid": "41563785",
-      "title": "Restless Legs Syndrome: A Review.",
-      "journal": "JAMA",
-      "year": "2026",
-      "abstract": "Restless legs syndrome (RLS) is a sleep-related movement disorder that affects approximately 3% of US adults to a clinically significant extent and can cause substantial sleep disturbance. Restless legs syndrome is characterized by an overwhelming urge to move the limbs, typically the legs, often accompanied by unpleasant limb sensations (eg, achiness, tingling). Symptoms, provoked by immobility, are relieved while moving and are typically present or most severe in the evening or at night. Restless legs syndrome symptoms may lead to difficulty falling asleep, staying asleep, or returning to sleep. According to population-based studies, approximately 8% of US adults experience RLS symptoms of any frequency annually and 3% experience moderately or severely distressing symptoms at least twice weekly. Patients with RLS have impaired quality of life and elevated rates of cardiovascular disease (29.6% with coronary artery disease, stroke, or heart failure), depression (30.4%), and suicidal ideation or self-harm (0.35 cases/1000 person-years). Restless legs syndrome is common among patients with multiple sclerosis (27.5%), end-stage kidney disease (24%), and iron deficiency anemia (23.9%); during pregnancy and especially in the third trimester (22%); with peripheral neuropathy (eg, diabetic, idiopathic; 21.5%); and with Parkinson disease (20%). Other risk factors include family history of RLS, northern European descent, female sex (2:1 vs male sex), and older age (RLS prevalence of 10% in adults \u226565 years). Restless legs syndrome is diagnosed based on clinical history; polysomnography is not recommended for diagnosis. Iron supplementation with ferrous sulfate (325-650 mg daily or every other day) or intravenous iron (1000 mg) should be initiated for serum ferritin level less than or equal to 100 ng/mL or transferrin saturation less than 20%. If possible, medications associated with RLS, including serotonergic antidepressants, dopamine antagonists, and centrally acting H1 antihistamines (eg, diphenhydramine), should be discontinued. Gabapentinoids (eg, gabapentin, gabapentin enacarbil, pregabalin) are first-line pharmacologic therapy. In randomized clinical trials, approximately 70% of patients treated with gabapentinoids had much or very much improved RLS symptoms vs approximately 40% with placebo (P\u2009<\u2009.001). Dopamine agonists (eg, ropinirole, pramipexole, rotigotine) are no longer recommended as first-line medications due to the risk of augmentation, an iatrogenic worsening of RLS symptoms, which has an annual incidence of 7% to 10% with these medications. Patients who do not improve with first-line treatment or have augmented RLS often benefit from low-dose opioids (eg, methadone 5-10 mg daily). Restless legs syndrome affects approximately 3% of adults and can have negative effects on sleep and quality of life. Initial management includes cessation of exacerbating medications, as well as iron supplementation for patients with low-normal iron indices. If medication therapy is indicated, gabapentinoids are first-line treatment.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41563785/"
-    },
-    {
       "pmid": "40055961",
       "title": "Update on Treatments for Parkinson's Disease Motor Fluctuations - An International Parkinson and Movement Disorder Society Evidence-Based Medicine Review.",
       "journal": "Movement disorders : official journal of the Movement Disorder Society",
@@ -26,6 +14,18 @@
         "Review"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40055961/"
+    },
+    {
+      "pmid": "41563785",
+      "title": "Restless Legs Syndrome: A Review.",
+      "journal": "JAMA",
+      "year": "2026",
+      "abstract": "Restless legs syndrome (RLS) is a sleep-related movement disorder that affects approximately 3% of US adults to a clinically significant extent and can cause substantial sleep disturbance. Restless legs syndrome is characterized by an overwhelming urge to move the limbs, typically the legs, often accompanied by unpleasant limb sensations (eg, achiness, tingling). Symptoms, provoked by immobility, are relieved while moving and are typically present or most severe in the evening or at night. Restless legs syndrome symptoms may lead to difficulty falling asleep, staying asleep, or returning to sleep. According to population-based studies, approximately 8% of US adults experience RLS symptoms of any frequency annually and 3% experience moderately or severely distressing symptoms at least twice weekly. Patients with RLS have impaired quality of life and elevated rates of cardiovascular disease (29.6% with coronary artery disease, stroke, or heart failure), depression (30.4%), and suicidal ideation or self-harm (0.35 cases/1000 person-years). Restless legs syndrome is common among patients with multiple sclerosis (27.5%), end-stage kidney disease (24%), and iron deficiency anemia (23.9%); during pregnancy and especially in the third trimester (22%); with peripheral neuropathy (eg, diabetic, idiopathic; 21.5%); and with Parkinson disease (20%). Other risk factors include family history of RLS, northern European descent, female sex (2:1 vs male sex), and older age (RLS prevalence of 10% in adults \u226565 years). Restless legs syndrome is diagnosed based on clinical history; polysomnography is not recommended for diagnosis. Iron supplementation with ferrous sulfate (325-650 mg daily or every other day) or intravenous iron (1000 mg) should be initiated for serum ferritin level less than or equal to 100 ng/mL or transferrin saturation less than 20%. If possible, medications associated with RLS, including serotonergic antidepressants, dopamine antagonists, and centrally acting H1 antihistamines (eg, diphenhydramine), should be discontinued. Gabapentinoids (eg, gabapentin, gabapentin enacarbil, pregabalin) are first-line pharmacologic therapy. In randomized clinical trials, approximately 70% of patients treated with gabapentinoids had much or very much improved RLS symptoms vs approximately 40% with placebo (P\u2009<\u2009.001). Dopamine agonists (eg, ropinirole, pramipexole, rotigotine) are no longer recommended as first-line medications due to the risk of augmentation, an iatrogenic worsening of RLS symptoms, which has an annual incidence of 7% to 10% with these medications. Patients who do not improve with first-line treatment or have augmented RLS often benefit from low-dose opioids (eg, methadone 5-10 mg daily). Restless legs syndrome affects approximately 3% of adults and can have negative effects on sleep and quality of life. Initial management includes cessation of exacerbating medications, as well as iron supplementation for patients with low-normal iron indices. If medication therapy is indicated, gabapentinoids are first-line treatment.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41563785/"
     },
     {
       "pmid": "28273839",
@@ -40,18 +40,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28273839/"
     },
     {
-      "pmid": "33248395",
-      "title": "Parkinson's disease and skin.",
-      "journal": "Parkinsonism & related disorders",
-      "year": "2021",
-      "abstract": "Parkinson's disease is associated with a variety of dermatologic disorders and the study of skin may provide insights into pathophysiological mechanisms underlying this common neurodegenerative disorder. Skin disorders in patients with Parkinson's disease can be divided into two major groups: 1) non-iatrogenic disorders, including melanoma, seborrheic dermatitis, sweating disorders, bullous pemphigoid, and rosacea, and 2) iatrogenic disorders related either to systemic side effects of antiparkinsonian medications or to the delivery system of antiparkinsonian therapy, including primarily carbidopa/levodopa, rotigotine and other dopamine agonists, amantadine, catechol-O-methyl transferase inhibitors, subcutaneous apomorphine, levodopa/carbidopa intestinal gel, and deep brain stimulation. Recent advances in our understanding of the role of \u03b1-synuclein in peripheral tissues, including the skin, and research based on induced pluripotent stem cells derived from skin fibroblasts have made skin an important target for the study of Parkinson's disease pathogenesis, drug discovery, novel stem cell therapies, and diagnostics.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33248395/"
-    },
-    {
       "pmid": "26085043",
       "title": "Pharmacological Management of Lewy Body Dementia: A Systematic Review and Meta-Analysis.",
       "journal": "The American journal of psychiatry",
@@ -64,6 +52,32 @@
         "Systematic Review"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26085043/"
+    },
+    {
+      "pmid": "33248395",
+      "title": "Parkinson's disease and skin.",
+      "journal": "Parkinsonism & related disorders",
+      "year": "2021",
+      "abstract": "Parkinson's disease is associated with a variety of dermatologic disorders and the study of skin may provide insights into pathophysiological mechanisms underlying this common neurodegenerative disorder. Skin disorders in patients with Parkinson's disease can be divided into two major groups: 1) non-iatrogenic disorders, including melanoma, seborrheic dermatitis, sweating disorders, bullous pemphigoid, and rosacea, and 2) iatrogenic disorders related either to systemic side effects of antiparkinsonian medications or to the delivery system of antiparkinsonian therapy, including primarily carbidopa/levodopa, rotigotine and other dopamine agonists, amantadine, catechol-O-methyl transferase inhibitors, subcutaneous apomorphine, levodopa/carbidopa intestinal gel, and deep brain stimulation. Recent advances in our understanding of the role of \u03b1-synuclein in peripheral tissues, including the skin, and research based on induced pluripotent stem cells derived from skin fibroblasts have made skin an important target for the study of Parkinson's disease pathogenesis, drug discovery, novel stem cell therapies, and diagnostics.",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33248395/"
+    },
+    {
+      "pmid": "18656214",
+      "title": "[Restless-legs syndrome].",
+      "journal": "Revue neurologique",
+      "year": "2008",
+      "abstract": "Restless-legs syndrome (RLS) is a sensorimotor disorder, characterized by an irresistible urge to move the legs usually accompanied or caused by uncomfortable and unpleasant sensations. It begins or worsens during periods of rest or inactivity, is partially or totally relieved by movements and is exacerbated or occurs at night and in the evening. RLS sufferers represent 2 to 3% of the general population in Western countries. Supportive criteria include a family history, the presence of periodic-leg movements (PLM) when awake or asleep and a positive response to dopaminergic treatment. The RLS phenotypes include an early onset form, usually idiopathic with a familial history and a late onset form, usually secondary to peripheral neuropathy. Recently, an atypical RLS phenotype without PLM and l-DOPA resistant has been characterized. RLS can occur in childhood and should be distinguished from attention deficit/hyperactivity disorder, growing pains and sleep complaints in childhood. RLS should be included in the diagnosis of all patients consulting for sleep complaints or discomfort in the lower limbs. It should be differentiated from akathisia, that is, an urge to move the whole body without uncomfortable sensations. Polysomnographic studies and the suggested immobilization test can detect PLM. Furthermore, an l-DOPA challenge has recently been validated to support the diagnosis of RLS. RLS may cause severe-sleep disturbances, poor quality of life, depressive and anxious symptoms and may be a risk factor for cardiovascular disease. In most cases, RLS is idiopathic. It may also be secondary to iron deficiency, end-stage renal disease, pregnancy, peripheral neuropathy and drugs, such as antipsychotics and antidepressants. The small-fiber neuropathy can mimic RLS or even trigger it. RLS is associated with many neurological and sleep disorders including Parkinson's disease, but does not predispose to these diseases. The pathophysiology of RLS includes an altered brain-iron metabolism, a dopaminergic dysfunction, a probable role of pain control systems and a genetic susceptibility with nine loci and three polymorphisms in genes serving developmental functions. RLS treatment begins with the elimination of triggering factors and iron supplementation when deficient. Mild or intermittent RLS is usually treated with low doses of l-DOPA or codeine; the first-line treatment for moderate to severe RLS is dopaminergic agonists (pramipexole, ropinirole, rotigotine). In severe, refractory or neuropathy-associated RLS, antiepileptic (gabapentin, pregabalin) or opioid (oxycodone, tramadol) drugs can be used.",
+      "publication_types": [
+        "English Abstract",
+        "Historical Article",
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/18656214/"
     },
     {
       "pmid": "42109537",
@@ -86,20 +100,6 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37463763/"
-    },
-    {
-      "pmid": "18656214",
-      "title": "[Restless-legs syndrome].",
-      "journal": "Revue neurologique",
-      "year": "2008",
-      "abstract": "Restless-legs syndrome (RLS) is a sensorimotor disorder, characterized by an irresistible urge to move the legs usually accompanied or caused by uncomfortable and unpleasant sensations. It begins or worsens during periods of rest or inactivity, is partially or totally relieved by movements and is exacerbated or occurs at night and in the evening. RLS sufferers represent 2 to 3% of the general population in Western countries. Supportive criteria include a family history, the presence of periodic-leg movements (PLM) when awake or asleep and a positive response to dopaminergic treatment. The RLS phenotypes include an early onset form, usually idiopathic with a familial history and a late onset form, usually secondary to peripheral neuropathy. Recently, an atypical RLS phenotype without PLM and l-DOPA resistant has been characterized. RLS can occur in childhood and should be distinguished from attention deficit/hyperactivity disorder, growing pains and sleep complaints in childhood. RLS should be included in the diagnosis of all patients consulting for sleep complaints or discomfort in the lower limbs. It should be differentiated from akathisia, that is, an urge to move the whole body without uncomfortable sensations. Polysomnographic studies and the suggested immobilization test can detect PLM. Furthermore, an l-DOPA challenge has recently been validated to support the diagnosis of RLS. RLS may cause severe-sleep disturbances, poor quality of life, depressive and anxious symptoms and may be a risk factor for cardiovascular disease. In most cases, RLS is idiopathic. It may also be secondary to iron deficiency, end-stage renal disease, pregnancy, peripheral neuropathy and drugs, such as antipsychotics and antidepressants. The small-fiber neuropathy can mimic RLS or even trigger it. RLS is associated with many neurological and sleep disorders including Parkinson's disease, but does not predispose to these diseases. The pathophysiology of RLS includes an altered brain-iron metabolism, a dopaminergic dysfunction, a probable role of pain control systems and a genetic susceptibility with nine loci and three polymorphisms in genes serving developmental functions. RLS treatment begins with the elimination of triggering factors and iron supplementation when deficient. Mild or intermittent RLS is usually treated with low doses of l-DOPA or codeine; the first-line treatment for moderate to severe RLS is dopaminergic agonists (pramipexole, ropinirole, rotigotine). In severe, refractory or neuropathy-associated RLS, antiepileptic (gabapentin, pregabalin) or opioid (oxycodone, tramadol) drugs can be used.",
-      "publication_types": [
-        "English Abstract",
-        "Historical Article",
-        "Journal Article",
-        "Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/18656214/"
     },
     {
       "pmid": "30062400",
@@ -136,6 +136,18 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33264385/"
     },
     {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
       "pmid": "28890931",
       "title": "Rotigotine transdermal patch and sleep in Parkinson's disease: where are we now?",
       "journal": "NPJ Parkinson's disease",
@@ -146,17 +158,6 @@
         "Review"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/28890931/"
-    },
-    {
-      "pmid": "37838081",
-      "title": "Transdermal Rotigotine at End-of-Life for Parkinson's Disease: Association With Measures of Distress.",
-      "journal": "Journal of pain and symptom management",
-      "year": "2024",
-      "abstract": "End-of-life (EOL) care for Parkinson's disease (PD) can be challenging when oral medications are no longer tolerated. To assess EOL prescribing for people with PD\u00a0(PWP), focusing on rotigotine dosing and proxy measures of distress: benzodiazepine and opioid use. A retrospective audit of patient records from PWP who died between January 2019 and May 2022 at the Royal Hobart Hospital (RHH), Australia, was conducted. Data was systematically collated on demographics, symptoms, levodopa equivalent daily dose (LEDD) and rotigotine, oral morphine equivalent (OME) and benzodiazepine doses in the last 72 hours of life . Pain (72%), respiratory secretions (66%) and agitation (66%) were the most documented EOL symptoms. 83% (n\u00a0=\u00a052) of PWP were eligible for rotigotine and, of those, 13% (n\u00a0=\u00a07) received the correct dose, 38% (n\u00a0=\u00a020) a lower dose, 12% (n\u00a0=\u00a06) a higher dose and 37% (n\u00a0=\u00a019) did not receive any. Rotigotine dose was positively associated with total (P\u00a0=\u00a00.016) and PRN (P\u00a0=\u00a00.037) benzodiazepine dose. LEDD was positively associated with total benzodiazepine (P\u00a0=\u00a00.018) and total OME dose (P\u00a0=\u00a00.046). Contraindicated dopamine antagonists were prescribed for 43% of PWP and administered in 31% of those cases. Rotigotine dose and admission LEDD were both associated with proxy measures of distress in the last 72 hours of life. This suggests cautious use of rotigotine at EOL. LEDD may help identify patients at risk of distress. Rates of inappropriate prescribing and symptom prevalence were high, indicating a need for further staff education to optimize the care of PWP.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37838081/"
     }
   ]
 }

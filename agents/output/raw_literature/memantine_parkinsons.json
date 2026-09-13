@@ -149,6 +149,18 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24464490/"
     },
     {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
       "pmid": "24737460",
       "title": "Memantine improves attention and episodic memory in Parkinson's disease dementia and dementia with Lewy bodies.",
       "journal": "International journal of geriatric psychiatry",
@@ -172,17 +184,6 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39944527/"
-    },
-    {
-      "pmid": "40761830",
-      "title": "Efficacy of cholinesterase inhibitors and memantine on symptoms not responsive to levodopa in patients affected by Parkinson's disease without dementia: a systematic review.",
-      "journal": "BMJ neurology open",
-      "year": "2025",
-      "abstract": "Parkinson's disease (PD) is primarily characterised by parkinsonism due to nigro-striatal dopaminergic denervation. While therapeutic strategies have traditionally focused on compensating for dopaminergic deficit, growing evidence reveals an involvement of cholinergic and glutamatergic pathways in the pathogenesis of the motor and non-motor manifestations of the disease. The purpose of this review is to provide an overview of the efficacy of cholinesterase inhibitors (ChIs) and memantine (glutamate receptor antagonist) in patients affected by PD without dementia on motor (gait, balance) and non-motor (cognitive, behavioural, sleep and autonomic) symptoms usually poorly responsive to levodopa. A systematic review of randomised controlled trials (RCTs) was conducted. The search was performed on PubMed, Cochrane Library and Embase databases for articles published between January 1996 and October 2024, using predefined inclusion and exclusion criteria. Risk of bias was assessed with the Cochrane Risk of Bias tool. Results are presented narratively. 12 RCTs were included in this review, with 10 (774 patients) focusing on ChIs and 2 (65 patients) on memantine. Some studies highlighted the beneficial effects of ChI on mild cognitive impairment and suggested potential improvements in apathy and gait disturbances. However, the findings regarding the impact of ChI and memantine on other non-motor symptoms were inconsistent. Available RCTs suggest that ChIs may have a valuable role in managing cognitive impairment, apathy and gait disorders in PD patients without dementia. However, due to the lack of strong evidence, a cautious and individualised approach is advisable when considering these treatments.Cite Now.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40761830/"
     }
   ]
 }

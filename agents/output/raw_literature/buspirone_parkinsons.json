@@ -89,6 +89,17 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/8149361/"
     },
     {
+      "pmid": "38116733",
+      "title": "Levodopa-induced dyskinesia: do current clinical trials hold hope for future treatment?",
+      "journal": "Expert opinion on pharmacotherapy",
+      "year": "2024",
+      "abstract": "",
+      "publication_types": [
+        "Editorial"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38116733/"
+    },
+    {
       "pmid": "12549947",
       "title": "Pseudo-Parkinson disease secondary to ritonavir-buspirone interaction.",
       "journal": "The Annals of pharmacotherapy",
@@ -169,18 +180,6 @@
         "Research Support, Non-U.S. Gov't"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33686657/"
-    },
-    {
-      "pmid": "16175159",
-      "title": "The neuropsychiatry of Parkinson's disease.",
-      "journal": "Minerva medica",
-      "year": "2005",
-      "abstract": "The neuropsychiatry of Parkinson's disease (PD) and its correlates are reviewed. Dementia occurs in up to 30% and can be treated with cholinesterase inhibitors. Cognitive impairments involve executive, visuospatial, attentional, and memory dysfunctions. Apathy may respond to dopamine agonists or cholines-terase inhibitors. Cognitive impairment, psychosis, and depression predict quality of life. Visual hallucinations and paranoia are common, and respond to low dose clozapine. Depression is common and predicts caregiver burden and depression. The best data suggest the efficacy of nortriptyline and the safety of SSRIs. Anxiety disorders occur in 40% of patients, especially off-period panic attacks and specific phobias. Bromazepam has proven useful for anxiety in PD, but buspirone has only diminished drug-induced dyskinesias to date. Sleep disorders occur in up to 94% of patients. Insomnia is common and is treated by dopaminergic agent dose reduction, nocturnal dosing, treatment of depression, or use of short half-lived hypnotics, depending on etiology. Parasomnias include REM behavior disorder and vivid dreams and nightmares. Excessive daytime somnolence occurs in at least 15% of patients. Sleep attacks are common and patients should be warned about driving when taking dopamine agonists. Sexual disorders occur in most patients. Paraphilias are associated with dopamine agonists, and clozapine may be useful in their treatment. Surgical therapies are associated with a wide variety of neuropsychiatric features, and vigilance for suicide attempts with subthalamic nucleus stimulation seems warranted. Neuropsychiatric disorders are important determinants of quality of life and caregiver burden in PD. More clinical research is needed to establish effective treatments.",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/16175159/"
     }
   ]
 }

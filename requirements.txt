@@ -3,6 +3,8 @@ pandas
 scikit-learn
 requests
 biopython
+anthropic
+python-dotenv
 torch
 transformers
 sentence-transformers

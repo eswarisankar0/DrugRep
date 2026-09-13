@@ -128,17 +128,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/39120709/"
     },
     {
-      "pmid": "30783428",
-      "title": "Cholinesterase inhibitors and memantine for Parkinson's disease dementia and Lewy body dementia: A meta-analysis.",
-      "journal": "Experimental and therapeutic medicine",
-      "year": "2019",
-      "abstract": "Recently, several randomized controlled trials on the use of cholinesterase inhibitors or memantine as treatments for cognitive impairment in Parkinson's disease (CIND-PD), Parkinson's disease with dementia (PDD) and dementia with Lewy bodies (DLB) were completed. The present study provided a meta-analysis of these studies to evaluate the efficacy of cholinesterase inhibitors and memantine on CIND-PD, PDD and DLB. The Cochrane Library, Pubmed, Embase and Web of Science databases were searched to retrieve eligible studies. As primary efficacy outcomes, cognitive function, global impression, behavioral symptoms and motor function were selected, while falling and adverse events were regarded as safety outcomes. Of note, domain-specific cognitive function was assessed as a primary efficacy outcome and falling as a safety outcome, which, to the best of our knowledge, has not been studied previously in CIND-PD, PDD and DLB. A total of 15 trials were included in the present meta-analysis. The results revealed that treatment with cholinesterase inhibitors resulted in improvements in cognitive function, the clinician's global impression, behavioral symptoms and motor function, in accordance with the results of previous studies. Furthermore, it was revealed that cholinesterase inhibitors had a significant effect on attention, processing speed, executive functions, memory and language; however, they did not improve visuospatial cognition compared with placebos. Memantine had a significant effect on attention, processing speed and executive functions. In addition, cholinesterase inhibitors and memantine did not significantly reduce falling. It was demonstrated that an increased number of adverse events occurred in the pooled cholinesterase inhibitors and memantine group, compared with that in the placebo group (risk ratio (RR)=1.09; 95% confidence interval (CI): 1.04-1.16; P=0.001); however, in the subgroup analysis, only the rivastigmine group experienced significantly more adverse events than the placebo group (85 vs. 73%; RR=1.18; 95% CI: 1.08-1.29; P=0.0001), but donepezil and memantine did not produce any significant adverse events. In conclusion, cholinesterase inhibitors and memantine have an effect not only on global cognitive function and motor function, but also on attention, processing speed, executive functions, memory and language. However, careful monitoring of the side effects of rivastigmine may be required. Further clinical trials are required to verify these conclusions.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30783428/"
-    },
-    {
       "pmid": "26090082",
       "title": "Effect of Rivastigmine on Behavioral and Psychiatric Symptoms of Parkinson's Disease Dementia.",
       "journal": "Journal of movement disorders",
@@ -170,6 +159,17 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33680260/"
+    },
+    {
+      "pmid": "22009228",
+      "title": "Rivastigmine in Alzheimer's disease and Parkinson's disease dementia: an ADAS-cog factor analysis.",
+      "journal": "American journal of Alzheimer's disease and other dementias",
+      "year": "2011",
+      "abstract": "Rivastigmine treatment is associated with significant improvements on the cognitive subscale of the Alzheimer's Disease Assessment Scale (ADAS-cog) in patients with mild-to-moderate Alzheimer's disease (AD) and Parkinson's disease dementia (PDD). Both AD and PDD are purported to have different profiles of cognitive impairment, which may respond differentially to rivastigmine treatment. This was a retrospective analysis of 3 randomized, double-blind, rivastigmine trial databases (Investigation of transDermal Exelon in ALzheimer's disease [IDEAL; AD], EXelon in PaRkinson's disEaSe dementia Study [EXPRESS; PDD], and Alzheimer's Disease with ENA 713 [ADENA; AD]). Factor analyses of the 11 baseline ADAS-cog items derived the same factors in the 2 diseases, that is, \"memory\" and \"language\". Rivastigmine-treated AD and PDD patients showed significant improvements (P < .0001 versus placebo) on both factors. For both AD and PDD, rivastigmine had a numerically greater effect on memory than language. Treatment effect sizes were numerically greater in PDD compared with AD. Rivastigmine treatment is associated with improvement in memory and language in AD and PDD. The numerically greater response in PDD is consistent with greater cholinergic deficits in this disease state.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22009228/"
     }
   ]
 }

@@ -146,6 +146,18 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30566307/"
     },
     {
+      "pmid": "34784871",
+      "title": "How to Optimize the Effectiveness and Safety of Parkinson's Disease Therapy? - A Systematic Review of Drugs Interactions with Food and Dietary Supplements.",
+      "journal": "Current neuropharmacology",
+      "year": "2022",
+      "abstract": "Despite increasing worldwide incidence of Parkinson's disease, the therapy is still suboptimal due to the diversified clinical manifestations, lack of sufficient treatment, the poor adherence in advanced patients, and varied response. Proper intake of medications regarding food and managing drug-food interactions may optimize Parkinson's disease treatment. We investigated potential effects that food, beverages, and dietary supplements may have on the pharmacokinetics and pharmacodynamics of drugs used by parkinsonian patients; identified the most probable interactions; and shaped recommendations for the optimal intake of drugs regarding food. We performed a systematic review in adherence to PRISMA guidelines, and included a total of 81 studies in the qualitative synthesis. We found evidence for levodopa positive interaction with coffee, fiber and vitamin C, as well as for the potential beneficial impact of low-fat and protein redistribution diet. Contrastingly, high-protein diet and ferrous sulfate supplements can negatively affect levodopa pharmacokinetics and effectiveness. For other drugs, the data of food impact are scarce. Based on the available limited evidence, all dopamine agonists (bromocriptine, cabergoline, ropinirole), tolcapone, rasagiline, selegiline in tablets, safinamide, amantadine and pimavanserin can be taken with or without a meal. Opicapone and orally disintegrating selegiline tablets should be administered on an empty stomach. Of monoamine oxidase B inhibitors, safinamide is the least susceptible for interaction with the tyramine-rich food, whereas selegiline and rasagiline may lose selectivity to monoamine oxidase B when administered in supratherapeutic doses. The level of presented evidence is low due to the poor studies design, their insufficient actuality, and missing data.",
+      "publication_types": [
+        "Journal Article",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/34784871/"
+    },
+    {
       "pmid": "41188875",
       "title": "Interaction between rasagiline and Pueraria radix in in vitro models of parkinson's disease.",
       "journal": "BMC complementary medicine and therapies",
@@ -155,17 +167,6 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41188875/"
-    },
-    {
-      "pmid": "30963543",
-      "title": "Rasagiline and safinamide as a dopamine-sparing therapy for Parkinson's disease.",
-      "journal": "Acta neurologica Scandinavica",
-      "year": "2019",
-      "abstract": "To evaluate whether the prescription of monoamine oxidase B inhibitors (MAOB-I), rasagiline and safinamide, contributes to the reduction of levodopa and/or dopamine agonists (DA) dose in order to minimize adverse effects. A total of 724 patients with Parkinson's disease (PD) have been prospectively included in our database since the year 2000, representing a total of 5124 visits. For each patient and visit, antiparkinsonian treatment was recorded. In the presence of rasagiline and safinamide, we analysed the evolution of levodopa equivalent dose (LED) and LED for DA (LED-DA). The data obtained from the 1664 visits between 2006 and 2010 (321 patients) and the 1709 visits between 2014 and 2018 (403 patients) were analysed in order to assess the impact of the introduction of rasagiline and safinamide, respectively. The annual mean LED remained stable without statistically significant differences. In the first period (impact of rasagiline), the annual mean LED-DA in 2010 was significantly higher than in 2006 (P\u00a0=\u00a00.001). In the second period (impact of safinamide), the annual mean LED-DA in 2018 was significantly lower than in 2014 (P\u00a0=\u00a00.002). A repeated-measure analyses of LED-DA including only patients who had taken safinamide showed a statistically significant decrease in LED-DA (P\u00a0=\u00a00.027). The introduction of MAOB-I in the overall treatment of PD as part of routine clinical practice has not helped to reduce annual mean LED. However, safinamide reduces annual mean LED-DA and may be linked to a reduction in dose-dependent adverse effects in the long term.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30963543/"
     }
   ]
 }

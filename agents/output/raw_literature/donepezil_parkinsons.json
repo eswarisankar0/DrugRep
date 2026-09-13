@@ -56,6 +56,20 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/35665915/"
     },
     {
+      "pmid": "26085043",
+      "title": "Pharmacological Management of Lewy Body Dementia: A Systematic Review and Meta-Analysis.",
+      "journal": "The American journal of psychiatry",
+      "year": "2015",
+      "abstract": "The authors examined research on effects, costs, and patient and caregiver views of pharmacological management strategies for Lewy body dementia. Studies were identified through bibliographic databases, trials registers, gray literature, reference lists, and experts. The authors used the search terms \"Lewy or parkinson\" and \"dementia\" through March 2015 and used the following inclusion criteria: participants with diagnoses of Lewy body dementia, dementia with Lewy bodies, or Parkinson's disease dementia (or participants' caregivers); investigation of pharmacological management strategies; outcome measures and test scores reported. Data extraction and quality assessment were conducted by at least two authors. Meta-analyses were conducted, and when studies could not be combined, summaries were provided. Forty-four studies examining 22 strategies were included in the review. Meta-analysis indicated beneficial effects of donepezil and rivastigmine for cognitive and psychiatric symptoms. Rivastigmine, but not donepezil, was associated with greater risk of adverse events. Meta-analysis of memantine suggested that it is well tolerated but with few benefits. Descriptive summaries provide some evidence of benefits for galantamine, modafinil, levodopa, rotigotine, clozapine, duloxetine, clonazepam, ramelteon, gabapentin, zonisamide, and yokukansan. Piracetam, amantadine, selegiline, olanzapine, quetiapine, risperidone, and citalopram do not appear to be effective. High-level evidence related to pharmacological strategies for managing Lewy body dementia is rare. Strategies for important areas of need in Lewy body dementia, such as autonomic symptoms and caregiver burden, have not been investigated, nor have the views of patients and caregivers about pharmacological strategies.",
+      "publication_types": [
+        "Journal Article",
+        "Meta-Analysis",
+        "Research Support, Non-U.S. Gov't",
+        "Systematic Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26085043/"
+    },
+    {
       "pmid": "37358841",
       "title": "Cholinesterase Inhibitors for Treatment of Psychotic Symptoms in Alzheimer Disease and Parkinson Disease: A Meta-analysis.",
       "journal": "JAMA neurology",
@@ -78,31 +92,6 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41874248/"
-    },
-    {
-      "pmid": "26085043",
-      "title": "Pharmacological Management of Lewy Body Dementia: A Systematic Review and Meta-Analysis.",
-      "journal": "The American journal of psychiatry",
-      "year": "2015",
-      "abstract": "The authors examined research on effects, costs, and patient and caregiver views of pharmacological management strategies for Lewy body dementia. Studies were identified through bibliographic databases, trials registers, gray literature, reference lists, and experts. The authors used the search terms \"Lewy or parkinson\" and \"dementia\" through March 2015 and used the following inclusion criteria: participants with diagnoses of Lewy body dementia, dementia with Lewy bodies, or Parkinson's disease dementia (or participants' caregivers); investigation of pharmacological management strategies; outcome measures and test scores reported. Data extraction and quality assessment were conducted by at least two authors. Meta-analyses were conducted, and when studies could not be combined, summaries were provided. Forty-four studies examining 22 strategies were included in the review. Meta-analysis indicated beneficial effects of donepezil and rivastigmine for cognitive and psychiatric symptoms. Rivastigmine, but not donepezil, was associated with greater risk of adverse events. Meta-analysis of memantine suggested that it is well tolerated but with few benefits. Descriptive summaries provide some evidence of benefits for galantamine, modafinil, levodopa, rotigotine, clozapine, duloxetine, clonazepam, ramelteon, gabapentin, zonisamide, and yokukansan. Piracetam, amantadine, selegiline, olanzapine, quetiapine, risperidone, and citalopram do not appear to be effective. High-level evidence related to pharmacological strategies for managing Lewy body dementia is rare. Strategies for important areas of need in Lewy body dementia, such as autonomic symptoms and caregiver burden, have not been investigated, nor have the views of patients and caregivers about pharmacological strategies.",
-      "publication_types": [
-        "Journal Article",
-        "Meta-Analysis",
-        "Research Support, Non-U.S. Gov't",
-        "Systematic Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26085043/"
-    },
-    {
-      "pmid": "30783428",
-      "title": "Cholinesterase inhibitors and memantine for Parkinson's disease dementia and Lewy body dementia: A meta-analysis.",
-      "journal": "Experimental and therapeutic medicine",
-      "year": "2019",
-      "abstract": "Recently, several randomized controlled trials on the use of cholinesterase inhibitors or memantine as treatments for cognitive impairment in Parkinson's disease (CIND-PD), Parkinson's disease with dementia (PDD) and dementia with Lewy bodies (DLB) were completed. The present study provided a meta-analysis of these studies to evaluate the efficacy of cholinesterase inhibitors and memantine on CIND-PD, PDD and DLB. The Cochrane Library, Pubmed, Embase and Web of Science databases were searched to retrieve eligible studies. As primary efficacy outcomes, cognitive function, global impression, behavioral symptoms and motor function were selected, while falling and adverse events were regarded as safety outcomes. Of note, domain-specific cognitive function was assessed as a primary efficacy outcome and falling as a safety outcome, which, to the best of our knowledge, has not been studied previously in CIND-PD, PDD and DLB. A total of 15 trials were included in the present meta-analysis. The results revealed that treatment with cholinesterase inhibitors resulted in improvements in cognitive function, the clinician's global impression, behavioral symptoms and motor function, in accordance with the results of previous studies. Furthermore, it was revealed that cholinesterase inhibitors had a significant effect on attention, processing speed, executive functions, memory and language; however, they did not improve visuospatial cognition compared with placebos. Memantine had a significant effect on attention, processing speed and executive functions. In addition, cholinesterase inhibitors and memantine did not significantly reduce falling. It was demonstrated that an increased number of adverse events occurred in the pooled cholinesterase inhibitors and memantine group, compared with that in the placebo group (risk ratio (RR)=1.09; 95% confidence interval (CI): 1.04-1.16; P=0.001); however, in the subgroup analysis, only the rivastigmine group experienced significantly more adverse events than the placebo group (85 vs. 73%; RR=1.18; 95% CI: 1.08-1.29; P=0.0001), but donepezil and memantine did not produce any significant adverse events. In conclusion, cholinesterase inhibitors and memantine have an effect not only on global cognitive function and motor function, but also on attention, processing speed, executive functions, memory and language. However, careful monitoring of the side effects of rivastigmine may be required. Further clinical trials are required to verify these conclusions.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/30783428/"
     },
     {
       "pmid": "33637811",
@@ -154,6 +143,18 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/22915447/"
     },
     {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
       "pmid": "26114860",
       "title": "Donepezil Regulates 1-Methyl-4-phenylpyridinium-Induced Microglial Polarization in Parkinson's Disease.",
       "journal": "ACS chemical neuroscience",
@@ -178,16 +179,15 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/17472546/"
     },
     {
-      "pmid": "33647001",
-      "title": "Drugs for Parkinson's disease.",
-      "journal": "The Medical letter on drugs and therapeutics",
-      "year": "2021",
-      "abstract": "",
+      "pmid": "27469080",
+      "title": "Reducing falls in Parkinson's disease: interactions between donepezil and the 5-HT<sub>6</sub> receptor antagonist idalopirdine on falls in a rat model of impaired cognitive control of complex movements.",
+      "journal": "The European journal of neuroscience",
+      "year": "2017",
+      "abstract": "Falls are a leading cause of death in the elderly and, in a majority of patients with Parkinson's disease (PD), the leading levodopa-insensitive cause of hospitalization and long-term care. Falling in PD has been attributed to degeneration of forebrain cholinergic neurons that, in interaction with striatal dopamine losses, impairs the cognitive control of balance, gait, and movement. We previously established an animal model of these dual cholinergic-dopaminergic losses (\"DL rats\") and a behavioral test system (Michigan Complex Motor Control Task, MCMCT) to measure falls associated with traversing dynamic surfaces and distractors. Because the combined treatment of the acetylcholinesterase inhibitor donepezil and the 5-HT<sub>6</sub> receptor antagonist idalopirdine (Lu AE58054) was reported to exhibit synergistic pro-cholinergic activity in rats and improved cognition in patients with moderate Alzheimer's disease, here we assessed the effects of this treatment on MCMCT performance and attention in DL rats. Compared with the vehicle-treated group, the combined treatment greatly reduced (Cohen's d\u00a0=\u00a00.96) falls in DL rats when traversing dynamic surfaces and when exposed to a passive distractor. However, falls associated with a dual task distractor and sustained attentional performance did not benefit from this treatment. Analyses of the behavior in fall-prone moments suggested that this treatment improved the efficacy and speed of re-instating forward movement after relatively short stoppages. This treatment may reduce fall propensity in PD patients via maintaining planned movement sequences in working memory and improving the vigor of executing such movements following brief periods of freezing of gait.",
       "publication_types": [
-        "Journal Article",
-        "Review"
+        "Journal Article"
       ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/27469080/"
     }
   ]
 }

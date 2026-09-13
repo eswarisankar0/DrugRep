@@ -111,17 +111,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31601399/"
     },
     {
-      "pmid": "38116733",
-      "title": "Levodopa-induced dyskinesia: do current clinical trials hold hope for future treatment?",
-      "journal": "Expert opinion on pharmacotherapy",
-      "year": "2024",
-      "abstract": "",
-      "publication_types": [
-        "Editorial"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38116733/"
-    },
-    {
       "pmid": "42199136",
       "title": "Dopamine, glutamate, and gamma-aminobutyric acid: Key hubs in neurotransmitters, signal transduction, and cognitive dysfunction.",
       "journal": "Neural regeneration research",
@@ -177,6 +166,18 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/24723855/"
+    },
+    {
+      "pmid": "29307665",
+      "title": "Effects of ketamine on vocal impairment, gait changes, and anhedonia induced by bilateral 6-OHDA infusion into the substantia nigra pars compacta in rats: Therapeutic implications for Parkinson's disease.",
+      "journal": "Behavioural brain research",
+      "year": "2018",
+      "abstract": "Parkinson's disease is a chronic neurodegenerative disorder characterized by cardinal motor features, such as bradykinesia, but also vocal deficits (e.g. difficulties to articulate words and to keep the tone of voice) and depression. In the present study, rats with bilateral 6-hydroxydopamine lesion of the substantia nigra pars compacta were evaluated for changes in the emission of 50-kHz ultrasonic vocalizations, gait impairment (catwalk test), and depressive-like behaviour (sucrose preference test). Furthermore, we evaluated the effect of repeated treatment (28 days) with ketamine (5, 10, and 15\u202fmg/kg, ip, once per week) or imipramine (15\u202fmg/kg, ip, daily). The lesion had prominent effects on the production of 50-kHz ultrasonic vocalizations (reduced call numbers, call durations, total calling time, and increased latency to start calling), led to gait impairment (increased run duration and stand of right forelimb) and induced anhedonia (reduced sucrose preference). Also, significant correlations between gait changes, sucrose preference, and ultrasonic calling were found, yet, except for run duration and sucrose preference, these correlations were low indicating that these associations are weak. Importantly, ketamine and imipramine reversed lesion-induced anhedonia and improved gait impairments, but neither drug improved ultrasonic calling. In conclusion, the substantia nigra lesion with 6-hydroxydopamine induced subtle motor and non-motor manifestations, reflecting key features of the wide clinical spectrum of early Parkinson's disease. Furthermore, the present results suggest a potential efficacy of ketamine on depression and gait alterations in Parkinson's disease.",
+      "publication_types": [
+        "Journal Article",
+        "Research Support, Non-U.S. Gov't"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/29307665/"
     }
   ]
 }

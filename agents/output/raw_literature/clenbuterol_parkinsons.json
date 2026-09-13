@@ -74,17 +74,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37572228/"
     },
     {
-      "pmid": "36864439",
-      "title": "Opposing effects of \u03b2-2 and \u03b2-1 adrenergic receptor signaling on neuroinflammation and dopaminergic neuron survival in \u03b1-synuclein-mediated neurotoxicity.",
-      "journal": "Journal of neuroinflammation",
-      "year": "2023",
-      "abstract": "Noradrenergic neurons in the locus coeruleus (LC) are the primary source of norepinephrine (NE) in the brain and degeneration of these neurons is reported in the early stages of Parkinson's disease (PD), even prior to dopaminergic neuron degeneration in the substantia nigra (SN), which is a hallmark of PD pathology. NE depletion is generally associated with increased PD pathology in neurotoxin-based PD models. The effect of NE depletion in other models of PD-like \u03b1-synuclein-based models is largely unexplored. In PD models and in human patients, \u03b2-adrenergic receptors' (AR) signaling is associated with a reduction of neuroinflammation and PD pathology. However, the effect of NE depletion in the brain and the extent of NE and \u03b2-ARs signaling involvement in neuroinflammation, and dopaminergic neuron survival is poorly understood. Two mouse models of PD, a 6OHDA neurotoxin-based model and a human \u03b1-synuclein (h\u03b1-SYN) virus-based model of PD, were used. DSP-4 was used to deplete NE levels in the brain and its effect was confirmed by HPLC with electrochemical detection. A pharmacological approach was used to mechanistically understand the impact of DSP-4 in the h\u03b1-SYN model of PD using a norepinephrine transporter (NET) and a \u03b2-AR blocker. Epifluorescence and confocal imaging were used to study changes in microglia activation and T-cell infiltration after \u03b21-AR and \u03b22-AR agonist treatment in the h\u03b1-SYN virus-based model of PD. Consistent with previous studies, we found that DSP-4 pretreatment increased dopaminergic neuron loss after 6OHDA injection. In contrast, DSP-4 pretreatment protected dopaminergic neurons after h\u03b1-SYN overexpression. DSP-4-mediated protection of dopaminergic neurons after h\u03b1-SYN overexpression was dependent on \u03b2-AR signaling since using a \u03b2-AR blocker prevented DSP-4-mediated dopaminergic neuron protection in this model of PD. Finally, we found that the \u03b2-2AR agonist, clenbuterol, reduced microglia activation, T-cell infiltration, and dopaminergic neuron degeneration, whereas xamoterol a \u03b2-1AR agonist showed increased neuroinflammation, blood brain barrier permeability (BBB), and dopaminergic neuron degeneration in the context of h\u03b1-SYN-mediated neurotoxicity. Our data demonstrate that the effects of DSP-4 on dopaminergic neuron degeneration are model specific, and suggest that in the context of \u03b1-SYN-driven neuropathology, \u03b22-AR specific agonists may have therapeutic benefit in PD.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36864439/"
-    },
-    {
       "pmid": "31506926",
       "title": "Pharmacological targeting of \u03b2<sub>2</sub> -adrenoceptors is neuroprotective in the LPS inflammatory rat model of Parkinson's disease.",
       "journal": "British journal of pharmacology",
@@ -107,6 +96,17 @@
         "Scoping Review"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/38333295/"
+    },
+    {
+      "pmid": "36864439",
+      "title": "Opposing effects of \u03b2-2 and \u03b2-1 adrenergic receptor signaling on neuroinflammation and dopaminergic neuron survival in \u03b1-synuclein-mediated neurotoxicity.",
+      "journal": "Journal of neuroinflammation",
+      "year": "2023",
+      "abstract": "Noradrenergic neurons in the locus coeruleus (LC) are the primary source of norepinephrine (NE) in the brain and degeneration of these neurons is reported in the early stages of Parkinson's disease (PD), even prior to dopaminergic neuron degeneration in the substantia nigra (SN), which is a hallmark of PD pathology. NE depletion is generally associated with increased PD pathology in neurotoxin-based PD models. The effect of NE depletion in other models of PD-like \u03b1-synuclein-based models is largely unexplored. In PD models and in human patients, \u03b2-adrenergic receptors' (AR) signaling is associated with a reduction of neuroinflammation and PD pathology. However, the effect of NE depletion in the brain and the extent of NE and \u03b2-ARs signaling involvement in neuroinflammation, and dopaminergic neuron survival is poorly understood. Two mouse models of PD, a 6OHDA neurotoxin-based model and a human \u03b1-synuclein (h\u03b1-SYN) virus-based model of PD, were used. DSP-4 was used to deplete NE levels in the brain and its effect was confirmed by HPLC with electrochemical detection. A pharmacological approach was used to mechanistically understand the impact of DSP-4 in the h\u03b1-SYN model of PD using a norepinephrine transporter (NET) and a \u03b2-AR blocker. Epifluorescence and confocal imaging were used to study changes in microglia activation and T-cell infiltration after \u03b21-AR and \u03b22-AR agonist treatment in the h\u03b1-SYN virus-based model of PD. Consistent with previous studies, we found that DSP-4 pretreatment increased dopaminergic neuron loss after 6OHDA injection. In contrast, DSP-4 pretreatment protected dopaminergic neurons after h\u03b1-SYN overexpression. DSP-4-mediated protection of dopaminergic neurons after h\u03b1-SYN overexpression was dependent on \u03b2-AR signaling since using a \u03b2-AR blocker prevented DSP-4-mediated dopaminergic neuron protection in this model of PD. Finally, we found that the \u03b2-2AR agonist, clenbuterol, reduced microglia activation, T-cell infiltration, and dopaminergic neuron degeneration, whereas xamoterol a \u03b2-1AR agonist showed increased neuroinflammation, blood brain barrier permeability (BBB), and dopaminergic neuron degeneration in the context of h\u03b1-SYN-mediated neurotoxicity. Our data demonstrate that the effects of DSP-4 on dopaminergic neuron degeneration are model specific, and suggest that in the context of \u03b1-SYN-driven neuropathology, \u03b22-AR specific agonists may have therapeutic benefit in PD.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36864439/"
     }
   ]
 }

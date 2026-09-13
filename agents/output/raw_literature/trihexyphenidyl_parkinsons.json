@@ -60,6 +60,18 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33037478/"
     },
     {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
+    },
+    {
       "pmid": "30746412",
       "title": "A Nationwide Survey of Parkinson's Disease Medicines Availability and Affordability in Nigeria.",
       "journal": "Movement disorders clinical practice",
@@ -126,17 +138,6 @@
         "Research Support, Non-U.S. Gov't"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/36401901/"
-    },
-    {
-      "pmid": "41349504",
-      "title": "Association between cognitive adverse effects of anticholinergic medication and development of dementia in Parkinson's disease.",
-      "journal": "Parkinsonism & related disorders",
-      "year": "2026",
-      "abstract": "Approximately one-third of patients with Parkinson's disease (PD) develop dementia, and anticholinergic use has been implicated as a risk factor, particularly with prolonged exposure. This study examined whether short-term anticholinergic use was associated with differing dementia incidence between cognitive and non-cognitive adverse effects groups. We retrospectively reviewed records of 209 PD patients prescribed anticholinergics (trihexyphenidyl, benztropine, or amantadine) for the first time at Seoul National University Hospital between 2011 and 2020. Patients were classified into three groups: those who discontinued due to cognitive or non-cognitive adverse effects, and those who continued long-term use without adverse effects. Dementia incidence was compared across groups using Kaplan-Meier analysis, and multivariable logistic regression adjusted for age, sex, and disease duration. Of the 155 patients analyzed, 62 continued long-term use, whereas 12 and 81 discontinued due to cognitive and non-cognitive adverse effects, respectively. Baseline characteristics and anticholinergic dosages were comparable among groups. After covariate adjustment, dementia incidence did not differ between cognitive and non-cognitive adverse effects groups (adjusted OR\u00a0=\u00a01.17, 95\u00a0% CI 0.13-10.22, p\u00a0=\u00a00.890). Excluding those who discontinued due to lack of effect yielded similar results (adjusted OR\u00a0=\u00a00.68, 95\u00a0% CI 0.10-4.59, p\u00a0=\u00a00.690). No significant difference was observed between the long-term use and cognitive adverse effects group (adjusted OR\u00a0=\u00a01.57, 95\u00a0% CI 0.23-10.89, p\u00a0=\u00a00.646). The cognitive adverse effects of anticholinergics were not associated with increased dementia risk. Prospective studies assessing individual variability in anticholinergic sensitivity and cognitive outcomes in PD are warranted.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41349504/"
     }
   ]
 }

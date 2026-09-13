@@ -17,17 +17,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/37358841/"
     },
     {
-      "pmid": "41874248",
-      "title": "Drugs for dementia.",
-      "journal": "The Medical letter on drugs and therapeutics",
-      "year": "2026",
-      "abstract": "",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41874248/"
-    },
-    {
       "pmid": "26085043",
       "title": "Pharmacological Management of Lewy Body Dementia: A Systematic Review and Meta-Analysis.",
       "journal": "The American journal of psychiatry",
@@ -40,6 +29,29 @@
         "Systematic Review"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/26085043/"
+    },
+    {
+      "pmid": "41874248",
+      "title": "Drugs for dementia.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2026",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/41874248/"
+    },
+    {
+      "pmid": "33647001",
+      "title": "Drugs for Parkinson's disease.",
+      "journal": "The Medical letter on drugs and therapeutics",
+      "year": "2021",
+      "abstract": "",
+      "publication_types": [
+        "Journal Article",
+        "Review"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
     },
     {
       "pmid": "34203763",
@@ -63,18 +75,6 @@
         "Journal Article"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/14533126/"
-    },
-    {
-      "pmid": "33647001",
-      "title": "Drugs for Parkinson's disease.",
-      "journal": "The Medical letter on drugs and therapeutics",
-      "year": "2021",
-      "abstract": "",
-      "publication_types": [
-        "Journal Article",
-        "Review"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33647001/"
     },
     {
       "pmid": "39944527",
@@ -161,17 +161,6 @@
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/33920698/"
     },
     {
-      "pmid": "40704847",
-      "title": "Real-world health care costs and resource utilization associated with mild cognitive impairment in the United States: A retrospective cohort study of commercial and Medicare data.",
-      "journal": "Journal of managed care & specialty pharmacy",
-      "year": "2025",
-      "abstract": "Mild cognitive impairment (MCI) is a transitional stage before Alzheimer disease and related dementias (ADRD). The link between AD and increased health care resource utilization (HCRU) and costs is well established but not the economic burden of MCI. To estimate the incremental economic burden of individuals with MCI in the United States. This was a retrospective cohort study that derived data from the MarketScan Commercial and Medicare Supplemental Databases. The observation period was from January 1, 2014, through December 31, 2019. Included individuals were (1) aged at least 50\u00a0years, (2) had at least 2\u00a0years of pre-index (ie, date of their first MCI diagnosis) continuous health plan enrollment, and (3) had at least 1\u00a0year of post-index continuous health plan enrollment. Individuals were excluded if they had (1) at least 1 claim with a diagnosis of Parkinson disease at any time during the study period, (2) at least 1 claim with a diagnosis of ADRD at any time before the index date, or (3) at least 1 pharmacy claim for an ADRD medication (donepezil, memantine, memantine/donepezil, galantamine, or rivastigmine) at any time before the index date. Outcomes included all-cause HCRU and health care costs for incident MCI individuals (MCI cohort) and matched individuals without MCI or dementia (control cohort) during the 12-month follow-up period. Controls were matched at a 3:1 ratio by age, sex, region, and index year. In total, 5,185 individuals met the criteria for the MCI cohort and 15,555 for the control cohort. Mean age at baseline was 67\u00a0years and 57.7% were female in both cohorts. The MCI cohort had a higher comorbidity burden compared with the control cohort (1.5 vs 1.0 and 2.6 vs 1.8, respectively; <i>P</i>\u2009<\u20090.0001) All comorbidities assessed at baseline were more prevalent in the MCI cohort than in the control. Adjusted all-cause HCRU for all points of service and adjusted all-cause mean costs in total ($32,318 vs $13,894; mean ratio [MR]\u2009=\u20092.33, 95% CI\u2009=\u20092.23-2.43), for emergency department ($4,460 vs $3,849; MR\u2009=\u20091.16, 95% CI\u2009=\u20091.08-1.25), outpatient ($16,054 vs $7,265; MR\u2009=\u20092.21, 95% CI\u2009=\u20092.12-2.30), and pharmacy ($5,503 vs $2,933; MR\u2009=\u20091.88, 95% CI\u2009=\u20091.78-1.97) (all <i>P</i>\u2009<\u20090.0001) were significantly higher for the MCI cohort. The economic burden of MCI was more than double that for similar individuals without MCI or dementia. Timely diagnosis and intervention are key to delaying progression to AD and reducing associated costs.",
-      "publication_types": [
-        "Journal Article"
-      ],
-      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/40704847/"
-    },
-    {
       "pmid": "15480840",
       "title": "Cognitive dysfunction and dementia in Parkinson's disease.",
       "journal": "Journal of neural transmission (Vienna, Austria : 1996)",
@@ -182,6 +171,17 @@
         "Review"
       ],
       "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/15480840/"
+    },
+    {
+      "pmid": "31002611",
+      "title": "Pleurotus ostreatus and Laetiporus sulphureus (Agaricomycetes): Possible Agents against Alzheimer and Parkinson Diseases.",
+      "journal": "International journal of medicinal mushrooms",
+      "year": "2019",
+      "abstract": "Previous studies showed that some mushrooms are highly efficient in inhibiting acetylcholinesterase and tyrosinase, the increased activity of which can trigger the development of Alzheimer and Parkinson diseases. Starting from the fact that free radicals at high concentrations could cause neurodegenerative disorders as well as great interest in new, natural antineurodegenerative drugs, the goal of this study was to determine the in vitro antioxidative and neuroprotective potentials of various Pleurotus ostreatus and Laetiporus sulphureus extracts. L. sulphureus was a better antioxidative agent; it showed higher reducing power, was a more efficient scavenger of DPPH and 2,2'-azino-bis(3-ethylbenzothiazoline-6-sulphonic acid) radicals, and was an Fe3+ reducer. The most efficient acetylcholinesterase inhibitor was hot water extract of P. ostreatus fruiting body, which was slightly weaker than the commercial preparation, galantamine. However, in comparison with \u03b1-kojic acid, tested extracts were weaker tyrosinase inhibitors. Considering that tested extracts were rich in phenols and that their amounts were in positive correlation with the extent of radical neutralization and acetylcholinesterase and tyrosinase inhibition, it is assumed that these compounds are the potential carriers of the neuroprotective activities. Owing to the significant antioxidative and antineurodegenerative capacity of these species, they can be suggested as novel nutraceuticals and pharmaceuticals.",
+      "publication_types": [
+        "Journal Article"
+      ],
+      "raw_data_ref": "https://pubmed.ncbi.nlm.nih.gov/31002611/"
     }
   ]
 }
